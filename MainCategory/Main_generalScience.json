@@ -1,43 +1,15 @@
 [
   {
-    "key": "Physics",
+    "key": "physics",
     "title": "Physics",
-    "url": "xxxxxxxx",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/GeneralScience/Physics.json",
     "perExam": 10,
     "finalExamQuestions": 20
   },
   {
-    "key": "Chemistry",
-    "title": "Chemistry",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "Biology",
-    "title": "Biology",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "Human Body",
-    "title": "Human Body",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
-  },
-  {
-    "key": "EnvironmentalScience",
-    "title": "Environmental Science",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
-  },
-  {
-    "key": "ScientificDiscoveries",
-    "title": "Scientific Discoveries",
-    "url": "xxxxxxxx",
+    "key": "football",
+    "title": "Football",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/GeneralScience/Biology.json",
     "perExam": 15,
     "finalExamQuestions": 30
   }

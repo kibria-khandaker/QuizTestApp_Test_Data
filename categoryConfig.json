@@ -1,44 +1,16 @@
 [
   {
-    "key": "generalKnowledge",
-    "title": "General Knowledge",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/generalKnowledge.json",
+    "key": "generalScience",
+    "title": "General Science",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_generalScience.json",
     "perExam": 10,
     "finalExamQuestions": 20
   },
   {
     "key": "sports",
     "title": "Sports",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/sports.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_sports.json",
     "perExam": 20,
     "finalExamQuestions": 40
-  },
-  {
-    "key": "it",
-    "title": "IT & Computer",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/it.json",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "capitalOfCountries",
-    "title": "Capital Of Countries",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/capitalOfCountries.json",
-    "perExam": 15,
-    "finalExamQuestions": 30
-  },
-  {
-    "key": "religionAndEthics",
-    "title": "Religion & Ethics",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/religionAndEthics.json",
-    "perExam": 15,
-    "finalExamQuestions": 30
-  },
-  {
-    "key": "geography",
-    "title": "Geography",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/geography.json",
-    "perExam": 15,
-    "finalExamQuestions": 20
   }
 ]

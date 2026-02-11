@@ -2,14 +2,14 @@
   {
     "key": "cricket",
     "title": "Cricket",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/main/Sports/cricket.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Sports/Cricket.json",
     "perExam": 10,
     "finalExamQuestions": 20
   },
   {
     "key": "football",
     "title": "Football",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/main/Sports/football.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Sports/football.json",
     "perExam": 15,
     "finalExamQuestions": 30
   }
