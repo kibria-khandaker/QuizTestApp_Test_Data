@@ -1,0 +1,845 @@
+[
+  {
+    "id": "SP-001",
+    "examStageType": "easy",
+    "question": "How many players are in a football team?",
+    "options": ["9", "10", "11", "12"],
+    "correctAnswer": "11"
+  },
+  {
+    "id": "SP-002",
+    "examStageType": "easy",
+    "question": "Which sport uses a shuttlecock?",
+    "options": ["Tennis", "Cricket", "Badminton", "Football"],
+    "correctAnswer": "Badminton"
+  },
+  {
+    "id": "SP-003",
+    "examStageType": "easy",
+    "question": "How many minutes is a standard basketball game?",
+    "options": ["40", "48", "60", "50"],
+    "correctAnswer": "48"
+  },
+  {
+    "id": "SP-004",
+    "examStageType": "easy",
+    "question": "In which sport is the term 'Love' used?",
+    "options": ["Football", "Tennis", "Cricket", "Hockey"],
+    "correctAnswer": "Tennis"
+  },
+  {
+    "id": "SP-005",
+    "examStageType": "easy",
+    "question": "Which country won the FIFA World Cup 2018?",
+    "options": ["Germany", "France", "Brazil", "Argentina"],
+    "correctAnswer": "France"
+  },
+  {
+    "id": "SP-006",
+    "examStageType": "easy",
+    "question": "Which sport is known as the 'king of sports'?",
+    "options": ["Cricket", "Football", "Tennis", "Hockey"],
+    "correctAnswer": "Football"
+  },
+  {
+    "id": "SP-007",
+    "examStageType": "easy",
+    "question": "How many players are on a cricket fielding team?",
+    "options": ["10", "11", "12", "9"],
+    "correctAnswer": "11"
+  },
+  {
+    "id": "SP-008",
+    "examStageType": "easy",
+    "question": "Which country hosted the 2020 Summer Olympics?",
+    "options": ["China", "Japan", "Brazil", "UK"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "SP-009",
+    "examStageType": "easy",
+    "question": "Which sport uses a pommel horse?",
+    "options": ["Gymnastics", "Wrestling", "Pole Vault", "Fencing"],
+    "correctAnswer": "Gymnastics"
+  },
+  {
+    "id": "SP-010",
+    "examStageType": "easy",
+    "question": "In which sport can you score a 'try'?",
+    "options": ["Football", "Rugby", "Basketball", "Hockey"],
+    "correctAnswer": "Rugby"
+  },
+  {
+    "id": "SP-011",
+    "examStageType": "easy",
+    "question": "Which country won the first FIFA World Cup?",
+    "options": ["Uruguay", "Brazil", "Italy", "Germany"],
+    "correctAnswer": "Uruguay"
+  },
+  {
+    "id": "SP-012",
+    "examStageType": "easy",
+    "question": "Which sport uses the term 'strike'?",
+    "options": ["Bowling", "Cricket", "Football", "Tennis"],
+    "correctAnswer": "Bowling"
+  },
+  {
+    "id": "SP-013",
+    "examStageType": "easy",
+    "question": "What is the length of an Olympic swimming pool?",
+    "options": ["50 meters", "25 meters", "100 meters", "75 meters"],
+    "correctAnswer": "50 meters"
+  },
+  {
+    "id": "SP-014",
+    "examStageType": "easy",
+    "question": "In which sport is the Stanley Cup awarded?",
+    "options": ["Basketball", "Ice Hockey", "Baseball", "Football"],
+    "correctAnswer": "Ice Hockey"
+  },
+  {
+    "id": "SP-015",
+    "examStageType": "easy",
+    "question": "Which sport is associated with Wimbledon?",
+    "options": ["Cricket", "Tennis", "Golf", "Football"],
+    "correctAnswer": "Tennis"
+  },
+  {
+    "id": "SP-016",
+    "examStageType": "easy",
+    "question": "Which country is famous for sumo wrestling?",
+    "options": ["China", "Japan", "Korea", "Thailand"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "SP-017",
+    "examStageType": "easy",
+    "question": "Which sport uses a puck?",
+    "options": ["Hockey", "Football", "Basketball", "Tennis"],
+    "correctAnswer": "Hockey"
+  },
+  {
+    "id": "SP-018",
+    "examStageType": "easy",
+    "question": "Which country has won the most Olympic gold medals in history?",
+    "options": ["China", "USA", "Russia", "Germany"],
+    "correctAnswer": "USA"
+  },
+  {
+    "id": "SP-019",
+    "examStageType": "easy",
+    "question": "Which sport involves skiing and shooting?",
+    "options": ["Biathlon", "Triathlon", "Decathlon", "Pentathlon"],
+    "correctAnswer": "Biathlon"
+  },
+  {
+    "id": "SP-020",
+    "examStageType": "easy",
+    "question": "Which sport uses the term 'ace'?",
+    "options": ["Cricket", "Tennis", "Football", "Hockey"],
+    "correctAnswer": "Tennis"
+  },
+  {
+    "id": "SP-021",
+    "examStageType": "easy",
+    "question": "Which sport is played at the Tour de France?",
+    "options": ["Cycling", "Running", "Swimming", "Triathlon"],
+    "correctAnswer": "Cycling"
+  },
+  {
+    "id": "SP-022",
+    "examStageType": "easy",
+    "question": "How many players are in a volleyball team on the court?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "SP-023",
+    "examStageType": "easy",
+    "question": "Which country is known as the birthplace of modern football?",
+    "options": ["France", "Germany", "England", "Italy"],
+    "correctAnswer": "England"
+  },
+  {
+    "id": "SP-024",
+    "examStageType": "easy",
+    "question": "Which sport uses the term 'slam dunk'?",
+    "options": ["Football", "Basketball", "Tennis", "Hockey"],
+    "correctAnswer": "Basketball"
+  },
+  {
+    "id": "SP-025",
+    "examStageType": "easy",
+    "question": "Which country won the 2019 Cricket World Cup?",
+    "options": ["India", "Australia", "England", "New Zealand"],
+    "correctAnswer": "England"
+  },
+  {
+    "id": "SP-026",
+    "examStageType": "easy",
+    "question": "Which sport uses a javelin?",
+    "options": ["Track and Field", "Swimming", "Gymnastics", "Wrestling"],
+    "correctAnswer": "Track and Field"
+  },
+  {
+    "id": "SP-027",
+    "examStageType": "easy",
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": ["Germany", "Brazil", "Italy", "Argentina"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "SP-028",
+    "examStageType": "easy",
+    "question": "What is the maximum score in a single frame of snooker?",
+    "options": ["147", "155", "100", "120"],
+    "correctAnswer": "147"
+  },
+  {
+    "id": "SP-029",
+    "examStageType": "easy",
+    "question": "Which sport is associated with the Ashes series?",
+    "options": ["Cricket", "Rugby", "Tennis", "Football"],
+    "correctAnswer": "Cricket"
+  },
+  {
+    "id": "SP-030",
+    "examStageType": "easy",
+    "question": "Which sport is known as 'the fastest game on grass'?",
+    "options": ["Hockey", "Football", "Lacrosse", "Tennis"],
+    "correctAnswer": "Hockey"
+  },
+  {
+    "id": "SP-031",
+    "examStageType": "easy",
+    "question": "How many holes are there in a standard golf course?",
+    "options": ["9", "12", "18", "24"],
+    "correctAnswer": "18"
+  },
+  {
+    "id": "SP-032",
+    "examStageType": "easy",
+    "question": "Which sport uses a bat and a ball?",
+    "options": ["Football", "Cricket", "Hockey", "Tennis"],
+    "correctAnswer": "Cricket"
+  },
+  {
+    "id": "SP-033",
+    "examStageType": "easy",
+    "question": "How many rings are there on the Olympic flag?",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "SP-034",
+    "examStageType": "easy",
+    "question": "Which sport is Michael Jordan famous for?",
+    "options": ["Baseball", "Basketball", "Football", "Tennis"],
+    "correctAnswer": "Basketball"
+  },
+  {
+    "id": "SP-035",
+    "examStageType": "easy",
+    "question": "Which country invented cricket?",
+    "options": ["Australia", "India", "England", "South Africa"],
+    "correctAnswer": "England"
+  },
+  {
+    "id": "SP-036",
+    "examStageType": "easy",
+    "question": "In which sport is a referee called an umpire?",
+    "options": ["Football", "Cricket", "Basketball", "Hockey"],
+    "correctAnswer": "Cricket"
+  },
+  {
+    "id": "SP-037",
+    "examStageType": "easy",
+    "question": "Which sport is played on an ice rink?",
+    "options": ["Hockey", "Basketball", "Tennis", "Cricket"],
+    "correctAnswer": "Hockey"
+  },
+  {
+    "id": "SP-038",
+    "examStageType": "easy",
+    "question": "How many sets are there in a standard tennis match for men (Grand Slam)?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "SP-039",
+    "examStageType": "easy",
+    "question": "Which sport includes events like floor exercise and rings?",
+    "options": ["Athletics", "Gymnastics", "Wrestling", "Karate"],
+    "correctAnswer": "Gymnastics"
+  },
+  {
+    "id": "SP-040",
+    "examStageType": "easy",
+    "question": "Which country is famous for producing many marathon runners?",
+    "options": ["USA", "Kenya", "China", "Brazil"],
+    "correctAnswer": "Kenya"
+  },
+  {
+    "id": "SP-041",
+    "examStageType": "easy",
+    "question": "Which sport uses a net, racket, and shuttlecock?",
+    "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+    "correctAnswer": "Badminton"
+  },
+  {
+    "id": "SP-042",
+    "examStageType": "easy",
+    "question": "Which sport has positions like goalkeeper, defender, and striker?",
+    "options": ["Basketball", "Football", "Cricket", "Hockey"],
+    "correctAnswer": "Football"
+  },
+  {
+    "id": "SP-043",
+    "examStageType": "easy",
+    "question": "Which sport is also known as table tennis?",
+    "options": ["Ping Pong", "Badminton", "Squash", "Tennis"],
+    "correctAnswer": "Ping Pong"
+  },
+  {
+    "id": "SP-044",
+    "examStageType": "easy",
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["China", "UK", "Brazil", "Russia"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "SP-045",
+    "examStageType": "easy",
+    "question": "Which sport involves scoring goals using a stick?",
+    "options": ["Cricket", "Hockey", "Baseball", "Tennis"],
+    "correctAnswer": "Hockey"
+  },
+  {
+    "id": "SP-046",
+    "examStageType": "easy",
+    "question": "Which sport is played with a round ball and a hoop?",
+    "options": ["Football", "Basketball", "Handball", "Netball"],
+    "correctAnswer": "Basketball"
+  },
+  {
+    "id": "SP-047",
+    "examStageType": "easy",
+    "question": "Which sport includes the event '100 meters sprint'?",
+    "options": ["Swimming", "Athletics", "Cycling", "Gymnastics"],
+    "correctAnswer": "Athletics"
+  },
+  {
+    "id": "SP-048",
+    "examStageType": "easy",
+    "question": "Which country won the ICC T20 World Cup 2022?",
+    "options": ["India", "Pakistan", "England", "Australia"],
+    "correctAnswer": "England"
+  },
+  {
+    "id": "SP-049",
+    "examStageType": "easy",
+    "question": "Which sport is played in a ring and involves punches?",
+    "options": ["Karate", "Wrestling", "Boxing", "Judo"],
+    "correctAnswer": "Boxing"
+  },
+  {
+    "id": "SP-050",
+    "examStageType": "easy",
+    "question": "Which sport uses a cue stick?",
+    "options": ["Snooker", "Golf", "Hockey", "Cricket"],
+    "correctAnswer": "Snooker"
+  },
+  {
+    "id": "SP-051",
+    "examStageType": "easy",
+    "question": "Which sport includes a position called 'Libero'?",
+    "options": ["Basketball", "Volleyball", "Football", "Handball"],
+    "correctAnswer": "Volleyball"
+  },
+  {
+    "id": "SP-052",
+    "examStageType": "easy",
+    "question": "Which country is famous for producing top table tennis players?",
+    "options": ["Japan", "China", "Germany", "France"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "SP-053",
+    "examStageType": "easy",
+    "question": "Which sport is played in rounds called 'overs'?",
+    "options": ["Baseball", "Cricket", "Hockey", "Football"],
+    "correctAnswer": "Cricket"
+  },
+  {
+    "id": "SP-054",
+    "examStageType": "easy",
+    "question": "Which sport involves riding waves on a board?",
+    "options": ["Sailing", "Surfing", "Rowing", "Diving"],
+    "correctAnswer": "Surfing"
+  },
+  {
+    "id": "SP-055",
+    "examStageType": "easy",
+    "question": "Which sport has weight categories like lightweight and heavyweight?",
+    "options": ["Football", "Boxing", "Basketball", "Tennis"],
+    "correctAnswer": "Boxing"
+  },
+  {
+    "id": "SP-056",
+    "examStageType": "easy",
+    "question": "Which sport uses a goal net at both ends of the field?",
+    "options": ["Cricket", "Football", "Tennis", "Golf"],
+    "correctAnswer": "Football"
+  },
+  {
+    "id": "SP-057",
+    "examStageType": "easy",
+    "question": "Which sport includes events like shot put and discus throw?",
+    "options": ["Athletics", "Weightlifting", "Gymnastics", "Wrestling"],
+    "correctAnswer": "Athletics"
+  },
+  {
+    "id": "SP-058",
+    "examStageType": "easy",
+    "question": "Which sport is known as the national sport of Japan?",
+    "options": ["Karate", "Judo", "Sumo Wrestling", "Baseball"],
+    "correctAnswer": "Sumo Wrestling"
+  },
+  {
+    "id": "SP-059",
+    "examStageType": "easy",
+    "question": "Which sport involves kicking a ball through goalposts shaped like a 'Y'?",
+    "options": ["Rugby", "American Football", "Football", "Hockey"],
+    "correctAnswer": "American Football"
+  },
+  {
+    "id": "SP-060",
+    "examStageType": "easy",
+    "question": "Which sport competition awards the 'Green Jacket'?",
+    "options": ["Golf", "Cricket", "Tennis", "Horse Racing"],
+    "correctAnswer": "Golf"
+  },
+  {
+    "id": "SP-061",
+    "examStageType": "easy",
+    "question": "Which sport is played with a bow and arrows?",
+    "options": ["Fencing", "Archery", "Shooting", "Javelin"],
+    "correctAnswer": "Archery"
+  },
+  {
+    "id": "SP-062",
+    "examStageType": "easy",
+    "question": "Which sport has a playing area called a 'court'?",
+    "options": ["Cricket", "Basketball", "Football", "Golf"],
+    "correctAnswer": "Basketball"
+  },
+  {
+    "id": "SP-063",
+    "examStageType": "easy",
+    "question": "Which country won the FIFA World Cup 2022?",
+    "options": ["France", "Brazil", "Argentina", "Croatia"],
+    "correctAnswer": "Argentina"
+  },
+  {
+    "id": "SP-064",
+    "examStageType": "easy",
+    "question": "Which sport includes the event called 'Freestyle'?",
+    "options": ["Swimming", "Boxing", "Wrestling", "Judo"],
+    "correctAnswer": "Swimming"
+  },
+  {
+    "id": "SP-065",
+    "examStageType": "easy",
+    "question": "Which sport uses a small hard ball and a curved stick?",
+    "options": ["Cricket", "Hockey", "Baseball", "Golf"],
+    "correctAnswer": "Hockey"
+  },
+  {
+    "id": "SP-066",
+    "examStageType": "easy",
+    "question": "Which sport includes the term 'birdie'?",
+    "options": ["Tennis", "Badminton", "Golf", "Cricket"],
+    "correctAnswer": "Golf"
+  },
+  {
+    "id": "SP-067",
+    "examStageType": "easy",
+    "question": "Which sport competition is known as the 'Super Bowl'?",
+    "options": ["Basketball", "American Football", "Baseball", "Ice Hockey"],
+    "correctAnswer": "American Football"
+  },
+  {
+    "id": "SP-068",
+    "examStageType": "easy",
+    "question": "Which sport is played on a diamond-shaped field?",
+    "options": ["Cricket", "Baseball", "Football", "Hockey"],
+    "correctAnswer": "Baseball"
+  },
+  {
+    "id": "SP-069",
+    "examStageType": "easy",
+    "question": "Which country is famous for producing top wrestlers in freestyle wrestling?",
+    "options": ["USA", "India", "Russia", "Japan"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "id": "SP-070",
+    "examStageType": "easy",
+    "question": "Which sport uses protective gloves and headgear?",
+    "options": ["Karate", "Boxing", "Wrestling", "Judo"],
+    "correctAnswer": "Boxing"
+  },
+  {
+    "id": "SP-071",
+    "examStageType": "easy",
+    "question": "Which sport is played across a net on a rectangular court?",
+    "options": ["Football", "Tennis", "Cricket", "Golf"],
+    "correctAnswer": "Tennis"
+  },
+  {
+    "id": "SP-072",
+    "examStageType": "easy",
+    "question": "Which sport includes races like 100m, 200m, and relay?",
+    "options": ["Cycling", "Swimming", "Athletics", "Rowing"],
+    "correctAnswer": "Athletics"
+  },
+  {
+    "id": "SP-073",
+    "examStageType": "easy",
+    "question": "Which sport involves lifting heavy weights overhead?",
+    "options": ["Powerlifting", "Weightlifting", "Wrestling", "Gymnastics"],
+    "correctAnswer": "Weightlifting"
+  },
+  {
+    "id": "SP-074",
+    "examStageType": "easy",
+    "question": "Which sport is associated with the term 'hole-in-one'?",
+    "options": ["Cricket", "Golf", "Baseball", "Hockey"],
+    "correctAnswer": "Golf"
+  },
+  {
+    "id": "SP-075",
+    "examStageType": "easy",
+    "question": "Which sport is played on horseback?",
+    "options": ["Polo", "Rugby", "Hockey", "Cricket"],
+    "correctAnswer": "Polo"
+  },
+  {
+    "id": "SP-076",
+    "examStageType": "easy",
+    "question": "Which sport uses a stopwatch to measure performance?",
+    "options": ["Athletics", "Cricket", "Football", "Hockey"],
+    "correctAnswer": "Athletics"
+  },
+  {
+    "id": "SP-077",
+    "examStageType": "easy",
+    "question": "Which sport is played on a mat and involves grappling?",
+    "options": ["Boxing", "Wrestling", "Karate", "Taekwondo"],
+    "correctAnswer": "Wrestling"
+  },
+  {
+    "id": "SP-078",
+    "examStageType": "easy",
+    "question": "Which country is famous for the football club FC Barcelona?",
+    "options": ["Italy", "Spain", "France", "Portugal"],
+    "correctAnswer": "Spain"
+  },
+  {
+    "id": "SP-079",
+    "examStageType": "easy",
+    "question": "Which sport includes a referee and two linesmen?",
+    "options": ["Basketball", "Football", "Cricket", "Tennis"],
+    "correctAnswer": "Football"
+  },
+  {
+    "id": "SP-080",
+    "examStageType": "easy",
+    "question": "Which sport involves jumping over a horizontal bar?",
+    "options": ["Long Jump", "High Jump", "Pole Vault", "Triple Jump"],
+    "correctAnswer": "High Jump"
+  },
+  {
+    "id": "SP-081",
+    "examStageType": "easy",
+    "question": "Which sport uses a glove to catch the ball?",
+    "options": ["Cricket", "Baseball", "Tennis", "Golf"],
+    "correctAnswer": "Baseball"
+  },
+  {
+    "id": "SP-082",
+    "examStageType": "easy",
+    "question": "Which sport has a scoring system of 15, 30, 40?",
+    "options": ["Badminton", "Tennis", "Volleyball", "Squash"],
+    "correctAnswer": "Tennis"
+  },
+  {
+    "id": "SP-083",
+    "examStageType": "easy",
+    "question": "Which sport includes an event called 'Vault'?",
+    "options": ["Gymnastics", "Athletics", "Swimming", "Wrestling"],
+    "correctAnswer": "Gymnastics"
+  },
+  {
+    "id": "SP-084",
+    "examStageType": "easy",
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "options": ["South Africa", "Brazil", "Russia", "Germany"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "SP-085",
+    "examStageType": "easy",
+    "question": "Which sport uses the term 'par'?",
+    "options": ["Cricket", "Golf", "Tennis", "Hockey"],
+    "correctAnswer": "Golf"
+  },
+  {
+    "id": "SP-086",
+    "examStageType": "easy",
+    "question": "Which sport is known for the tournament 'Roland Garros'?",
+    "options": ["Tennis", "Football", "Cycling", "Golf"],
+    "correctAnswer": "Tennis"
+  },
+  {
+    "id": "SP-087",
+    "examStageType": "easy",
+    "question": "Which sport involves throwing a ball into a net without a goalkeeper?",
+    "options": ["Basketball", "Netball", "Handball", "Volleyball"],
+    "correctAnswer": "Netball"
+  },
+  {
+    "id": "SP-088",
+    "examStageType": "easy",
+    "question": "Which sport uses protective pads on legs and arms?",
+    "options": ["Cricket", "Basketball", "Football", "Tennis"],
+    "correctAnswer": "Cricket"
+  },
+  {
+    "id": "SP-089",
+    "examStageType": "easy",
+    "question": "Which sport is played in rounds called 'innings'?",
+    "options": ["Baseball", "Cricket", "Both A and B", "Neither"],
+    "correctAnswer": "Both A and B"
+  },
+  {
+    "id": "SP-090",
+    "examStageType": "easy",
+    "question": "Which sport involves kicking a ball into a rectangular goal?",
+    "options": ["Rugby", "Football", "Hockey", "Handball"],
+    "correctAnswer": "Football"
+  },
+  {
+    "id": "SP-091",
+    "examStageType": "easy",
+    "question": "Which sport uses a whistle to start and stop play?",
+    "options": ["Football", "Cricket", "Golf", "Snooker"],
+    "correctAnswer": "Football"
+  },
+  {
+    "id": "SP-092",
+    "examStageType": "easy",
+    "question": "Which sport is played in water with goals at each end?",
+    "options": ["Swimming", "Water Polo", "Diving", "Rowing"],
+    "correctAnswer": "Water Polo"
+  },
+  {
+    "id": "SP-093",
+    "examStageType": "easy",
+    "question": "Which country won the UEFA Euro 2020 tournament?",
+    "options": ["England", "Italy", "France", "Portugal"],
+    "correctAnswer": "Italy"
+  },
+  {
+    "id": "SP-094",
+    "examStageType": "easy",
+    "question": "Which sport involves striking a ball with a flat bat?",
+    "options": ["Baseball", "Cricket", "Hockey", "Golf"],
+    "correctAnswer": "Cricket"
+  },
+  {
+    "id": "SP-095",
+    "examStageType": "easy",
+    "question": "Which sport has a position called 'Goalkeeper' wearing gloves?",
+    "options": ["Football", "Cricket", "Basketball", "Tennis"],
+    "correctAnswer": "Football"
+  },
+  {
+    "id": "SP-096",
+    "examStageType": "easy",
+    "question": "Which sport includes an event called 'Butterfly'?",
+    "options": ["Swimming", "Gymnastics", "Athletics", "Wrestling"],
+    "correctAnswer": "Swimming"
+  },
+  {
+    "id": "SP-097",
+    "examStageType": "easy",
+    "question": "Which sport is played on a velodrome?",
+    "options": ["Cycling", "Athletics", "Skating", "Motor Racing"],
+    "correctAnswer": "Cycling"
+  },
+  {
+    "id": "SP-098",
+    "examStageType": "easy",
+    "question": "Which sport uses chalk on hands for better grip?",
+    "options": ["Gymnastics", "Swimming", "Football", "Tennis"],
+    "correctAnswer": "Gymnastics"
+  },
+  {
+    "id": "SP-099",
+    "examStageType": "easy",
+    "question": "Which sport involves a sprint start from blocks?",
+    "options": ["Cycling", "Athletics", "Swimming", "Skiing"],
+    "correctAnswer": "Athletics"
+  },
+  {
+    "id": "SP-100",
+    "examStageType": "easy",
+    "question": "Which sport uses a curved stick to hit a ball on grass or turf?",
+    "options": ["Baseball", "Hockey", "Cricket", "Golf"],
+    "correctAnswer": "Hockey"
+  },
+  {
+    "id": "SP-101",
+    "examStageType": "easy",
+    "question": "Which sport includes the event 'Long Jump'?",
+    "options": ["Athletics", "Gymnastics", "Swimming", "Wrestling"],
+    "correctAnswer": "Athletics"
+  },
+  {
+    "id": "SP-102",
+    "examStageType": "easy",
+    "question": "Which country is famous for the football club Bayern Munich?",
+    "options": ["Austria", "Germany", "Netherlands", "Belgium"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "id": "SP-103",
+    "examStageType": "easy",
+    "question": "Which sport involves passing a ball using hands only?",
+    "options": ["Football", "Handball", "Hockey", "Cricket"],
+    "correctAnswer": "Handball"
+  },
+  {
+    "id": "SP-104",
+    "examStageType": "easy",
+    "question": "Which sport competition awards medals for slalom events?",
+    "options": ["Skiing", "Cycling", "Athletics", "Rowing"],
+    "correctAnswer": "Skiing"
+  },
+  {
+    "id": "SP-105",
+    "examStageType": "easy",
+    "question": "Which sport is played using a small white ball on a green table?",
+    "options": ["Table Tennis", "Snooker", "Golf", "Cricket"],
+    "correctAnswer": "Snooker"
+  },
+  {
+    "id": "SP-106",
+    "examStageType": "easy",
+    "question": "Which sport is played using a leather ball on a rectangular field with try lines?",
+    "options": ["Football", "Rugby", "Hockey", "Handball"],
+    "correctAnswer": "Rugby"
+  },
+  {
+    "id": "SP-107",
+    "examStageType": "easy",
+    "question": "Which sport includes an event called 'Decathlon'?",
+    "options": ["Athletics", "Gymnastics", "Swimming", "Cycling"],
+    "correctAnswer": "Athletics"
+  },
+  {
+    "id": "SP-108",
+    "examStageType": "easy",
+    "question": "Which country is famous for the football club Juventus?",
+    "options": ["Spain", "Italy", "France", "Germany"],
+    "correctAnswer": "Italy"
+  },
+  {
+    "id": "SP-109",
+    "examStageType": "easy",
+    "question": "Which sport involves hitting a ball over a high net using hands only?",
+    "options": ["Basketball", "Volleyball", "Handball", "Tennis"],
+    "correctAnswer": "Volleyball"
+  },
+  {
+    "id": "SP-110",
+    "examStageType": "easy",
+    "question": "Which sport uses a starting pistol to begin races?",
+    "options": ["Cycling", "Athletics", "Swimming", "Rowing"],
+    "correctAnswer": "Athletics"
+  },
+  {
+    "id": "SP-111",
+    "examStageType": "easy",
+    "question": "Which sport has a playing position called 'Striker'?",
+    "options": ["Cricket", "Football", "Basketball", "Baseball"],
+    "correctAnswer": "Football"
+  },
+  {
+    "id": "SP-112",
+    "examStageType": "easy",
+    "question": "Which sport involves flipping and balance on beams and bars?",
+    "options": ["Athletics", "Gymnastics", "Diving", "Wrestling"],
+    "correctAnswer": "Gymnastics"
+  },
+  {
+    "id": "SP-113",
+    "examStageType": "easy",
+    "question": "Which country is known for producing world-class sprinters like Usain Bolt?",
+    "options": ["USA", "Jamaica", "Canada", "Nigeria"],
+    "correctAnswer": "Jamaica"
+  },
+  {
+    "id": "SP-114",
+    "examStageType": "easy",
+    "question": "Which sport is played with a soft felt-covered ball?",
+    "options": ["Cricket", "Tennis", "Baseball", "Golf"],
+    "correctAnswer": "Tennis"
+  },
+  {
+    "id": "SP-115",
+    "examStageType": "easy",
+    "question": "Which sport involves throwing a ball into a raised circular basket?",
+    "options": ["Netball", "Basketball", "Handball", "Volleyball"],
+    "correctAnswer": "Basketball"
+  },
+  {
+    "id": "SP-116",
+    "examStageType": "easy",
+    "question": "Which sport has events called 'Singles' and 'Doubles'?",
+    "options": ["Football", "Tennis", "Basketball", "Rugby"],
+    "correctAnswer": "Tennis"
+  },
+  {
+    "id": "SP-117",
+    "examStageType": "easy",
+    "question": "Which sport uses protective helmets and shoulder pads?",
+    "options": ["Rugby", "American Football", "Hockey", "Cricket"],
+    "correctAnswer": "American Football"
+  },
+  {
+    "id": "SP-118",
+    "examStageType": "easy",
+    "question": "Which sport competition is known as the 'Six Nations'?",
+    "options": ["Football", "Cricket", "Rugby", "Hockey"],
+    "correctAnswer": "Rugby"
+  },
+  {
+    "id": "SP-119",
+    "examStageType": "easy",
+    "question": "Which sport involves synchronized movements in water?",
+    "options": ["Swimming", "Synchronized Swimming", "Water Polo", "Diving"],
+    "correctAnswer": "Synchronized Swimming"
+  },
+  {
+    "id": "SP-120",
+    "examStageType": "easy",
+    "question": "Which sport uses lanes numbered for each competitor?",
+    "options": ["Football", "Swimming", "Cricket", "Golf"],
+    "correctAnswer": "Swimming"
+  }
+]
+
+
+

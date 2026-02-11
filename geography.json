@@ -1,0 +1,212 @@
+[
+  {
+    "id": "GEO-001",
+    "examStageType": "easy",
+    "question": "What is the largest continent by area?",
+    "options": ["Africa", "Asia", "Europe", "Antarctica"],
+    "correctAnswer": "Asia"
+  },
+  {
+    "id": "GEO-002",
+    "examStageType": "easy",
+    "question": "Which river is the longest in the world?",
+    "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "correctAnswer": "Nile"
+  },
+  {
+    "id": "GEO-003",
+    "examStageType": "easy",
+    "question": "Mount Everest is located in which mountain range?",
+    "options": ["Andes", "Rockies", "Himalayas", "Alps"],
+    "correctAnswer": "Himalayas"
+  },
+  {
+    "id": "GEO-004",
+    "examStageType": "easy",
+    "question": "Which country has the largest population in the world?",
+    "options": ["India", "USA", "China", "Russia"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "GEO-005",
+    "examStageType": "easy",
+    "question": "The Sahara Desert is located on which continent?",
+    "options": ["Africa", "Asia", "Australia", "South America"],
+    "correctAnswer": "Africa"
+  },
+  {
+    "id": "GEO-006",
+    "examStageType": "easy",
+    "question": "Which ocean is the largest by surface area?",
+    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "correctAnswer": "Pacific"
+  },
+  {
+    "id": "GEO-007",
+    "examStageType": "easy",
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Thailand", "South Korea"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "GEO-008",
+    "examStageType": "easy",
+    "question": "Which is the smallest country in the world by area?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "correctAnswer": "Vatican City"
+  },
+  {
+    "id": "GEO-009",
+    "examStageType": "easy",
+    "question": "The Great Barrier Reef is located in which country?",
+    "options": ["Australia", "USA", "India", "South Africa"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "id": "GEO-010",
+    "examStageType": "easy",
+    "question": "Which is the longest river in Asia?",
+    "options": ["Ganges", "Yangtze", "Mekong", "Ob"],
+    "correctAnswer": "Yangtze"
+  },
+  {
+    "id": "GEO-011",
+    "examStageType": "easy",
+    "question": "Which country has the longest coastline in the world?",
+    "options": ["Australia", "USA", "Canada", "Russia"],
+    "correctAnswer": "Canada"
+  },
+  {
+    "id": "GEO-012",
+    "examStageType": "easy",
+    "question": "Which desert is the largest in the world by area?",
+    "options": ["Gobi", "Sahara", "Arabian", "Kalahari"],
+    "correctAnswer": "Sahara"
+  },
+  {
+    "id": "GEO-013",
+    "examStageType": "easy",
+    "question": "Which is the deepest ocean in the world?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "id": "GEO-014",
+    "examStageType": "easy",
+    "question": "Which country is known as the 'Land of Thousand Lakes'?",
+    "options": ["Sweden", "Finland", "Norway", "Canada"],
+    "correctAnswer": "Finland"
+  },
+  {
+    "id": "GEO-015",
+    "examStageType": "easy",
+    "question": "Which African country was formerly known as Abyssinia?",
+    "options": ["Ethiopia", "Egypt", "Sudan", "Kenya"],
+    "correctAnswer": "Ethiopia"
+  },
+  {
+    "id": "GEO-016",
+    "examStageType": "easy",
+    "question": "Which country has the highest number of active volcanoes?",
+    "options": ["Japan", "Indonesia", "Italy", "Philippines"],
+    "correctAnswer": "Indonesia"
+  },
+  {
+    "id": "GEO-017",
+    "examStageType": "easy",
+    "question": "Which river flows through Paris?",
+    "options": ["Thames", "Seine", "Danube", "Rhine"],
+    "correctAnswer": "Seine"
+  },
+  {
+    "id": "GEO-018",
+    "examStageType": "easy",
+    "question": "Which US state is known as the 'Sunshine State'?",
+    "options": ["California", "Texas", "Florida", "Arizona"],
+    "correctAnswer": "Florida"
+  },
+  {
+    "id": "GEO-019",
+    "examStageType": "easy",
+    "question": "Which is the largest island in the world?",
+    "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+    "correctAnswer": "Greenland"
+  },
+  {
+    "id": "GEO-020",
+    "examStageType": "easy",
+    "question": "Which mountain is known as the 'Savage Mountain' due to its difficulty?",
+    "options": ["K2", "Everest", "Kangchenjunga", "Lhotse"],
+    "correctAnswer": "K2"
+  },
+  {
+    "id": "GEO-021",
+    "examStageType": "easy",
+    "question": "Which country is home to the Great Victoria Desert?",
+    "options": ["Australia", "USA", "South Africa", "Brazil"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "id": "GEO-022",
+    "examStageType": "easy",
+    "question": "Which city is known as the 'City of Canals'?",
+    "options": ["Venice", "Amsterdam", "Bangkok", "Bruges"],
+    "correctAnswer": "Venice"
+  },
+  {
+    "id": "GEO-023",
+    "examStageType": "easy",
+    "question": "Which country is completely landlocked by South Africa?",
+    "options": ["Lesotho", "Swaziland", "Botswana", "Namibia"],
+    "correctAnswer": "Lesotho"
+  },
+  {
+    "id": "GEO-024",
+    "examStageType": "easy",
+    "question": "Which strait separates Europe and Asia in Turkey?",
+    "options": ["Bering Strait", "Bosporus", "Hormuz Strait", "Malacca Strait"],
+    "correctAnswer": "Bosporus"
+  },
+  {
+    "id": "GEO-025",
+    "examStageType": "easy",
+    "question": "Which lake is the largest freshwater lake by volume?",
+    "options": ["Lake Superior", "Lake Victoria", "Lake Baikal", "Lake Tanganyika"],
+    "correctAnswer": "Lake Baikal"
+  },
+  {
+    "id": "GEO-026",
+    "examStageType": "easy",
+    "question": "Which country has the most natural lakes in the world?",
+    "options": ["USA", "Canada", "Russia", "Finland"],
+    "correctAnswer": "Canada"
+  },
+  {
+    "id": "GEO-027",
+    "examStageType": "easy",
+    "question": "Which African river has the largest discharge volume in the world?",
+    "options": ["Nile", "Congo", "Zambezi", "Niger"],
+    "correctAnswer": "Congo"
+  },
+  {
+    "id": "GEO-028",
+    "examStageType": "easy",
+    "question": "Which US state is famous for its geysers and hot springs, including Old Faithful?",
+    "options": ["California", "Alaska", "Wyoming", "Montana"],
+    "correctAnswer": "Wyoming"
+  },
+  {
+    "id": "GEO-029",
+    "examStageType": "easy",
+    "question": "Which is the largest peninsula in the world?",
+    "options": ["Arabian Peninsula", "Indian Peninsula", "Iberian Peninsula", "Scandinavian Peninsula"],
+    "correctAnswer": "Arabian Peninsula"
+  },
+  {
+    "id": "GEO-030",
+    "examStageType": "easy",
+    "question": "Which country is crossed by the Equator and is famous for its Galápagos Islands?",
+    "options": ["Ecuador", "Kenya", "Indonesia", "Brazil"],
+    "correctAnswer": "Ecuador"
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "id": "IT-001",
+    "examStageType": "easy",
+    "question": "Web Development and Web Design both",
+    "options": ["Same", "Difrent", "Some similar", "None"],
+    "correctAnswer": "Difrent"
+  },
+  {
+    "id": "IT-002",
+    "examStageType": "easy",
+    "question": "HTML stands for?",
+    "options": ["Hyper Text Markup Language", "Hyperlinks", "Hyper Tool", "None"],
+    "correctAnswer": "Hyper Text Markup Language"
+  },
+  {
+    "id": "IT-003",
+    "examStageType": "easy",
+    "question": "CSS is used for?",
+    "options": ["Structure", "Style", "Logic", "Database"],
+    "correctAnswer": "Style"
+  },
+  {
+    "id": "IT-004",
+    "examStageType": "easy",
+    "question": "Which language is primarily used for iOS development?",
+    "options": ["Java", "Swift", "Kotlin", "Python"],
+    "correctAnswer": "Swift"
+  },
+  {
+    "id": "IT-005",
+    "examStageType": "easy",
+    "question": "Which is a backend language?",
+    "options": ["HTML", "Python", "CSS", "React"],
+    "correctAnswer": "Python"
+  },
+  {
+    "id": "IT-006",
+    "examStageType": "easy",
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Logic",
+      "Sequential Query Language",
+      "Standard Question Language"
+    ],
+    "correctAnswer": "Structured Query Language"
+  },
+  {
+    "id": "IT-007",
+    "examStageType": "easy",
+    "question": "Which company developed the Java programming language?",
+    "options": ["Microsoft", "Sun Microsystems", "Google", "Apple"],
+    "correctAnswer": "Sun Microsystems"
+  },
+  {
+    "id": "IT-008",
+    "examStageType": "easy",
+    "question": "What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Output Name",
+      "Java Simple Object Node",
+      "Just Simple Object Notation"
+    ],
+    "correctAnswer": "JavaScript Object Notation"
+  },
+  {
+    "id": "IT-009",
+    "examStageType": "easy",
+    "question": "Which of the following is a JavaScript framework?",
+    "options": ["Django", "React", "Laravel", "Spring"],
+    "correctAnswer": "React"
+  },
+  {
+    "id": "IT-010",
+    "examStageType": "easy",
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Applied Programming Instruction",
+      "Application Process Input",
+      "Advanced Programming Interface"
+    ],
+    "correctAnswer": "Application Programming Interface"
+  },
+  {
+    "id": "IT-011",
+    "examStageType": "easy",
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "options": ["<a>", "<link>", "<href>", "<url>"],
+    "correctAnswer": "<a>"
+  },
+  {
+    "id": "IT-012",
+    "examStageType": "easy",
+    "question": "Which of these is a NoSQL database?",
+    "options": ["MySQL", "MongoDB", "PostgreSQL", "SQLite"],
+    "correctAnswer": "MongoDB"
+  },
+  {
+    "id": "IT-013",
+    "examStageType": "easy",
+    "question": "In Git, which command is used to upload local changes to a remote repository?",
+    "options": ["git push", "git pull", "git commit", "git clone"],
+    "correctAnswer": "git push"
+  },
+  {
+    "id": "IT-014",
+    "examStageType": "easy",
+    "question": "Which symbol is used for comments in JavaScript?",
+    "options": ["//", "#", "/* */", "<!-- -->"],
+    "correctAnswer": "//"
+  },
+  {
+    "id": "IT-015",
+    "examStageType": "easy",
+    "question": "Which of these is a frontend library?",
+    "options": ["Node.js", "React", "Django", "Flask"],
+    "correctAnswer": "React"
+  },
+  {
+    "id": "IT-016",
+    "examStageType": "easy",
+    "question": "Which tag is used for inserting an image in HTML?",
+    "options": ["<img>", "<image>", "<src>", "<picture>"],
+    "correctAnswer": "<img>"
+  },
+  {
+    "id": "IT-017",
+    "examStageType": "easy",
+    "question": "Which method is used to find an element by its ID in JavaScript?",
+    "options": ["getElementById()", "querySelectorAll()", "getElementsByClassName()", "getElementsByTagName()"],
+    "correctAnswer": "getElementById()"
+  },
+  {
+    "id": "IT-018",
+    "examStageType": "easy",
+    "question": "Which protocol is used to securely browse websites?",
+    "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+    "correctAnswer": "HTTPS"
+  },
+  {
+    "id": "IT-019",
+    "examStageType": "easy",
+    "question": "Which company developed the Windows operating system?",
+    "options": ["Apple", "Microsoft", "Google", "IBM"],
+    "correctAnswer": "Microsoft"
+  },
+  {
+    "id": "IT-020",
+    "examStageType": "easy",
+    "question": "What is the default port number for HTTP?",
+    "options": ["80", "21", "443", "8080"],
+    "correctAnswer": "80"
+  },
+  {
+    "id": "IT-021",
+    "examStageType": "easy",
+    "question": "Which language is mainly used for Android app development?",
+    "options": ["Swift", "Kotlin", "PHP", "Ruby"],
+    "correctAnswer": "Kotlin"
+  },
+  {
+    "id": "IT-022",
+    "examStageType": "easy",
+    "question": "Which of these is a version control system?",
+    "options": ["Git", "Docker", "Node.js", "React"],
+    "correctAnswer": "Git"
+  },
+  {
+    "id": "IT-023",
+    "examStageType": "easy",
+    "question": "Which database uses tables to store data?",
+    "options": ["MongoDB", "Cassandra", "MySQL", "Redis"],
+    "correctAnswer": "MySQL"
+  },
+  {
+    "id": "IT-024",
+    "examStageType": "easy",
+    "question": "Which language is used to style web pages?",
+    "options": ["HTML", "CSS", "JavaScript", "PHP"],
+    "correctAnswer": "CSS"
+  },
+  {
+    "id": "IT-025",
+    "examStageType": "easy",
+    "question": "Which device is used to input text into a computer?",
+    "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+    "correctAnswer": "Keyboard"
+  },
+  {
+    "id": "IT-026",
+    "examStageType": "easy",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Power Unit",
+      "Central Program Utility",
+      "Control Processing Unit"
+    ],
+    "correctAnswer": "Central Processing Unit"
+  },
+  {
+    "id": "IT-027",
+    "examStageType": "easy",
+    "question": "Which operating system is developed by Apple?",
+    "options": ["Windows", "Linux", "macOS", "Android"],
+    "correctAnswer": "macOS"
+  },
+  {
+    "id": "IT-028",
+    "examStageType": "easy",
+    "question": "Which one is a web browser?",
+    "options": ["Google", "Chrome", "Android", "Windows"],
+    "correctAnswer": "Chrome"
+  },
+  {
+    "id": "IT-029",
+    "examStageType": "easy",
+    "question": "Which symbol is used to end a statement in JavaScript?",
+    "options": [";", ":", ".", ","],
+    "correctAnswer": ";"
+  },
+  {
+    "id": "IT-030",
+    "examStageType": "easy",
+    "question": "Which of the following is a cloud storage service?",
+    "options": ["Google Drive", "MS Word", "Windows", "Linux"],
+    "correctAnswer": "Google Drive"
+  },
+  {
+    "id": "IT-031",
+    "examStageType": "easy",
+    "question": "Which language is mainly used for data analysis?",
+    "options": ["HTML", "Python", "CSS", "XML"],
+    "correctAnswer": "Python"
+  },
+  {
+    "id": "IT-032",
+    "examStageType": "easy",
+    "question": "What does RAM stand for?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Run Access Memory",
+      "Rapid Action Memory"
+    ],
+    "correctAnswer": "Random Access Memory"
+  },
+  {
+    "id": "IT-033",
+    "examStageType": "easy",
+    "question": "Which of the following is an email service?",
+    "options": ["Facebook", "Gmail", "WhatsApp", "Twitter"],
+    "correctAnswer": "Gmail"
+  },
+  {
+    "id": "IT-034",
+    "examStageType": "easy",
+    "question": "Which software is used to create documents?",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "Paint"],
+    "correctAnswer": "MS Word"
+  },
+  {
+    "id": "IT-035",
+    "examStageType": "easy",
+    "question": "Which key combination is used to copy text?",
+    "options": ["Ctrl + X", "Ctrl + V", "Ctrl + C", "Ctrl + Z"],
+    "correctAnswer": "Ctrl + C"
+  },
+  {
+    "id": "IT-036",
+    "examStageType": "easy",
+    "question": "Which of the following is an example of an operating system?",
+    "options": ["Oracle", "Ubuntu", "MySQL", "Chrome"],
+    "correctAnswer": "Ubuntu"
+  },
+  {
+    "id": "IT-037",
+    "examStageType": "easy",
+    "question": "What is the full form of URL?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Resource Link",
+      "Unified Resource Locator",
+      "Uniform Resource Link"
+    ],
+    "correctAnswer": "Uniform Resource Locator"
+  },
+  {
+    "id": "IT-038",
+    "examStageType": "easy",
+    "question": "Which device is used to display output?",
+    "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+    "correctAnswer": "Monitor"
+  },
+  {
+    "id": "IT-039",
+    "examStageType": "easy",
+    "question": "Which language is used to add interactivity to a website?",
+    "options": ["HTML", "CSS", "JavaScript", "SQL"],
+    "correctAnswer": "JavaScript"
+  },
+  {
+    "id": "IT-040",
+    "examStageType": "easy",
+    "question": "Which of the following is an example of hardware?",
+    "options": ["Browser", "Operating System", "Keyboard", "Application"],
+    "correctAnswer": "Keyboard"
+  },
+  {
+    "id": "IT-041",
+    "examStageType": "easy",
+    "question": "Which file extension is used for JavaScript files?",
+    "options": [".html", ".css", ".js", ".json"],
+    "correctAnswer": ".js"
+  },
+  {
+    "id": "IT-042",
+    "examStageType": "easy",
+    "question": "What does WWW stand for?",
+    "options": [
+      "World Wide Web",
+      "World Web Wide",
+      "Wide World Web",
+      "Web World Wide"
+    ],
+    "correctAnswer": "World Wide Web"
+  },
+  {
+    "id": "IT-043",
+    "examStageType": "easy",
+    "question": "Which of the following is used to store temporary data?",
+    "options": ["Hard Disk", "ROM", "RAM", "SSD"],
+    "correctAnswer": "RAM"
+  },
+  {
+    "id": "IT-044",
+    "examStageType": "easy",
+    "question": "Which of the following is an example of an input device?",
+    "options": ["Printer", "Monitor", "Mouse", "Speaker"],
+    "correctAnswer": "Mouse"
+  },
+  {
+    "id": "IT-045",
+    "examStageType": "easy",
+    "question": "Which company developed the Android operating system?",
+    "options": ["Apple", "Microsoft", "Google", "IBM"],
+    "correctAnswer": "Google"
+  },
+  {
+    "id": "IT-046",
+    "examStageType": "easy",
+    "question": "Which of the following is a programming language?",
+    "options": ["HTTP", "HTML", "Python", "URL"],
+    "correctAnswer": "Python"
+  },
+  {
+    "id": "IT-047",
+    "examStageType": "easy",
+    "question": "What is the main function of an operating system?",
+    "options": [
+      "Design websites",
+      "Manage hardware and software",
+      "Create documents",
+      "Store data only"
+    ],
+    "correctAnswer": "Manage hardware and software"
+  },
+  {
+    "id": "IT-048",
+    "examStageType": "easy",
+    "question": "Which of these is a search engine?",
+    "options": ["Facebook", "YouTube", "Google", "Instagram"],
+    "correctAnswer": "Google"
+  },
+  {
+    "id": "IT-049",
+    "examStageType": "easy",
+    "question": "Which key is used to delete text to the left of the cursor?",
+    "options": ["Enter", "Shift", "Backspace", "Delete"],
+    "correctAnswer": "Backspace"
+  },
+  {
+    "id": "IT-050",
+    "examStageType": "easy",
+    "question": "Which of the following is an example of application software?",
+    "options": ["Windows", "Linux", "MS Excel", "BIOS"],
+    "correctAnswer": "MS Excel"
+  },
+  {
+    "id": "IT-051",
+    "examStageType": "easy",
+    "question": "What does USB stand for?",
+    "options": [
+      "Universal Serial Bus",
+      "Unified System Bus",
+      "Universal System Board",
+      "Unified Serial Board"
+    ],
+    "correctAnswer": "Universal Serial Bus"
+  },
+  {
+    "id": "IT-052",
+    "examStageType": "easy",
+    "question": "Which file format is commonly used for images?",
+    "options": [".mp3", ".jpg", ".txt", ".exe"],
+    "correctAnswer": ".jpg"
+  },
+  {
+    "id": "IT-053",
+    "examStageType": "easy",
+    "question": "Which of the following is used to browse the internet?",
+    "options": ["Compiler", "Text Editor", "Web Browser", "Database"],
+    "correctAnswer": "Web Browser"
+  },
+  {
+    "id": "IT-054",
+    "examStageType": "easy",
+    "question": "Which of the following is a mobile operating system?",
+    "options": ["Windows", "Linux", "Android", "Ubuntu"],
+    "correctAnswer": "Android"
+  },
+  {
+    "id": "IT-055",
+    "examStageType": "easy",
+    "question": "Which device is used to scan documents into a computer?",
+    "options": ["Printer", "Scanner", "Monitor", "Projector"],
+    "correctAnswer": "Scanner"
+  },
+  {
+    "id": "IT-056",
+    "examStageType": "easy",
+    "question": "What does IP stand for in networking?",
+    "options": [
+      "Internet Process",
+      "Internal Protocol",
+      "Internet Protocol",
+      "Integrated Program"
+    ],
+    "correctAnswer": "Internet Protocol"
+  },
+  {
+    "id": "IT-057",
+    "examStageType": "easy",
+    "question": "Which software is used to create presentations?",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "Notepad"],
+    "correctAnswer": "MS PowerPoint"
+  },
+  {
+    "id": "IT-058",
+    "examStageType": "easy",
+    "question": "Which of the following is an example of an email protocol?",
+    "options": ["FTP", "SMTP", "HTTP", "IP"],
+    "correctAnswer": "SMTP"
+  },
+  {
+    "id": "IT-059",
+    "examStageType": "easy",
+    "question": "Which unit is used to measure computer memory?",
+    "options": ["Meter", "Second", "Byte", "Hertz"],
+    "correctAnswer": "Byte"
+  },
+  {
+    "id": "IT-060",
+    "examStageType": "easy",
+    "question": "Which of the following is an example of open-source software?",
+    "options": ["Windows", "macOS", "Linux", "MS Office"],
+    "correctAnswer": "Linux"
+  },
+  {
+    "id": "IT-061",
+    "examStageType": "easy",
+    "question": "Which shortcut key is used to paste copied text?",
+    "options": ["Ctrl + C", "Ctrl + X", "Ctrl + V", "Ctrl + Z"],
+    "correctAnswer": "Ctrl + V"
+  },
+  {
+    "id": "IT-062",
+    "examStageType": "easy",
+    "question": "Which of the following stores data permanently?",
+    "options": ["RAM", "Cache", "Hard Disk", "Register"],
+    "correctAnswer": "Hard Disk"
+  },
+  {
+    "id": "IT-063",
+    "examStageType": "easy",
+    "question": "Which technology is used for wireless internet connection?",
+    "options": ["LAN", "Ethernet", "Wi-Fi", "USB"],
+    "correctAnswer": "Wi-Fi"
+  }
+]
+

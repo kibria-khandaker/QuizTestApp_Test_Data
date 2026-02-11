@@ -1,0 +1,128 @@
+[
+  {
+    "id": "GK-001",
+    "examStageType": "easy",
+    "question": "What is the largest ocean in the world?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "id": "GK-002",
+    "examStageType": "easy",
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["William Wordsworth", "William Shakespeare", "Charles Dickens", "Jane Austen"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "id": "GK-003",
+    "examStageType": "easy",
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Thailand", "South Korea"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "GK-004",
+    "examStageType": "easy",
+    "question": "What is H2O commonly known as?",
+    "options": ["Salt", "Water", "Oxygen", "Hydrogen"],
+    "correctAnswer": "Water"
+  },
+  {
+    "id": "GK-005",
+    "examStageType": "easy",
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": ["Tiger", "Lion", "Elephant", "Giraffe"],
+    "correctAnswer": "Lion"
+  },
+  {
+    "id": "GK-006",
+    "examStageType": "easy",
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Albert Einstein"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "id": "GK-007",
+    "examStageType": "easy",
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Silver"],
+    "correctAnswer": "Diamond"
+  },
+  {
+    "id": "GK-008",
+    "examStageType": "easy",
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Earth", "Mercury", "Mars"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "GK-009",
+    "examStageType": "easy",
+    "question": "What is the national currency of the USA?",
+    "options": ["Dollar", "Euro", "Pound", "Yen"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "GK-010",
+    "examStageType": "easy",
+    "question": "Which is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "id": "GK-011",
+    "examStageType": "easy",
+    "question": "Which country is famous for the Eiffel Tower?",
+    "options": ["Italy", "France", "Spain", "Germany"],
+    "correctAnswer": "France"
+  },
+  {
+    "id": "GK-012",
+    "examStageType": "easy",
+    "question": "Which organ pumps blood throughout the body?",
+    "options": ["Lungs", "Liver", "Heart", "Kidney"],
+    "correctAnswer": "Heart"
+  },
+  {
+    "id": "GK-013",
+    "examStageType": "easy",
+    "question": "Which continent is known as the Dark Continent?",
+    "options": ["Asia", "Africa", "Europe", "Australia"],
+    "correctAnswer": "Africa"
+  },
+  {
+    "id": "GK-014",
+    "examStageType": "easy",
+    "question": "What gas do humans breathe in to survive?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": "GK-015",
+    "examStageType": "easy",
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "id": "GK-016",
+    "examStageType": "easy",
+    "question": "Which is the tallest mountain in the world?",
+    "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+    "correctAnswer": "Mount Everest"
+  },
+  {
+    "id": "GK-017",
+    "examStageType": "easy",
+    "question": "Which ocean is the smallest in the world?",
+    "options": ["Indian Ocean", "Arctic Ocean", "Atlantic Ocean", "Pacific Ocean"],
+    "correctAnswer": "Arctic Ocean"
+  },
+  {
+    "id": "GK-018",
+    "examStageType": "easy",
+    "question": "Which instrument has keys, pedals, and strings?",
+    "options": ["Guitar", "Piano", "Violin", "Drum"],
+    "correctAnswer": "Piano"
+  }
+]

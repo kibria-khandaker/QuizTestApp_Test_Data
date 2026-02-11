@@ -1,0 +1,352 @@
+[
+  {
+    "id": "RE-001",
+    "examStageType": "easy",
+    "question": "Which religion follows the teachings of Buddha?",
+    "options": ["Buddhism", "Hinduism", "Christianity", "Islam"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "RE-002",
+    "examStageType": "easy",
+    "question": "Which religion's holy book is the Quran?",
+    "options": ["Islam", "Christianity", "Hinduism", "Sikhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "RE-003",
+    "examStageType": "easy",
+    "question": "Which religion celebrates Diwali?",
+    "options": ["Hinduism", "Christianity", "Islam", "Buddhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-004",
+    "examStageType": "easy",
+    "question": "What is the symbol of Christianity?",
+    "options": ["Cross", "Crescent", "Om", "Star of David"],
+    "correctAnswer": "Cross"
+  },
+  {
+    "id": "RE-005",
+    "examStageType": "easy",
+    "question": "Which religion believes in the concept of Karma?",
+    "options": ["Hinduism", "Islam", "Christianity", "Judaism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-006",
+    "examStageType": "easy",
+    "question": "Who is considered the founder of Sikhism?",
+    "options": ["Guru Nanak", "Jesus Christ", "Muhammad", "Buddha"],
+    "correctAnswer": "Guru Nanak"
+  },
+  {
+    "id": "RE-007",
+    "examStageType": "easy",
+    "question": "Which religion celebrates Christmas?",
+    "options": ["Christianity", "Islam", "Hinduism", "Buddhism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "RE-008",
+    "examStageType": "easy",
+    "question": "The Torah is the holy book of which religion?",
+    "options": ["Judaism", "Christianity", "Islam", "Hinduism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "RE-009",
+    "examStageType": "easy",
+    "question": "Which religion originated in Saudi Arabia?",
+    "options": ["Islam", "Christianity", "Buddhism", "Sikhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "RE-010",
+    "examStageType": "easy",
+    "question": "Which religion follows the Eightfold Path?",
+    "options": ["Buddhism", "Hinduism", "Christianity", "Islam"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "RE-011",
+    "examStageType": "easy",
+    "question": "Which religion celebrates Hanukkah?",
+    "options": ["Judaism", "Christianity", "Islam", "Hinduism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "RE-012",
+    "examStageType": "easy",
+    "question": "What is the sacred river in Hinduism?",
+    "options": ["Ganges", "Nile", "Amazon", "Yangtze"],
+    "correctAnswer": "Ganges"
+  },
+  {
+    "id": "RE-013",
+    "examStageType": "easy",
+    "question": "Which religion's followers are called Muslims?",
+    "options": ["Islam", "Christianity", "Hinduism", "Buddhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "RE-014",
+    "examStageType": "easy",
+    "question": "Who is the central figure of Christianity?",
+    "options": ["Jesus Christ", "Muhammad", "Buddha", "Krishna"],
+    "correctAnswer": "Jesus Christ"
+  },
+  {
+    "id": "RE-015",
+    "examStageType": "easy",
+    "question": "Which religion's followers practice meditation to reach enlightenment?",
+    "options": ["Buddhism", "Christianity", "Islam", "Hinduism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "RE-016",
+    "examStageType": "easy",
+    "question": "Which religion has the Five Pillars of Faith?",
+    "options": ["Islam", "Christianity", "Hinduism", "Buddhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "RE-017",
+    "examStageType": "easy",
+    "question": "Which religion celebrates Eid al-Fitr?",
+    "options": ["Islam", "Christianity", "Hinduism", "Sikhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "RE-018",
+    "examStageType": "easy",
+    "question": "Which religion celebrates Vesak, the Buddha’s birthday?",
+    "options": ["Buddhism", "Hinduism", "Christianity", "Islam"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "RE-019",
+    "examStageType": "easy",
+    "question": "The Bhagavad Gita is a holy book of which religion?",
+    "options": ["Hinduism", "Islam", "Christianity", "Buddhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-020",
+    "examStageType": "easy",
+    "question": "Which religion believes in the concept of Nirvana?",
+    "options": ["Buddhism", "Hinduism", "Christianity", "Islam"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "RE-021",
+    "examStageType": "easy",
+    "question": "Which religion's followers celebrate Ramadan?",
+    "options": ["Islam", "Christianity", "Hinduism", "Sikhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "RE-022",
+    "examStageType": "easy",
+    "question": "Who is the founder of Jainism?",
+    "options": ["Mahavira", "Buddha", "Muhammad", "Jesus Christ"],
+    "correctAnswer": "Mahavira"
+  },
+  {
+    "id": "RE-023",
+    "examStageType": "easy",
+    "question": "Which religion's followers use mala beads for prayer?",
+    "options": ["Hinduism", "Islam", "Christianity", "Judaism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-024",
+    "examStageType": "easy",
+    "question": "Which religion's holy site is the Kaaba?",
+    "options": ["Islam", "Christianity", "Hinduism", "Buddhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "RE-025",
+    "examStageType": "easy",
+    "question": "Which religion has the Ten Commandments?",
+    "options": ["Christianity", "Islam", "Hinduism", "Buddhism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "RE-026",
+    "examStageType": "easy",
+    "question": "Which religion celebrates Guru Purnima?",
+    "options": ["Hinduism", "Buddhism", "Christianity", "Islam"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-027",
+    "examStageType": "easy",
+    "question": "Which religion's followers perform yoga as a spiritual practice?",
+    "options": ["Hinduism", "Islam", "Christianity", "Buddhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-028",
+    "examStageType": "easy",
+    "question": "Which religion celebrates Holi, the festival of colors?",
+    "options": ["Hinduism", "Christianity", "Islam", "Buddhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-029",
+    "examStageType": "easy",
+    "question": "Which religion follows the teachings of Guru Granth Sahib?",
+    "options": ["Sikhism", "Hinduism", "Islam", "Buddhism"],
+    "correctAnswer": "Sikhism"
+  },
+  {
+    "id": "RE-030",
+    "examStageType": "easy",
+    "question": "Which religion's followers light the menorah during Hanukkah?",
+    "options": ["Judaism", "Christianity", "Islam", "Hinduism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "RE-031",
+    "examStageType": "easy",
+    "question": "Which religion originated in Israel?",
+    "options": ["Judaism", "Christianity", "Islam", "Buddhism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "RE-032",
+    "examStageType": "easy",
+    "question": "Which religion follows the Five Ks?",
+    "options": ["Sikhism", "Hinduism", "Christianity", "Islam"],
+    "correctAnswer": "Sikhism"
+  },
+  {
+    "id": "RE-033",
+    "examStageType": "easy",
+    "question": "Which religion celebrates Navratri?",
+    "options": ["Hinduism", "Christianity", "Islam", "Buddhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-034",
+    "examStageType": "easy",
+    "question": "Which religion teaches Ahimsa or non-violence?",
+    "options": ["Jainism", "Hinduism", "Islam", "Christianity"],
+    "correctAnswer": "Jainism"
+  },
+  {
+    "id": "RE-035",
+    "examStageType": "easy",
+    "question": "Which religion's followers observe Lent?",
+    "options": ["Christianity", "Islam", "Hinduism", "Buddhism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "RE-036",
+    "examStageType": "easy",
+    "question": "Which religion has the concept of Moksha?",
+    "options": ["Hinduism", "Buddhism", "Christianity", "Islam"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-037",
+    "examStageType": "easy",
+    "question": "Which religion's holy book is the Vedas?",
+    "options": ["Hinduism", "Islam", "Christianity", "Buddhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-038",
+    "examStageType": "easy",
+    "question": "Which religion's followers celebrate Vaisakhi?",
+    "options": ["Sikhism", "Hinduism", "Christianity", "Islam"],
+    "correctAnswer": "Sikhism"
+  },
+  {
+    "id": "RE-039",
+    "examStageType": "easy",
+    "question": "Which religion originated in India and emphasizes non-violence?",
+    "options": ["Jainism", "Hinduism", "Buddhism", "Sikhism"],
+    "correctAnswer": "Jainism"
+  },
+  {
+    "id": "RE-040",
+    "examStageType": "easy",
+    "question": "Which religion celebrates Palm Sunday?",
+    "options": ["Christianity", "Islam", "Hinduism", "Buddhism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "RE-041",
+    "examStageType": "easy",
+    "question": "Which religion's followers practice fasting during Ramadan?",
+    "options": ["Islam", "Christianity", "Hinduism", "Buddhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "RE-042",
+    "examStageType": "easy",
+    "question": "Which religion's holy city is Varanasi?",
+    "options": ["Hinduism", "Islam", "Christianity", "Buddhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-043",
+    "examStageType": "easy",
+    "question": "Which religion's followers use prayer mats?",
+    "options": ["Islam", "Christianity", "Hinduism", "Buddhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "RE-044",
+    "examStageType": "easy",
+    "question": "Which religion's followers celebrate Easter?",
+    "options": ["Christianity", "Islam", "Hinduism", "Buddhism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "RE-045",
+    "examStageType": "easy",
+    "question": "Which religion's followers meditate under the Bodhi tree?",
+    "options": ["Buddhism", "Hinduism", "Christianity", "Islam"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "RE-046",
+    "examStageType": "easy",
+    "question": "Which religion's followers use incense in rituals?",
+    "options": ["Hinduism", "Buddhism", "Christianity", "Islam"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-047",
+    "examStageType": "easy",
+    "question": "Which religion celebrates Guru Nanak Jayanti?",
+    "options": ["Sikhism", "Hinduism", "Christianity", "Islam"],
+    "correctAnswer": "Sikhism"
+  },
+  {
+    "id": "RE-048",
+    "examStageType": "easy",
+    "question": "Which religion believes in the principle of reincarnation?",
+    "options": ["Hinduism", "Christianity", "Islam", "Buddhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "RE-049",
+    "examStageType": "easy",
+    "question": "Which religion's followers observe Yom Kippur?",
+    "options": ["Judaism", "Christianity", "Islam", "Hinduism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "RE-050",
+    "examStageType": "easy",
+    "question": "Which religion's followers perform the Hajj pilgrimage?",
+    "options": ["Islam", "Christianity", "Hinduism", "Buddhism"],
+    "correctAnswer": "Islam"
+  }
+]

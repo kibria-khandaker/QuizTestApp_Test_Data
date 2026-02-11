@@ -1,0 +1,1393 @@
+[
+  {
+    "id": "CAP-001",
+    "examStageType": "easy",
+    "question": "Capital of Bangladesh",
+    "options": ["Dhaka", "Chittagong", "Khulna", "Rajshahi"],
+    "correctAnswer": "Dhaka"
+  },
+  {
+    "id": "CAP-002",
+    "examStageType": "easy",
+    "question": "Capital of India",
+    "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+    "correctAnswer": "New Delhi"
+  },
+  {
+    "id": "CAP-003",
+    "examStageType": "easy",
+    "question": "Capital of Pakistan",
+    "options": ["Lahore", "Karachi", "Islamabad", "Peshawar"],
+    "correctAnswer": "Islamabad"
+  },
+  {
+    "id": "CAP-004",
+    "examStageType": "easy",
+    "question": "Capital of Nepal",
+    "options": ["Pokhara", "Kathmandu", "Lalitpur", "Biratnagar"],
+    "correctAnswer": "Kathmandu"
+  },
+  {
+    "id": "CAP-005",
+    "examStageType": "easy",
+    "question": "Capital of Sri Lanka",
+    "options": ["Colombo", "Kandy", "Galle", "Jaffna"],
+    "correctAnswer": "Colombo"
+  },
+  {
+    "id": "CAP-006",
+    "examStageType": "easy",
+    "question": "Capital of Cuba",
+    "options": ["Havana", "Santiago de Cuba", "Camagüey", "Holguín"],
+    "correctAnswer": "Havana"
+  },
+  {
+    "id": "CAP-007",
+    "examStageType": "easy",
+    "question": "Capital of Japan",
+    "options": ["Osaka", "Kyoto", "Tokyo", "Hiroshima"],
+    "correctAnswer": "Tokyo"
+  },
+
+
+
+  {
+    "id": "CAP-008",
+    "examStageType": "easy",
+    "question": "Capital of Ecuador",
+    "options": ["Quito", "Guayaquil", "Cuenca", "Loja"],
+    "correctAnswer": "Quito"
+  },
+  {
+    "id": "CAP-009",
+    "examStageType": "easy",
+    "question": "Capital of El Salvador",
+    "options": ["San Salvador", "Santa Ana", "San Miguel", "Santa Tecla"],
+    "correctAnswer": "San Salvador"
+  },
+  {
+    "id": "CAP-010",
+    "examStageType": "easy",
+    "question": "Capital of Eswatini",
+    "options": ["Mbabane", "Lobamba", "Manzini", "Siteki"],
+    "correctAnswer": "Mbabane"
+  },
+  {
+    "id": "CAP-011",
+    "examStageType": "easy",
+    "question": "Capital of Gabon",
+    "options": ["Libreville", "Port-Gentil", "Franceville", "Oyem"],
+    "correctAnswer": "Libreville"
+  },
+  {
+    "id": "CAP-012",
+    "examStageType": "easy",
+    "question": "Capital of Guinea",
+    "options": ["Conakry", "Nzérékoré", "Kankan", "Labé"],
+    "correctAnswer": "Conakry"
+  },
+  {
+    "id": "CAP-013",
+    "examStageType": "easy",
+    "question": "Capital of Guinea-Bissau",
+    "options": ["Bissau", "Bafata", "Gabu", "Cacheu"],
+    "correctAnswer": "Bissau"
+  },
+  {
+    "id": "CAP-014",
+    "examStageType": "easy",
+    "question": "Capital of Haiti",
+    "options": ["Port-au-Prince", "Cap-Haïtien", "Jacmel", "Les Cayes"],
+    "correctAnswer": "Port-au-Prince"
+  },
+  {
+    "id": "CAP-015",
+    "examStageType": "easy",
+    "question": "Capital of Honduras",
+    "options": ["Tegucigalpa", "San Pedro Sula", "La Ceiba", "Choloma"],
+    "correctAnswer": "Tegucigalpa"
+  },
+  {
+    "id": "CAP-016",
+    "examStageType": "easy",
+    "question": "Capital of Jamaica",
+    "options": ["Kingston", "Montego Bay", "Ocho Rios", "Spanish Town"],
+    "correctAnswer": "Kingston"
+  },
+  {
+    "id": "CAP-017",
+    "examStageType": "easy",
+    "question": "Capital of Liberia",
+    "options": ["Monrovia", "Gbarnga", "Bensonville", "Kakata"],
+    "correctAnswer": "Monrovia"
+  },
+  {
+    "id": "CAP-018",
+    "examStageType": "easy",
+    "question": "Capital of Mauritania",
+    "options": ["Nouakchott", "Nouadhibou", "Kaédi", "Rosso"],
+    "correctAnswer": "Nouakchott"
+  },
+  {
+    "id": "CAP-019",
+    "examStageType": "easy",
+    "question": "Capital of Niger",
+    "options": ["Niamey", "Zinder", "Maradi", "Agadez"],
+    "correctAnswer": "Niamey"
+  },
+  {
+    "id": "CAP-020",
+    "examStageType": "easy",
+    "question": "Capital of Panama",
+    "options": ["Panama City", "Colón", "David", "Santiago"],
+    "correctAnswer": "Panama City"
+  },
+  {
+    "id": "CAP-021",
+    "examStageType": "easy",
+    "question": "Capital of Paraguay",
+    "options": ["Asunción", "Ciudad del Este", "Encarnación", "Concepción"],
+    "correctAnswer": "Asunción"
+  },
+  {
+    "id": "CAP-022",
+    "examStageType": "easy",
+    "question": "Capital of Peru",
+    "options": ["Lima", "Cusco", "Arequipa", "Trujillo"],
+    "correctAnswer": "Lima"
+  },
+  {
+    "id": "CAP-023",
+    "examStageType": "easy",
+    "question": "Capital of Sierra Leone",
+    "options": ["Freetown", "Bo", "Kenema", "Koidu"],
+    "correctAnswer": "Freetown"
+  },
+  {
+    "id": "CAP-024",
+    "examStageType": "easy",
+    "question": "Capital of Burundi",
+    "options": ["Gitega", "Bujumbura", "Ngozi", "Rumonge"],
+    "correctAnswer": "Gitega"
+  },
+  {
+    "id": "CAP-025",
+    "examStageType": "easy",
+    "question": "Capital of United Kingdom",
+    "options": ["London", "Manchester", "Birmingham", "Liverpool"],
+    "correctAnswer": "London"
+  },
+  {
+    "id": "CAP-026",
+    "examStageType": "easy",
+    "question": "Capital of Brazil",
+    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "correctAnswer": "Brasília"
+  },
+  {
+    "id": "CAP-027",
+    "examStageType": "easy",
+    "question": "Capital of Argentina",
+    "options": ["Córdoba", "Rosario", "Buenos Aires", "Mendoza"],
+    "correctAnswer": "Buenos Aires"
+  },
+  {
+    "id": "CAP-028",
+    "examStageType": "easy",
+    "question": "Capital of Mexico",
+    "options": ["Cancún", "Guadalajara", "Mexico City", "Monterrey"],
+    "correctAnswer": "Mexico City"
+  },
+  {
+    "id": "CAP-029",
+    "examStageType": "easy",
+    "question": "Capital of Grenada",
+    "options": ["St. George's", "Gouyave", "Hillsborough", "Sauteurs"],
+    "correctAnswer": "St. George's"
+  },
+  {
+    "id": "CAP-030",
+    "examStageType": "easy",
+    "question": "Capital of France",
+    "options": ["Paris", "Lyon", "Marseille", "Nice"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "id": "CAP-031",
+    "examStageType": "easy",
+    "question": "Capital of Germany",
+    "options": ["Berlin", "Munich", "Hamburg", "Frankfurt"],
+    "correctAnswer": "Berlin"
+  },
+  {
+    "id": "CAP-032",
+    "examStageType": "easy",
+    "question": "Capital of Saint Lucia",
+    "options": ["Castries", "Soufrière", "Vieux Fort", "Gros Islet"],
+    "correctAnswer": "Castries"
+  },
+  {
+    "id": "CAP-033",
+    "examStageType": "easy",
+    "question": "Capital of Guyana",
+    "options": ["Georgetown", "Linden", "New Amsterdam", "Bartica"],
+    "correctAnswer": "Georgetown"
+  },
+  {
+    "id": "CAP-034",
+    "examStageType": "easy",
+    "question": "Capital of Suriname",
+    "options": ["Paramaribo", "Lelydorp", "Nieuw Nickerie", "Moengo"],
+    "correctAnswer": "Paramaribo"
+  },
+  {
+    "id": "CAP-035",
+    "examStageType": "easy",
+    "question": "Capital of Algeria",
+    "options": ["Oran", "Constantine", "Algiers", "Annaba"],
+    "correctAnswer": "Algiers"
+  },
+  {
+    "id": "CAP-036",
+    "examStageType": "easy",
+    "question": "Capital of Netherlands",
+    "options": ["Rotterdam", "The Hague", "Amsterdam", "Utrecht"],
+    "correctAnswer": "Amsterdam"
+  },
+  {
+    "id": "CAP-037",
+    "examStageType": "easy",
+    "question": "Capital of Djibouti",
+    "options": ["Djibouti City", "Ali Sabieh", "Tadjoura", "Obock"],
+    "correctAnswer": "Djibouti City"
+  },
+  {
+    "id": "CAP-038",
+    "examStageType": "easy",
+    "question": "Capital of Sudan",
+    "options": ["Khartoum", "Omdurman", "Port Sudan", "El Obeid"],
+    "correctAnswer": "Khartoum"
+  },
+  {
+    "id": "CAP-039",
+    "examStageType": "easy",
+    "question": "Capital of Sweden",
+    "options": ["Gothenburg", "Malmö", "Stockholm", "Uppsala"],
+    "correctAnswer": "Stockholm"
+  },
+  {
+    "id": "CAP-040",
+    "examStageType": "easy",
+    "question": "Capital of South Sudan",
+    "options": ["Juba", "Wau", "Malakal", "Bentiu"],
+    "correctAnswer": "Juba"
+  },
+  {
+    "id": "CAP-041",
+    "examStageType": "easy",
+    "question": "Capital of Denmark",
+    "options": ["Aarhus", "Odense", "Copenhagen", "Aalborg"],
+    "correctAnswer": "Copenhagen"
+  },
+  {
+    "id": "CAP-042",
+    "examStageType": "easy",
+    "question": "Capital of Finland",
+    "options": ["Espoo", "Tampere", "Helsinki", "Turku"],
+    "correctAnswer": "Helsinki"
+  },
+  {
+    "id": "CAP-043",
+    "examStageType": "easy",
+    "question": "Capital of Ireland",
+    "options": ["Cork", "Galway", "Dublin", "Limerick"],
+    "correctAnswer": "Dublin"
+  },
+  {
+    "id": "CAP-044",
+    "examStageType": "easy",
+    "question": "Capital of Portugal",
+    "options": ["Porto", "Braga", "Lisbon", "Faro"],
+    "correctAnswer": "Lisbon"
+  },
+  {
+    "id": "CAP-045",
+    "examStageType": "easy",
+    "question": "Capital of Greece",
+    "options": ["Thessaloniki", "Patras", "Athens", "Larissa"],
+    "correctAnswer": "Athens"
+  },
+  {
+    "id": "CAP-046",
+    "examStageType": "easy",
+    "question": "Capital of Austria",
+    "options": ["Salzburg", "Graz", "Vienna", "Linz"],
+    "correctAnswer": "Vienna"
+  },
+  {
+    "id": "CAP-047",
+    "examStageType": "easy",
+    "question": "Capital of Poland",
+    "options": ["Kraków", "Gdańsk", "Warsaw", "Poznań"],
+    "correctAnswer": "Warsaw"
+  },
+  {
+    "id": "CAP-048",
+    "examStageType": "easy",
+    "question": "Capital of Czech Republic",
+    "options": ["Brno", "Ostrava", "Prague", "Plzeň"],
+    "correctAnswer": "Prague"
+  },
+  {
+    "id": "CAP-049",
+    "examStageType": "easy",
+    "question": "Capital of Hungary",
+    "options": ["Debrecen", "Szeged", "Budapest", "Miskolc"],
+    "correctAnswer": "Budapest"
+  },
+  {
+    "id": "CAP-050",
+    "examStageType": "easy",
+    "question": "Capital of Romania",
+    "options": ["Cluj-Napoca", "Timișoara", "Bucharest", "Iași"],
+    "correctAnswer": "Bucharest"
+  },
+  {
+    "id": "CAP-051",
+    "examStageType": "easy",
+    "question": "Capital of Bulgaria",
+    "options": ["Plovdiv", "Varna", "Sofia", "Burgas"],
+    "correctAnswer": "Sofia"
+  },
+  {
+    "id": "CAP-052",
+    "examStageType": "easy",
+    "question": "Capital of Croatia",
+    "options": ["Split", "Rijeka", "Zagreb", "Osijek"],
+    "correctAnswer": "Zagreb"
+  },
+  {
+    "id": "CAP-053",
+    "examStageType": "easy",
+    "question": "Capital of Serbia",
+    "options": ["Novi Sad", "Niš", "Belgrade", "Kragujevac"],
+    "correctAnswer": "Belgrade"
+  },
+  {
+    "id": "CAP-054",
+    "examStageType": "easy",
+    "question": "Capital of Slovakia",
+    "options": ["Košice", "Prešov", "Bratislava", "Žilina"],
+    "correctAnswer": "Bratislava"
+  },
+  {
+    "id": "CAP-055",
+    "examStageType": "easy",
+    "question": "Capital of Slovenia",
+    "options": ["Maribor", "Celje", "Ljubljana", "Kranj"],
+    "correctAnswer": "Ljubljana"
+  },
+  {
+    "id": "CAP-056",
+    "examStageType": "easy",
+    "question": "Capital of Ukraine",
+    "options": ["Lviv", "Kharkiv", "Kyiv", "Odesa"],
+    "correctAnswer": "Kyiv"
+  },
+  {
+    "id": "CAP-057",
+    "examStageType": "easy",
+    "question": "Capital of Belarus",
+    "options": ["Brest", "Gomel", "Minsk", "Vitebsk"],
+    "correctAnswer": "Minsk"
+  },
+  {
+    "id": "CAP-058",
+    "examStageType": "easy",
+    "question": "Capital of Latvia",
+    "options": ["Daugavpils", "Jelgava", "Riga", "Liepāja"],
+    "correctAnswer": "Riga"
+  },
+  {
+    "id": "CAP-059",
+    "examStageType": "easy",
+    "question": "Capital of Lithuania",
+    "options": ["Kaunas", "Klaipėda", "Vilnius", "Šiauliai"],
+    "correctAnswer": "Vilnius"
+  },
+  {
+    "id": "CAP-060",
+    "examStageType": "easy",
+    "question": "Capital of Estonia",
+    "options": ["Tartu", "Narva", "Tallinn", "Pärnu"],
+    "correctAnswer": "Tallinn"
+  },
+  {
+    "id": "CAP-061",
+    "examStageType": "easy",
+    "question": "Capital of Norway",
+    "options": ["Bergen", "Trondheim", "Oslo", "Stavanger"],
+    "correctAnswer": "Oslo"
+  },
+  {
+    "id": "CAP-062",
+    "examStageType": "easy",
+    "question": "Capital of Somalia",
+    "options": ["Mogadishu", "Hargeisa", "Bosaso", "Kismayo"],
+    "correctAnswer": "Mogadishu"
+  },
+  {
+    "id": "CAP-063",
+    "examStageType": "easy",
+    "question": "Capital of Iceland",
+    "options": ["Akureyri", "Selfoss", "Reykjavík", "Hafnarfjörður"],
+    "correctAnswer": "Reykjavík"
+  },
+  {
+    "id": "CAP-064",
+    "examStageType": "easy",
+    "question": "Capital of Switzerland",
+    "options": ["Zurich", "Geneva", "Bern", "Basel"],
+    "correctAnswer": "Bern"
+  },
+  {
+    "id": "CAP-065",
+    "examStageType": "easy",
+    "question": "Capital of Belgium",
+    "options": ["Antwerp", "Ghent", "Brussels", "Bruges"],
+    "correctAnswer": "Brussels"
+  },
+  {
+    "id": "CAP-066",
+    "examStageType": "easy",
+    "question": "Capital of Venezuela",
+    "options": ["Caracas", "Maracaibo", "Valencia", "Barquisimeto"],
+    "correctAnswer": "Caracas"
+  },
+  {
+    "id": "CAP-067",
+    "examStageType": "easy",
+    "question": "Capital of Luxembourg",
+    "options": ["Esch-sur-Alzette", "Differdange", "Luxembourg City", "Dudelange"],
+    "correctAnswer": "Luxembourg City"
+  },
+  {
+    "id": "CAP-068",
+    "examStageType": "easy",
+    "question": "Capital of Malta",
+    "options": ["Sliema", "Birkirkara", "Valletta", "Mdina"],
+    "correctAnswer": "Valletta"
+  },
+  {
+    "id": "CAP-069",
+    "examStageType": "easy",
+    "question": "Capital of Cyprus",
+    "options": ["Limassol", "Larnaca", "Nicosia", "Paphos"],
+    "correctAnswer": "Nicosia"
+  },
+  {
+    "id": "CAP-070",
+    "examStageType": "easy",
+    "question": "Capital of Albania",
+    "options": ["Durrës", "Shkodër", "Tirana", "Elbasan"],
+    "correctAnswer": "Tirana"
+  },
+  {
+    "id": "CAP-071",
+    "examStageType": "easy",
+    "question": "Capital of North Macedonia",
+    "options": ["Ohrid", "Bitola", "Skopje", "Tetovo"],
+    "correctAnswer": "Skopje"
+  },
+  {
+    "id": "CAP-072",
+    "examStageType": "easy",
+    "question": "Capital of Bosnia and Herzegovina",
+    "options": ["Mostar", "Banja Luka", "Sarajevo", "Tuzla"],
+    "correctAnswer": "Sarajevo"
+  },
+  {
+    "id": "CAP-073",
+    "examStageType": "easy",
+    "question": "Capital of Montenegro",
+    "options": ["Nikšić", "Budva", "Podgorica", "Kotor"],
+    "correctAnswer": "Podgorica"
+  },
+  {
+    "id": "CAP-074",
+    "examStageType": "easy",
+    "question": "Capital of Moldova",
+    "options": ["Bălți", "Tiraspol", "Chișinău", "Cahul"],
+    "correctAnswer": "Chișinău"
+  },
+  {
+    "id": "CAP-075",
+    "examStageType": "easy",
+    "question": "Capital of Andorra",
+    "options": ["Encamp", "La Massana", "Andorra la Vella", "Ordino"],
+    "correctAnswer": "Andorra la Vella"
+  },
+  {
+    "id": "CAP-076",
+    "examStageType": "easy",
+    "question": "Capital of Monaco",
+    "options": ["Monte Carlo", "La Condamine", "Monaco", "Fontvieille"],
+    "correctAnswer": "Monaco"
+  },
+  {
+    "id": "CAP-077",
+    "examStageType": "easy",
+    "question": "Capital of San Marino",
+    "options": ["Serravalle", "Borgo Maggiore", "San Marino", "Domagnano"],
+    "correctAnswer": "San Marino"
+  },
+  {
+    "id": "CAP-078",
+    "examStageType": "easy",
+    "question": "Capital of Liechtenstein",
+    "options": ["Schaan", "Balzers", "Vaduz", "Triesen"],
+    "correctAnswer": "Vaduz"
+  },
+  {
+    "id": "CAP-079",
+    "examStageType": "easy",
+    "question": "Capital of Turkey",
+    "options": ["Ankara", "Istanbul", "Izmir", "Bursa"],
+    "correctAnswer": "Ankara"
+  },
+  {
+    "id": "CAP-080",
+    "examStageType": "easy",
+    "question": "Capital of Kosovo",
+    "options": ["Peja", "Prizren", "Pristina", "Gjakova"],
+    "correctAnswer": "Pristina"
+  },
+  {
+    "id": "CAP-081",
+    "examStageType": "easy",
+    "question": "Capital of Egypt",
+    "options": ["Alexandria", "Giza", "Cairo", "Luxor"],
+    "correctAnswer": "Cairo"
+  },
+  {
+    "id": "CAP-082",
+    "examStageType": "easy",
+    "question": "Capital of Nigeria",
+    "options": ["Lagos", "Ibadan", "Abuja", "Kano"],
+    "correctAnswer": "Abuja"
+  },
+  {
+    "id": "CAP-083",
+    "examStageType": "easy",
+    "question": "Capital of South Africa",
+    "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+    "correctAnswer": "Pretoria"
+  },
+  {
+    "id": "CAP-084",
+    "examStageType": "easy",
+    "question": "Capital of Kenya",
+    "options": ["Mombasa", "Kisumu", "Nairobi", "Nakuru"],
+    "correctAnswer": "Nairobi"
+  },
+  {
+    "id": "CAP-085",
+    "examStageType": "easy",
+    "question": "Capital of Ethiopia",
+    "options": ["Dire Dawa", "Adama", "Addis Ababa", "Gondar"],
+    "correctAnswer": "Addis Ababa"
+  },
+  {
+    "id": "CAP-086",
+    "examStageType": "easy",
+    "question": "Capital of Ghana",
+    "options": ["Kumasi", "Tamale", "Accra", "Takoradi"],
+    "correctAnswer": "Accra"
+  },
+  {
+    "id": "CAP-087",
+    "examStageType": "easy",
+    "question": "Capital of Morocco",
+    "options": ["Casablanca", "Marrakesh", "Rabat", "Fes"],
+    "correctAnswer": "Rabat"
+  },
+  {
+    "id": "CAP-088",
+    "examStageType": "easy",
+    "question": "Capital of Burkina Faso",
+    "options": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Banfora"],
+    "correctAnswer": "Ouagadougou"
+  },
+  {
+    "id": "CAP-089",
+    "examStageType": "easy",
+    "question": "Capital of Tunisia",
+    "options": ["Sfax", "Sousse", "Tunis", "Gabès"],
+    "correctAnswer": "Tunis"
+  },
+  {
+    "id": "CAP-090",
+    "examStageType": "easy",
+    "question": "Capital of Libya",
+    "options": ["Benghazi", "Misrata", "Tripoli", "Sirte"],
+    "correctAnswer": "Tripoli"
+  },
+  {
+    "id": "CAP-091",
+    "examStageType": "easy",
+    "question": "Capital of Uganda",
+    "options": ["Entebbe", "Jinja", "Kampala", "Gulu"],
+    "correctAnswer": "Kampala"
+  },
+  {
+    "id": "CAP-092",
+    "examStageType": "easy",
+    "question": "Capital of Tanzania",
+    "options": ["Dar es Salaam", "Mwanza", "Dodoma", "Arusha"],
+    "correctAnswer": "Dodoma"
+  },
+  {
+    "id": "CAP-093",
+    "examStageType": "easy",
+    "question": "Capital of Rwanda",
+    "options": ["Butare", "Gisenyi", "Kigali", "Ruhengeri"],
+    "correctAnswer": "Kigali"
+  },
+  {
+    "id": "CAP-094",
+    "examStageType": "easy",
+    "question": "Capital of Senegal",
+    "options": ["Touba", "Thiès", "Dakar", "Saint-Louis"],
+    "correctAnswer": "Dakar"
+  },
+  {
+    "id": "CAP-095",
+    "examStageType": "easy",
+    "question": "Capital of Angola",
+    "options": ["Benguela", "Huambo", "Luanda", "Lobito"],
+    "correctAnswer": "Luanda"
+  },
+  {
+    "id": "CAP-096",
+    "examStageType": "easy",
+    "question": "Capital of Zimbabwe",
+    "options": ["Bulawayo", "Mutare", "Harare", "Gweru"],
+    "correctAnswer": "Harare"
+  },
+  {
+    "id": "CAP-097",
+    "examStageType": "easy",
+    "question": "Capital of Zambia",
+    "options": ["Ndola", "Kitwe", "Lusaka", "Livingstone"],
+    "correctAnswer": "Lusaka"
+  },
+  {
+    "id": "CAP-098",
+    "examStageType": "easy",
+    "question": "Capital of Mozambique",
+    "options": ["Beira", "Nampula", "Maputo", "Chimoio"],
+    "correctAnswer": "Maputo"
+  },
+  {
+    "id": "CAP-099",
+    "examStageType": "easy",
+    "question": "Capital of Namibia",
+    "options": ["Swakopmund", "Walvis Bay", "Windhoek", "Oshakati"],
+    "correctAnswer": "Windhoek"
+  },
+  {
+    "id": "CAP-100",
+    "examStageType": "easy",
+    "question": "Capital of Botswana",
+    "options": ["Francistown", "Maun", "Gaborone", "Serowe"],
+    "correctAnswer": "Gaborone"
+  },
+  {
+    "id": "CAP-101",
+    "examStageType": "easy",
+    "question": "Capital of Madagascar",
+    "options": ["Toamasina", "Fianarantsoa", "Antananarivo", "Mahajanga"],
+    "correctAnswer": "Antananarivo"
+  },
+  {
+    "id": "CAP-102",
+    "examStageType": "easy",
+    "question": "Capital of Mauritius",
+    "options": ["Port Louis", "Beau Bassin", "Curepipe", "Vacoas"],
+    "correctAnswer": "Port Louis"
+  },
+  {
+    "id": "CAP-103",
+    "examStageType": "easy",
+    "question": "Capital of Seychelles",
+    "options": ["Victoria", "Beau Vallon", "Anse Boileau", "Bel Air"],
+    "correctAnswer": "Victoria"
+  },
+  {
+    "id": "CAP-104",
+    "examStageType": "easy",
+    "question": "Capital of Comoros",
+    "options": ["Moroni", "Moutsamoudou", "Fomboni", "Ouani"],
+    "correctAnswer": "Moroni"
+  },
+  {
+    "id": "CAP-105",
+    "examStageType": "easy",
+    "question": "Capital of Sao Tome and Principe",
+    "options": ["São Tomé", "Principe", "Neves", "Trindade"],
+    "correctAnswer": "São Tomé"
+  },
+  {
+    "id": "CAP-106",
+    "examStageType": "easy",
+    "question": "Capital of Congo (Republic of the Congo)",
+    "options": ["Brazzaville", "Pointe-Noire", "Dolisie", "Owando"],
+    "correctAnswer": "Brazzaville"
+  },
+  {
+    "id": "CAP-107",
+    "examStageType": "easy",
+    "question": "Capital of Equatorial Guinea",
+    "options": ["Malabo", "Bata", "Ebebiyin", "Luba"],
+    "correctAnswer": "Malabo"
+  },
+  {
+    "id": "CAP-108",
+    "examStageType": "easy",
+    "question": "Capital of Cape Verde",
+    "options": ["Praia", "Mindelo", "Santa Maria", "Sal Rei"],
+    "correctAnswer": "Praia"
+  },
+  {
+    "id": "CAP-109",
+    "examStageType": "easy",
+    "question": "Capital of Armenia",
+    "options": ["Yerevan", "Gyumri", "Vanadzor", "Ejmiatsin"],
+    "correctAnswer": "Yerevan"
+  },
+  {
+    "id": "CAP-110",
+    "examStageType": "easy",
+    "question": "Capital of Belize",
+    "options": ["Belmopan", "Belize City", "San Ignacio", "Dangriga"],
+    "correctAnswer": "Belmopan"
+  },
+  {
+    "id": "CAP-111",
+    "examStageType": "easy",
+    "question": "Capital of Afghanistan",
+    "options": ["Kabul", "Kandahar", "Herat", "Mazar-i-Sharif"],
+    "correctAnswer": "Kabul"
+  },
+  {
+    "id": "CAP-112",
+    "examStageType": "easy",
+    "question": "Capital of Iran",
+    "options": ["Tehran", "Isfahan", "Mashhad", "Shiraz"],
+    "correctAnswer": "Tehran"
+  },
+  {
+    "id": "CAP-113",
+    "examStageType": "easy",
+    "question": "Capital of Iraq",
+    "options": ["Baghdad", "Basra", "Mosul", "Erbil"],
+    "correctAnswer": "Baghdad"
+  },
+  {
+    "id": "CAP-114",
+    "examStageType": "easy",
+    "question": "Capital of Saudi Arabia",
+    "options": ["Riyadh", "Jeddah", "Mecca", "Medina"],
+    "correctAnswer": "Riyadh"
+  },
+  {
+    "id": "CAP-115",
+    "examStageType": "easy",
+    "question": "Capital of United Arab Emirates",
+    "options": ["Abu Dhabi", "Dubai", "Sharjah", "Ajman"],
+    "correctAnswer": "Abu Dhabi"
+  },
+  {
+    "id": "CAP-116",
+    "examStageType": "easy",
+    "question": "Capital of Qatar",
+    "options": ["Doha", "Al Khor", "Al Wakrah", "Lusail"],
+    "correctAnswer": "Doha"
+  },
+  {
+    "id": "CAP-117",
+    "examStageType": "easy",
+    "question": "Capital of Oman",
+    "options": ["Muscat", "Salalah", "Sohar", "Nizwa"],
+    "correctAnswer": "Muscat"
+  },
+  {
+    "id": "CAP-118",
+    "examStageType": "easy",
+    "question": "Capital of Yemen",
+    "options": ["Aden", "Sana'a", "Taiz", "Mukalla"],
+    "correctAnswer": "Sana'a"
+  },
+  {
+    "id": "CAP-119",
+    "examStageType": "easy",
+    "question": "Capital of Jordan",
+    "options": ["Amman", "Zarqa", "Irbid", "Aqaba"],
+    "correctAnswer": "Amman"
+  },
+  {
+    "id": "CAP-120",
+    "examStageType": "easy",
+    "question": "Capital of Lebanon",
+    "options": ["Beirut", "Tripoli", "Sidon", "Tyre"],
+    "correctAnswer": "Beirut"
+  },
+  {
+    "id": "CAP-121",
+    "examStageType": "easy",
+    "question": "Capital of Syria",
+    "options": ["Damascus", "Aleppo", "Homs", "Latakia"],
+    "correctAnswer": "Damascus"
+  },
+  {
+    "id": "CAP-122",
+    "examStageType": "easy",
+    "question": "Capital of Israel",
+    "options": ["Jerusalem", "Tel Aviv", "Haifa", "Beersheba"],
+    "correctAnswer": "Jerusalem"
+  },
+  {
+    "id": "CAP-123",
+    "examStageType": "easy",
+    "question": "Capital of Uruguay",
+    "options": ["Montevideo", "Salto", "Paysandú", "Rivera"],
+    "correctAnswer": "Montevideo"
+  },
+  {
+    "id": "CAP-124",
+    "examStageType": "easy",
+    "question": "Capital of Kuwait",
+    "options": ["Kuwait City", "Al Ahmadi", "Hawalli", "Salmiya"],
+    "correctAnswer": "Kuwait City"
+  },
+  {
+    "id": "CAP-125",
+    "examStageType": "easy",
+    "question": "Capital of Bahrain",
+    "options": ["Manama", "Riffa", "Muharraq", "Isa Town"],
+    "correctAnswer": "Manama"
+  },
+  {
+    "id": "CAP-126",
+    "examStageType": "easy",
+    "question": "Capital of Malawi",
+    "options": ["Lilongwe", "Blantyre", "Mzuzu", "Zomba"],
+    "correctAnswer": "Lilongwe"
+  },
+  {
+    "id": "CAP-127",
+    "examStageType": "easy",
+    "question": "Capital of Barbados",
+    "options": ["Bridgetown", "Oistins", "Speightstown", "Bathsheba"],
+    "correctAnswer": "Bridgetown"
+  },
+  {
+    "id": "CAP-128",
+    "examStageType": "easy",
+    "question": "Capital of Cameroon",
+    "options": ["Yaoundé", "Douala", "Bamenda", "Garoua"],
+    "correctAnswer": "Yaoundé"
+  },
+  {
+    "id": "CAP-129",
+    "examStageType": "easy",
+    "question": "Capital of Italy",
+    "options": ["Rome", "Milan", "Venice", "Naples"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "id": "CAP-130",
+    "examStageType": "easy",
+    "question": "Capital of Saint Kitts and Nevis",
+    "options": ["Basseterre", "Charlestown", "Sandy Point", "Dieppe Bay Town"],
+    "correctAnswer": "Basseterre"
+  },
+  {
+    "id": "CAP-131",
+    "examStageType": "easy",
+    "question": "Capital of Saint Vincent and the Grenadines",
+    "options": ["Kingstown", "Bequia", "Barrouallie", "Layou"],
+    "correctAnswer": "Kingstown"
+  },
+  {
+    "id": "CAP-132",
+    "examStageType": "easy",
+    "question": "Capital of Tajikistan",
+    "options": ["Dushanbe", "Khujand", "Kulob", "Khorog"],
+    "correctAnswer": "Dushanbe"
+  },
+  {
+    "id": "CAP-133",
+    "examStageType": "easy",
+    "question": "Capital of Trinidad and Tobago",
+    "options": ["Port of Spain", "San Fernando", "Scarborough", "Arima"],
+    "correctAnswer": "Port of Spain"
+  },
+  {
+    "id": "CAP-134",
+    "examStageType": "easy",
+    "question": "Capital of Côte d'Ivoire",
+    "options": ["Yamoussoukro", "Abidjan", "Bouaké", "San-Pédro"],
+    "correctAnswer": "Yamoussoukro"
+  },
+  {
+    "id": "CAP-135",
+    "examStageType": "easy",
+    "question": "Capital of North Korea",
+    "options": ["Pyongyang", "Kaesong", "Sinuiju", "Hamhung"],
+    "correctAnswer": "Pyongyang"
+  },
+  {
+    "id": "CAP-136",
+    "examStageType": "easy",
+    "question": "Capital of South Korea",
+    "options": ["Seoul", "Busan", "Incheon", "Daegu"],
+    "correctAnswer": "Seoul"
+  },
+  {
+    "id": "CAP-137",
+    "examStageType": "easy",
+    "question": "Capital of Dominica",
+    "options": ["Roseau", "Portsmouth", "Marigot", "Salisbury"],
+    "correctAnswer": "Roseau"
+  },
+  {
+    "id": "CAP-138",
+    "examStageType": "easy",
+    "question": "Capital of Togo",
+    "options": ["Lomé", "Kara", "Sokodé", "Atakpamé"],
+    "correctAnswer": "Lomé"
+  },
+  {
+    "id": "CAP-139",
+    "examStageType": "easy",
+    "question": "Capital of Cambodia",
+    "options": ["Phnom Penh", "Siem Reap", "Sihanoukville", "Battambang"],
+    "correctAnswer": "Phnom Penh"
+  },
+  {
+    "id": "CAP-140",
+    "examStageType": "easy",
+    "question": "Capital of Georgia",
+    "options": ["Tbilisi", "Batumi", "Kutaisi", "Rustavi"],
+    "correctAnswer": "Tbilisi"
+  },
+  {
+    "id": "CAP-141",
+    "examStageType": "easy",
+    "question": "Capital of Thailand",
+    "options": ["Bangkok", "Chiang Mai", "Phuket", "Pattaya"],
+    "correctAnswer": "Bangkok"
+  },
+  {
+    "id": "CAP-142",
+    "examStageType": "easy",
+    "question": "Capital of Myanmar",
+    "options": ["Naypyidaw", "Yangon", "Mandalay", "Bago"],
+    "correctAnswer": "Naypyidaw"
+  },
+  {
+    "id": "CAP-143",
+    "examStageType": "easy",
+    "question": "Capital of Malaysia",
+    "options": ["Kuala Lumpur", "George Town", "Johor Bahru", "Malacca"],
+    "correctAnswer": "Kuala Lumpur"
+  },
+  {
+    "id": "CAP-144",
+    "examStageType": "easy",
+    "question": "Capital of Singapore",
+    "options": ["Singapore", "Jurong", "Woodlands", "Changi"],
+    "correctAnswer": "Singapore"
+  },
+  {
+    "id": "CAP-145",
+    "examStageType": "easy",
+    "question": "Capital of Indonesia",
+    "options": ["Jakarta", "Bali", "Bandung", "Surabaya"],
+    "correctAnswer": "Jakarta"
+  },
+  {
+    "id": "CAP-146",
+    "examStageType": "easy",
+    "question": "Capital of Chile",
+    "options": ["Santiago", "Valparaíso", "Concepción", "La Serena"],
+    "correctAnswer": "Santiago"
+  },
+  {
+    "id": "CAP-147",
+    "examStageType": "easy",
+    "question": "Capital of Gambia",
+    "options": ["Banjul", "Serekunda", "Bakau", "Brikama"],
+    "correctAnswer": "Banjul"
+  },
+  {
+    "id": "CAP-148",
+    "examStageType": "easy",
+    "question": "Capital of Timor-Leste",
+    "options": ["Dili", "Baucau", "Maliana", "Suai"],
+    "correctAnswer": "Dili"
+  },
+  {
+    "id": "CAP-149",
+    "examStageType": "easy",
+    "question": "Capital of Bahamas",
+    "options": ["Nassau", "Freeport", "Marsh Harbour", "Coopers Town"],
+    "correctAnswer": "Nassau"
+  },
+  {
+    "id": "CAP-150",
+    "examStageType": "easy",
+    "question": "Capital of Antigua and Barbuda",
+    "options": ["Saint John's", "Codrington", "All Saints", "Liberta"],
+    "correctAnswer": "Saint John's"
+  },
+  {
+    "id": "CAP-151",
+    "examStageType": "easy",
+    "question": "Capital of Bhutan",
+    "options": ["Thimphu", "Paro", "Punakha", "Phuntsholing"],
+    "correctAnswer": "Thimphu"
+  },
+  {
+    "id": "CAP-152",
+    "examStageType": "easy",
+    "question": "Capital of Chad",
+    "options": ["N'Djamena", "Moundou", "Sarh", "Abéché"],
+    "correctAnswer": "N'Djamena"
+  },
+  {
+    "id": "CAP-153",
+    "examStageType": "easy",
+    "question": "Capital of Maldives",
+    "options": ["Male", "Addu City", "Fuvahmulah", "Kulhudhuffushi"],
+    "correctAnswer": "Male"
+  },
+  {
+    "id": "CAP-154",
+    "examStageType": "easy",
+    "question": "Capital of Congo (DRC)",
+    "options": ["Kinshasa", "Lubumbashi", "Goma", "Matadi"],
+    "correctAnswer": "Kinshasa"
+  },
+  {
+    "id": "CAP-155",
+    "examStageType": "easy",
+    "question": "Capital of Bolivia",
+    "options": ["Sucre", "La Paz", "Santa Cruz", "Cochabamba"],
+    "correctAnswer": "Sucre"
+  },
+  {
+    "id": "CAP-156",
+    "examStageType": "easy",
+    "question": "Capital of Benin",
+    "options": ["Porto-Novo", "Cotonou", "Parakou", "Natitingou"],
+    "correctAnswer": "Porto-Novo"
+  },
+  {
+    "id": "CAP-157",
+    "examStageType": "easy",
+    "question": "Capital of Kazakhstan",
+    "options": ["Astana", "Almaty", "Shymkent", "Karaganda"],
+    "correctAnswer": "Astana"
+  },
+  {
+    "id": "CAP-158",
+    "examStageType": "easy",
+    "question": "Capital of Kyrgyzstan",
+    "options": ["Bishkek", "Osh", "Karakol", "Jalal-Abad"],
+    "correctAnswer": "Bishkek"
+  },
+  {
+    "id": "CAP-159",
+    "examStageType": "easy",
+    "question": "Capital of Spain",
+    "options": ["Madrid", "Barcelona", "Valencia", "Seville"],
+    "correctAnswer": "Madrid"
+  },
+  {
+    "id": "CAP-160",
+    "examStageType": "easy",
+    "question": "Capital of Uzbekistan",
+    "options": ["Tashkent", "Samarkand", "Bukhara", "Khiva"],
+    "correctAnswer": "Tashkent"
+  },
+  {
+    "id": "CAP-161",
+    "examStageType": "easy",
+    "question": "Capital of Turkmenistan",
+    "options": ["Ashgabat", "Mary", "Türkmenabat", "Dashoguz"],
+    "correctAnswer": "Ashgabat"
+  },
+  {
+    "id": "CAP-162",
+    "examStageType": "easy",
+    "question": "Capital of Mongolia",
+    "options": ["Ulaanbaatar", "Erdenet", "Darkhan", "Choibalsan"],
+    "correctAnswer": "Ulaanbaatar"
+  },
+  {
+    "id": "CAP-163",
+    "examStageType": "easy",
+    "question": "Capital of China",
+    "options": ["Beijing", "Shanghai", "Guangzhou", "Shenzhen"],
+    "correctAnswer": "Beijing"
+  },
+  {
+    "id": "CAP-164",
+    "examStageType": "easy",
+    "question": "Capital of Eritrea",
+    "options": ["Asmara", "Keren", "Massawa", "Assab"],
+    "correctAnswer": "Asmara"
+  },
+  {
+    "id": "CAP-165",
+    "examStageType": "easy",
+    "question": "Capital of Mali",
+    "options": ["Bamako", "Sikasso", "Kayes", "Mopti"],
+    "correctAnswer": "Bamako"
+  },
+  {
+    "id": "CAP-166",
+    "examStageType": "easy",
+    "question": "Capital of Dominican Republic",
+    "options": ["Santo Domingo", "Santiago", "La Romana", "Puerto Plata"],
+    "correctAnswer": "Santo Domingo"
+  },
+  {
+    "id": "CAP-167",
+    "examStageType": "easy",
+    "question": "Capital of Laos",
+    "options": ["Vientiane", "Luang Prabang", "Pakse", "Savannakhet"],
+    "correctAnswer": "Vientiane"
+  },
+  {
+    "id": "CAP-168",
+    "examStageType": "easy",
+    "question": "Capital of Azerbaijan",
+    "options": ["Baku", "Ganja", "Sumqayit", "Mingachevir"],
+    "correctAnswer": "Baku"
+  },
+  {
+    "id": "CAP-169",
+    "examStageType": "easy",
+    "question": "Capital of Vietnam",
+    "options": ["Hanoi", "Ho Chi Minh City", "Da Nang", "Hai Phong"],
+    "correctAnswer": "Hanoi"
+  },
+  {
+    "id": "CAP-170",
+    "examStageType": "easy",
+    "question": "Capital of Brunei",
+    "options": ["Bandar Seri Begawan", "Kuala Belait", "Tutong", "Seria"],
+    "correctAnswer": "Bandar Seri Begawan"
+  },
+  {
+    "id": "CAP-171",
+    "examStageType": "easy",
+    "question": "Capital of Philippines",
+    "options": ["Manila", "Cebu", "Davao", "Quezon City"],
+    "correctAnswer": "Manila"
+  },
+  {
+    "id": "CAP-172",
+    "examStageType": "easy",
+    "question": "Capital of East Timor",
+    "options": ["Dili", "Baucau", "Maliana", "Suai"],
+    "correctAnswer": "Dili"
+  },
+  {
+    "id": "CAP-173",
+    "examStageType": "easy",
+    "question": "Capital of Central African Republic",
+    "options": ["Bangui", "Bimbo", "Berbérati", "Kaga-Bandoro"],
+    "correctAnswer": "Bangui"
+  },
+  {
+    "id": "CAP-174",
+    "examStageType": "easy",
+    "question": "Capital of Nicaragua",
+    "options": ["Managua", "León", "Granada", "Masaya"],
+    "correctAnswer": "Managua"
+  },
+  {
+    "id": "CAP-175",
+    "examStageType": "easy",
+    "question": "Capital of Papua New Guinea",
+    "options": ["Port Moresby", "Lae", "Mount Hagen", "Madang"],
+    "correctAnswer": "Port Moresby"
+  },
+  {
+    "id": "CAP-176",
+    "examStageType": "easy",
+    "question": "Capital of Lesotho",
+    "options": ["Maseru", "Teyateyaneng", "Mafeteng", "Butha-Buthe"],
+    "correctAnswer": "Maseru"
+  },
+  {
+    "id": "CAP-177",
+    "examStageType": "easy",
+    "question": "Capital of Solomon Islands",
+    "options": ["Honiara", "Gizo", "Auki", "Munda"],
+    "correctAnswer": "Honiara"
+  },
+  {
+    "id": "CAP-178",
+    "examStageType": "easy",
+    "question": "Capital of Guatemala",
+    "options": ["Guatemala City", "Antigua", "Quetzaltenango", "Escuintla"],
+    "correctAnswer": "Guatemala City"
+  },
+  {
+    "id": "CAP-179",
+    "examStageType": "easy",
+    "question": "Capital of Samoa",
+    "options": ["Apia", "Salelologa", "Vaitele", "Faleula"],
+    "correctAnswer": "Apia"
+  },
+  {
+    "id": "CAP-180",
+    "examStageType": "easy",
+    "question": "Capital of Colombia",
+    "options": ["Bogotá", "Medellín", "Cali", "Barranquilla"],
+    "correctAnswer": "Bogotá"
+  },
+  {
+    "id": "CAP-181",
+    "examStageType": "easy",
+    "question": "Capital of Micronesia",
+    "options": ["Palikir", "Kolonia", "Weno", "Pohnpei"],
+    "correctAnswer": "Palikir"
+  },
+  {
+    "id": "CAP-182",
+    "examStageType": "easy",
+    "question": "Capital of Marshall Islands",
+    "options": ["Majuro", "Ebeye", "Rongelap", "Kwajalein"],
+    "correctAnswer": "Majuro"
+  },
+  {
+    "id": "CAP-183",
+    "examStageType": "easy",
+    "question": "Capital of Palau",
+    "options": ["Ngerulmud", "Koror", "Melekeok", "Babeldaob"],
+    "correctAnswer": "Ngerulmud"
+  },
+  {
+    "id": "CAP-184",
+    "examStageType": "easy",
+    "question": "Capital of Nauru",
+    "options": ["Yaren", "Denigomodu", "Aiwo", "Anetan"],
+    "correctAnswer": "Yaren"
+  },
+  {
+    "id": "CAP-185",
+    "examStageType": "easy",
+    "question": "Capital of Tuvalu",
+    "options": ["Funafuti", "Vaitupu", "Nanumea", "Niulakita"],
+    "correctAnswer": "Funafuti"
+  },
+  {
+    "id": "CAP-186",
+    "examStageType": "easy",
+    "question": "Capital of Kiribati",
+    "options": ["South Tarawa", "Betio", "Bikenibeu", "Kiritimati"],
+    "correctAnswer": "South Tarawa"
+  },
+  {
+    "id": "CAP-187",
+    "examStageType": "easy",
+    "question": "Capital of Tonga",
+    "options": ["Nukualofa", "Neiafu", "Havelu", "Vavau"],
+    "correctAnswer": "Nukualofa"
+  },
+  {
+    "id": "CAP-188",
+    "examStageType": "easy",
+    "question": "Capital of Costa Rica",
+    "options": ["San José", "Alajuela", "Cartago", "Heredia"],
+    "correctAnswer": "San José"
+  },
+  {
+    "id": "CAP-189",
+    "examStageType": "easy",
+    "question": "Capital of Vanuatu",
+    "options": ["Port Vila", "Luganville", "Santo", "Tanna"],
+    "correctAnswer": "Port Vila"
+  },
+  {
+    "id": "CAP-190",
+    "examStageType": "easy",
+    "question": "Capital of Fiji",
+    "options": ["Suva", "Nadi", "Lautoka", "Labasa"],
+    "correctAnswer": "Suva"
+  },
+  {
+    "id": "CAP-191",
+    "examStageType": "easy",
+    "question": "Capital of New Zealand",
+    "options": ["Wellington", "Auckland", "Christchurch", "Hamilton"],
+    "correctAnswer": "Wellington"
+  },
+  {
+    "id": "CAP-192",
+    "examStageType": "easy",
+    "question": "Capital of Australia",
+    "options": ["Canberra", "Sydney", "Melbourne", "Perth"],
+    "correctAnswer": "Canberra"
+  },
+  {
+    "id": "CAP-193",
+    "examStageType": "easy",
+    "question": "Capital of United States",
+    "options": ["Washington D.C.", "New York", "Los Angeles", "Chicago"],
+    "correctAnswer": "Washington D.C."
+  },
+  {
+    "id": "CAP-194",
+    "examStageType": "easy",
+    "question": "Capital of Canada",
+    "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+    "correctAnswer": "Ottawa"
+  },
+  {
+    "id": "CAP-195",
+    "examStageType": "easy",
+    "question": "Capital of Russia",
+    "options": ["Moscow", "Saint Petersburg", "Sochi", "Kazan"],
+    "correctAnswer": "Moscow"
+  },
+  {
+    "id": "CAP-196",
+    "examStageType": "easy",
+    "question": "Capital of Vatican City (Not UN acceptance as a country yet)",
+    "options": ["Rome", "Vatican City", "Florence", "Naples"],
+    "correctAnswer": "Vatican City"
+  },
+  {
+    "id": "CAP-197",
+   "examStageType": "easy",
+    "question": "Capital of Palestine (Not UN acceptance as a country yet)",
+    "options": ["Gaza", "Ramallah", "Jerusalem", "Hebron"],
+    "correctAnswer": "Jerusalem"
+  }
+]
+
+
+
+
+
+
+
+
+
