@@ -2,15 +2,11 @@
   {
     "key": "generalScience",
     "title": "General Science",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_generalScience.json",
-    "perExam": 10,
-    "finalExamQuestions": 20
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_generalScience.json"
   },
   {
     "key": "sports",
     "title": "Sports",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_sports.json",
-    "perExam": 20,
-    "finalExamQuestions": 40
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_sports.json"
   }
 ]

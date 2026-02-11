@@ -10,5 +10,143 @@
     "question": "Which country won the 2019 Cricket World Cup?",
     "options": ["India", "Australia", "England", "Pakistan"],
     "correctAnswer": "England"
+  },
+  {
+    "id": "CR-003",
+    "question": "What is the maximum number of overs in a One Day International match?",
+    "options": ["20", "50", "60", "40"],
+    "correctAnswer": "50"
+  },
+  {
+    "id": "CR-004",
+    "question": "Who is known as the 'God of Cricket'?",
+    "options": [
+      "Brian Lara",
+      "Sachin Tendulkar",
+      "Ricky Ponting",
+      "Jacques Kallis"
+    ],
+    "correctAnswer": "Sachin Tendulkar"
+  },
+  {
+    "id": "CR-005",
+    "question": "Which of these is NOT a cricket format?",
+    "options": ["Test", "ODI", "T20", "Hockey"],
+    "correctAnswer": "Hockey"
+  },
+  {
+    "id": "CR-006",
+    "question": "What does LBW stand for?",
+    "options": [
+      "Leg Before Wicket",
+      "Long Ball Wide",
+      "Last Ball Win",
+      "Leg Batsman Win"
+    ],
+    "correctAnswer": "Leg Before Wicket"
+  },
+  {
+    "id": "CR-007",
+    "question": "Who has the highest individual score in ODI cricket?",
+    "options": [
+      "Rohit Sharma",
+      "Martin Guptill",
+      "Chris Gayle",
+      "Sachin Tendulkar"
+    ],
+    "correctAnswer": "Rohit Sharma"
+  },
+  {
+    "id": "CR-008",
+    "question": "Which country hosted the first Cricket World Cup?",
+    "options": ["England", "Australia", "India", "Pakistan"],
+    "correctAnswer": "England"
+  },
+  {
+    "id": "CR-009",
+    "question": "What is the shape of a cricket ball?",
+    "options": ["Oval", "Sphere", "Cylinder", "Cube"],
+    "correctAnswer": "Sphere"
+  },
+  {
+    "id": "CR-010",
+    "question": "Which bowler took all 10 wickets in a Test innings?",
+    "options": [
+      "Anil Kumble",
+      "Muttiah Muralitharan",
+      "Jim Laker",
+      "Shane Warne"
+    ],
+    "correctAnswer": "Jim Laker"
+  },
+  {
+    "id": "CR-011",
+    "question": "Who is the captain of India in T20 World Cup 2022?",
+    "options": ["Virat Kohli", "Rohit Sharma", "MS Dhoni", "KL Rahul"],
+    "correctAnswer": "Rohit Sharma"
+  },
+  {
+    "id": "CR-012",
+    "question": "What is the distance between the two wickets in cricket?",
+    "options": ["18 yards", "20 yards", "22 yards", "24 yards"],
+    "correctAnswer": "22 yards"
+  },
+  {
+    "id": "CR-013",
+    "question": "Which country has won the most ICC Cricket World Cups?",
+    "options": ["Australia", "India", "Pakistan", "England"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "id": "CR-014",
+    "question": "What is the minimum number of balls to get a strike rate of 100 with 50 runs?",
+    "options": ["50", "40", "60", "25"],
+    "correctAnswer": "50"
+  },
+  {
+    "id": "CR-015",
+    "question": "Who is the fastest bowler to reach 100 ODI wickets?",
+    "options": ["Brett Lee", "Shaun Pollock", "Waqar Younis", "Glenn McGrath"],
+    "correctAnswer": "Glenn McGrath"
+  },
+  {
+    "id": "CR-016",
+    "question": "Which cricket ground is known as 'The Home of Cricket'?",
+    "options": ["Lord's", "Eden Gardens", "MCG", "Old Trafford"],
+    "correctAnswer": "Lord's"
+  },
+  {
+    "id": "CR-017",
+    "question": "Who scored the first double century in ODI cricket?",
+    "options": [
+      "Sachin Tendulkar",
+      "Virender Sehwag",
+      "Rohit Sharma",
+      "Martin Guptill"
+    ],
+    "correctAnswer": "Sachin Tendulkar"
+  },
+  {
+    "id": "CR-018",
+    "question": "What is the weight of a standard cricket ball?",
+    "options": ["140-150g", "155-165g", "160-170g", "120-130g"],
+    "correctAnswer": "155-165g"
+  },
+  {
+    "id": "CR-019",
+    "question": "Which bowler has taken the most wickets in Test cricket?",
+    "options": [
+      "Muttiah Muralitharan",
+      "Shane Warne",
+      "Anil Kumble",
+      "James Anderson"
+    ],
+    "correctAnswer": "Muttiah Muralitharan"
+  },
+  {
+    "id": "CR-020",
+    "question": "Which country won the first T20 World Cup in 2007?",
+    "options": ["India", "Pakistan", "Australia", "England"],
+    "correctAnswer": "India"
   }
 ]

@@ -1,14 +1,127 @@
 [
   {
-    "id": "CR-001",
-    "question": "How many players are in a cricket team?",
-    "options": ["9", "10", "11", "12"],
-    "correctAnswer": "11"
+    "id": "BI-001",
+    "question": "What is the basic unit of life?",
+    "options": ["Cell", "Atom", "Molecule", "Organ"],
+    "correctAnswer": "Cell"
   },
   {
-    "id": "CR-002",
-    "question": "Which country won the 2019 Cricket World Cup?",
-    "options": ["India", "Australia", "England", "Pakistan"],
-    "correctAnswer": "England"
+    "id": "BI-002",
+    "question": "Which process do plants use to make food?",
+    "options": ["Respiration", "Photosynthesis", "Transpiration", "Digestion"],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "id": "BI-003",
+    "question": "Which organ pumps blood in the human body?",
+    "options": ["Lungs", "Liver", "Heart", "Kidney"],
+    "correctAnswer": "Heart"
+  },
+  {
+    "id": "BI-004",
+    "question": "Which blood cells help fight infections?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "correctAnswer": "White blood cells"
+  },
+  {
+    "id": "BI-005",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+    "correctAnswer": "Mitochondria"
+  },
+  {
+    "id": "BI-006",
+    "question": "Which macromolecule stores genetic information?",
+    "options": ["Protein", "Carbohydrate", "DNA", "Lipid"],
+    "correctAnswer": "DNA"
+  },
+  {
+    "id": "BI-007",
+    "question": "Which part of the plant conducts water?",
+    "options": ["Phloem", "Xylem", "Stem", "Leaf"],
+    "correctAnswer": "Xylem"
+  },
+  {
+    "id": "BI-008",
+    "question": "Which gas do plants release during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": "BI-009",
+    "question": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin D", "Vitamin K"],
+    "correctAnswer": "Vitamin D"
+  },
+  {
+    "id": "BI-010",
+    "question": "Which organ is responsible for filtering blood?",
+    "options": ["Heart", "Kidney", "Liver", "Lungs"],
+    "correctAnswer": "Kidney"
+  },
+  {
+    "id": "BI-011",
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Skin", "Liver", "Brain"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "id": "BI-012",
+    "question": "Which type of blood circulates from the heart to the lungs?",
+    "options": ["Oxygenated", "Deoxygenated", "Mixed", "None"],
+    "correctAnswer": "Deoxygenated"
+  },
+  {
+    "id": "BI-013",
+    "question": "Which biomolecule speeds up chemical reactions in the body?",
+    "options": ["Protein", "Enzyme", "Carbohydrate", "Lipid"],
+    "correctAnswer": "Enzyme"
+  },
+  {
+    "id": "BI-014",
+    "question": "Which kingdom do mushrooms belong to?",
+    "options": ["Plantae", "Animalia", "Fungi", "Protista"],
+    "correctAnswer": "Fungi"
+  },
+  {
+    "id": "BI-015",
+    "question": "Which system in humans controls hormones?",
+    "options": [
+      "Nervous system",
+      "Endocrine system",
+      "Circulatory system",
+      "Digestive system"
+    ],
+    "correctAnswer": "Endocrine system"
+  },
+  {
+    "id": "BI-016",
+    "question": "Which type of blood cell helps in clotting?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "correctAnswer": "Platelets"
+  },
+  {
+    "id": "BI-017",
+    "question": "Which organ stores bile?",
+    "options": ["Liver", "Gallbladder", "Pancreas", "Stomach"],
+    "correctAnswer": "Gallbladder"
+  },
+  {
+    "id": "BI-018",
+    "question": "Which part of the brain controls balance and coordination?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+    "correctAnswer": "Cerebellum"
+  },
+  {
+    "id": "BI-019",
+    "question": "Which type of reproduction involves one parent?",
+    "options": ["Sexual", "Asexual", "Both", "None"],
+    "correctAnswer": "Asexual"
+  },
+  {
+    "id": "BI-020",
+    "question": "Which blood group is called the universal donor?",
+    "options": ["A", "B", "AB", "O"],
+    "correctAnswer": "O"
   }
 ]

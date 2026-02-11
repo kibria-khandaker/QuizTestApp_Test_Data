@@ -1,14 +1,142 @@
 [
   {
-    "id": "CR-001",
-    "question": "How many players are in a cricket team?",
-    "options": ["9", "10", "11", "12"],
-    "correctAnswer": "11"
+    "id": "PH-001",
+    "question": "What is the speed of light in vacuum?",
+    "options": [
+      "3 x 10^8 m/s",
+      "1.5 x 10^8 m/s",
+      "3 x 10^6 m/s",
+      "1 x 10^7 m/s"
+    ],
+    "correctAnswer": "3 x 10^8 m/s"
   },
   {
-    "id": "CR-002",
-    "question": "Which country won the 2019 Cricket World Cup?",
-    "options": ["India", "Australia", "England", "Pakistan"],
-    "correctAnswer": "England"
+    "id": "PH-002",
+    "question": "Who formulated the law of universal gravitation?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "id": "PH-003",
+    "question": "What is the unit of electric current?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "correctAnswer": "Ampere"
+  },
+  {
+    "id": "PH-004",
+    "question": "Which particle has a negative charge?",
+    "options": ["Proton", "Neutron", "Electron", "Photon"],
+    "correctAnswer": "Electron"
+  },
+  {
+    "id": "PH-005",
+    "question": "What is the acceleration due to gravity on Earth?",
+    "options": ["9.8 m/s²", "10 m/s²", "8.9 m/s²", "9.2 m/s²"],
+    "correctAnswer": "9.8 m/s²"
+  },
+  {
+    "id": "PH-006",
+    "question": "Who developed the theory of relativity?",
+    "options": ["Newton", "Einstein", "Faraday", "Planck"],
+    "correctAnswer": "Einstein"
+  },
+  {
+    "id": "PH-007",
+    "question": "What is the SI unit of force?",
+    "options": ["Newton", "Joule", "Watt", "Pascal"],
+    "correctAnswer": "Newton"
+  },
+  {
+    "id": "PH-008",
+    "question": "Which phenomenon explains bending of light?",
+    "options": ["Reflection", "Refraction", "Diffraction", "Interference"],
+    "correctAnswer": "Refraction"
+  },
+  {
+    "id": "PH-009",
+    "question": "Who is known as the father of modern physics?",
+    "options": ["Newton", "Galileo", "Einstein", "Max Planck"],
+    "correctAnswer": "Galileo"
+  },
+  {
+    "id": "PH-010",
+    "question": "What is the unit of resistance?",
+    "options": ["Volt", "Ampere", "Ohm", "Coulomb"],
+    "correctAnswer": "Ohm"
+  },
+  {
+    "id": "PH-011",
+    "question": "Which law states that energy cannot be created or destroyed?",
+    "options": [
+      "Newton's First Law",
+      "Law of Conservation of Energy",
+      "Ohm's Law",
+      "Faraday's Law"
+    ],
+    "correctAnswer": "Law of Conservation of Energy"
+  },
+  {
+    "id": "PH-012",
+    "question": "What is the symbol for gravitational constant?",
+    "options": ["G", "g", "R", "F"],
+    "correctAnswer": "G"
+  },
+  {
+    "id": "PH-013",
+    "question": "Which type of lens is thicker at the center?",
+    "options": ["Concave", "Convex", "Plane", "Cylindrical"],
+    "correctAnswer": "Convex"
+  },
+  {
+    "id": "PH-014",
+    "question": "Who discovered X-rays?",
+    "options": ["Marie Curie", "Wilhelm Röntgen", "Einstein", "Faraday"],
+    "correctAnswer": "Wilhelm Röntgen"
+  },
+  {
+    "id": "PH-015",
+    "question": "Which gas has the highest thermal conductivity?",
+    "options": ["Helium", "Hydrogen", "Oxygen", "Nitrogen"],
+    "correctAnswer": "Hydrogen"
+  },
+  {
+    "id": "PH-016",
+    "question": "Which phenomenon causes the sky to appear blue?",
+    "options": ["Reflection", "Diffraction", "Scattering", "Refraction"],
+    "correctAnswer": "Scattering"
+  },
+  {
+    "id": "PH-017",
+    "question": "What is the SI unit of power?",
+    "options": ["Joule", "Watt", "Newton", "Volt"],
+    "correctAnswer": "Watt"
+  },
+  {
+    "id": "PH-018",
+    "question": "Which scientist proposed the photoelectric effect?",
+    "options": ["Newton", "Einstein", "Planck", "Faraday"],
+    "correctAnswer": "Einstein"
+  },
+  {
+    "id": "PH-019",
+    "question": "What type of wave is sound?",
+    "options": ["Electromagnetic", "Longitudinal", "Transverse", "Surface"],
+    "correctAnswer": "Longitudinal"
+  },
+  {
+    "id": "PH-020",
+    "question": "What is the mass of an electron?",
+    "options": [
+      "9.11 x 10^-31 kg",
+      "1.67 x 10^-27 kg",
+      "1.99 x 10^-26 kg",
+      "9.11 x 10^-29 kg"
+    ],
+    "correctAnswer": "9.11 x 10^-31 kg"
   }
 ]

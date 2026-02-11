@@ -1,20 +1,122 @@
 [
   {
     "id": "FB-001",
-    "question": "How many players are in a cricket team?",
+    "question": "How many players are on a football team on the field?",
     "options": ["9", "10", "11", "12"],
     "correctAnswer": "11"
   },
   {
     "id": "FB-002",
-    "question": "Which country won the 2019 Cricket World Cup?",
-    "options": ["India", "Australia", "England", "Pakistan"],
-    "correctAnswer": "England"
+    "question": "Which country won the FIFA World Cup 2018?",
+    "options": ["Germany", "France", "Brazil", "Argentina"],
+    "correctAnswer": "France"
   },
   {
     "id": "FB-003",
-    "question": "Which country won the 2019 Cricket World Cup?",
-    "options": ["India", "Australia", "England", "Pakistan"],
-    "correctAnswer": "England"
+    "question": "Which player is known as CR7?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Mbappé"],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "id": "FB-004",
+    "question": "What is the duration of a standard football match?",
+    "options": ["60 mins", "90 mins", "100 mins", "120 mins"],
+    "correctAnswer": "90 mins"
+  },
+  {
+    "id": "FB-005",
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": ["Germany", "Italy", "Brazil", "Argentina"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "FB-006",
+    "question": "Who won the Ballon d'Or 2022?",
+    "options": ["Messi", "Ronaldo", "Mbappé", "Modric"],
+    "correctAnswer": "Messi"
+  },
+  {
+    "id": "FB-007",
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "options": ["Real Madrid", "Barcelona", "AC Milan", "Liverpool"],
+    "correctAnswer": "Real Madrid"
+  },
+  {
+    "id": "FB-008",
+    "question": "Who is known as 'The King of Football'?",
+    "options": ["Maradona", "Pele", "Messi", "Ronaldo"],
+    "correctAnswer": "Pele"
+  },
+  {
+    "id": "FB-009",
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "options": ["Brazil", "Germany", "Russia", "South Africa"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "FB-010",
+    "question": "What is the standard size of a football pitch?",
+    "options": ["90-120m", "100-110m", "105-68m", "100-70m"],
+    "correctAnswer": "105-68m"
+  },
+  {
+    "id": "FB-011",
+    "question": "Which country won Euro 2020?",
+    "options": ["Italy", "England", "Spain", "France"],
+    "correctAnswer": "Italy"
+  },
+  {
+    "id": "FB-012",
+    "question": "Which player scored the most goals in a single World Cup?",
+    "options": ["Ronaldo", "Müller", "Fontaine", "Klose"],
+    "correctAnswer": "Fontaine"
+  },
+  {
+    "id": "FB-013",
+    "question": "Which club does Lionel Messi play for in 2023?",
+    "options": ["PSG", "Barcelona", "Inter Miami", "Juventus"],
+    "correctAnswer": "Inter Miami"
+  },
+  {
+    "id": "FB-014",
+    "question": "What is the maximum number of substitutions allowed in FIFA matches?",
+    "options": ["3", "5", "4", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "FB-015",
+    "question": "Which country won the first FIFA World Cup?",
+    "options": ["Uruguay", "Italy", "Brazil", "Argentina"],
+    "correctAnswer": "Uruguay"
+  },
+  {
+    "id": "FB-016",
+    "question": "Who is the all-time top scorer in La Liga?",
+    "options": ["Messi", "Cristiano Ronaldo", "Telmo Zarra", "Raúl"],
+    "correctAnswer": "Messi"
+  },
+  {
+    "id": "FB-017",
+    "question": "Which country is called 'The Azzurri'?",
+    "options": ["Italy", "France", "Brazil", "Germany"],
+    "correctAnswer": "Italy"
+  },
+  {
+    "id": "FB-018",
+    "question": "Which player has the most international goals?",
+    "options": ["Cristiano Ronaldo", "Ali Daei", "Messi", "Pelé"],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "id": "FB-019",
+    "question": "Which goalkeeper has the most clean sheets in Premier League history?",
+    "options": ["Petr Čech", "David De Gea", "Ederson", "Van der Sar"],
+    "correctAnswer": "Petr Čech"
+  },
+  {
+    "id": "FB-020",
+    "question": "Which country won Copa America 2021?",
+    "options": ["Argentina", "Brazil", "Chile", "Uruguay"],
+    "correctAnswer": "Argentina"
   }
 ]
