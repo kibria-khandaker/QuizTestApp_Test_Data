@@ -1,36 +1,15 @@
 [
   {
-    "key": "Cricket",
+    "key": "cricket",
     "title": "Cricket",
-    "url": "xxxxxxxx",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/main/Sports/cricket.json",
     "perExam": 10,
     "finalExamQuestions": 20
   },
   {
-    "key": "Football",
+    "key": "football",
     "title": "Football",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "OlympicGames",
-    "title": "Olympic Games",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "WorldCups",
-    "title": "World Cups",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
-  },
-  {
-    "key": "SportsRecords",
-    "title": "Sports Records",
-    "url": "xxxxxxxx",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/main/Sports/football.json",
     "perExam": 15,
     "finalExamQuestions": 30
   }
