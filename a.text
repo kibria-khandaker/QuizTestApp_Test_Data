@@ -1,0 +1,61 @@
+for name in "HardwareSoftware" "OperatingSystems" "MSOffice" "InternetNetworking" "CyberSecurityBasics" "ComputerAbbreviations"
+do
+  touch "$name.json"
+done
+
+
+----------------------------------
+# Create Main Folders
+mkdir -p "7️⃣ Programming & Coding" \
+         "8️⃣ General Science" \
+         "9️⃣ Space & Astronomy" \
+         "🔟 Math & Logical Reasoning"
+
+# Create JSON files inside Programming & Coding
+for file in "Programming Logic" "HTML & CSS" "JavaScript Basics" "Python Basics" "C_C++ Basics" "Output Based Questions"
+do
+  echo '[{ "message": "This file is created for QuizTestApp. Questions will be added here soon." }]' > "7️⃣ Programming & Coding/$file.json"
+done
+
+# Create JSON files inside General Science
+for file in "Physics" "Chemistry" "Biology" "Human Body" "Environmental Science" "Scientific Discoveries"
+do
+  echo '[{ "message": "This file is created for QuizTestApp. Questions will be added here soon." }]' > "8️⃣ General Science/$file.json"
+done
+
+# Create JSON files inside Space & Astronomy
+for file in "Solar System" "Planets & Moons" "Space Missions" "NASA & ISRO" "Black Holes & Galaxies"
+do
+  echo '[{ "message": "This file is created for QuizTestApp. Questions will be added here soon." }]' > "9️⃣ Space & Astronomy/$file.json"
+done
+
+# Create JSON files inside Math & Logical Reasoning
+for file in "Basic Mathematics" "Percentage & Ratio" "Time & Work" "Number Series" "Logical Reasoning" "IQ Questions"
+do
+  echo '[{ "message": "This file is created for QuizTestApp. Questions will be added here soon." }]' > "🔟 Math & Logical Reasoning/$file.json"
+done
+
+
+-------------------------------------------------------
+
+mkdir -p ProgrammingCoding GeneralScience SpaceAndAstronomy MathAndLogicalReasoning
+
+for file in ProgrammingLogic HTML_CSS JavaScriptBasics PythonBasics "C_C++_Basics" OutputBasedQuestions
+do
+  echo '[{ "message": "This file is created for QuizTestApp. Questions will be added here soon." }]' > "ProgrammingCoding/$file.json"
+done
+
+for file in Physics Chemistry Biology HumanBody EnvironmentalScience ScientificDiscoveries
+do
+  echo '[{ "message": "This file is created for QuizTestApp. Questions will be added here soon." }]' > "GeneralScience/$file.json"
+done
+
+for file in SolarSystem PlanetsAndMoons SpaceMissions NASA_ISRO BlackHolesAndGalaxies
+do
+  echo '[{ "message": "This file is created for QuizTestApp. Questions will be added here soon." }]' > "SpaceAndAstronomy/$file.json"
+done
+
+for file in BasicMathematics PercentageRatio TimeAndWork NumberSeries LogicalReasoning IQ_Questions
+do
+  echo '[{ "message": "This file is created for QuizTestApp. Questions will be added here soon." }]' > "MathAndLogicalReasoning/$file.json"
+done
