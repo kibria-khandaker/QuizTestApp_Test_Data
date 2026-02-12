@@ -110,8 +110,8 @@
   {
     "id": "FB-019",
     "question": "Which goalkeeper has the most clean sheets in Premier League history?",
-    "options": ["Petr Čech", "David De Gea", "Ederson", "Van der Sar"],
-    "correctAnswer": "Petr Čech"
+    "options": ["Petr Cech", "David De Gea", "Ederson", "Van der Sar"],
+    "correctAnswer": "Petr Cech"
   },
   {
     "id": "FB-020",
