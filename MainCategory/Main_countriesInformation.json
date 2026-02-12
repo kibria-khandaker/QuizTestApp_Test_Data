@@ -1,37 +1,16 @@
 [
   {
-    "key": "importantFacts",
-    "title": "Capital of Countries",
-    "url": "xxxxxxxx",
+    "key": "capitalOfCountries",
+    "title": "Capital Of Countries",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/CountriesInformation/CapitalOfCountries.json",
     "perExam": 10,
-    "finalExamQuestions": 20
+    "finalExamQuestions": 25
   },
   {
-    "key": "worldRecords",
-    "title": "Currency of Countries",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "famousPersonalities",
-    "title": "Famous Personalities",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "internationalOrganizations",
-    "title": "International Organizations",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
-  },
-  {
-    "key": "awardsAndHonours",
-    "title": "Awards & Honours",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
+    "key": "currencyOfCountries",
+    "title": "Currency Of Countries",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/CountriesInformation/CurrencyOfCountries.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
   }
 ]

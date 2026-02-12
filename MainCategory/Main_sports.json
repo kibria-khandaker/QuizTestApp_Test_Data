@@ -14,6 +14,20 @@
     "finalExamQuestions": 30
   },
   {
+    "key": "OlympicGames",
+    "title": "OlympicGames",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Sports/OlympicGames.json",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "SportsRecords",
+    "title": "SportsRecords",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Sports/SportsRecords.json",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
     "key": "worldCups",
     "title": "WorldCups",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Sports/WorldCups.json",

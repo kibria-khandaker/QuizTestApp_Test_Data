@@ -1,44 +1,46 @@
 [
   {
-    "key": "HardwareSoftware",
-    "title": "Hardware & Software",
-    "url": "xxxxxxxx",
+    "key": "cricket",
+    "title": "Cricket",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/ComputerAbbreviations.json",
     "perExam": 10,
-    "finalExamQuestions": 20
+    "finalExamQuestions": 25
   },
   {
-    "key": "OperatingSystems",
-    "title": "Operating Systems",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "MS_Office",
-    "title": "MS Office",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "InternetNetworking",
-    "title": "Internet & Networking",
-    "url": "xxxxxxxx",
+    "key": "football",
+    "title": "Football",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/CyberSecurityBasics.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
-    "key": "CyberSecurityBasics",
-    "title": "Cyber Security Basics",
-    "url": "xxxxxxxx",
+    "key": "worldCups",
+    "title": "WorldCups",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/HardwareSoftware.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
-    "key": "ComputerAbbreviations",
-    "title": "Computer Abbreviations",
-    "url": "xxxxxxxx",
+    "key": "cricket",
+    "title": "Cricket",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/InternetNetworking.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+  {
+    "key": "football",
+    "title": "Football",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/MS_Office.json",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "worldCups",
+    "title": "WorldCups",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/OperatingSystems.json",
     "perExam": 15,
     "finalExamQuestions": 30
   }
 ]
+
+

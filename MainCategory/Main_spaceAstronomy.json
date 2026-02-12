@@ -1,37 +1,37 @@
 [
-  {
-    "key": "Solar System",
-    "title": "Solar System",
-    "url": "xxxxxxxx",
-    "perExam": 10,
-    "finalExamQuestions": 20
-  },
-  {
-    "key": "PlanetsMoons",
-    "title": "Planets & Moons",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "SpaceMissions",
-    "title": "Space Missions",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "NASA_ISRO",
-    "title": "NASA & ISRO",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
-  },
-  {
+      {
     "key": "BlackHolesGalaxies",
-    "title": "Black Holes & Galaxies",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
+    "title": "BlackHolesGalaxies",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/SpaceAstronomy/BlackHolesGalaxies.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+        {
+    "key": "NASA_ISRO",
+    "title": "NASA_ISRO",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/SpaceAstronomy/NASA_ISRO.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+        {
+    "key": "PlanetsMoons",
+    "title": "PlanetsMoons",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/SpaceAstronomy/PlanetsMoons.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+        {
+    "key": "SolarSystem",
+    "title": "SolarSystem",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/SpaceAstronomy/SolarSystem.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+        {
+    "key": "SpaceMissions",
+    "title": "SpaceMissions",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/SpaceAstronomy/SpaceMissions.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
   }
 ]

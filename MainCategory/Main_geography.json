@@ -1,37 +1,37 @@
 [
   {
-    "key": "CountriesCapitals",
-    "title": "Countries & Capitals",
-    "url": "xxxxxxxx",
+    "key": "awardsAndHonours",
+    "title": "awards And Honours",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Geography/ClimateEnvironment.json",
     "perExam": 10,
-    "finalExamQuestions": 20
+    "finalExamQuestions": 25
   },
-  {
-    "key": "WorldFlags",
-    "title": "World Flags",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
+    {
+    "key": "CountriesCapitals",
+    "title": "Countries Capitals",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Geography/CountriesCapitals.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
   },
-  {
-    "key": "RiversOceans",
-    "title": "Rivers & Oceans",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
+    {
     "key": "MountainsDeserts",
-    "title": "Mountains & Deserts",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
+    "title": "Mountains Deserts",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Geography/MountainsDeserts.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
   },
-  {
-    "key": "ClimateEnvironment",
-    "title": "Climate & Environment",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
+    {
+    "key": "RiversOceans",
+    "title": "Rivers Oceans",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Geography/RiversOceans.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+    {
+    "key": "WorldFlags",
+    "title": "WorldFlags",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Geography/WorldFlags.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
   }
 ]

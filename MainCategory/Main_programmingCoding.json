@@ -1,44 +1,44 @@
 [
   {
-    "key": "ProgrammingLogic",
-    "title": "Programming Logic",
-    "url": "xxxxxxxx",
-    "perExam": 10,
-    "finalExamQuestions": 20
-  },
-  {
-    "key": "HTML_CSS",
-    "title": "HTML & CSS",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "JavaScriptBasics",
-    "title": "JavaScript Basics",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "PythonBasics",
-    "title": "Python Basics",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
-  },
-  {
     "key": "C_Basics",
-    "title": "C / C++ Basics",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
+    "title": "C_Basics",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ProgrammingCoding/C_Basics.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
   },
-  {
+    {
+    "key": "HTML_CSS",
+    "title": "HTML_CSS",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ProgrammingCoding/HTML_CSS.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+    {
+    "key": "JavaScriptBasics",
+    "title": "JavaScriptBasics",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ProgrammingCoding/JavaScriptBasics.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+    {
     "key": "OutputBasedQuestions",
-    "title": "Output Based Questions",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
+    "title": "OutputBasedQuestions",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ProgrammingCoding/OutputBasedQuestions.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+    {
+    "key": "ProgrammingLogic",
+    "title": "ProgrammingLogic",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ProgrammingCoding/ProgrammingLogic.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+    {
+    "key": "PythonBasics",
+    "title": "PythonBasics",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ProgrammingCoding/PythonBasics.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
   }
 ]

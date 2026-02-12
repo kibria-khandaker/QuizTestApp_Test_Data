@@ -1,37 +1,37 @@
 [
-  {
-    "key": "MajorReligions",
-    "title": "Major Religions",
-    "url": "xxxxxxxx",
-    "perExam": 10,
-    "finalExamQuestions": 20
-  },
-  {
-    "key": "ReligiousBooks",
-    "title": "Religious Books",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
-    "key": "FestivalsAroundTheWorld",
-    "title": "Festivals Around the World",
-    "url": "xxxxxxxx",
-    "perExam": 20,
-    "finalExamQuestions": 40
-  },
-  {
+    {
     "key": "CulturalHeritage",
-    "title": "Cultural Heritage",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
+    "title": "CulturalHeritage",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ReligionCulture/CulturalHeritage.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
   },
-  {
+      {
+    "key": "FestivalsAroundTheWorld",
+    "title": "FestivalsAroundTheWorld",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ReligionCulture/FestivalsAroundTheWorld.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+      {
     "key": "HistoricalReligiousSites",
-    "title": "Historical Religious Sites",
-    "url": "xxxxxxxx",
-    "perExam": 15,
-    "finalExamQuestions": 30
+    "title": "HistoricalReligiousSites",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ReligionCulture/HistoricalReligiousSites.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+      {
+    "key": "MajorReligions",
+    "title": "MajorReligions",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ReligionCulture/MajorReligions.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
+  },
+      {
+    "key": "ReligiousBooks",
+    "title": "ReligiousBooks",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ReligionCulture/ReligiousBooks.json",
+    "perExam": 10,
+    "finalExamQuestions": 25
   }
 ]
