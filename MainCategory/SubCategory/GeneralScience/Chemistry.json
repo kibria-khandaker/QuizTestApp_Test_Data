@@ -1,30 +1,902 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "CH-001",
+    "question": "What is the chemical symbol of Sodium?",
+    "options": ["So", "Na", "Sd", "Sn"],
+    "correctAnswer": "Na"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "CH-002",
+    "question": "Which state of matter has a fixed volume but no fixed shape?",
+    "options": ["Solid", "Gas", "Plasma", "Liquid"],
+    "correctAnswer": "Liquid"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "CH-003",
+    "question": "What is the pH value of a neutral solution at 25°C?",
+    "options": ["0", "7", "14", "5"],
+    "correctAnswer": "7"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "CH-004",
+    "question": "Which gas is released when zinc reacts with hydrochloric acid?",
+    "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "correctAnswer": "Hydrogen"
+  },
+  {
+    "id": "CH-005",
+    "question": "Which element has the highest electronegativity?",
+    "options": ["Oxygen", "Chlorine", "Nitrogen", "Fluorine"],
+    "correctAnswer": "Fluorine"
+  },
+  {
+    "id": "CH-006",
+    "question": "What type of bond is formed by sharing of electrons?",
+    "options": ["Ionic bond", "Metallic bond", "Covalent bond", "Hydrogen bond"],
+    "correctAnswer": "Covalent bond"
+  },
+  {
+    "id": "CH-007",
+    "question": "Which acid is present in vinegar?",
+    "options": ["Citric acid", "Acetic acid", "Sulfuric acid", "Formic acid"],
+    "correctAnswer": "Acetic acid"
+  },
+  {
+    "id": "CH-008",
+    "question": "What is the molar mass of water (H₂O)?",
+    "options": ["16 g/mol", "17 g/mol", "18 g/mol", "20 g/mol"],
+    "correctAnswer": "18 g/mol"
+  },
+  {
+    "id": "CH-009",
+    "question": "Which process separates components based on boiling points?",
+    "options": ["Filtration", "Chromatography", "Distillation", "Sublimation"],
+    "correctAnswer": "Distillation"
+  },
+  {
+    "id": "CH-010",
+    "question": "Which element is used as a moderator in nuclear reactors?",
+    "options": ["Uranium", "Graphite", "Plutonium", "Thorium"],
+    "correctAnswer": "Graphite"
+  },
+  {
+    "id": "CH-011",
+    "question": "What is the oxidation number of sulfur in H₂SO₄?",
+    "options": ["+4", "+6", "+2", "-2"],
+    "correctAnswer": "+6"
+  },
+  {
+    "id": "CH-012",
+    "question": "Which law states that mass is neither created nor destroyed?",
+    "options": ["Law of definite proportions", "Avogadro's law", "Law of conservation of mass", "Boyle's law"],
+    "correctAnswer": "Law of conservation of mass"
+  },
+  {
+    "id": "CH-013",
+    "question": "Which metal is extracted by electrolysis of its molten ore?",
+    "options": ["Iron", "Copper", "Aluminium", "Zinc"],
+    "correctAnswer": "Aluminium"
+  },
+  {
+    "id": "CH-014",
+    "question": "What is the hybridization of carbon in methane (CH₄)?",
+    "options": ["sp", "sp²", "sp³", "dsp²"],
+    "correctAnswer": "sp³"
+  },
+  {
+    "id": "CH-015",
+    "question": "Which indicator turns pink in basic solution?",
+    "options": ["Methyl orange", "Litmus", "Phenolphthalein", "Universal indicator"],
+    "correctAnswer": "Phenolphthalein"
+  },
+  {
+    "id": "CH-016",
+    "question": "What is the main ore of iron?",
+    "options": ["Bauxite", "Hematite", "Galena", "Cinnabar"],
+    "correctAnswer": "Hematite"
+  },
+  {
+    "id": "CH-017",
+    "question": "Which compound shows hydrogen bonding?",
+    "options": ["HCl", "NH₃", "CH₄", "CO₂"],
+    "correctAnswer": "NH₃"
+  },
+  {
+    "id": "CH-018",
+    "question": "What is the IUPAC name of CH₃–CH₂–OH?",
+    "options": ["Methanol", "Propanol", "Ethanol", "Ethanal"],
+    "correctAnswer": "Ethanol"
+  },
+  {
+    "id": "CH-019",
+    "question": "Which gas is responsible for the greenhouse effect most significantly?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "id": "CH-020",
+    "question": "Which quantum number determines the shape of an orbital?",
+    "options": ["Principal", "Spin", "Magnetic", "Azimuthal"],
+    "correctAnswer": "Azimuthal"
+  },
+  {
+    "id": "CH-021",
+    "question": "What type of reaction is the rusting of iron?",
+    "options": ["Reduction", "Displacement", "Redox", "Neutralization"],
+    "correctAnswer": "Redox"
+  },
+  {
+    "id": "CH-022",
+    "question": "Which element has the largest atomic radius in Group 1?",
+    "options": ["Lithium", "Sodium", "Potassium", "Cesium"],
+    "correctAnswer": "Cesium"
+  },
+  {
+    "id": "CH-023",
+    "question": "Which technique is used to determine molecular mass of polymers?",
+    "options": ["Mass spectrometry", "X-ray diffraction", "Osmometry", "Chromatography"],
+    "correctAnswer": "Osmometry"
+  },
+  {
+    "id": "CH-024",
+    "question": "What is the coordination number of iron in [Fe(CN)₆]⁴⁻?",
+    "options": ["4", "2", "8", "6"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "CH-025",
+    "question": "Which compound acts as both acid and base?",
+    "options": ["NaCl", "NH₄Cl", "H₂O", "HCl"],
+    "correctAnswer": "H₂O"
+  },
+  {
+    "id": "CH-026",
+    "question": "Which catalyst is used in the Haber process?",
+    "options": ["Nickel", "Platinum", "Iron", "Copper"],
+    "correctAnswer": "Iron"
+  },
+  {
+    "id": "CH-027",
+    "question": "What is the geometry of SF₆ molecule?",
+    "options": ["Trigonal planar", "Octahedral", "Tetrahedral", "Linear"],
+    "correctAnswer": "Octahedral"
+  },
+  {
+    "id": "CH-028",
+    "question": "Which principle explains the uncertainty in position and momentum?",
+    "options": ["Aufbau principle", "Pauli exclusion principle", "Heisenberg uncertainty principle", "Hund's rule"],
+    "correctAnswer": "Heisenberg uncertainty principle"
+  },
+  {
+    "id": "CH-029",
+    "question": "Which compound gives a positive Tollens' test?",
+    "options": ["Ketone", "Alcohol", "Aldehyde", "Ether"],
+    "correctAnswer": "Aldehyde"
+  },
+  {
+    "id": "CH-030",
+    "question": "What is the entropy change when a solid melts?",
+    "options": ["Negative", "Zero", "Positive", "Infinite"],
+    "correctAnswer": "Positive"
+  },
+  {
+    "id": "CH-031",
+    "question": "Which element has the highest first ionization energy in Period 2?",
+    "options": ["Oxygen", "Nitrogen", "Fluorine", "Neon"],
+    "correctAnswer": "Neon"
+  },
+  {
+    "id": "CH-032",
+    "question": "What is the SI unit of rate constant for a first-order reaction?",
+    "options": ["mol L⁻¹ s⁻¹", "s⁻¹", "L mol⁻¹ s⁻¹", "mol² L⁻² s⁻¹"],
+    "correctAnswer": "s⁻¹"
+  },
+  {
+    "id": "CH-033",
+    "question": "Which compound is used as an antifreeze in car radiators?",
+    "options": ["Methanol", "Glycerol", "Ethylene glycol", "Ethanol"],
+    "correctAnswer": "Ethylene glycol"
+  },
+  {
+    "id": "CH-034",
+    "question": "What is the shape of the BF₃ molecule?",
+    "options": ["Trigonal planar", "Tetrahedral", "Linear", "Trigonal pyramidal"],
+    "correctAnswer": "Trigonal planar"
+  },
+  {
+    "id": "CH-035",
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Gallium", "Mercury", "Cesium", "Sodium"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "CH-036",
+    "question": "Which rule explains the maximum number of electrons in an orbital?",
+    "options": ["Hund's rule", "Aufbau principle", "Bohr's postulate", "Pauli exclusion principle"],
+    "correctAnswer": "Pauli exclusion principle"
+  },
+  {
+    "id": "CH-037",
+    "question": "Which substance is used to dry ammonia gas?",
+    "options": ["Concentrated sulfuric acid", "Quicklime", "Phosphorus pentoxide", "Calcium chloride"],
+    "correctAnswer": "Quicklime"
+  },
+  {
+    "id": "CH-038",
+    "question": "What is the common name of Na₂CO₃·10H₂O?",
+    "options": ["Washing soda", "Baking soda", "Caustic soda", "Bleaching powder"],
+    "correctAnswer": "Washing soda"
+  },
+  {
+    "id": "CH-039",
+    "question": "Which type of isomerism is shown by glucose and fructose?",
+    "options": ["Geometrical", "Optical", "Functional", "Chain"],
+    "correctAnswer": "Functional"
+  },
+  {
+    "id": "CH-040",
+    "question": "Which electrolyte is used in a lead-acid battery?",
+    "options": ["Nitric acid", "Hydrochloric acid", "Sulfuric acid", "Acetic acid"],
+    "correctAnswer": "Sulfuric acid"
+  },
+  {
+    "id": "CH-041",
+    "question": "What is the oxidation state of chromium in K₂Cr₂O₇?",
+    "options": ["+3", "+6", "+2", "+4"],
+    "correctAnswer": "+6"
+  },
+  {
+    "id": "CH-042",
+    "question": "Which gas is produced during photosynthesis?",
+    "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": "CH-043",
+    "question": "Which reagent is used to test unsaturation in organic compounds?",
+    "options": ["Fehling’s solution", "Bromine water", "Tollens’ reagent", "Benedict’s solution"],
+    "correctAnswer": "Bromine water"
+  },
+  {
+    "id": "CH-044",
+    "question": "Which element acts as a p-block element?",
+    "options": ["Sodium", "Calcium", "Aluminium", "Iron"],
+    "correctAnswer": "Aluminium"
+  },
+  {
+    "id": "CH-045",
+    "question": "What is the enthalpy change of an exothermic reaction?",
+    "options": ["Zero", "Positive", "Negative", "Infinite"],
+    "correctAnswer": "Negative"
+  },
+  {
+    "id": "CH-046",
+    "question": "Which compound is responsible for hardness of water?",
+    "options": ["Sodium chloride", "Calcium bicarbonate", "Potassium nitrate", "Sodium sulfate"],
+    "correctAnswer": "Calcium bicarbonate"
+  },
+  {
+    "id": "CH-047",
+    "question": "Which orbital is filled after 3p according to Aufbau principle?",
+    "options": ["4s", "3d", "4p", "5s"],
+    "correctAnswer": "4s"
+  },
+  {
+    "id": "CH-048",
+    "question": "Which method is used to purify volatile liquids?",
+    "options": ["Crystallization", "Distillation", "Filtration", "Decantation"],
+    "correctAnswer": "Distillation"
+  },
+  {
+    "id": "CH-049",
+    "question": "Which compound is known as laughing gas?",
+    "options": ["NO", "NO₂", "N₂O", "N₂O₅"],
+    "correctAnswer": "N₂O"
+  },
+  {
+    "id": "CH-050",
+    "question": "What is the coordination geometry of [Cu(NH₃)₄]²⁺?",
+    "options": ["Square planar", "Tetrahedral", "Linear", "Octahedral"],
+    "correctAnswer": "Square planar"
+  },
+  {
+    "id": "CH-051",
+    "question": "Which acid is used in the manufacture of fertilizers?",
+    "options": ["Hydrochloric acid", "Nitric acid", "Acetic acid", "Carbonic acid"],
+    "correctAnswer": "Nitric acid"
+  },
+  {
+    "id": "CH-052",
+    "question": "What type of solid is diamond?",
+    "options": ["Ionic solid", "Metallic solid", "Covalent network solid", "Molecular solid"],
+    "correctAnswer": "Covalent network solid"
+  },
+  {
+    "id": "CH-053",
+    "question": "Which compound shows cis-trans isomerism?",
+    "options": ["Ethane", "Ethene", "But-2-ene", "Methane"],
+    "correctAnswer": "But-2-ene"
+  },
+  {
+    "id": "CH-054",
+    "question": "Which element is used in galvanization of iron?",
+    "options": ["Copper", "Tin", "Zinc", "Lead"],
+    "correctAnswer": "Zinc"
+  },
+  {
+    "id": "CH-055",
+    "question": "What is the main component of natural gas?",
+    "options": ["Ethane", "Propane", "Butane", "Methane"],
+    "correctAnswer": "Methane"
+  },
+  {
+    "id": "CH-056",
+    "question": "Which solution has the highest pH?",
+    "options": ["0.1 M HCl", "Pure water", "0.1 M NaOH", "0.1 M CH₃COOH"],
+    "correctAnswer": "0.1 M NaOH"
+  },
+  {
+    "id": "CH-057",
+    "question": "Which phenomenon explains lowering of vapor pressure in solutions?",
+    "options": ["Raoult’s law", "Henry’s law", "Dalton’s law", "Graham’s law"],
+    "correctAnswer": "Raoult’s law"
+  },
+  {
+    "id": "CH-058",
+    "question": "Which radioactive decay emits helium nuclei?",
+    "options": ["Alpha decay", "Beta decay", "Gamma decay", "Positron decay"],
+    "correctAnswer": "Alpha decay"
+  },
+  {
+    "id": "CH-059",
+    "question": "Which compound is used as a reducing agent in metallurgy?",
+    "options": ["Coke", "Limestone", "Silica", "Alumina"],
+    "correctAnswer": "Coke"
+  },
+  {
+    "id": "CH-060",
+    "question": "What happens to Gibbs free energy for a spontaneous process?",
+    "options": ["Becomes zero", "Becomes positive", "Becomes negative", "Becomes infinite"],
+    "correctAnswer": "Becomes negative"
+  },
+  {
+    "id": "CH-061",
+    "question": "Which gas is used in fire extinguishers for electrical fires?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "id": "CH-062",
+    "question": "What is the valency of phosphorus in PCl₅?",
+    "options": ["3", "7", "5", "1"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "CH-063",
+    "question": "Which metal has the highest electrical conductivity?",
+    "options": ["Copper", "Gold", "Aluminium", "Silver"],
+    "correctAnswer": "Silver"
+  },
+  {
+    "id": "CH-064",
+    "question": "Which type of reaction involves absorption of heat?",
+    "options": ["Exothermic", "Redox", "Endothermic", "Neutralization"],
+    "correctAnswer": "Endothermic"
+  },
+  {
+    "id": "CH-065",
+    "question": "What is the common name of CaO?",
+    "options": ["Quicklime", "Slaked lime", "Limestone", "Gypsum"],
+    "correctAnswer": "Quicklime"
+  },
+  {
+    "id": "CH-066",
+    "question": "Which group of elements is known as noble gases?",
+    "options": ["Group 1", "Group 17", "Group 18", "Group 16"],
+    "correctAnswer": "Group 18"
+  },
+  {
+    "id": "CH-067",
+    "question": "Which compound is used as a bleaching agent?",
+    "options": ["Washing soda", "Bleaching powder", "Baking soda", "Plaster of Paris"],
+    "correctAnswer": "Bleaching powder"
+  },
+  {
+    "id": "CH-068",
+    "question": "What is the shape of the NH₃ molecule?",
+    "options": ["Trigonal planar", "Tetrahedral", "Linear", "Trigonal pyramidal"],
+    "correctAnswer": "Trigonal pyramidal"
+  },
+  {
+    "id": "CH-069",
+    "question": "Which vitamin contains cobalt as a central metal ion?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin B₁₂", "Vitamin D"],
+    "correctAnswer": "Vitamin B₁₂"
+  },
+  {
+    "id": "CH-070",
+    "question": "Which solution is used to test the presence of starch?",
+    "options": ["Benedict’s solution", "Iodine solution", "Fehling’s solution", "Lime water"],
+    "correctAnswer": "Iodine solution"
+  },
+  {
+    "id": "CH-071",
+    "question": "Which element has the highest melting point?",
+    "options": ["Iron", "Tungsten", "Carbon", "Platinum"],
+    "correctAnswer": "Tungsten"
+  },
+  {
+    "id": "CH-072",
+    "question": "What type of crystal structure does sodium chloride have?",
+    "options": ["Covalent network", "Metallic", "Ionic lattice", "Molecular"],
+    "correctAnswer": "Ionic lattice"
+  },
+  {
+    "id": "CH-073",
+    "question": "Which law relates pressure and volume of a gas at constant temperature?",
+    "options": ["Charles' law", "Avogadro's law", "Boyle's law", "Gay-Lussac's law"],
+    "correctAnswer": "Boyle's law"
+  },
+  {
+    "id": "CH-074",
+    "question": "Which compound is used as a preservative in food?",
+    "options": ["Sodium benzoate", "Sodium carbonate", "Calcium hydroxide", "Potassium permanganate"],
+    "correctAnswer": "Sodium benzoate"
+  },
+  {
+    "id": "CH-075",
+    "question": "What is the hybridization of carbon in ethene (C₂H₄)?",
+    "options": ["sp", "sp³", "sp²", "dsp²"],
+    "correctAnswer": "sp²"
+  },
+  {
+    "id": "CH-076",
+    "question": "Which compound is known as oil of vitriol?",
+    "options": ["Nitric acid", "Hydrochloric acid", "Sulfuric acid", "Phosphoric acid"],
+    "correctAnswer": "Sulfuric acid"
+  },
+  {
+    "id": "CH-077",
+    "question": "Which element is added to drinking water to prevent tooth decay?",
+    "options": ["Chlorine", "Fluorine", "Iodine", "Bromine"],
+    "correctAnswer": "Fluorine"
+  },
+  {
+    "id": "CH-078",
+    "question": "Which phenomenon explains why gases diffuse faster at higher temperatures?",
+    "options": ["Graham’s law", "Kinetic molecular theory", "Raoult’s law", "Dalton’s law"],
+    "correctAnswer": "Kinetic molecular theory"
+  },
+  {
+    "id": "CH-079",
+    "question": "Which compound is used in photography as a light-sensitive material?",
+    "options": ["Silver chloride", "Copper sulfate", "Sodium nitrate", "Potassium bromide"],
+    "correctAnswer": "Silver chloride"
+  },
+  {
+    "id": "CH-080",
+    "question": "What is the oxidation state of nitrogen in NH₃?",
+    "options": ["+3", "0", "-3", "+5"],
+    "correctAnswer": "-3"
+  },
+  {
+    "id": "CH-081",
+    "question": "Which type of reaction occurs during digestion of food?",
+    "options": ["Combination", "Decomposition", "Displacement", "Neutralization"],
+    "correctAnswer": "Decomposition"
+  },
+  {
+    "id": "CH-082",
+    "question": "Which compound is responsible for the smell of rotten eggs?",
+    "options": ["Sulfur dioxide", "Carbon monoxide", "Hydrogen sulfide", "Ammonia"],
+    "correctAnswer": "Hydrogen sulfide"
+  },
+  {
+    "id": "CH-083",
+    "question": "Which solvent is used in dry cleaning?",
+    "options": ["Water", "Acetone", "Ethanol", "Perchloroethylene"],
+    "correctAnswer": "Perchloroethylene"
+  },
+  {
+    "id": "CH-084",
+    "question": "Which particle has no electric charge?",
+    "options": ["Proton", "Electron", "Neutron", "Positron"],
+    "correctAnswer": "Neutron"
+  },
+  {
+    "id": "CH-085",
+    "question": "Which compound is formed when an acid reacts with a base?",
+    "options": ["Salt and water", "Only salt", "Only water", "Acid salt"],
+    "correctAnswer": "Salt and water"
+  },
+  {
+    "id": "CH-086",
+    "question": "Which element is used as a catalyst in hydrogenation of oils?",
+    "options": ["Copper", "Iron", "Nickel", "Zinc"],
+    "correctAnswer": "Nickel"
+  },
+  {
+    "id": "CH-087",
+    "question": "What is the main component of glass?",
+    "options": ["Calcium carbonate", "Sodium chloride", "Silicon dioxide", "Aluminium oxide"],
+    "correctAnswer": "Silicon dioxide"
+  },
+  {
+    "id": "CH-088",
+    "question": "Which type of bond exists between Na⁺ and Cl⁻ ions?",
+    "options": ["Covalent bond", "Hydrogen bond", "Ionic bond", "Metallic bond"],
+    "correctAnswer": "Ionic bond"
+  },
+  {
+    "id": "CH-089",
+    "question": "Which property increases down the group in the periodic table?",
+    "options": ["Ionization energy", "Electronegativity", "Atomic radius", "Electron affinity"],
+    "correctAnswer": "Atomic radius"
+  },
+  {
+    "id": "CH-090",
+    "question": "What is the sign of entropy change during vaporization of a liquid?",
+    "options": ["Negative", "Zero", "Positive", "Unchanged"],
+    "correctAnswer": "Positive"
+  },
+  {
+    "id": "CH-091",
+    "question": "Which gas is commonly used to fill balloons for weather studies?",
+    "options": ["Hydrogen", "Helium", "Nitrogen", "Oxygen"],
+    "correctAnswer": "Helium"
+  },
+  {
+    "id": "CH-092",
+    "question": "What is the molecular geometry of CO2?",
+    "options": ["Bent", "Trigonal planar", "Linear", "Tetrahedral"],
+    "correctAnswer": "Linear"
+  },
+  {
+    "id": "CH-093",
+    "question": "Which substance is used as a standard in acid-base titration?",
+    "options": ["Sodium carbonate", "Hydrochloric acid", "Ammonium chloride", "Sodium hydroxide"],
+    "correctAnswer": "Sodium carbonate"
+  },
+  {
+    "id": "CH-094",
+    "question": "Which element shows maximum catenation property?",
+    "options": ["Silicon", "Carbon", "Sulfur", "Phosphorus"],
+    "correctAnswer": "Carbon"
+  },
+  {
+    "id": "CH-095",
+    "question": "What is the coordination number of Na+ in NaCl crystal?",
+    "options": ["4", "8", "6", "2"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "CH-096",
+    "question": "Which process converts solid directly into gas?",
+    "options": ["Evaporation", "Condensation", "Sublimation", "Fusion"],
+    "correctAnswer": "Sublimation"
+  },
+  {
+    "id": "CH-097",
+    "question": "Which metal is protected from corrosion by anodization?",
+    "options": ["Iron", "Copper", "Aluminium", "Zinc"],
+    "correctAnswer": "Aluminium"
+  },
+  {
+    "id": "CH-098",
+    "question": "Which law explains equal volumes of gases contain equal number of molecules at same conditions?",
+    "options": ["Boyle’s law", "Graham’s law", "Avogadro’s law", "Charles’ law"],
+    "correctAnswer": "Avogadro’s law"
+  },
+  {
+    "id": "CH-099",
+    "question": "What is the pH range of acidic solutions?",
+    "options": ["0–7", "7–14", "Exactly 7", "Above 14"],
+    "correctAnswer": "0–7"
+  },
+  {
+    "id": "CH-100",
+    "question": "Which compound is used as a refrigerant?",
+    "options": ["Ammonia", "Methane", "Ozone", "Carbon monoxide"],
+    "correctAnswer": "Ammonia"
+  },
+  {
+    "id": "CH-101",
+    "question": "Which element has the atomic number 26?",
+    "options": ["Cobalt", "Iron", "Nickel", "Copper"],
+    "correctAnswer": "Iron"
+  },
+  {
+    "id": "CH-102",
+    "question": "What type of solution is air?",
+    "options": ["Liquid in liquid", "Solid in liquid", "Gas in gas", "Gas in liquid"],
+    "correctAnswer": "Gas in gas"
+  },
+  {
+    "id": "CH-103",
+    "question": "Which compound is used in the preparation of plaster of Paris?",
+    "options": ["Calcium carbonate", "Calcium sulfate dihydrate", "Calcium oxide", "Calcium chloride"],
+    "correctAnswer": "Calcium sulfate dihydrate"
+  },
+  {
+    "id": "CH-104",
+    "question": "Which scientist proposed the planetary model of atom?",
+    "options": ["Dalton", "Bohr", "Rutherford", "Thomson"],
+    "correctAnswer": "Rutherford"
+  },
+  {
+    "id": "CH-105",
+    "question": "Which acid is present in gastric juice?",
+    "options": ["Nitric acid", "Acetic acid", "Sulfuric acid", "Hydrochloric acid"],
+    "correctAnswer": "Hydrochloric acid"
+  },
+  {
+    "id": "CH-106",
+    "question": "Which factor does not affect the rate of a chemical reaction?",
+    "options": ["Temperature", "Catalyst", "Color of reactants", "Concentration"],
+    "correctAnswer": "Color of reactants"
+  },
+  {
+    "id": "CH-107",
+    "question": "Which compound is commonly known as milk of magnesia?",
+    "options": ["Magnesium sulfate", "Magnesium chloride", "Magnesium hydroxide", "Magnesium oxide"],
+    "correctAnswer": "Magnesium hydroxide"
+  },
+  {
+    "id": "CH-108",
+    "question": "Which type of reaction involves exchange of ions between compounds?",
+    "options": ["Combination", "Decomposition", "Double displacement", "Redox"],
+    "correctAnswer": "Double displacement"
+  },
+  {
+    "id": "CH-109",
+    "question": "Which element is essential for chlorophyll formation?",
+    "options": ["Iron", "Magnesium", "Calcium", "Potassium"],
+    "correctAnswer": "Magnesium"
+  },
+  {
+    "id": "CH-110",
+    "question": "What is the IUPAC name of acetone?",
+    "options": ["Propanone", "Propanal", "Ethanone", "Butanone"],
+    "correctAnswer": "Propanone"
+  },
+  {
+    "id": "CH-111",
+    "question": "Which salt is formed during neutralization of HCl with NaOH?",
+    "options": ["NaCl", "Na2CO3", "NaNO3", "Na2SO4"],
+    "correctAnswer": "NaCl"
+  },
+  {
+    "id": "CH-112",
+    "question": "Which particle determines the chemical properties of an element?",
+    "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+    "correctAnswer": "Electron"
+  },
+  {
+    "id": "CH-113",
+    "question": "Which phenomenon causes scattering of light by colloidal particles?",
+    "options": ["Reflection", "Refraction", "Tyndall effect", "Diffraction"],
+    "correctAnswer": "Tyndall effect"
+  },
+  {
+    "id": "CH-114",
+    "question": "Which compound is added to petrol to improve engine performance?",
+    "options": ["Ethanol", "Methanol", "Acetone", "Benzene"],
+    "correctAnswer": "Ethanol"
+  },
+  {
+    "id": "CH-115",
+    "question": "Which element is used in thermometers?",
+    "options": ["Gallium", "Mercury", "Silver", "Tin"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "CH-116",
+    "question": "What is the nature of oxides of non-metals?",
+    "options": ["Basic", "Amphoteric", "Acidic", "Neutral"],
+    "correctAnswer": "Acidic"
+  },
+  {
+    "id": "CH-117",
+    "question": "Which unit is used to express concentration in molarity?",
+    "options": ["mol/kg", "g/L", "mol/L", "eq/L"],
+    "correctAnswer": "mol/L"
+  },
+  {
+    "id": "CH-118",
+    "question": "Which compound is responsible for permanent hardness of water?",
+    "options": ["Calcium sulfate", "Calcium bicarbonate", "Magnesium bicarbonate", "Sodium chloride"],
+    "correctAnswer": "Calcium sulfate"
+  },
+  {
+    "id": "CH-119",
+    "question": "Which type of polymerization forms PVC?",
+    "options": ["Condensation", "Addition", "Copolymerization", "Cross-linking"],
+    "correctAnswer": "Addition"
+  },
+  {
+    "id": "CH-120",
+    "question": "What is the sign of enthalpy change for an endothermic reaction?",
+    "options": ["Negative", "Zero", "Positive", "Undefined"],
+    "correctAnswer": "Positive"
+  },
+  {
+    "id": "CH-121",
+    "question": "Which element is used as a moderator in nuclear reactors?",
+    "options": ["Uranium", "Graphite", "Plutonium", "Radium"],
+    "correctAnswer": "Graphite"
+  },
+  {
+    "id": "CH-122",
+    "question": "What is the common name of sodium hydrogen carbonate?",
+    "options": ["Washing soda", "Baking soda", "Caustic soda", "Soda ash"],
+    "correctAnswer": "Baking soda"
+  },
+  {
+    "id": "CH-123",
+    "question": "Which gas turns lime water milky?",
+    "options": ["Oxygen", "Carbon dioxide", "Sulfur dioxide", "Nitrogen"],
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "id": "CH-124",
+    "question": "Which orbital has a dumbbell shape?",
+    "options": ["s-orbital", "p-orbital", "d-orbital", "f-orbital"],
+    "correctAnswer": "p-orbital"
+  },
+  {
+    "id": "CH-125",
+    "question": "Which compound is used in the vulcanization of rubber?",
+    "options": ["Chlorine", "Sulfur", "Nitrogen", "Phosphorus"],
+    "correctAnswer": "Sulfur"
+  },
+  {
+    "id": "CH-126",
+    "question": "What is the oxidation number of oxygen in hydrogen peroxide?",
+    "options": ["-2", "-1", "0", "+2"],
+    "correctAnswer": "-1"
+  },
+  {
+    "id": "CH-127",
+    "question": "Which metal is extracted by the Hall–Héroult process?",
+    "options": ["Iron", "Copper", "Aluminium", "Zinc"],
+    "correctAnswer": "Aluminium"
+  },
+  {
+    "id": "CH-128",
+    "question": "Which compound is known as blue vitriol?",
+    "options": ["Copper sulfate", "Iron sulfate", "Zinc sulfate", "Magnesium sulfate"],
+    "correctAnswer": "Copper sulfate"
+  },
+  {
+    "id": "CH-129",
+    "question": "Which type of reaction is photosynthesis?",
+    "options": ["Exothermic", "Endothermic", "Neutralization", "Redox"],
+    "correctAnswer": "Endothermic"
+  },
+  {
+    "id": "CH-130",
+    "question": "What is the SI unit of entropy?",
+    "options": ["J mol⁻¹ K⁻¹", "J K⁻¹", "kJ mol⁻¹", "J mol⁻¹"],
+    "correctAnswer": "J K⁻¹"
+  },
+  {
+    "id": "CH-131",
+    "question": "Which compound is used to remove temporary hardness of water?",
+    "options": ["Sodium chloride", "Calcium hydroxide", "Sodium carbonate", "Potassium nitrate"],
+    "correctAnswer": "Calcium hydroxide"
+  },
+  {
+    "id": "CH-132",
+    "question": "Which scientist discovered the electron?",
+    "options": ["Rutherford", "Bohr", "J. J. Thomson", "Chadwick"],
+    "correctAnswer": "J. J. Thomson"
+  },
+  {
+    "id": "CH-133",
+    "question": "Which functional group is present in aldehydes?",
+    "options": ["–COOH", "–OH", "–CHO", "–CO–"],
+    "correctAnswer": "–CHO"
+  },
+  {
+    "id": "CH-134",
+    "question": "Which element is used in the manufacture of matches?",
+    "options": ["Carbon", "Phosphorus", "Sulfur", "Chlorine"],
+    "correctAnswer": "Phosphorus"
+  },
+  {
+    "id": "CH-135",
+    "question": "What type of bond is present in O2 molecule?",
+    "options": ["Ionic bond", "Single covalent bond", "Double covalent bond", "Hydrogen bond"],
+    "correctAnswer": "Double covalent bond"
+  },
+  {
+    "id": "CH-136",
+    "question": "Which solution conducts electricity best?",
+    "options": ["Distilled water", "Sugar solution", "Salt solution", "Alcohol solution"],
+    "correctAnswer": "Salt solution"
+  },
+  {
+    "id": "CH-137",
+    "question": "Which metal is used as a sacrificial anode for corrosion protection?",
+    "options": ["Copper", "Iron", "Zinc", "Silver"],
+    "correctAnswer": "Zinc"
+  },
+  {
+    "id": "CH-138",
+    "question": "Which gas is produced when metals react with dilute acids?",
+    "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "correctAnswer": "Hydrogen"
+  },
+  {
+    "id": "CH-139",
+    "question": "What is the coordination number of each ion in CsCl crystal?",
+    "options": ["4", "6", "8", "12"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": "CH-140",
+    "question": "Which polymer is used to make non-stick cookware?",
+    "options": ["PVC", "Polythene", "Teflon", "Nylon"],
+    "correctAnswer": "Teflon"
+  },
+  {
+    "id": "CH-141",
+    "question": "Which compound is responsible for acid rain?",
+    "options": ["CO", "SO2", "NH3", "CH4"],
+    "correctAnswer": "SO2"
+  },
+  {
+    "id": "CH-142",
+    "question": "Which law states that pressure is directly proportional to temperature at constant volume?",
+    "options": ["Boyle's law", "Charles' law", "Gay-Lussac's law", "Avogadro's law"],
+    "correctAnswer": "Gay-Lussac's law"
+  },
+  {
+    "id": "CH-143",
+    "question": "Which compound is used as an antacid?",
+    "options": ["Sodium carbonate", "Magnesium hydroxide", "Calcium chloride", "Potassium nitrate"],
+    "correctAnswer": "Magnesium hydroxide"
+  },
+  {
+    "id": "CH-144",
+    "question": "Which element has the highest electronegativity?",
+    "options": ["Oxygen", "Fluorine", "Chlorine", "Nitrogen"],
+    "correctAnswer": "Fluorine"
+  },
+  {
+    "id": "CH-145",
+    "question": "What type of isomerism is shown by lactic acid?",
+    "options": ["Geometrical", "Chain", "Optical", "Position"],
+    "correctAnswer": "Optical"
+  },
+  {
+    "id": "CH-146",
+    "question": "Which compound is used as a drying agent for acidic gases?",
+    "options": ["Calcium chloride", "Phosphorus pentoxide", "Quicklime", "Silica gel"],
+    "correctAnswer": "Phosphorus pentoxide"
+  },
+  {
+    "id": "CH-147",
+    "question": "Which metal has the lowest density?",
+    "options": ["Sodium", "Lithium", "Potassium", "Calcium"],
+    "correctAnswer": "Lithium"
+  },
+  {
+    "id": "CH-148",
+    "question": "What is the nature of an aqueous solution of NH4Cl?",
+    "options": ["Neutral", "Basic", "Acidic", "Amphoteric"],
+    "correctAnswer": "Acidic"
+  },
+  {
+    "id": "CH-149",
+    "question": "Which process is used for refining petroleum?",
+    "options": ["Crystallization", "Fractional distillation", "Electrolysis", "Sublimation"],
+    "correctAnswer": "Fractional distillation"
+  },
+  {
+    "id": "CH-150",
+    "question": "Which thermodynamic quantity determines the spontaneity of a reaction?",
+    "options": ["Enthalpy", "Entropy", "Gibbs free energy", "Internal energy"],
+    "correctAnswer": "Gibbs free energy"
   }
 ]

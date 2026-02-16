@@ -1,129 +1,902 @@
 [
   {
-    "id": "BI-001",
-    "question": "What is the basic unit of life?",
-    "options": ["Cell", "Atom", "Molecule", "Organ"],
-    "correctAnswer": "Cell"
+    "id": "BIO-001",
+    "question": "Which organelle is primarily responsible for energy production in eukaryotic cells?",
+    "options": ["Ribosome", "Mitochondrion", "Golgi apparatus", "Lysosome"],
+    "correctAnswer": "Mitochondrion"
   },
   {
-    "id": "BI-002",
-    "question": "Which process do plants use to make food?",
-    "options": ["Respiration", "Photosynthesis", "Transpiration", "Digestion"],
-    "correctAnswer": "Photosynthesis"
-  },
-  {
-    "id": "BI-003",
-    "question": "Which organ pumps blood in the human body?",
-    "options": ["Lungs", "Liver", "Heart", "Kidney"],
-    "correctAnswer": "Heart"
-  },
-  {
-    "id": "BI-004",
-    "question": "Which blood cells help fight infections?",
-    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
-    "correctAnswer": "White blood cells"
-  },
-  {
-    "id": "BI-005",
-    "question": "What is the powerhouse of the cell?",
-    "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
-    "correctAnswer": "Mitochondria"
-  },
-  {
-    "id": "BI-006",
-    "question": "Which macromolecule stores genetic information?",
-    "options": ["Protein", "Carbohydrate", "DNA", "Lipid"],
+    "id": "BIO-002",
+    "question": "Which biological molecule stores genetic information?",
+    "options": ["Protein", "RNA", "DNA", "Lipid"],
     "correctAnswer": "DNA"
   },
   {
-    "id": "BI-007",
-    "question": "Which part of the plant conducts water?",
-    "options": ["Phloem", "Xylem", "Stem", "Leaf"],
-    "correctAnswer": "Xylem"
+    "id": "BIO-003",
+    "question": "What is the basic structural and functional unit of life?",
+    "options": ["Tissue", "Cell", "Organ", "System"],
+    "correctAnswer": "Cell"
   },
   {
-    "id": "BI-008",
-    "question": "Which gas do plants release during photosynthesis?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
-    "correctAnswer": "Oxygen"
+    "id": "BIO-004",
+    "question": "Which blood cells are mainly involved in immune response?",
+    "options": ["Red blood cells", "Platelets", "White blood cells", "Plasma cells"],
+    "correctAnswer": "White blood cells"
   },
   {
-    "id": "BI-009",
-    "question": "Which vitamin is produced when skin is exposed to sunlight?",
-    "options": ["Vitamin A", "Vitamin B12", "Vitamin D", "Vitamin K"],
-    "correctAnswer": "Vitamin D"
+    "id": "BIO-005",
+    "question": "Which process converts glucose into energy in living cells?",
+    "options": ["Photosynthesis", "Respiration", "Transpiration", "Diffusion"],
+    "correctAnswer": "Respiration"
   },
   {
-    "id": "BI-010",
-    "question": "Which organ is responsible for filtering blood?",
-    "options": ["Heart", "Kidney", "Liver", "Lungs"],
-    "correctAnswer": "Kidney"
+    "id": "BIO-006",
+    "question": "Which enzyme breaks down starch into maltose?",
+    "options": ["Lipase", "Pepsin", "Amylase", "Trypsin"],
+    "correctAnswer": "Amylase"
   },
   {
-    "id": "BI-011",
-    "question": "What is the largest organ in the human body?",
-    "options": ["Heart", "Skin", "Liver", "Brain"],
-    "correctAnswer": "Skin"
-  },
-  {
-    "id": "BI-012",
-    "question": "Which type of blood circulates from the heart to the lungs?",
-    "options": ["Oxygenated", "Deoxygenated", "Mixed", "None"],
-    "correctAnswer": "Deoxygenated"
-  },
-  {
-    "id": "BI-013",
-    "question": "Which biomolecule speeds up chemical reactions in the body?",
-    "options": ["Protein", "Enzyme", "Carbohydrate", "Lipid"],
-    "correctAnswer": "Enzyme"
-  },
-  {
-    "id": "BI-014",
-    "question": "Which kingdom do mushrooms belong to?",
-    "options": ["Plantae", "Animalia", "Fungi", "Protista"],
-    "correctAnswer": "Fungi"
-  },
-  {
-    "id": "BI-015",
-    "question": "Which system in humans controls hormones?",
-    "options": [
-      "Nervous system",
-      "Endocrine system",
-      "Circulatory system",
-      "Digestive system"
-    ],
-    "correctAnswer": "Endocrine system"
-  },
-  {
-    "id": "BI-016",
-    "question": "Which type of blood cell helps in clotting?",
-    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
-    "correctAnswer": "Platelets"
-  },
-  {
-    "id": "BI-017",
-    "question": "Which organ stores bile?",
-    "options": ["Liver", "Gallbladder", "Pancreas", "Stomach"],
-    "correctAnswer": "Gallbladder"
-  },
-  {
-    "id": "BI-018",
+    "id": "BIO-007",
     "question": "Which part of the brain controls balance and coordination?",
-    "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+    "options": ["Medulla oblongata", "Cerebrum", "Hypothalamus", "Cerebellum"],
     "correctAnswer": "Cerebellum"
   },
   {
-    "id": "BI-019",
-    "question": "Which type of reproduction involves one parent?",
-    "options": ["Sexual", "Asexual", "Both", "None"],
-    "correctAnswer": "Asexual"
+    "id": "BIO-008",
+    "question": "What is the primary function of xylem tissue in plants?",
+    "options": ["Food transport", "Water transport", "Photosynthesis", "Gas exchange"],
+    "correctAnswer": "Water transport"
   },
   {
-    "id": "BI-020",
-    "question": "Which blood group is called the universal donor?",
-    "options": ["A", "B", "AB", "O"],
-    "correctAnswer": "O"
+    "id": "BIO-009",
+    "question": "Which vitamin deficiency causes night blindness?",
+    "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin K"],
+    "correctAnswer": "Vitamin A"
+  },
+  {
+    "id": "BIO-010",
+    "question": "Which phase of mitosis involves separation of sister chromatids?",
+    "options": ["Metaphase", "Telophase", "Anaphase", "Prophase"],
+    "correctAnswer": "Anaphase"
+  },
+  {
+    "id": "BIO-011",
+    "question": "What type of blood group is known as the universal donor?",
+    "options": ["AB+", "O−", "A+", "B−"],
+    "correctAnswer": "O−"
+  },
+  {
+    "id": "BIO-012",
+    "question": "Which structure prevents food from entering the windpipe?",
+    "options": ["Glottis", "Larynx", "Epiglottis", "Pharynx"],
+    "correctAnswer": "Epiglottis"
+  },
+  {
+    "id": "BIO-013",
+    "question": "Which kingdom includes unicellular eukaryotic organisms?",
+    "options": ["Monera", "Fungi", "Protista", "Plantae"],
+    "correctAnswer": "Protista"
+  },
+  {
+    "id": "BIO-014",
+    "question": "What is the site of protein synthesis in a cell?",
+    "options": ["Nucleus", "Ribosome", "Endoplasmic reticulum", "Mitochondrion"],
+    "correctAnswer": "Ribosome"
+  },
+  {
+    "id": "BIO-015",
+    "question": "Which hormone regulates blood glucose level?",
+    "options": ["Thyroxine", "Adrenaline", "Insulin", "Estrogen"],
+    "correctAnswer": "Insulin"
+  },
+  {
+    "id": "BIO-016",
+    "question": "Which process involves the movement of water across a semi-permeable membrane?",
+    "options": ["Diffusion", "Active transport", "Osmosis", "Imbibition"],
+    "correctAnswer": "Osmosis"
+  },
+  {
+    "id": "BIO-017",
+    "question": "What type of immunity is provided by vaccines?",
+    "options": ["Natural passive", "Artificial active", "Natural active", "Artificial passive"],
+    "correctAnswer": "Artificial active"
+  },
+  {
+    "id": "BIO-018",
+    "question": "Which pigment is essential for photosynthesis?",
+    "options": ["Carotene", "Xanthophyll", "Chlorophyll", "Anthocyanin"],
+    "correctAnswer": "Chlorophyll"
+  },
+  {
+    "id": "BIO-019",
+    "question": "Which chamber of the human heart pumps oxygenated blood to the body?",
+    "options": ["Right atrium", "Left ventricle", "Right ventricle", "Left atrium"],
+    "correctAnswer": "Left ventricle"
+  },
+  {
+    "id": "BIO-020",
+    "question": "Which gas is released during photosynthesis?",
+    "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": "BIO-021",
+    "question": "Which stage of meiosis results in reduction of chromosome number?",
+    "options": ["Meiosis II", "Prophase II", "Metaphase II", "Meiosis I"],
+    "correctAnswer": "Meiosis I"
+  },
+  {
+    "id": "BIO-022",
+    "question": "Which molecule acts as the main energy currency of the cell?",
+    "options": ["NADH", "ATP", "FAD", "ADP"],
+    "correctAnswer": "ATP"
+  },
+  {
+    "id": "BIO-023",
+    "question": "Which part of the nephron is responsible for ultrafiltration?",
+    "options": ["Loop of Henle", "Distal tubule", "Bowman's capsule", "Collecting duct"],
+    "correctAnswer": "Bowman's capsule"
+  },
+  {
+    "id": "BIO-024",
+    "question": "Which scientist proposed the double helix model of DNA?",
+    "options": ["Gregor Mendel", "Rosalind Franklin", "Watson and Crick", "Louis Pasteur"],
+    "correctAnswer": "Watson and Crick"
+  },
+  {
+    "id": "BIO-025",
+    "question": "Which blood vessel carries blood away from the heart?",
+    "options": ["Vein", "Capillary", "Artery", "Venule"],
+    "correctAnswer": "Artery"
+  },
+  {
+    "id": "BIO-026",
+    "question": "Which organelle modifies and packages proteins for secretion?",
+    "options": ["Golgi apparatus", "Rough ER", "Smooth ER", "Nucleolus"],
+    "correctAnswer": "Golgi apparatus"
+  },
+  {
+    "id": "BIO-027",
+    "question": "Which phenomenon explains the inheritance of linked genes?",
+    "options": ["Independent assortment", "Crossing over", "Linkage", "Mutation"],
+    "correctAnswer": "Linkage"
+  },
+  {
+    "id": "BIO-028",
+    "question": "Which layer of the skin contains sweat glands?",
+    "options": ["Epidermis", "Dermis", "Stratum corneum", "Hypodermis"],
+    "correctAnswer": "Dermis"
+  },
+  {
+    "id": "BIO-029",
+    "question": "Which process is responsible for formation of gametes?",
+    "options": ["Mitosis", "Fertilization", "Meiosis", "Binary fission"],
+    "correctAnswer": "Meiosis"
+  },
+  {
+    "id": "BIO-030",
+    "question": "Which component of the nervous system transmits impulses away from the cell body?",
+    "options": ["Dendrite", "Axon", "Synapse", "Myelin sheath"],
+    "correctAnswer": "Axon"
+  },
+  {
+    "id": "BIO-031",
+    "question": "Which level of biological organization includes populations interacting with their environment?",
+    "options": ["Community", "Ecosystem", "Biome", "Biosphere"],
+    "correctAnswer": "Ecosystem"
+  },
+  {
+    "id": "BIO-032",
+    "question": "Which macromolecule is mainly responsible for enzyme activity?",
+    "options": ["Carbohydrate", "Lipid", "Protein", "Nucleic acid"],
+    "correctAnswer": "Protein"
+  },
+  {
+    "id": "BIO-033",
+    "question": "What is the main function of the ribosomal RNA (rRNA)?",
+    "options": ["Store genetic code", "Form ribosome structure", "Transport amino acids", "Regulate gene expression"],
+    "correctAnswer": "Form ribosome structure"
+  },
+  {
+    "id": "BIO-034",
+    "question": "Which part of a plant cell maintains turgor pressure?",
+    "options": ["Cell wall", "Central vacuole", "Chloroplast", "Nucleus"],
+    "correctAnswer": "Central vacuole"
+  },
+  {
+    "id": "BIO-035",
+    "question": "Which human blood component is responsible for clotting?",
+    "options": ["Plasma", "Red blood cells", "White blood cells", "Platelets"],
+    "correctAnswer": "Platelets"
+  },
+  {
+    "id": "BIO-036",
+    "question": "Which phase of the cell cycle involves DNA replication?",
+    "options": ["G1 phase", "S phase", "G2 phase", "M phase"],
+    "correctAnswer": "S phase"
+  },
+  {
+    "id": "BIO-037",
+    "question": "Which type of muscle is found in the walls of internal organs?",
+    "options": ["Skeletal muscle", "Cardiac muscle", "Smooth muscle", "Striated muscle"],
+    "correctAnswer": "Smooth muscle"
+  },
+  {
+    "id": "BIO-038",
+    "question": "Which scientist is known as the father of modern taxonomy?",
+    "options": ["Charles Darwin", "Carolus Linnaeus", "Aristotle", "Gregor Mendel"],
+    "correctAnswer": "Carolus Linnaeus"
+  },
+  {
+    "id": "BIO-039",
+    "question": "Which structure connects muscles to bones?",
+    "options": ["Ligament", "Tendon", "Cartilage", "Joint"],
+    "correctAnswer": "Tendon"
+  },
+  {
+    "id": "BIO-040",
+    "question": "Which process explains the loss of water vapor from plant leaves?",
+    "options": ["Respiration", "Guttation", "Transpiration", "Osmosis"],
+    "correctAnswer": "Transpiration"
+  },
+  {
+    "id": "BIO-041",
+    "question": "Which type of RNA carries amino acids to the ribosome?",
+    "options": ["mRNA", "rRNA", "tRNA", "snRNA"],
+    "correctAnswer": "tRNA"
+  },
+  {
+    "id": "BIO-042",
+    "question": "Which organ is primarily responsible for detoxification in humans?",
+    "options": ["Kidney", "Liver", "Pancreas", "Spleen"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "BIO-043",
+    "question": "Which ecological relationship benefits one organism while harming another?",
+    "options": ["Mutualism", "Commensalism", "Parasitism", "Symbiosis"],
+    "correctAnswer": "Parasitism"
+  },
+  {
+    "id": "BIO-044",
+    "question": "Which blood vessel has the thickest muscular wall?",
+    "options": ["Vein", "Capillary", "Artery", "Venule"],
+    "correctAnswer": "Artery"
+  },
+  {
+    "id": "BIO-045",
+    "question": "Which plant hormone promotes cell elongation?",
+    "options": ["Cytokinin", "Auxin", "Abscisic acid", "Ethylene"],
+    "correctAnswer": "Auxin"
+  },
+  {
+    "id": "BIO-046",
+    "question": "Which respiratory structure in humans increases surface area for gas exchange?",
+    "options": ["Bronchi", "Trachea", "Alveoli", "Diaphragm"],
+    "correctAnswer": "Alveoli"
+  },
+  {
+    "id": "BIO-047",
+    "question": "Which type of reproduction produces genetically identical offspring?",
+    "options": ["Sexual reproduction", "Cross-pollination", "Asexual reproduction", "Fertilization"],
+    "correctAnswer": "Asexual reproduction"
+  },
+  {
+    "id": "BIO-048",
+    "question": "Which nitrogenous base is found only in RNA?",
+    "options": ["Adenine", "Thymine", "Guanine", "Uracil"],
+    "correctAnswer": "Uracil"
+  },
+  {
+    "id": "BIO-049",
+    "question": "Which structure controls the entry and exit of substances in a cell?",
+    "options": ["Cell wall", "Cytoplasm", "Plasma membrane", "Nuclear membrane"],
+    "correctAnswer": "Plasma membrane"
+  },
+  {
+    "id": "BIO-050",
+    "question": "Which human gland is known as the master gland?",
+    "options": ["Thyroid", "Adrenal", "Pituitary", "Pancreas"],
+    "correctAnswer": "Pituitary"
+  },
+  {
+    "id": "BIO-051",
+    "question": "Which process forms mRNA from a DNA template?",
+    "options": ["Translation", "Replication", "Transcription", "Mutation"],
+    "correctAnswer": "Transcription"
+  },
+  {
+    "id": "BIO-052",
+    "question": "Which organelle contains digestive enzymes?",
+    "options": ["Peroxisome", "Lysosome", "Mitochondrion", "Golgi body"],
+    "correctAnswer": "Lysosome"
+  },
+  {
+    "id": "BIO-053",
+    "question": "Which part of the eye controls the amount of light entering?",
+    "options": ["Lens", "Retina", "Iris", "Cornea"],
+    "correctAnswer": "Iris"
+  },
+  {
+    "id": "BIO-054",
+    "question": "Which type of symmetry is seen in starfish?",
+    "options": ["Bilateral symmetry", "Radial symmetry", "Asymmetry", "Spherical symmetry"],
+    "correctAnswer": "Radial symmetry"
+  },
+  {
+    "id": "BIO-055",
+    "question": "Which molecule carries oxygen in human blood?",
+    "options": ["Myoglobin", "Hemoglobin", "Albumin", "Globulin"],
+    "correctAnswer": "Hemoglobin"
+  },
+  {
+    "id": "BIO-056",
+    "question": "Which plant tissue is responsible for food transport?",
+    "options": ["Xylem", "Cambium", "Phloem", "Cortex"],
+    "correctAnswer": "Phloem"
+  },
+  {
+    "id": "BIO-057",
+    "question": "Which law explains segregation of alleles during gamete formation?",
+    "options": ["Law of dominance", "Law of independent assortment", "Law of segregation", "Chromosomal theory"],
+    "correctAnswer": "Law of segregation"
+  },
+  {
+    "id": "BIO-058",
+    "question": "Which part of the brain regulates body temperature?",
+    "options": ["Cerebellum", "Medulla oblongata", "Hypothalamus", "Pons"],
+    "correctAnswer": "Hypothalamus"
+  },
+  {
+    "id": "BIO-059",
+    "question": "Which ecological pyramid always remains upright?",
+    "options": ["Pyramid of biomass", "Pyramid of energy", "Pyramid of numbers", "Pyramid of productivity"],
+    "correctAnswer": "Pyramid of energy"
+  },
+  {
+    "id": "BIO-060",
+    "question": "Which cellular process requires ATP directly for substance movement?",
+    "options": ["Diffusion", "Facilitated diffusion", "Active transport", "Osmosis"],
+    "correctAnswer": "Active transport"
+  },
+  {
+    "id": "BIO-061",
+    "question": "Which part of the flower develops into a fruit after fertilization?",
+    "options": ["Ovule", "Petal", "Ovary", "Stamen"],
+    "correctAnswer": "Ovary"
+  },
+  {
+    "id": "BIO-062",
+    "question": "Which type of cell division is responsible for growth and tissue repair?",
+    "options": ["Meiosis", "Binary fission", "Mitosis", "Fertilization"],
+    "correctAnswer": "Mitosis"
+  },
+  {
+    "id": "BIO-063",
+    "question": "Which blood group is known as the universal recipient?",
+    "options": ["O−", "A+", "AB+", "B−"],
+    "correctAnswer": "AB+"
+  },
+  {
+    "id": "BIO-064",
+    "question": "Which organ in humans stores bile?",
+    "options": ["Liver", "Pancreas", "Gall bladder", "Duodenum"],
+    "correctAnswer": "Gall bladder"
+  },
+  {
+    "id": "BIO-065",
+    "question": "Which process is responsible for synthesis of proteins from mRNA?",
+    "options": ["Replication", "Translation", "Transcription", "Mutation"],
+    "correctAnswer": "Translation"
+  },
+  {
+    "id": "BIO-066",
+    "question": "Which type of respiration occurs in the absence of oxygen?",
+    "options": ["Aerobic respiration", "Cellular respiration", "Anaerobic respiration", "Internal respiration"],
+    "correctAnswer": "Anaerobic respiration"
+  },
+  {
+    "id": "BIO-067",
+    "question": "Which part of the digestive system absorbs most nutrients?",
+    "options": ["Stomach", "Large intestine", "Small intestine", "Esophagus"],
+    "correctAnswer": "Small intestine"
+  },
+  {
+    "id": "BIO-068",
+    "question": "Which structure is known as the powerhouse of the cell?",
+    "options": ["Chloroplast", "Ribosome", "Mitochondrion", "Nucleus"],
+    "correctAnswer": "Mitochondrion"
+  },
+  {
+    "id": "BIO-069",
+    "question": "Which component of DNA forms the rungs of the ladder?",
+    "options": ["Sugar molecules", "Phosphate groups", "Nitrogenous base pairs", "Hydrogen atoms"],
+    "correctAnswer": "Nitrogenous base pairs"
+  },
+  {
+    "id": "BIO-070",
+    "question": "Which type of joint allows movement in all directions?",
+    "options": ["Hinge joint", "Pivot joint", "Ball and socket joint", "Gliding joint"],
+    "correctAnswer": "Ball and socket joint"
+  },
+  {
+    "id": "BIO-071",
+    "question": "Which plant hormone is responsible for fruit ripening?",
+    "options": ["Auxin", "Ethylene", "Gibberellin", "Cytokinin"],
+    "correctAnswer": "Ethylene"
+  },
+  {
+    "id": "BIO-072",
+    "question": "Which organ filters nitrogenous waste from blood?",
+    "options": ["Liver", "Kidney", "Lung", "Spleen"],
+    "correctAnswer": "Kidney"
+  },
+  {
+    "id": "BIO-073",
+    "question": "Which level of protein structure is stabilized by hydrogen bonds?",
+    "options": ["Primary structure", "Secondary structure", "Tertiary structure", "Quaternary structure"],
+    "correctAnswer": "Secondary structure"
+  },
+  {
+    "id": "BIO-074",
+    "question": "Which type of immunity is acquired naturally after infection?",
+    "options": ["Artificial passive", "Artificial active", "Natural active", "Natural passive"],
+    "correctAnswer": "Natural active"
+  },
+  {
+    "id": "BIO-075",
+    "question": "Which structure separates the thoracic and abdominal cavities?",
+    "options": ["Rib cage", "Diaphragm", "Pleura", "Peritoneum"],
+    "correctAnswer": "Diaphragm"
+  },
+  {
+    "id": "BIO-076",
+    "question": "Which genetic disorder is caused by an extra chromosome 21?",
+    "options": ["Turner syndrome", "Klinefelter syndrome", "Down syndrome", "Hemophilia"],
+    "correctAnswer": "Down syndrome"
+  },
+  {
+    "id": "BIO-077",
+    "question": "Which tissue covers the surface of the body and lines organs?",
+    "options": ["Muscular tissue", "Nervous tissue", "Epithelial tissue", "Connective tissue"],
+    "correctAnswer": "Epithelial tissue"
+  },
+  {
+    "id": "BIO-078",
+    "question": "Which process ensures continuity of life across generations?",
+    "options": ["Respiration", "Reproduction", "Nutrition", "Excretion"],
+    "correctAnswer": "Reproduction"
+  },
+  {
+    "id": "BIO-079",
+    "question": "Which cell organelle is absent in mature mammalian red blood cells?",
+    "options": ["Ribosome", "Nucleus", "Cell membrane", "Cytoplasm"],
+    "correctAnswer": "Nucleus"
+  },
+  {
+    "id": "BIO-080",
+    "question": "Which ecological term describes organisms of the same species in a given area?",
+    "options": ["Community", "Population", "Ecosystem", "Biome"],
+    "correctAnswer": "Population"
+  },
+  {
+    "id": "BIO-081",
+    "question": "Which enzyme digests proteins in the stomach?",
+    "options": ["Trypsin", "Amylase", "Pepsin", "Lipase"],
+    "correctAnswer": "Pepsin"
+  },
+  {
+    "id": "BIO-082",
+    "question": "Which structure in the ear is responsible for hearing?",
+    "options": ["Cochlea", "Eustachian tube", "Semicircular canals", "Auditory nerve"],
+    "correctAnswer": "Cochlea"
+  },
+  {
+    "id": "BIO-083",
+    "question": "Which type of mutation affects a single nucleotide?",
+    "options": ["Frameshift mutation", "Chromosomal mutation", "Point mutation", "Deletion mutation"],
+    "correctAnswer": "Point mutation"
+  },
+  {
+    "id": "BIO-084",
+    "question": "Which plant structure is mainly responsible for transpiration?",
+    "options": ["Cuticle", "Lenticel", "Stomata", "Root hair"],
+    "correctAnswer": "Stomata"
+  },
+  {
+    "id": "BIO-085",
+    "question": "Which part of the brain controls voluntary actions?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+    "correctAnswer": "Cerebrum"
+  },
+  {
+    "id": "BIO-086",
+    "question": "Which nutrient is the main source of energy for the human body?",
+    "options": ["Proteins", "Vitamins", "Carbohydrates", "Minerals"],
+    "correctAnswer": "Carbohydrates"
+  },
+  {
+    "id": "BIO-087",
+    "question": "Which organism is commonly used in genetic experiments due to its short life cycle?",
+    "options": ["Mouse", "Drosophila", "Frog", "E. coli"],
+    "correctAnswer": "Drosophila"
+  },
+  {
+    "id": "BIO-088",
+    "question": "Which process converts atmospheric nitrogen into usable compounds?",
+    "options": ["Nitrification", "Denitrification", "Nitrogen fixation", "Ammonification"],
+    "correctAnswer": "Nitrogen fixation"
+  },
+  {
+    "id": "BIO-089",
+    "question": "Which organelle is involved in lipid synthesis?",
+    "options": ["Rough endoplasmic reticulum", "Smooth endoplasmic reticulum", "Golgi apparatus", "Lysosome"],
+    "correctAnswer": "Smooth endoplasmic reticulum"
+  },
+  {
+    "id": "BIO-090",
+    "question": "Which evolutionary concept explains survival of the fittest?",
+    "options": ["Genetic drift", "Mutation", "Natural selection", "Speciation"],
+    "correctAnswer": "Natural selection"
+  },
+  {
+    "id": "BIO-091",
+    "question": "Which structure in bacteria is responsible for locomotion?",
+    "options": ["Cilia", "Pili", "Flagellum", "Capsule"],
+    "correctAnswer": "Flagellum"
+  },
+  {
+    "id": "BIO-092",
+    "question": "Which process leads to the formation of ATP during cellular respiration?",
+    "options": ["Photolysis", "Oxidative phosphorylation", "Carbon fixation", "Fermentation"],
+    "correctAnswer": "Oxidative phosphorylation"
+  },
+  {
+    "id": "BIO-093",
+    "question": "Which part of the chromosome is essential for spindle fiber attachment?",
+    "options": ["Telomere", "Centromere", "Chromatid", "Origin of replication"],
+    "correctAnswer": "Centromere"
+  },
+  {
+    "id": "BIO-094",
+    "question": "Which type of leaf venation is found in monocot plants?",
+    "options": ["Reticulate", "Parallel", "Dichotomous", "Palmate"],
+    "correctAnswer": "Parallel"
+  },
+  {
+    "id": "BIO-095",
+    "question": "Which organ is primarily affected in hepatitis?",
+    "options": ["Kidney", "Pancreas", "Liver", "Gall bladder"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "BIO-096",
+    "question": "Which enzyme is responsible for unwinding DNA during replication?",
+    "options": ["Ligase", "Helicase", "Polymerase", "Primase"],
+    "correctAnswer": "Helicase"
+  },
+  {
+    "id": "BIO-097",
+    "question": "Which respiratory pigment is found in arthropods?",
+    "options": ["Hemoglobin", "Chlorocruorin", "Hemocyanin", "Myoglobin"],
+    "correctAnswer": "Hemocyanin"
+  },
+  {
+    "id": "BIO-098",
+    "question": "Which plant movement occurs in response to light direction?",
+    "options": ["Hydrotropism", "Phototropism", "Geotropism", "Thigmotropism"],
+    "correctAnswer": "Phototropism"
+  },
+  {
+    "id": "BIO-099",
+    "question": "Which immune cells are responsible for antibody production?",
+    "options": ["T lymphocytes", "Macrophages", "B lymphocytes", "Neutrophils"],
+    "correctAnswer": "B lymphocytes"
+  },
+  {
+    "id": "BIO-100",
+    "question": "Which structure in plants is mainly responsible for absorption of water?",
+    "options": ["Root cap", "Root hair", "Xylem", "Phloem"],
+    "correctAnswer": "Root hair"
+  },
+  {
+    "id": "BIO-101",
+    "question": "Which metabolic pathway occurs in the cytoplasm?",
+    "options": ["Krebs cycle", "Electron transport chain", "Glycolysis", "Oxidative phosphorylation"],
+    "correctAnswer": "Glycolysis"
+  },
+  {
+    "id": "BIO-102",
+    "question": "Which cell junction allows direct communication between adjacent cells?",
+    "options": ["Tight junction", "Desmosome", "Gap junction", "Adherens junction"],
+    "correctAnswer": "Gap junction"
+  },
+  {
+    "id": "BIO-103",
+    "question": "Which component of blood plasma is mainly responsible for osmotic balance?",
+    "options": ["Globulin", "Albumin", "Fibrinogen", "Hemoglobin"],
+    "correctAnswer": "Albumin"
+  },
+  {
+    "id": "BIO-104",
+    "question": "Which type of reproduction involves fusion of gametes?",
+    "options": ["Vegetative propagation", "Binary fission", "Sexual reproduction", "Budding"],
+    "correctAnswer": "Sexual reproduction"
+  },
+  {
+    "id": "BIO-105",
+    "question": "Which brain structure connects the two cerebral hemispheres?",
+    "options": ["Thalamus", "Corpus callosum", "Pons", "Hypothalamus"],
+    "correctAnswer": "Corpus callosum"
+  },
+  {
+    "id": "BIO-106",
+    "question": "Which plant tissue provides mechanical strength?",
+    "options": ["Parenchyma", "Collenchyma", "Sclerenchyma", "Cambium"],
+    "correctAnswer": "Sclerenchyma"
+  },
+  {
+    "id": "BIO-107",
+    "question": "Which disease is caused by deficiency of vitamin D?",
+    "options": ["Scurvy", "Rickets", "Beriberi", "Pellagra"],
+    "correctAnswer": "Rickets"
+  },
+  {
+    "id": "BIO-108",
+    "question": "Which structure in the eye contains photoreceptor cells?",
+    "options": ["Cornea", "Lens", "Retina", "Choroid"],
+    "correctAnswer": "Retina"
+  },
+  {
+    "id": "BIO-109",
+    "question": "Which type of chromosome is characterized by the centromere at the end?",
+    "options": ["Metacentric", "Submetacentric", "Acrocentric", "Telocentric"],
+    "correctAnswer": "Telocentric"
+  },
+  {
+    "id": "BIO-110",
+    "question": "Which ecological role is played by fungi in ecosystems?",
+    "options": ["Producers", "Primary consumers", "Decomposers", "Herbivores"],
+    "correctAnswer": "Decomposers"
+  },
+  {
+    "id": "BIO-111",
+    "question": "Which hormone stimulates milk production in mammals?",
+    "options": ["Oxytocin", "Progesterone", "Prolactin", "Estrogen"],
+    "correctAnswer": "Prolactin"
+  },
+  {
+    "id": "BIO-112",
+    "question": "Which organelle is involved in detoxification of hydrogen peroxide?",
+    "options": ["Lysosome", "Peroxisome", "Mitochondrion", "Golgi apparatus"],
+    "correctAnswer": "Peroxisome"
+  },
+  {
+    "id": "BIO-113",
+    "question": "Which type of nerve carries impulses from receptors to the CNS?",
+    "options": ["Motor nerve", "Mixed nerve", "Sensory nerve", "Interneuron"],
+    "correctAnswer": "Sensory nerve"
+  },
+  {
+    "id": "BIO-114",
+    "question": "Which stage of photosynthesis produces ATP and NADPH?",
+    "options": ["Calvin cycle", "Dark reaction", "Light reaction", "Carbon fixation"],
+    "correctAnswer": "Light reaction"
+  },
+  {
+    "id": "BIO-115",
+    "question": "Which organ in plants is mainly responsible for transpiration pull?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "correctAnswer": "Leaf"
+  },
+  {
+    "id": "BIO-116",
+    "question": "Which type of skeletal element protects internal organs?",
+    "options": ["Axial skeleton", "Appendicular skeleton", "Cartilaginous skeleton", "Endoskeleton"],
+    "correctAnswer": "Axial skeleton"
+  },
+  {
+    "id": "BIO-117",
+    "question": "Which structure in the nephron is impermeable to water?",
+    "options": ["Proximal convoluted tubule", "Distal convoluted tubule", "Descending limb of Henle", "Ascending limb of Henle"],
+    "correctAnswer": "Ascending limb of Henle"
+  },
+  {
+    "id": "BIO-118",
+    "question": "Which biological concept explains gradual change in species over time?",
+    "options": ["Homeostasis", "Evolution", "Adaptation", "Speciation"],
+    "correctAnswer": "Evolution"
+  },
+  {
+    "id": "BIO-119",
+    "question": "Which plant hormone is associated with stress responses and dormancy?",
+    "options": ["Auxin", "Gibberellin", "Ethylene", "Abscisic acid"],
+    "correctAnswer": "Abscisic acid"
+  },
+  {
+    "id": "BIO-120",
+    "question": "Which cellular structure is composed mainly of microtubules?",
+    "options": ["Ribosome", "Centriole", "Nucleolus", "Plasmodesmata"],
+    "correctAnswer": "Centriole"
+  },
+  {
+    "id": "BIO-121",
+    "question": "Which molecule acts as the final electron acceptor in aerobic respiration?",
+    "options": ["Carbon dioxide", "Oxygen", "NAD+", "Water"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": "BIO-122",
+    "question": "Which plant structure encloses and protects the seed?",
+    "options": ["Ovule", "Endosperm", "Fruit", "Cotyledon"],
+    "correctAnswer": "Fruit"
+  },
+  {
+    "id": "BIO-123",
+    "question": "Which type of connective tissue connects bone to bone?",
+    "options": ["Tendon", "Ligament", "Cartilage", "Areolar tissue"],
+    "correctAnswer": "Ligament"
+  },
+  {
+    "id": "BIO-124",
+    "question": "Which process maintains a stable internal environment in organisms?",
+    "options": ["Metabolism", "Homeostasis", "Adaptation", "Evolution"],
+    "correctAnswer": "Homeostasis"
+  },
+  {
+    "id": "BIO-125",
+    "question": "Which enzyme is responsible for joining Okazaki fragments?",
+    "options": ["DNA polymerase", "Helicase", "DNA ligase", "Primase"],
+    "correctAnswer": "DNA ligase"
+  },
+  {
+    "id": "BIO-126",
+    "question": "Which organelle is the primary site of fatty acid oxidation?",
+    "options": ["Peroxisome", "Mitochondrion", "Smooth ER", "Golgi apparatus"],
+    "correctAnswer": "Mitochondrion"
+  },
+  {
+    "id": "BIO-127",
+    "question": "Which structure in plants allows gas exchange in woody stems?",
+    "options": ["Stomata", "Lenticels", "Root hairs", "Cuticle"],
+    "correctAnswer": "Lenticels"
+  },
+  {
+    "id": "BIO-128",
+    "question": "Which blood vessel carries oxygenated blood from lungs to heart?",
+    "options": ["Pulmonary artery", "Aorta", "Pulmonary vein", "Vena cava"],
+    "correctAnswer": "Pulmonary vein"
+  },
+  {
+    "id": "BIO-129",
+    "question": "Which type of RNA is synthesized during transcription?",
+    "options": ["tRNA", "rRNA", "mRNA", "snRNA"],
+    "correctAnswer": "mRNA"
+  },
+  {
+    "id": "BIO-130",
+    "question": "Which biome is characterized by permanently frozen subsoil?",
+    "options": ["Taiga", "Tundra", "Desert", "Savanna"],
+    "correctAnswer": "Tundra"
+  },
+  {
+    "id": "BIO-131",
+    "question": "Which structure forms the outer boundary of plant cells?",
+    "options": ["Plasma membrane", "Cell wall", "Cuticle", "Middle lamella"],
+    "correctAnswer": "Cell wall"
+  },
+  {
+    "id": "BIO-132",
+    "question": "Which vitamin is essential for blood clotting?",
+    "options": ["Vitamin A", "Vitamin D", "Vitamin K", "Vitamin B12"],
+    "correctAnswer": "Vitamin K"
+  },
+  {
+    "id": "BIO-133",
+    "question": "Which process produces genetic variation during meiosis?",
+    "options": ["DNA replication", "Crossing over", "Binary fission", "Cytokinesis"],
+    "correctAnswer": "Crossing over"
+  },
+  {
+    "id": "BIO-134",
+    "question": "Which part of the brainstem controls breathing and heartbeat?",
+    "options": ["Pons", "Cerebellum", "Medulla oblongata", "Thalamus"],
+    "correctAnswer": "Medulla oblongata"
+  },
+  {
+    "id": "BIO-135",
+    "question": "Which plant hormone promotes stem elongation and seed germination?",
+    "options": ["Ethylene", "Auxin", "Gibberellin", "Abscisic acid"],
+    "correctAnswer": "Gibberellin"
+  },
+  {
+    "id": "BIO-136",
+    "question": "Which cell organelle lacks a membrane?",
+    "options": ["Lysosome", "Ribosome", "Mitochondrion", "Nucleus"],
+    "correctAnswer": "Ribosome"
+  },
+  {
+    "id": "BIO-137",
+    "question": "Which organism group forms the base of aquatic food chains?",
+    "options": ["Zooplankton", "Phytoplankton", "Benthos", "Nekton"],
+    "correctAnswer": "Phytoplankton"
+  },
+  {
+    "id": "BIO-138",
+    "question": "Which type of immunity involves transfer of antibodies from mother to child?",
+    "options": ["Natural active", "Artificial active", "Natural passive", "Artificial passive"],
+    "correctAnswer": "Natural passive"
+  },
+  {
+    "id": "BIO-139",
+    "question": "Which enzyme converts angiotensin I to angiotensin II?",
+    "options": ["Renin", "Pepsin", "ACE", "Trypsin"],
+    "correctAnswer": "ACE"
+  },
+  {
+    "id": "BIO-140",
+    "question": "Which type of neuron connects sensory and motor neurons?",
+    "options": ["Motor neuron", "Sensory neuron", "Interneuron", "Autonomic neuron"],
+    "correctAnswer": "Interneuron"
+  },
+  {
+    "id": "BIO-141",
+    "question": "Which process results in the formation of a zygote?",
+    "options": ["Meiosis", "Mitosis", "Fertilization", "Cleavage"],
+    "correctAnswer": "Fertilization"
+  },
+  {
+    "id": "BIO-142",
+    "question": "Which tissue is responsible for lateral growth in plants?",
+    "options": ["Apical meristem", "Intercalary meristem", "Lateral meristem", "Permanent tissue"],
+    "correctAnswer": "Lateral meristem"
+  },
+  {
+    "id": "BIO-143",
+    "question": "Which organ stores glycogen in the human body?",
+    "options": ["Pancreas", "Liver", "Kidney", "Spleen"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "BIO-144",
+    "question": "Which part of the nephron reabsorbs the maximum amount of filtrate?",
+    "options": ["Loop of Henle", "Distal convoluted tubule", "Proximal convoluted tubule", "Collecting duct"],
+    "correctAnswer": "Proximal convoluted tubule"
+  },
+  {
+    "id": "BIO-145",
+    "question": "Which structural level of protein determines its specific function?",
+    "options": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+    "correctAnswer": "Tertiary"
+  },
+  {
+    "id": "BIO-146",
+    "question": "Which plant response is independent of stimulus direction?",
+    "options": ["Phototropism", "Geotropism", "Nastic movement", "Thigmotropism"],
+    "correctAnswer": "Nastic movement"
+  },
+  {
+    "id": "BIO-147",
+    "question": "Which blood cells lack a nucleus in mammals?",
+    "options": ["Lymphocytes", "Platelets", "Erythrocytes", "Monocytes"],
+    "correctAnswer": "Erythrocytes"
+  },
+  {
+    "id": "BIO-148",
+    "question": "Which cellular event marks the beginning of anaphase?",
+    "options": ["Chromosome condensation", "Nuclear membrane breakdown", "Sister chromatid separation", "Spindle formation"],
+    "correctAnswer": "Sister chromatid separation"
+  },
+  {
+    "id": "BIO-149",
+    "question": "Which biome has the highest biodiversity on land?",
+    "options": ["Grassland", "Temperate forest", "Tropical rainforest", "Desert"],
+    "correctAnswer": "Tropical rainforest"
+  },
+  {
+    "id": "BIO-150",
+    "question": "Which cellular process converts glucose to pyruvate?",
+    "options": ["Krebs cycle", "Glycolysis", "Fermentation", "Photosynthesis"],
+    "correctAnswer": "Glycolysis"
   }
 ]
-
-

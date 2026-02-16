@@ -1,30 +1,722 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "CH-001",
+    "question": "What does the term \"Cultural Heritage\" primarily refer to?",
+    "options": ["Modern technology", "Shared traditions and legacy", "Economic systems", "Political ideologies"],
+    "correctAnswer": "Shared traditions and legacy"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "CH-002",
+    "question": "Which of the following is an example of intangible cultural heritage?",
+    "options": ["Ancient temples", "Traditional music", "Historic monuments", "Old manuscripts"],
+    "correctAnswer": "Traditional music"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "CH-003",
+    "question": "Which organization maintains the World Heritage List?",
+    "options": ["UNICEF", "WHO", "UNESCO", "IMF"],
+    "correctAnswer": "UNESCO"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "CH-004",
+    "question": "What is the primary goal of preserving cultural heritage?",
+    "options": ["Tourism profit only", "Military advantage", "Passing history to future generations", "Urban expansion"],
+    "correctAnswer": "Passing history to future generations"
+  },
+  {
+    "id": "CH-005",
+    "question": "Which material is most commonly used in ancient cave paintings?",
+    "options": ["Plastic dye", "Chemical ink", "Natural pigments", "Oil paint"],
+    "correctAnswer": "Natural pigments"
+  },
+  {
+    "id": "CH-006",
+    "question": "Oral traditions are classified under which heritage category?",
+    "options": ["Natural heritage", "Digital heritage", "Intangible heritage", "Architectural heritage"],
+    "correctAnswer": "Intangible heritage"
+  },
+  {
+    "id": "CH-007",
+    "question": "Which factor poses the greatest threat to many cultural heritage sites?",
+    "options": ["Climate change", "Language evolution", "Education reforms", "Art exhibitions"],
+    "correctAnswer": "Climate change"
+  },
+  {
+    "id": "CH-008",
+    "question": "What is cultural appropriation most closely associated with?",
+    "options": ["Preserving traditions", "Respectful exchange", "Misuse of cultural elements", "Archaeological research"],
+    "correctAnswer": "Misuse of cultural elements"
+  },
+  {
+    "id": "CH-009",
+    "question": "Which of the following best defines tangible cultural heritage?",
+    "options": ["Songs and rituals", "Festivals and customs", "Physical artifacts and sites", "Languages"],
+    "correctAnswer": "Physical artifacts and sites"
+  },
+  {
+    "id": "CH-010",
+    "question": "Why are traditional crafts important to cultural heritage?",
+    "options": ["They replace modern industry", "They preserve skills and identity", "They reduce population growth", "They eliminate technology"],
+    "correctAnswer": "They preserve skills and identity"
+  },
+  {
+    "id": "CH-011",
+    "question": "Which method is commonly used to document endangered languages?",
+    "options": ["Satellite imaging", "Audio and video recording", "3D printing", "Carbon dating"],
+    "correctAnswer": "Audio and video recording"
+  },
+  {
+    "id": "CH-012",
+    "question": "What distinguishes cultural heritage from natural heritage?",
+    "options": ["Human involvement", "Economic value", "Geographic size", "Tourism popularity"],
+    "correctAnswer": "Human involvement"
+  },
+  {
+    "id": "CH-013",
+    "question": "Which practice helps ensure sustainable heritage conservation?",
+    "options": ["Ignoring local communities", "Over-commercialization", "Community participation", "Exclusive government control"],
+    "correctAnswer": "Community participation"
+  },
+  {
+    "id": "CH-014",
+    "question": "What role do museums primarily play in cultural heritage?",
+    "options": ["Entertainment only", "Artifact preservation and education", "Political campaigning", "Commercial trade"],
+    "correctAnswer": "Artifact preservation and education"
+  },
+  {
+    "id": "CH-015",
+    "question": "Which of the following best represents cultural heritage in daily life?",
+    "options": ["Traditional cuisine", "Stock markets", "Weather patterns", "Digital encryption"],
+    "correctAnswer": "Traditional cuisine"
+  },
+  {
+    "id": "CH-016",
+    "question": "Why is cultural heritage considered dynamic rather than static?",
+    "options": ["It constantly disappears", "It evolves with society", "It remains frozen in time", "It rejects innovation"],
+    "correctAnswer": "It evolves with society"
+  },
+  {
+    "id": "CH-017",
+    "question": "What is a major ethical concern in archaeological excavation?",
+    "options": ["Artifact ownership and context loss", "Tourism growth", "Urban development", "Art reproduction"],
+    "correctAnswer": "Artifact ownership and context loss"
+  },
+  {
+    "id": "CH-018",
+    "question": "Which technology is increasingly used to digitally preserve heritage sites?",
+    "options": ["3D scanning", "Nuclear fusion", "Genetic editing", "Blockchain mining"],
+    "correctAnswer": "3D scanning"
+  },
+  {
+    "id": "CH-019",
+    "question": "What is the main risk of over-tourism at heritage locations?",
+    "options": ["Cultural dilution and physical damage", "Language extinction", "Economic isolation", "Loss of biodiversity only"],
+    "correctAnswer": "Cultural dilution and physical damage"
+  },
+  {
+    "id": "CH-020",
+    "question": "Which concept emphasizes protecting heritage during armed conflict?",
+    "options": ["Cultural immunity", "Heritage neutrality", "Cultural property protection", "Artistic freedom"],
+    "correctAnswer": "Cultural property protection"
+  },
+  {
+    "id": "CH-021",
+    "question": "How does globalization most affect cultural heritage?",
+    "options": ["Complete preservation", "Total destruction", "Cultural homogenization risk", "Elimination of traditions"],
+    "correctAnswer": "Cultural homogenization risk"
+  },
+  {
+    "id": "CH-022",
+    "question": "Which approach balances modernization with heritage conservation?",
+    "options": ["Adaptive reuse", "Total demolition", "Strict isolation", "Unregulated expansion"],
+    "correctAnswer": "Adaptive reuse"
+  },
+  {
+    "id": "CH-023",
+    "question": "Why are rituals considered valuable cultural heritage elements?",
+    "options": ["They are easy to replace", "They strengthen social identity", "They eliminate conflicts", "They increase exports"],
+    "correctAnswer": "They strengthen social identity"
+  },
+  {
+    "id": "CH-024",
+    "question": "Which challenge is unique to intangible cultural heritage?",
+    "options": ["Physical decay", "Loss through non-practice", "Material erosion", "Structural collapse"],
+    "correctAnswer": "Loss through non-practice"
+  },
+  {
+    "id": "CH-025",
+    "question": "What is the primary role of elders in cultural heritage transmission?",
+    "options": ["Political leadership", "Economic planning", "Knowledge preservation", "Technological innovation"],
+    "correctAnswer": "Knowledge preservation"
+  },
+  {
+    "id": "CH-026",
+    "question": "Which principle stresses respect for original cultural context?",
+    "options": ["Cultural relativism", "Universalism", "Modernism", "Technocentrism"],
+    "correctAnswer": "Cultural relativism"
+  },
+  {
+    "id": "CH-027",
+    "question": "What is a key indicator of successful heritage preservation?",
+    "options": ["Increased ticket prices", "Community cultural continuity", "Exclusive access", "High commercialization"],
+    "correctAnswer": "Community cultural continuity"
+  },
+  {
+    "id": "CH-028",
+    "question": "Why is documentation critical for endangered cultural practices?",
+    "options": ["It replaces living traditions", "It supports future revival", "It stops cultural change", "It increases tourism only"],
+    "correctAnswer": "It supports future revival"
+  },
+  {
+    "id": "CH-029",
+    "question": "Which dilemma often arises in heritage conservation projects?",
+    "options": ["Tradition versus development", "Art versus science", "History versus geography", "Culture versus language"],
+    "correctAnswer": "Tradition versus development"
+  },
+  {
+    "id": "CH-030",
+    "question": "Which factor most strongly determines the survival of cultural heritage?",
+    "options": ["Government funding alone", "Active community engagement", "Global media exposure", "Technological superiority"],
+    "correctAnswer": "Active community engagement"
+  },
+  {
+    "id": "CH-031",
+    "question": "Which type of heritage mainly includes historical buildings and monuments?",
+    "options": ["Intangible heritage", "Natural heritage", "Digital heritage", "Built heritage"],
+    "correctAnswer": "Built heritage"
+  },
+  {
+    "id": "CH-032",
+    "question": "What is the main purpose of heritage conservation laws?",
+    "options": ["To restrict education", "To protect cultural assets", "To promote privatization", "To stop tourism"],
+    "correctAnswer": "To protect cultural assets"
+  },
+  {
+    "id": "CH-033",
+    "question": "Which element best represents intangible cultural heritage?",
+    "options": ["Stone sculpture", "Ancient fortress", "Traditional dance", "Historic bridge"],
+    "correctAnswer": "Traditional dance"
+  },
+  {
+    "id": "CH-034",
+    "question": "What is a major risk of restoring heritage sites incorrectly?",
+    "options": ["Improved durability", "Loss of authenticity", "Increased funding", "Cultural revival"],
+    "correctAnswer": "Loss of authenticity"
+  },
+  {
+    "id": "CH-035",
+    "question": "Why are cultural landscapes considered heritage?",
+    "options": ["They are always urban", "They show human–nature interaction", "They eliminate biodiversity", "They exist only in museums"],
+    "correctAnswer": "They show human–nature interaction"
+  },
+  {
+    "id": "CH-036",
+    "question": "Which factor most influences the transmission of cultural heritage?",
+    "options": ["Weather conditions", "Social practices", "Natural disasters", "Market demand"],
+    "correctAnswer": "Social practices"
+  },
+  {
+    "id": "CH-037",
+    "question": "What does the term \"living heritage\" imply?",
+    "options": ["Heritage kept underground", "Heritage actively practiced", "Heritage locked in archives", "Heritage no longer relevant"],
+    "correctAnswer": "Heritage actively practiced"
+  },
+  {
+    "id": "CH-038",
+    "question": "Which challenge is most common for oral heritage traditions?",
+    "options": ["Digital piracy", "Language extinction", "Physical erosion", "Urban planning"],
+    "correctAnswer": "Language extinction"
+  },
+  {
+    "id": "CH-039",
+    "question": "What is a key benefit of heritage education in schools?",
+    "options": ["Career specialization", "Cultural awareness", "Economic inflation", "Political loyalty"],
+    "correctAnswer": "Cultural awareness"
+  },
+  {
+    "id": "CH-040",
+    "question": "Which approach focuses on minimal intervention in heritage sites?",
+    "options": ["Reconstruction", "Preservation", "Over-restoration", "Commercialization"],
+    "correctAnswer": "Preservation"
+  },
+  {
+    "id": "CH-041",
+    "question": "Why are traditional festivals considered cultural heritage?",
+    "options": ["They attract investors", "They preserve collective memory", "They reduce migration", "They replace religion"],
+    "correctAnswer": "They preserve collective memory"
+  },
+  {
+    "id": "CH-042",
+    "question": "What is the main ethical issue in displaying sacred artifacts?",
+    "options": ["Lighting quality", "Cultural sensitivity", "Ticket pricing", "Storage methods"],
+    "correctAnswer": "Cultural sensitivity"
+  },
+  {
+    "id": "CH-043",
+    "question": "Which heritage category includes ancient agricultural practices?",
+    "options": ["Industrial heritage", "Intangible heritage", "Maritime heritage", "Digital heritage"],
+    "correctAnswer": "Intangible heritage"
+  },
+  {
+    "id": "CH-044",
+    "question": "What is a potential negative effect of mass tourism on heritage cities?",
+    "options": ["Cultural commodification", "Improved education", "Language revival", "Population balance"],
+    "correctAnswer": "Cultural commodification"
+  },
+  {
+    "id": "CH-045",
+    "question": "Which method best supports long-term heritage preservation?",
+    "options": ["Short-term exhibitions", "Community stewardship", "Exclusive ownership", "Rapid urbanization"],
+    "correctAnswer": "Community stewardship"
+  },
+  {
+    "id": "CH-046",
+    "question": "What distinguishes ritual heritage from material heritage?",
+    "options": ["It requires legal protection", "It is performance-based", "It has higher economic value", "It is always religious"],
+    "correctAnswer": "It is performance-based"
+  },
+  {
+    "id": "CH-047",
+    "question": "Why is authenticity critical in heritage conservation?",
+    "options": ["It increases tourism speed", "It maintains historical integrity", "It reduces maintenance costs", "It simplifies reconstruction"],
+    "correctAnswer": "It maintains historical integrity"
+  },
+  {
+    "id": "CH-048",
+    "question": "Which group plays a central role in safeguarding intangible heritage?",
+    "options": ["International corporations", "Local practitioners", "Private investors", "Tour operators"],
+    "correctAnswer": "Local practitioners"
+  },
+  {
+    "id": "CH-049",
+    "question": "What does heritage digitization mainly aim to achieve?",
+    "options": ["Replace original sites", "Ensure long-term access", "Commercialize artifacts", "Stop cultural evolution"],
+    "correctAnswer": "Ensure long-term access"
+  },
+  {
+    "id": "CH-050",
+    "question": "Which issue often arises when heritage sites are relocated?",
+    "options": ["Loss of contextual meaning", "Improved symbolism", "Higher authenticity", "Cultural expansion"],
+    "correctAnswer": "Loss of contextual meaning"
+  },
+  {
+    "id": "CH-051",
+    "question": "Why are food traditions an important part of cultural heritage?",
+    "options": ["They eliminate hunger", "They reflect cultural identity", "They standardize taste", "They replace agriculture"],
+    "correctAnswer": "They reflect cultural identity"
+  },
+  {
+    "id": "CH-052",
+    "question": "Which factor most threatens underwater cultural heritage?",
+    "options": ["Urban sprawl", "Looting and corrosion", "Air pollution", "Deforestation"],
+    "correctAnswer": "Looting and corrosion"
+  },
+  {
+    "id": "CH-053",
+    "question": "What is the main goal of heritage impact assessments?",
+    "options": ["Promote construction speed", "Evaluate development effects", "Increase land prices", "Limit community access"],
+    "correctAnswer": "Evaluate development effects"
+  },
+  {
+    "id": "CH-054",
+    "question": "Which heritage concept emphasizes shared responsibility across generations?",
+    "options": ["Cultural continuity", "Economic determinism", "Technological dominance", "Political centralization"],
+    "correctAnswer": "Cultural continuity"
+  },
+  {
+    "id": "CH-055",
+    "question": "Why is safeguarding minority heritage particularly challenging?",
+    "options": ["Over-documentation", "Limited recognition", "Excessive funding", "High globalization support"],
+    "correctAnswer": "Limited recognition"
+  },
+  {
+    "id": "CH-056",
+    "question": "Which practice best helps revive endangered cultural traditions?",
+    "options": ["Strict isolation", "Intergenerational teaching", "Complete modernization", "Exclusive archiving"],
+    "correctAnswer": "Intergenerational teaching"
+  },
+  {
+    "id": "CH-057",
+    "question": "What is a common conflict in managing sacred heritage sites?",
+    "options": ["Tourism access versus ritual use", "Education versus science", "Economics versus language", "History versus climate"],
+    "correctAnswer": "Tourism access versus ritual use"
+  },
+  {
+    "id": "CH-058",
+    "question": "Which indicator suggests healthy cultural heritage sustainability?",
+    "options": ["High visitor numbers", "Ongoing cultural practice", "Increased commercialization", "Strict external control"],
+    "correctAnswer": "Ongoing cultural practice"
+  },
+  {
+    "id": "CH-059",
+    "question": "Why is documentation alone insufficient for heritage preservation?",
+    "options": ["It is too expensive", "It cannot replace living practice", "It stops innovation", "It discourages education"],
+    "correctAnswer": "It cannot replace living practice"
+  },
+  {
+    "id": "CH-060",
+    "question": "Which principle best guides ethical cultural heritage management?",
+    "options": ["Maximum profit", "Respect for cultural values", "Rapid modernization", "Exclusive authority"],
+    "correctAnswer": "Respect for cultural values"
+  },
+  {
+    "id": "CH-061",
+    "question": "Which term describes heritage passed down mainly through spoken communication?",
+    "options": ["Architectural heritage", "Documentary heritage", "Oral heritage", "Industrial heritage"],
+    "correctAnswer": "Oral heritage"
+  },
+  {
+    "id": "CH-062",
+    "question": "What is a primary reason cultural heritage sites are legally protected?",
+    "options": ["To restrict public access", "To ensure historical continuity", "To increase real estate value", "To promote private ownership"],
+    "correctAnswer": "To ensure historical continuity"
+  },
+  {
+    "id": "CH-063",
+    "question": "Which example best represents industrial cultural heritage?",
+    "options": ["Ancient manuscript", "Traditional wedding song", "Historic factory complex", "Sacred mountain"],
+    "correctAnswer": "Historic factory complex"
+  },
+  {
+    "id": "CH-064",
+    "question": "Why is community consent important in heritage documentation?",
+    "options": ["It speeds up research", "It reduces costs", "It ensures ethical practice", "It increases tourism"],
+    "correctAnswer": "It ensures ethical practice"
+  },
+  {
+    "id": "CH-065",
+    "question": "Which concept refers to the original setting of a heritage object or site?",
+    "options": ["Authenticity", "Context", "Integrity", "Value"],
+    "correctAnswer": "Context"
+  },
+  {
+    "id": "CH-066",
+    "question": "What is a major challenge in conserving earthen architecture?",
+    "options": ["Metal corrosion", "Water erosion", "Glass breakage", "Chemical oxidation"],
+    "correctAnswer": "Water erosion"
+  },
+  {
+    "id": "CH-067",
+    "question": "Which type of heritage is most vulnerable to rapid social change?",
+    "options": ["Stone monuments", "Metal artifacts", "Intangible practices", "Archaeological ruins"],
+    "correctAnswer": "Intangible practices"
+  },
+  {
+    "id": "CH-068",
+    "question": "What does the term \"heritage values\" primarily indicate?",
+    "options": ["Market price", "Cultural significance", "Tourist capacity", "Architectural size"],
+    "correctAnswer": "Cultural significance"
+  },
+  {
+    "id": "CH-069",
+    "question": "Which action best supports safeguarding traditional craftsmanship?",
+    "options": ["Mass production", "Skill transmission programs", "Complete automation", "Exclusive patents"],
+    "correctAnswer": "Skill transmission programs"
+  },
+  {
+    "id": "CH-070",
+    "question": "Why is relocation of movable heritage sometimes controversial?",
+    "options": ["It increases security", "It changes ownership laws", "It detaches items from meaning", "It improves accessibility"],
+    "correctAnswer": "It detaches items from meaning"
+  },
+  {
+    "id": "CH-071",
+    "question": "Which heritage aspect is most closely linked to identity formation?",
+    "options": ["Transportation systems", "Cultural traditions", "Trade networks", "Climate patterns"],
+    "correctAnswer": "Cultural traditions"
+  },
+  {
+    "id": "CH-072",
+    "question": "What is a key objective of safeguarding sacred natural sites?",
+    "options": ["Resource extraction", "Spiritual continuity", "Urban expansion", "Industrial growth"],
+    "correctAnswer": "Spiritual continuity"
+  },
+  {
+    "id": "CH-073",
+    "question": "Which risk is associated with excessive reconstruction of heritage sites?",
+    "options": ["Structural stability", "Loss of historical evidence", "Improved aesthetics", "Greater accessibility"],
+    "correctAnswer": "Loss of historical evidence"
+  },
+  {
+    "id": "CH-074",
+    "question": "What distinguishes cultural heritage interpretation from preservation?",
+    "options": ["Physical protection focus", "Public understanding focus", "Legal enforcement focus", "Material analysis focus"],
+    "correctAnswer": "Public understanding focus"
+  },
+  {
+    "id": "CH-075",
+    "question": "Which factor often determines whether a tradition survives migration?",
+    "options": ["Government regulation", "Intergenerational practice", "Tourist interest", "Media coverage"],
+    "correctAnswer": "Intergenerational practice"
+  },
+  {
+    "id": "CH-076",
+    "question": "Why is traditional knowledge considered a form of heritage?",
+    "options": ["It replaces science", "It embodies accumulated experience", "It standardizes culture", "It eliminates innovation"],
+    "correctAnswer": "It embodies accumulated experience"
+  },
+  {
+    "id": "CH-077",
+    "question": "Which challenge is common in digitizing fragile heritage materials?",
+    "options": ["Data encryption", "Handling-induced damage", "Excessive duplication", "Loss of color theory"],
+    "correctAnswer": "Handling-induced damage"
+  },
+  {
+    "id": "CH-078",
+    "question": "What role do cultural custodians primarily play?",
+    "options": ["Commercial management", "Knowledge safeguarding", "Urban planning", "Political mediation"],
+    "correctAnswer": "Knowledge safeguarding"
+  },
+  {
+    "id": "CH-079",
+    "question": "Which principle discourages altering original materials unnecessarily?",
+    "options": ["Reversibility", "Minimal intervention", "Adaptive reuse", "Functional replacement"],
+    "correctAnswer": "Minimal intervention"
+  },
+  {
+    "id": "CH-080",
+    "question": "Why can heritage branding be problematic?",
+    "options": ["It reduces awareness", "It risks oversimplifying culture", "It limits access", "It prevents education"],
+    "correctAnswer": "It risks oversimplifying culture"
+  },
+  {
+    "id": "CH-081",
+    "question": "Which heritage type often includes historic shipwrecks?",
+    "options": ["Maritime heritage", "Mountain heritage", "Urban heritage", "Agricultural heritage"],
+    "correctAnswer": "Maritime heritage"
+  },
+  {
+    "id": "CH-082",
+    "question": "What is the main concern when commercial events are hosted at heritage sites?",
+    "options": ["Audience size", "Physical and symbolic impact", "Ticket distribution", "Lighting design"],
+    "correctAnswer": "Physical and symbolic impact"
+  },
+  {
+    "id": "CH-083",
+    "question": "Which element strengthens resilience of cultural heritage systems?",
+    "options": ["Centralized control", "Diverse participation", "Exclusive ownership", "Uniform practices"],
+    "correctAnswer": "Diverse participation"
+  },
+  {
+    "id": "CH-084",
+    "question": "What does heritage vulnerability assessment aim to identify?",
+    "options": ["Visitor preferences", "Potential risks and impacts", "Marketing strategies", "Economic forecasts"],
+    "correctAnswer": "Potential risks and impacts"
+  },
+  {
+    "id": "CH-085",
+    "question": "Why are traditional storytelling forms endangered?",
+    "options": ["Over-documentation", "Decline in communal gatherings", "Excessive funding", "High academic interest"],
+    "correctAnswer": "Decline in communal gatherings"
+  },
+  {
+    "id": "CH-086",
+    "question": "Which practice best aligns with culturally sensitive conservation?",
+    "options": ["Standardized global methods", "Local belief integration", "Rapid modernization", "Exclusive expert control"],
+    "correctAnswer": "Local belief integration"
+  },
+  {
+    "id": "CH-087",
+    "question": "What is a common issue in cross-border heritage claims?",
+    "options": ["Climate variation", "Disputed ownership", "Language evolution", "Architectural decay"],
+    "correctAnswer": "Disputed ownership"
+  },
+  {
+    "id": "CH-088",
+    "question": "Which outcome indicates successful intangible heritage safeguarding?",
+    "options": ["High archival volume", "Continued community practice", "Increased merchandise sales", "International branding"],
+    "correctAnswer": "Continued community practice"
+  },
+  {
+    "id": "CH-089",
+    "question": "Why is heritage impact often long-term rather than immediate?",
+    "options": ["Slow policy response", "Gradual cultural change", "Limited technology", "Seasonal tourism"],
+    "correctAnswer": "Gradual cultural change"
+  },
+  {
+    "id": "CH-090",
+    "question": "Which concept best frames cultural heritage as a shared human responsibility?",
+    "options": ["Private custodianship", "Collective stewardship", "National exclusivity", "Commercial ownership"],
+    "correctAnswer": "Collective stewardship"
+  },
+  {
+    "id": "CH-091",
+    "question": "Which concept focuses on keeping heritage usable while preserving its significance?",
+    "options": ["Strict isolation", "Adaptive management", "Total reconstruction", "Artifact relocation"],
+    "correctAnswer": "Adaptive management"
+  },
+  {
+    "id": "CH-092",
+    "question": "What primarily differentiates cultural heritage from historical data?",
+    "options": ["Emotional attachment", "Chronological accuracy", "Statistical reliability", "Digital storage"],
+    "correctAnswer": "Emotional attachment"
+  },
+  {
+    "id": "CH-093",
+    "question": "Which heritage element is most dependent on regular community participation?",
+    "options": ["Stone carvings", "Ancient roads", "Ritual ceremonies", "Metal tools"],
+    "correctAnswer": "Ritual ceremonies"
+  },
+  {
+    "id": "CH-094",
+    "question": "Why are heritage buffer zones established around important sites?",
+    "options": ["To expand tourism facilities", "To control surrounding development", "To increase land prices", "To relocate residents"],
+    "correctAnswer": "To control surrounding development"
+  },
+  {
+    "id": "CH-095",
+    "question": "Which factor most affects the authenticity of restored heritage structures?",
+    "options": ["Visitor numbers", "Use of original materials", "Ticket pricing", "Lighting design"],
+    "correctAnswer": "Use of original materials"
+  },
+  {
+    "id": "CH-096",
+    "question": "What is the main challenge of safeguarding nomadic cultural heritage?",
+    "options": ["Lack of written records", "Fixed site dependency", "Over-urbanization", "Industrial pollution"],
+    "correctAnswer": "Fixed site dependency"
+  },
+  {
+    "id": "CH-097",
+    "question": "Which heritage practice is most threatened by language shift?",
+    "options": ["Stone masonry", "Textile weaving", "Oral poetry", "Metal casting"],
+    "correctAnswer": "Oral poetry"
+  },
+  {
+    "id": "CH-098",
+    "question": "Why is provenance critical for movable cultural heritage?",
+    "options": ["It increases insurance value", "It confirms origin and legitimacy", "It improves visual appeal", "It speeds up restoration"],
+    "correctAnswer": "It confirms origin and legitimacy"
+  },
+  {
+    "id": "CH-099",
+    "question": "Which approach best mitigates disaster risks to heritage sites?",
+    "options": ["Post-disaster repair only", "Preventive risk planning", "Tourism restriction", "Artifact relocation"],
+    "correctAnswer": "Preventive risk planning"
+  },
+  {
+    "id": "CH-100",
+    "question": "What distinguishes commemorative heritage from functional heritage?",
+    "options": ["Economic productivity", "Symbolic meaning", "Material durability", "Construction method"],
+    "correctAnswer": "Symbolic meaning"
+  },
+  {
+    "id": "CH-101",
+    "question": "Which issue arises when heritage narratives are simplified for mass audiences?",
+    "options": ["Improved accuracy", "Loss of cultural nuance", "Higher academic value", "Stronger authenticity"],
+    "correctAnswer": "Loss of cultural nuance"
+  },
+  {
+    "id": "CH-102",
+    "question": "Why is intergenerational equity important in heritage policy?",
+    "options": ["It ensures present economic gain", "It balances past, present, and future needs", "It limits public access", "It prioritizes experts only"],
+    "correctAnswer": "It balances past, present, and future needs"
+  },
+  {
+    "id": "CH-103",
+    "question": "Which heritage category includes historic transport infrastructure?",
+    "options": ["Domestic heritage", "Industrial heritage", "Natural heritage", "Literary heritage"],
+    "correctAnswer": "Industrial heritage"
+  },
+  {
+    "id": "CH-104",
+    "question": "What is the main ethical concern in using replicas at heritage sites?",
+    "options": ["Cost efficiency", "Visitor confusion about originality", "Weather resistance", "Ease of transport"],
+    "correctAnswer": "Visitor confusion about originality"
+  },
+  {
+    "id": "CH-105",
+    "question": "Which factor most strongly supports continuity of festive traditions?",
+    "options": ["Government mandates", "Community ownership", "Commercial sponsorship", "Media broadcasting"],
+    "correctAnswer": "Community ownership"
+  },
+  {
+    "id": "CH-106",
+    "question": "Why is intangible heritage harder to inventory than tangible heritage?",
+    "options": ["It lacks physical form", "It has lower value", "It changes ownership rapidly", "It is always secret"],
+    "correctAnswer": "It lacks physical form"
+  },
+  {
+    "id": "CH-107",
+    "question": "Which practice best addresses cultural sensitivity in heritage tourism?",
+    "options": ["Fixed global standards", "Local community consultation", "Maximum visitor throughput", "Uniform pricing models"],
+    "correctAnswer": "Local community consultation"
+  },
+  {
+    "id": "CH-108",
+    "question": "What is a common risk of privatizing heritage management?",
+    "options": ["Improved maintenance", "Profit-driven decision making", "Increased transparency", "Expanded access"],
+    "correctAnswer": "Profit-driven decision making"
+  },
+  {
+    "id": "CH-109",
+    "question": "Which method is most suitable for conserving rock art in open landscapes?",
+    "options": ["Complete relocation", "In-situ protection", "Overpainting", "Heavy structural enclosure"],
+    "correctAnswer": "In-situ protection"
+  },
+  {
+    "id": "CH-110",
+    "question": "Why are pilgrimage routes considered linear cultural heritage?",
+    "options": ["They exist only on maps", "They connect multiple heritage points", "They are underground", "They lack historical value"],
+    "correctAnswer": "They connect multiple heritage points"
+  },
+  {
+    "id": "CH-111",
+    "question": "Which challenge affects heritage archives in the digital age?",
+    "options": ["Material scarcity", "Technological obsolescence", "Excessive handwriting", "Lack of electricity"],
+    "correctAnswer": "Technological obsolescence"
+  },
+  {
+    "id": "CH-112",
+    "question": "What role does memory play in cultural heritage?",
+    "options": ["It replaces documentation", "It sustains meaning and identity", "It standardizes interpretation", "It limits diversity"],
+    "correctAnswer": "It sustains meaning and identity"
+  },
+  {
+    "id": "CH-113",
+    "question": "Which factor most complicates safeguarding transnational heritage?",
+    "options": ["Shared climate", "Differing legal frameworks", "Similar languages", "Uniform traditions"],
+    "correctAnswer": "Differing legal frameworks"
+  },
+  {
+    "id": "CH-114",
+    "question": "Why is seasonal use important for certain heritage practices?",
+    "options": ["It reduces costs", "It aligns with traditional cycles", "It attracts tourists", "It simplifies management"],
+    "correctAnswer": "It aligns with traditional cycles"
+  },
+  {
+    "id": "CH-115",
+    "question": "Which outcome best reflects respectful heritage interpretation?",
+    "options": ["Entertaining storytelling only", "Balanced accuracy and inclusivity", "Exclusive expert narratives", "Commercial dramatization"],
+    "correctAnswer": "Balanced accuracy and inclusivity"
+  },
+  {
+    "id": "CH-116",
+    "question": "What is a common limitation of legal protection for intangible heritage?",
+    "options": ["Over-enforcement", "Difficulty defining ownership", "Excessive funding needs", "High physical maintenance"],
+    "correctAnswer": "Difficulty defining ownership"
+  },
+  {
+    "id": "CH-117",
+    "question": "Which practice best supports ethical archaeological research?",
+    "options": ["Rapid excavation", "Contextual documentation", "Private collection", "Artifact trade"],
+    "correctAnswer": "Contextual documentation"
+  },
+  {
+    "id": "CH-118",
+    "question": "Why is continuity preferred over revival in living heritage?",
+    "options": ["It is cheaper", "It maintains authentic transmission", "It attracts sponsors", "It limits innovation"],
+    "correctAnswer": "It maintains authentic transmission"
+  },
+  {
+    "id": "CH-119",
+    "question": "Which indicator suggests a heritage site is over-commercialized?",
+    "options": ["Local rituals continue", "Visitor services dominate spaces", "Community governance exists", "Educational programs expand"],
+    "correctAnswer": "Visitor services dominate spaces"
+  },
+  {
+    "id": "CH-120",
+    "question": "What principle best ensures fairness in heritage benefit sharing?",
+    "options": ["Centralized revenue control", "Equitable community participation", "Exclusive licensing", "Short-term leasing"],
+    "correctAnswer": "Equitable community participation"
   }
 ]

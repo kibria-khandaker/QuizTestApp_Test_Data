@@ -1,30 +1,362 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "RB-001",
+    "question": "Which religious book is considered the holy scripture of Islam?",
+    "options": ["Torah", "Bible", "Quran", "Vedas"],
+    "correctAnswer": "Quran"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "RB-002",
+    "question": "The Bhagavad Gita is a part of which larger epic?",
+    "options": ["Ramayana", "Mahabharata", "Upanishads", "Puranas"],
+    "correctAnswer": "Mahabharata"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "RB-003",
+    "question": "Which religious book contains the Ten Commandments?",
+    "options": ["Quran", "Torah", "Tripitaka", "Avesta"],
+    "correctAnswer": "Torah"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "RB-004",
+    "question": "The New Testament is primarily associated with which religion?",
+    "options": ["Judaism", "Islam", "Christianity", "Hinduism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "RB-005",
+    "question": "Which sacred text is central to Buddhism?",
+    "options": ["Vedas", "Avesta", "Tripitaka", "Guru Granth Sahib"],
+    "correctAnswer": "Tripitaka"
+  },
+  {
+    "id": "RB-006",
+    "question": "The Rigveda is written in which ancient language?",
+    "options": ["Pali", "Sanskrit", "Hebrew", "Arabic"],
+    "correctAnswer": "Sanskrit"
+  },
+  {
+    "id": "RB-007",
+    "question": "Which book is regarded as the final revealed scripture in Islam?",
+    "options": ["Torah", "Bible", "Psalms", "Quran"],
+    "correctAnswer": "Quran"
+  },
+  {
+    "id": "RB-008",
+    "question": "The Guru Granth Sahib is the holy scripture of which religion?",
+    "options": ["Hinduism", "Sikhism", "Jainism", "Buddhism"],
+    "correctAnswer": "Sikhism"
+  },
+  {
+    "id": "RB-009",
+    "question": "Which religious book is also known as the Hebrew Bible?",
+    "options": ["Talmud", "Tanakh", "Midrash", "Zohar"],
+    "correctAnswer": "Tanakh"
+  },
+  {
+    "id": "RB-010",
+    "question": "The Zend Avesta is the sacred text of which religion?",
+    "options": ["Zoroastrianism", "Jainism", "Taoism", "Confucianism"],
+    "correctAnswer": "Zoroastrianism"
+  },
+  {
+    "id": "RB-011",
+    "question": "Which text primarily records the sayings of Prophet Muhammad?",
+    "options": ["Sirah", "Hadith", "Tafsir", "Fiqh"],
+    "correctAnswer": "Hadith"
+  },
+  {
+    "id": "RB-012",
+    "question": "The Upanishads mainly focus on which concept?",
+    "options": ["Ritual laws", "Philosophical teachings", "Historical wars", "Mythical stories"],
+    "correctAnswer": "Philosophical teachings"
+  },
+  {
+    "id": "RB-013",
+    "question": "Which book is traditionally attributed to the teachings of Confucius?",
+    "options": ["Tao Te Ching", "Analects", "I Ching", "Book of Rites"],
+    "correctAnswer": "Analects"
+  },
+  {
+    "id": "RB-014",
+    "question": "The Tao Te Ching is a foundational text of which belief system?",
+    "options": ["Confucianism", "Shinto", "Taoism", "Jainism"],
+    "correctAnswer": "Taoism"
+  },
+  {
+    "id": "RB-015",
+    "question": "Which religious book emphasizes the concept of Ahimsa (non-violence)?",
+    "options": ["Bible", "Quran", "Agamas", "Vedas"],
+    "correctAnswer": "Agamas"
+  },
+  {
+    "id": "RB-016",
+    "question": "The Psalms are included in which religious scripture?",
+    "options": ["Torah", "Bible", "Quran", "Avesta"],
+    "correctAnswer": "Bible"
+  },
+  {
+    "id": "RB-017",
+    "question": "Which Jain text outlines ethical conduct and monastic rules?",
+    "options": ["Agamas", "Upanishads", "Tripitaka", "Talmud"],
+    "correctAnswer": "Agamas"
+  },
+  {
+    "id": "RB-018",
+    "question": "The Book of Revelation appears in which part of the Bible?",
+    "options": ["Old Testament", "New Testament", "Apocrypha", "Gospels"],
+    "correctAnswer": "New Testament"
+  },
+  {
+    "id": "RB-019",
+    "question": "Which text is considered the oldest surviving religious scripture?",
+    "options": ["Rigveda", "Torah", "Avesta", "Epic of Gilgamesh"],
+    "correctAnswer": "Rigveda"
+  },
+  {
+    "id": "RB-020",
+    "question": "The Talmud primarily serves as a commentary on which text?",
+    "options": ["Torah", "Tanakh", "Midrash", "Zohar"],
+    "correctAnswer": "Torah"
+  },
+  {
+    "id": "RB-021",
+    "question": "Which Buddhist text focuses on monastic discipline?",
+    "options": ["Sutta Pitaka", "Abhidhamma Pitaka", "Vinaya Pitaka", "Jataka Tales"],
+    "correctAnswer": "Vinaya Pitaka"
+  },
+  {
+    "id": "RB-022",
+    "question": "Which scripture narrates the life and teachings of Jesus Christ?",
+    "options": ["Quran", "Gospels", "Torah", "Upanishads"],
+    "correctAnswer": "Gospels"
+  },
+  {
+    "id": "RB-023",
+    "question": "The I Ching is primarily associated with which tradition?",
+    "options": ["Taoism", "Buddhism", "Shinto", "Jainism"],
+    "correctAnswer": "Taoism"
+  },
+  {
+    "id": "RB-024",
+    "question": "Which Islamic text explains the interpretation of the Quran?",
+    "options": ["Fiqh", "Hadith", "Tafsir", "Sirah"],
+    "correctAnswer": "Tafsir"
+  },
+  {
+    "id": "RB-025",
+    "question": "Which book contains dialogues between Krishna and Arjuna?",
+    "options": ["Upanishads", "Bhagavad Gita", "Ramcharitmanas", "Atharvaveda"],
+    "correctAnswer": "Bhagavad Gita"
+  },
+  {
+    "id": "RB-026",
+    "question": "Which Jewish mystical text explores Kabbalistic teachings?",
+    "options": ["Midrash", "Talmud", "Zohar", "Tanakh"],
+    "correctAnswer": "Zohar"
+  },
+  {
+    "id": "RB-027",
+    "question": "Which religious book emphasizes salvation through faith in Christ?",
+    "options": ["Quran", "Torah", "Bible", "Tripitaka"],
+    "correctAnswer": "Bible"
+  },
+  {
+    "id": "RB-028",
+    "question": "The Atharvaveda is unique among the Vedas for focusing on what?",
+    "options": ["Philosophy", "Ritual hymns", "Everyday life and healing", "Astronomy"],
+    "correctAnswer": "Everyday life and healing"
+  },
+  {
+    "id": "RB-029",
+    "question": "Which text is considered authoritative in Shinto practices?",
+    "options": ["Kojiki", "Analects", "Avesta", "Agamas"],
+    "correctAnswer": "Kojiki"
+  },
+  {
+    "id": "RB-030",
+    "question": "Which religious book is primarily written in Pali language?",
+    "options": ["Tripitaka", "Rigveda", "Avesta", "Talmud"],
+    "correctAnswer": "Tripitaka"
+  },
+  {
+    "id": "RB-031",
+    "question": "Which book of the Bible describes the creation of the world?",
+    "options": ["Exodus", "Genesis", "Leviticus", "Numbers"],
+    "correctAnswer": "Genesis"
+  },
+  {
+    "id": "RB-032",
+    "question": "The Sutta Pitaka mainly contains what type of content?",
+    "options": ["Philosophical debates", "Monastic rules", "Discourses of Buddha", "Historical chronicles"],
+    "correctAnswer": "Discourses of Buddha"
+  },
+  {
+    "id": "RB-033",
+    "question": "Which Hindu text primarily focuses on rituals and sacrificial ceremonies?",
+    "options": ["Upanishads", "Brahmanas", "Aranyakas", "Puranas"],
+    "correctAnswer": "Brahmanas"
+  },
+  {
+    "id": "RB-034",
+    "question": "The Book of Proverbs is best described as a collection of what?",
+    "options": ["Historical narratives", "Prophecies", "Wisdom sayings", "Legal codes"],
+    "correctAnswer": "Wisdom sayings"
+  },
+  {
+    "id": "RB-035",
+    "question": "Which Islamic text deals primarily with jurisprudence and legal rulings?",
+    "options": ["Tafsir", "Fiqh", "Sirah", "Tasawwuf"],
+    "correctAnswer": "Fiqh"
+  },
+  {
+    "id": "RB-036",
+    "question": "Which scripture records the sermons delivered by Gautama Buddha?",
+    "options": ["Vinaya Pitaka", "Sutta Pitaka", "Abhidhamma Pitaka", "Milindapanha"],
+    "correctAnswer": "Sutta Pitaka"
+  },
+  {
+    "id": "RB-037",
+    "question": "The Book of Ecclesiastes mainly reflects on which theme?",
+    "options": ["Divine law", "Meaninglessness of worldly life", "Messianic prophecy", "Creation of humanity"],
+    "correctAnswer": "Meaninglessness of worldly life"
+  },
+  {
+    "id": "RB-038",
+    "question": "Which religious text narrates the exile and return of the Israelites?",
+    "options": ["Book of Esther", "Book of Ezra", "Book of Job", "Song of Solomon"],
+    "correctAnswer": "Book of Ezra"
+  },
+  {
+    "id": "RB-039",
+    "question": "Which Vedic text is associated most closely with chants and melodies?",
+    "options": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda"],
+    "correctAnswer": "Samaveda"
+  },
+  {
+    "id": "RB-040",
+    "question": "The Hadith collections are classified mainly based on what criterion?",
+    "options": ["Chronological order", "Chain of narration", "Length of narration", "Geographical origin"],
+    "correctAnswer": "Chain of narration"
+  },
+  {
+    "id": "RB-041",
+    "question": "Which Christian text is written in an epistolary (letter) format?",
+    "options": ["Acts of the Apostles", "Book of Psalms", "Epistles of Paul", "Book of Revelation"],
+    "correctAnswer": "Epistles of Paul"
+  },
+  {
+    "id": "RB-042",
+    "question": "Which Jain scripture focuses on metaphysics and cosmology?",
+    "options": ["Agamas", "Tattvartha Sutra", "Kalpa Sutra", "Niyamasara"],
+    "correctAnswer": "Tattvartha Sutra"
+  },
+  {
+    "id": "RB-043",
+    "question": "The Book of Job primarily addresses which philosophical issue?",
+    "options": ["Nature of evil and suffering", "Creation of the universe", "Role of prophets", "End times prophecy"],
+    "correctAnswer": "Nature of evil and suffering"
+  },
+  {
+    "id": "RB-044",
+    "question": "Which text is considered the earliest Taoist classic?",
+    "options": ["Zhuangzi", "I Ching", "Tao Te Ching", "Huainanzi"],
+    "correctAnswer": "Tao Te Ching"
+  },
+  {
+    "id": "RB-045",
+    "question": "Which part of the Quran was revealed first chronologically?",
+    "options": ["Surah Al-Fatiha", "Surah Al-Baqarah", "Surah Al-Alaq", "Surah An-Nas"],
+    "correctAnswer": "Surah Al-Alaq"
+  },
+  {
+    "id": "RB-046",
+    "question": "Which Buddhist text analyzes reality through detailed psychological classification?",
+    "options": ["Vinaya Pitaka", "Sutta Pitaka", "Abhidhamma Pitaka", "Dhammapada"],
+    "correctAnswer": "Abhidhamma Pitaka"
+  },
+  {
+    "id": "RB-047",
+    "question": "The Book of Lamentations is traditionally associated with which event?",
+    "options": ["Babylonian exile", "Destruction of Jerusalem", "Roman occupation", "Exodus from Egypt"],
+    "correctAnswer": "Destruction of Jerusalem"
+  },
+  {
+    "id": "RB-048",
+    "question": "Which Hindu text is primarily a collection of mythological stories?",
+    "options": ["Upanishads", "Puranas", "Brahmanas", "Aranyakas"],
+    "correctAnswer": "Puranas"
+  },
+  {
+    "id": "RB-049",
+    "question": "Which Jewish text supplements the written Torah with oral traditions?",
+    "options": ["Midrash", "Talmud", "Tanakh", "Kabbalah"],
+    "correctAnswer": "Talmud"
+  },
+  {
+    "id": "RB-050",
+    "question": "Which chapter of the Bhagavad Gita discusses the path of devotion?",
+    "options": ["Karma Yoga", "Bhakti Yoga", "Jnana Yoga", "Raja Yoga"],
+    "correctAnswer": "Bhakti Yoga"
+  },
+  {
+    "id": "RB-051",
+    "question": "Which Islamic biography text details the life of Prophet Muhammad?",
+    "options": ["Hadith", "Sirah", "Fiqh", "Tafsir"],
+    "correctAnswer": "Sirah"
+  },
+  {
+    "id": "RB-052",
+    "question": "Which Christian book symbolically describes the end of the world?",
+    "options": ["Book of Daniel", "Book of Revelation", "Book of Hebrews", "Book of Isaiah"],
+    "correctAnswer": "Book of Revelation"
+  },
+  {
+    "id": "RB-053",
+    "question": "The Kalpa Sutra is an important text of which religion?",
+    "options": ["Buddhism", "Hinduism", "Jainism", "Sikhism"],
+    "correctAnswer": "Jainism"
+  },
+  {
+    "id": "RB-054",
+    "question": "Which text explains moral conduct through short poetic verses in Buddhism?",
+    "options": ["Jataka Tales", "Milindapanha", "Dhammapada", "Sutta Nipata"],
+    "correctAnswer": "Dhammapada"
+  },
+  {
+    "id": "RB-055",
+    "question": "Which Old Testament book is written primarily as love poetry?",
+    "options": ["Ruth", "Song of Solomon", "Proverbs", "Psalms"],
+    "correctAnswer": "Song of Solomon"
+  },
+  {
+    "id": "RB-056",
+    "question": "Which Sikh scripture is treated as a living Guru?",
+    "options": ["Dasam Granth", "Adi Granth", "Guru Granth Sahib", "Rehatnama"],
+    "correctAnswer": "Guru Granth Sahib"
+  },
+  {
+    "id": "RB-057",
+    "question": "Which Hindu text bridges ritualistic and philosophical thought?",
+    "options": ["Brahmanas", "Aranyakas", "Puranas", "Smritis"],
+    "correctAnswer": "Aranyakas"
+  },
+  {
+    "id": "RB-058",
+    "question": "Which Quranic chapter is known as the 'Opening'?",
+    "options": ["Al-Ikhlas", "Al-Fatiha", "Al-Baqarah", "Al-Kawthar"],
+    "correctAnswer": "Al-Fatiha"
+  },
+  {
+    "id": "RB-059",
+    "question": "Which text is central to the ethical teachings of Confucianism?",
+    "options": ["I Ching", "Book of Changes", "Analects", "Great Learning"],
+    "correctAnswer": "Analects"
+  },
+  {
+    "id": "RB-060",
+    "question": "Which ancient text combines mythology, religion, and early law?",
+    "options": ["Code of Hammurabi", "Rigveda", "Avesta", "Book of the Dead"],
+    "correctAnswer": "Code of Hammurabi"
   }
 ]

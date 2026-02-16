@@ -1,30 +1,1082 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "ES-001",
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "correctAnswer": "Nitrogen"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "ES-002",
+    "question": "What term describes the variety of life on Earth?",
+    "options": ["Ecosystem", "Biodiversity", "Ecology", "Habitat"],
+    "correctAnswer": "Biodiversity"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "ES-003",
+    "question": "Which layer of the Earth contains groundwater?",
+    "options": ["Core", "Mantle", "Lithosphere", "Crust"],
+    "correctAnswer": "Crust"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "ES-004",
+    "question": "Which pollutant is mainly responsible for acid rain?",
+    "options": ["Carbon monoxide", "Sulfur dioxide", "Methane", "Ozone"],
+    "correctAnswer": "Sulfur dioxide"
+  },
+  {
+    "id": "ES-005",
+    "question": "What is the primary source of energy for ecosystems?",
+    "options": ["Wind", "Sun", "Fossil fuels", "Water"],
+    "correctAnswer": "Sun"
+  },
+  {
+    "id": "ES-006",
+    "question": "Which process converts waste materials into reusable materials?",
+    "options": ["Incineration", "Recycling", "Landfilling", "Composting"],
+    "correctAnswer": "Recycling"
+  },
+  {
+    "id": "ES-007",
+    "question": "Which biome is characterized by permanently frozen soil?",
+    "options": ["Desert", "Savanna", "Tundra", "Rainforest"],
+    "correctAnswer": "Tundra"
+  },
+  {
+    "id": "ES-008",
+    "question": "What is the main cause of global warming?",
+    "options": ["Ozone depletion", "Greenhouse gas emissions", "Solar flares", "Volcanic eruptions"],
+    "correctAnswer": "Greenhouse gas emissions"
+  },
+  {
+    "id": "ES-009",
+    "question": "Which type of pollution is caused by excessive sound?",
+    "options": ["Thermal pollution", "Noise pollution", "Air pollution", "Water pollution"],
+    "correctAnswer": "Noise pollution"
+  },
+  {
+    "id": "ES-010",
+    "question": "What does the term 'carbon footprint' refer to?",
+    "options": ["Amount of coal used", "Total greenhouse gases emitted", "Forest area destroyed", "Carbon stored in soil"],
+    "correctAnswer": "Total greenhouse gases emitted"
+  },
+  {
+    "id": "ES-011",
+    "question": "Which international agreement aims to reduce greenhouse gas emissions?",
+    "options": ["Montreal Protocol", "Kyoto Protocol", "Basel Convention", "Ramsar Convention"],
+    "correctAnswer": "Kyoto Protocol"
+  },
+  {
+    "id": "ES-012",
+    "question": "Which organism is considered a primary producer?",
+    "options": ["Lion", "Algae", "Fungi", "Earthworm"],
+    "correctAnswer": "Algae"
+  },
+  {
+    "id": "ES-013",
+    "question": "What type of energy is derived from Earth's internal heat?",
+    "options": ["Solar energy", "Geothermal energy", "Biomass energy", "Hydropower"],
+    "correctAnswer": "Geothermal energy"
+  },
+  {
+    "id": "ES-014",
+    "question": "Which pollutant causes eutrophication in water bodies?",
+    "options": ["Heavy metals", "Oil spills", "Nitrates and phosphates", "Plastics"],
+    "correctAnswer": "Nitrates and phosphates"
+  },
+  {
+    "id": "ES-015",
+    "question": "Which practice helps in soil conservation?",
+    "options": ["Deforestation", "Overgrazing", "Crop rotation", "Mining"],
+    "correctAnswer": "Crop rotation"
+  },
+  {
+    "id": "ES-016",
+    "question": "What is the main objective of sustainable development?",
+    "options": ["Rapid industrial growth", "Maximum resource extraction", "Meeting present needs without harming future generations", "Urban expansion"],
+    "correctAnswer": "Meeting present needs without harming future generations"
+  },
+  {
+    "id": "ES-017",
+    "question": "Which gas is responsible for ozone layer depletion?",
+    "options": ["Carbon dioxide", "Methane", "Chlorofluorocarbons", "Nitrous oxide"],
+    "correctAnswer": "Chlorofluorocarbons"
+  },
+  {
+    "id": "ES-018",
+    "question": "What is biomagnification?",
+    "options": ["Increase in organism size", "Accumulation of toxins in food chains", "Rapid population growth", "Loss of biodiversity"],
+    "correctAnswer": "Accumulation of toxins in food chains"
+  },
+  {
+    "id": "ES-019",
+    "question": "Which renewable resource is most directly affected by weather conditions?",
+    "options": ["Coal", "Nuclear fuel", "Solar energy", "Natural gas"],
+    "correctAnswer": "Solar energy"
+  },
+  {
+    "id": "ES-020",
+    "question": "Which environmental issue is caused by excessive groundwater extraction?",
+    "options": ["Soil salinity", "Land subsidence", "Ozone thinning", "Ocean acidification"],
+    "correctAnswer": "Land subsidence"
+  },
+  {
+    "id": "ES-021",
+    "question": "What is the main function of wetlands?",
+    "options": ["Urban development", "Water purification and flood control", "Mining activities", "Industrial waste disposal"],
+    "correctAnswer": "Water purification and flood control"
+  },
+  {
+    "id": "ES-022",
+    "question": "Which ecological pyramid represents energy flow?",
+    "options": ["Pyramid of biomass", "Pyramid of numbers", "Pyramid of energy", "Pyramid of population"],
+    "correctAnswer": "Pyramid of energy"
+  },
+  {
+    "id": "ES-023",
+    "question": "Which process releases carbon dioxide from living organisms?",
+    "options": ["Photosynthesis", "Respiration", "Nitrogen fixation", "Transpiration"],
+    "correctAnswer": "Respiration"
+  },
+  {
+    "id": "ES-024",
+    "question": "Which type of waste is biodegradable?",
+    "options": ["Plastic bottles", "Glass shards", "Food scraps", "Aluminum cans"],
+    "correctAnswer": "Food scraps"
+  },
+  {
+    "id": "ES-025",
+    "question": "What does 'in-situ conservation' mean?",
+    "options": ["Conservation outside natural habitat", "Conservation in natural habitat", "Gene bank storage", "Zoo-based conservation"],
+    "correctAnswer": "Conservation in natural habitat"
+  },
+  {
+    "id": "ES-026",
+    "question": "Which factor primarily controls the distribution of biomes?",
+    "options": ["Soil type", "Altitude", "Climate", "Human population"],
+    "correctAnswer": "Climate"
+  },
+  {
+    "id": "ES-027",
+    "question": "Which environmental impact is directly linked to deforestation?",
+    "options": ["Increased biodiversity", "Soil erosion", "Ozone recovery", "Stable rainfall"],
+    "correctAnswer": "Soil erosion"
+  },
+  {
+    "id": "ES-028",
+    "question": "What is the main cause of ocean acidification?",
+    "options": ["Oil spills", "Plastic waste", "Absorption of carbon dioxide", "Thermal pollution"],
+    "correctAnswer": "Absorption of carbon dioxide"
+  },
+  {
+    "id": "ES-029",
+    "question": "Which concept explains the maximum population an environment can support?",
+    "options": ["Ecological niche", "Carrying capacity", "Food chain", "Succession"],
+    "correctAnswer": "Carrying capacity"
+  },
+  {
+    "id": "ES-030",
+    "question": "Which environmental principle emphasizes minimizing waste generation?",
+    "options": ["Reduce, Reuse, Recycle", "Polluter pays principle", "Precautionary principle", "Tragedy of the commons"],
+    "correctAnswer": "Reduce, Reuse, Recycle"
+  },
+  {
+    "id": "ES-031",
+    "question": "Which component of the environment includes air, water, and soil?",
+    "options": ["Biosphere", "Lithosphere", "Atmosphere", "Abiotic component"],
+    "correctAnswer": "Abiotic component"
+  },
+  {
+    "id": "ES-032",
+    "question": "What is the primary cause of thermal pollution in rivers?",
+    "options": ["Agricultural runoff", "Hot water discharge from industries", "Oil leakage", "Plastic dumping"],
+    "correctAnswer": "Hot water discharge from industries"
+  },
+  {
+    "id": "ES-033",
+    "question": "Which cycle describes the movement of nitrogen through the environment?",
+    "options": ["Carbon cycle", "Water cycle", "Nitrogen cycle", "Phosphorus cycle"],
+    "correctAnswer": "Nitrogen cycle"
+  },
+  {
+    "id": "ES-034",
+    "question": "What term is used for species found only in a specific geographic area?",
+    "options": ["Invasive species", "Keystone species", "Endemic species", "Indicator species"],
+    "correctAnswer": "Endemic species"
+  },
+  {
+    "id": "ES-035",
+    "question": "Which method is most effective for reducing household solid waste?",
+    "options": ["Landfilling", "Incineration", "Source reduction", "Open dumping"],
+    "correctAnswer": "Source reduction"
+  },
+  {
+    "id": "ES-036",
+    "question": "Which atmospheric layer protects life by absorbing ultraviolet radiation?",
+    "options": ["Troposphere", "Mesosphere", "Stratosphere", "Thermosphere"],
+    "correctAnswer": "Stratosphere"
+  },
+  {
+    "id": "ES-037",
+    "question": "What type of succession occurs on newly formed volcanic islands?",
+    "options": ["Secondary succession", "Primary succession", "Climatic succession", "Aquatic succession"],
+    "correctAnswer": "Primary succession"
+  },
+  {
+    "id": "ES-038",
+    "question": "Which environmental issue is directly caused by excessive use of pesticides?",
+    "options": ["Desertification", "Biomagnification", "Global dimming", "Thermal inversion"],
+    "correctAnswer": "Biomagnification"
+  },
+  {
+    "id": "ES-039",
+    "question": "Which resource is classified as non-renewable?",
+    "options": ["Wind", "Solar radiation", "Coal", "Tidal energy"],
+    "correctAnswer": "Coal"
+  },
+  {
+    "id": "ES-040",
+    "question": "What does the term 'ecological niche' describe?",
+    "options": ["Physical location of an organism", "Role and function of a species in an ecosystem", "Population size of a species", "Migration pattern of organisms"],
+    "correctAnswer": "Role and function of a species in an ecosystem"
+  },
+  {
+    "id": "ES-041",
+    "question": "Which gas contributes most to photochemical smog formation?",
+    "options": ["Sulfur dioxide", "Nitrogen oxides", "Carbon dioxide", "Hydrogen sulfide"],
+    "correctAnswer": "Nitrogen oxides"
+  },
+  {
+    "id": "ES-042",
+    "question": "What is the main environmental concern associated with e-waste?",
+    "options": ["Radioactive emissions", "Heavy metal contamination", "Noise pollution", "Thermal discharge"],
+    "correctAnswer": "Heavy metal contamination"
+  },
+  {
+    "id": "ES-043",
+    "question": "Which organism helps indicate the level of air pollution?",
+    "options": ["Frogs", "Lichens", "Earthworms", "Algae"],
+    "correctAnswer": "Lichens"
+  },
+  {
+    "id": "ES-044",
+    "question": "Which farming practice increases soil fertility naturally?",
+    "options": ["Monoculture", "Slash and burn", "Green manuring", "Excessive irrigation"],
+    "correctAnswer": "Green manuring"
+  },
+  {
+    "id": "ES-045",
+    "question": "What is meant by 'environmental ethics'?",
+    "options": ["Industrial pollution control laws", "Moral relationship between humans and nature", "Economic valuation of resources", "Technological management of waste"],
+    "correctAnswer": "Moral relationship between humans and nature"
+  },
+  {
+    "id": "ES-046",
+    "question": "Which phenomenon explains rising sea levels due to temperature increase?",
+    "options": ["Salinity intrusion", "Thermal expansion of seawater", "Ocean upwelling", "Marine sedimentation"],
+    "correctAnswer": "Thermal expansion of seawater"
+  },
+  {
+    "id": "ES-047",
+    "question": "Which environmental impact assessment stage involves predicting future impacts?",
+    "options": ["Screening", "Scoping", "Impact analysis", "Public review"],
+    "correctAnswer": "Impact analysis"
+  },
+  {
+    "id": "ES-048",
+    "question": "What is the primary role of decomposers in ecosystems?",
+    "options": ["Producing energy", "Recycling nutrients", "Controlling predators", "Fixing nitrogen"],
+    "correctAnswer": "Recycling nutrients"
+  },
+  {
+    "id": "ES-049",
+    "question": "Which factor most strongly affects species richness in tropical regions?",
+    "options": ["High latitude", "Stable climate", "Low rainfall", "Seasonal variation"],
+    "correctAnswer": "Stable climate"
+  },
+  {
+    "id": "ES-050",
+    "question": "Which human activity is the leading cause of coral reef degradation?",
+    "options": ["Deep-sea mining", "Overfishing and pollution", "River damming", "Wind farming"],
+    "correctAnswer": "Overfishing and pollution"
+  },
+  {
+    "id": "ES-051",
+    "question": "What does the precautionary principle emphasize?",
+    "options": ["Economic growth over safety", "Action despite scientific uncertainty", "Ignoring low-risk threats", "Delaying environmental decisions"],
+    "correctAnswer": "Action despite scientific uncertainty"
+  },
+  {
+    "id": "ES-052",
+    "question": "Which pollutant is mainly responsible for indoor air pollution in rural areas?",
+    "options": ["Ozone", "Lead", "Biomass smoke", "Nitrogen dioxide"],
+    "correctAnswer": "Biomass smoke"
+  },
+  {
+    "id": "ES-053",
+    "question": "Which ecosystem has the highest net primary productivity?",
+    "options": ["Deserts", "Open oceans", "Tropical rainforests", "Tundra"],
+    "correctAnswer": "Tropical rainforests"
+  },
+  {
+    "id": "ES-054",
+    "question": "What is the main objective of wildlife corridors?",
+    "options": ["Tourism development", "Connecting fragmented habitats", "Preventing forest fires", "Increasing hunting areas"],
+    "correctAnswer": "Connecting fragmented habitats"
+  },
+  {
+    "id": "ES-055",
+    "question": "Which environmental problem is linked to excessive fertilizer use?",
+    "options": ["Acid rain", "Eutrophication", "Ozone depletion", "Noise pollution"],
+    "correctAnswer": "Eutrophication"
+  },
+  {
+    "id": "ES-056",
+    "question": "Which index is commonly used to measure biodiversity?",
+    "options": ["Gini index", "Shannon index", "Human Development Index", "Air Quality Index"],
+    "correctAnswer": "Shannon index"
+  },
+  {
+    "id": "ES-057",
+    "question": "What is meant by 'carbon sequestration'?",
+    "options": ["Carbon emission reduction", "Capture and storage of carbon dioxide", "Burning fossil fuels", "Carbon trading process"],
+    "correctAnswer": "Capture and storage of carbon dioxide"
+  },
+  {
+    "id": "ES-058",
+    "question": "Which type of species has a disproportionately large effect on its ecosystem?",
+    "options": ["Endangered species", "Keystone species", "Alien species", "Dominant species"],
+    "correctAnswer": "Keystone species"
+  },
+  {
+    "id": "ES-059",
+    "question": "Which environmental issue arises from uncontrolled urban expansion?",
+    "options": ["Urban heat island effect", "Permafrost melting", "Glacier formation", "Coral bleaching"],
+    "correctAnswer": "Urban heat island effect"
+  },
+  {
+    "id": "ES-060",
+    "question": "Which concept explains shared-resource overuse by individuals acting in self-interest?",
+    "options": ["Ecological balance", "Tragedy of the commons", "Sustainable yield", "Carrying capacity"],
+    "correctAnswer": "Tragedy of the commons"
+  },
+  {
+    "id": "ES-061",
+    "question": "Which term describes the gradual change in species composition over time in an ecosystem?",
+    "options": ["Adaptation", "Ecological succession", "Speciation", "Evolution"],
+    "correctAnswer": "Ecological succession"
+  },
+  {
+    "id": "ES-062",
+    "question": "What is the primary source of methane emissions globally?",
+    "options": ["Volcanic eruptions", "Livestock digestion", "Ocean evaporation", "Solar radiation"],
+    "correctAnswer": "Livestock digestion"
+  },
+  {
+    "id": "ES-063",
+    "question": "Which soil property most directly affects water retention?",
+    "options": ["Color", "Texture", "Temperature", "Slope"],
+    "correctAnswer": "Texture"
+  },
+  {
+    "id": "ES-064",
+    "question": "Which type of radiation is primarily responsible for skin cancer risk due to ozone depletion?",
+    "options": ["Infrared", "Gamma rays", "Ultraviolet-B", "Microwaves"],
+    "correctAnswer": "Ultraviolet-B"
+  },
+  {
+    "id": "ES-065",
+    "question": "What is the main goal of integrated pest management (IPM)?",
+    "options": ["Complete pest eradication", "Maximizing pesticide use", "Environmentally safe pest control", "Increasing crop monoculture"],
+    "correctAnswer": "Environmentally safe pest control"
+  },
+  {
+    "id": "ES-066",
+    "question": "Which process converts atmospheric nitrogen into ammonia?",
+    "options": ["Nitrification", "Denitrification", "Nitrogen fixation", "Ammonification"],
+    "correctAnswer": "Nitrogen fixation"
+  },
+  {
+    "id": "ES-067",
+    "question": "Which environmental factor limits photosynthesis in deep aquatic ecosystems?",
+    "options": ["Temperature", "Salinity", "Light availability", "Nutrient density"],
+    "correctAnswer": "Light availability"
+  },
+  {
+    "id": "ES-068",
+    "question": "What is the primary environmental risk of mining tailings?",
+    "options": ["Noise pollution", "Heavy metal leaching", "Visual pollution", "Thermal discharge"],
+    "correctAnswer": "Heavy metal leaching"
+  },
+  {
+    "id": "ES-069",
+    "question": "Which type of species rapidly colonizes disturbed habitats?",
+    "options": ["Climax species", "K-selected species", "Pioneer species", "Endemic species"],
+    "correctAnswer": "Pioneer species"
+  },
+  {
+    "id": "ES-070",
+    "question": "What does the term 'blue carbon' refer to?",
+    "options": ["Carbon in fossil fuels", "Carbon stored in marine ecosystems", "Atmospheric carbon dioxide", "Carbon in glacial ice"],
+    "correctAnswer": "Carbon stored in marine ecosystems"
+  },
+  {
+    "id": "ES-071",
+    "question": "Which environmental policy tool uses financial incentives to reduce pollution?",
+    "options": ["Command-and-control regulation", "Subsidy-based instruments", "Total bans", "Voluntary agreements"],
+    "correctAnswer": "Subsidy-based instruments"
+  },
+  {
+    "id": "ES-072",
+    "question": "Which organism group is most sensitive to changes in water quality?",
+    "options": ["Birds", "Fish", "Amphibians", "Reptiles"],
+    "correctAnswer": "Amphibians"
+  },
+  {
+    "id": "ES-073",
+    "question": "What is the main cause of desertification?",
+    "options": ["Earthquakes", "Overgrazing and poor land management", "Glacial melting", "Volcanic ash deposition"],
+    "correctAnswer": "Overgrazing and poor land management"
+  },
+  {
+    "id": "ES-074",
+    "question": "Which atmospheric phenomenon traps pollutants near the ground in urban areas?",
+    "options": ["Cyclogenesis", "Thermal inversion", "Monsoon circulation", "Jet stream"],
+    "correctAnswer": "Thermal inversion"
+  },
+  {
+    "id": "ES-075",
+    "question": "Which environmental metric measures the concentration of major air pollutants?",
+    "options": ["Water Quality Index", "Air Quality Index", "Carbon Index", "Noise Level Index"],
+    "correctAnswer": "Air Quality Index"
+  },
+  {
+    "id": "ES-076",
+    "question": "What is the primary ecological role of mangrove forests?",
+    "options": ["Mineral extraction", "Coastal protection and nursery habitat", "Urban expansion", "Freshwater storage"],
+    "correctAnswer": "Coastal protection and nursery habitat"
+  },
+  {
+    "id": "ES-077",
+    "question": "Which process increases soil salinity in arid agricultural lands?",
+    "options": ["Crop rotation", "Excessive irrigation", "Mulching", "Agroforestry"],
+    "correctAnswer": "Excessive irrigation"
+  },
+  {
+    "id": "ES-078",
+    "question": "What is the primary driver of species extinction in the modern era?",
+    "options": ["Natural selection", "Asteroid impacts", "Habitat loss", "Seasonal migration"],
+    "correctAnswer": "Habitat loss"
+  },
+  {
+    "id": "ES-079",
+    "question": "Which energy source has the highest capacity factor among renewables?",
+    "options": ["Solar photovoltaic", "Wind energy", "Hydropower", "Biogas"],
+    "correctAnswer": "Hydropower"
+  },
+  {
+    "id": "ES-080",
+    "question": "What does the term 'environmental justice' emphasize?",
+    "options": ["Equal access to luxury resources", "Fair distribution of environmental benefits and burdens", "Economic growth priority", "Technological dominance"],
+    "correctAnswer": "Fair distribution of environmental benefits and burdens"
+  },
+  {
+    "id": "ES-081",
+    "question": "Which process is responsible for the natural purification of rivers?",
+    "options": ["Eutrophication", "Self-purification", "Sedimentation only", "Thermal stratification"],
+    "correctAnswer": "Self-purification"
+  },
+  {
+    "id": "ES-082",
+    "question": "Which component of soil is most important for nutrient holding capacity?",
+    "options": ["Sand", "Clay and organic matter", "Gravel", "Air spaces"],
+    "correctAnswer": "Clay and organic matter"
+  },
+  {
+    "id": "ES-083",
+    "question": "What is the primary concern of microplastics in the environment?",
+    "options": ["Visual pollution", "Bioaccumulation in food webs", "Thermal pollution", "Radioactive decay"],
+    "correctAnswer": "Bioaccumulation in food webs"
+  },
+  {
+    "id": "ES-084",
+    "question": "Which forest management practice maintains continuous canopy cover?",
+    "options": ["Clear-cutting", "Strip mining", "Selective logging", "Shifting cultivation"],
+    "correctAnswer": "Selective logging"
+  },
+  {
+    "id": "ES-085",
+    "question": "Which gas has the highest global warming potential over a 100-year period?",
+    "options": ["Carbon dioxide", "Methane", "Nitrous oxide", "Water vapor"],
+    "correctAnswer": "Nitrous oxide"
+  },
+  {
+    "id": "ES-086",
+    "question": "What is the primary purpose of ecological restoration?",
+    "options": ["Maximizing tourism revenue", "Returning ecosystems to a functional state", "Introducing exotic species", "Urban land conversion"],
+    "correctAnswer": "Returning ecosystems to a functional state"
+  },
+  {
+    "id": "ES-087",
+    "question": "Which aquatic zone receives enough light for photosynthesis?",
+    "options": ["Aphotic zone", "Benthic zone", "Photic zone", "Abyssal zone"],
+    "correctAnswer": "Photic zone"
+  },
+  {
+    "id": "ES-088",
+    "question": "What is the main environmental risk of large dams?",
+    "options": ["Increased rainfall", "Habitat fragmentation and displacement", "Reduced evaporation", "Enhanced soil fertility"],
+    "correctAnswer": "Habitat fragmentation and displacement"
+  },
+  {
+    "id": "ES-089",
+    "question": "Which concept refers to the rate at which resources can be harvested without depletion?",
+    "options": ["Ecological footprint", "Sustainable yield", "Resource exhaustion", "Maximum exploitation"],
+    "correctAnswer": "Sustainable yield"
+  },
+  {
+    "id": "ES-090",
+    "question": "Which approach integrates conservation with local community livelihoods?",
+    "options": ["Strict preservation", "Community-based conservation", "Industrial forestry", "Urban relocation"],
+    "correctAnswer": "Community-based conservation"
+  },
+  {
+    "id": "ES-091",
+    "question": "Which component of sunlight is essential for photosynthesis?",
+    "options": ["Infrared rays", "Ultraviolet rays", "Visible light", "Gamma rays"],
+    "correctAnswer": "Visible light"
+  },
+  {
+    "id": "ES-092",
+    "question": "What is the main cause of soil erosion in hilly regions?",
+    "options": ["Over-irrigation", "Wind storms", "Deforestation", "Earthquakes"],
+    "correctAnswer": "Deforestation"
+  },
+  {
+    "id": "ES-093",
+    "question": "Which term refers to organisms that feed on dead organic matter?",
+    "options": ["Herbivores", "Carnivores", "Decomposers", "Producers"],
+    "correctAnswer": "Decomposers"
+  },
+  {
+    "id": "ES-094",
+    "question": "Which environmental factor most influences transpiration in plants?",
+    "options": ["Soil pH", "Air humidity", "Mineral content", "Root depth"],
+    "correctAnswer": "Air humidity"
+  },
+  {
+    "id": "ES-095",
+    "question": "Which water body is most vulnerable to eutrophication?",
+    "options": ["Fast-flowing rivers", "Deep oceans", "Shallow lakes", "Glaciers"],
+    "correctAnswer": "Shallow lakes"
+  },
+  {
+    "id": "ES-096",
+    "question": "What is the primary purpose of rainwater harvesting?",
+    "options": ["Flood generation", "Groundwater recharge", "Soil erosion control", "Water pollution"],
+    "correctAnswer": "Groundwater recharge"
+  },
+  {
+    "id": "ES-097",
+    "question": "Which gas is released during anaerobic decomposition of organic waste?",
+    "options": ["Oxygen", "Nitrogen", "Methane", "Sulfur dioxide"],
+    "correctAnswer": "Methane"
+  },
+  {
+    "id": "ES-098",
+    "question": "Which practice helps reduce the urban heat island effect?",
+    "options": ["Concrete expansion", "Rooftop gardening", "High-rise clustering", "Asphalt paving"],
+    "correctAnswer": "Rooftop gardening"
+  },
+  {
+    "id": "ES-099",
+    "question": "What does the term 'biotic potential' describe?",
+    "options": ["Maximum reproductive capacity", "Energy flow in ecosystems", "Genetic diversity", "Habitat tolerance"],
+    "correctAnswer": "Maximum reproductive capacity"
+  },
+  {
+    "id": "ES-100",
+    "question": "Which pollutant is primarily responsible for blue baby syndrome?",
+    "options": ["Fluoride", "Arsenic", "Nitrates", "Mercury"],
+    "correctAnswer": "Nitrates"
+  },
+  {
+    "id": "ES-101",
+    "question": "Which environmental process transfers water from plants to the atmosphere?",
+    "options": ["Evaporation", "Condensation", "Transpiration", "Precipitation"],
+    "correctAnswer": "Transpiration"
+  },
+  {
+    "id": "ES-102",
+    "question": "Which land-use practice increases surface runoff the most?",
+    "options": ["Afforestation", "Terracing", "Urbanization", "Contour farming"],
+    "correctAnswer": "Urbanization"
+  },
+  {
+    "id": "ES-103",
+    "question": "Which type of waste management prioritizes waste prevention?",
+    "options": ["Landfilling", "Waste hierarchy approach", "Incineration", "Open dumping"],
+    "correctAnswer": "Waste hierarchy approach"
+  },
+  {
+    "id": "ES-104",
+    "question": "Which ecological concept describes energy loss between trophic levels?",
+    "options": ["10 percent law", "Carrying capacity", "Ecological balance", "Food web theory"],
+    "correctAnswer": "10 percent law"
+  },
+  {
+    "id": "ES-105",
+    "question": "Which factor mainly controls the rate of chemical weathering?",
+    "options": ["Rock color", "Climate", "Magnetic field", "Latitude only"],
+    "correctAnswer": "Climate"
+  },
+  {
+    "id": "ES-106",
+    "question": "Which substance is most responsible for biomagnification in aquatic ecosystems?",
+    "options": ["Sodium chloride", "DDT", "Carbon dioxide", "Calcium carbonate"],
+    "correctAnswer": "DDT"
+  },
+  {
+    "id": "ES-107",
+    "question": "What is the main ecological risk of invasive alien species?",
+    "options": ["Increased productivity", "Loss of native biodiversity", "Improved soil fertility", "Climate stabilization"],
+    "correctAnswer": "Loss of native biodiversity"
+  },
+  {
+    "id": "ES-108",
+    "question": "Which environmental indicator reflects long-term ecosystem health?",
+    "options": ["Daily temperature", "Species diversity", "Noise level", "Short-term rainfall"],
+    "correctAnswer": "Species diversity"
+  },
+  {
+    "id": "ES-109",
+    "question": "Which zone of a lake is dominated by rooted aquatic plants?",
+    "options": ["Limnetic zone", "Littoral zone", "Profundal zone", "Aphotic zone"],
+    "correctAnswer": "Littoral zone"
+  },
+  {
+    "id": "ES-110",
+    "question": "Which human activity contributes most to groundwater contamination?",
+    "options": ["Forest conservation", "Industrial effluent discharge", "Rainfall", "River dredging"],
+    "correctAnswer": "Industrial effluent discharge"
+  },
+  {
+    "id": "ES-111",
+    "question": "What is the main benefit of mixed cropping?",
+    "options": ["Higher pest vulnerability", "Risk reduction and soil health", "Increased monoculture yield", "Waterlogging"],
+    "correctAnswer": "Risk reduction and soil health"
+  },
+  {
+    "id": "ES-112",
+    "question": "Which atmospheric gas is used by plants during photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Ozone"],
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "id": "ES-113",
+    "question": "Which environmental issue is directly linked to melting glaciers?",
+    "options": ["Earthquakes", "Sea-level rise", "Ozone depletion", "Acid rain"],
+    "correctAnswer": "Sea-level rise"
+  },
+  {
+    "id": "ES-114",
+    "question": "Which type of forest has the highest biodiversity per unit area?",
+    "options": ["Temperate deciduous forest", "Boreal forest", "Tropical rainforest", "Mediterranean forest"],
+    "correctAnswer": "Tropical rainforest"
+  },
+  {
+    "id": "ES-115",
+    "question": "What is the primary goal of environmental monitoring?",
+    "options": ["Economic forecasting", "Detecting environmental changes", "Industrial expansion", "Resource privatization"],
+    "correctAnswer": "Detecting environmental changes"
+  },
+  {
+    "id": "ES-116",
+    "question": "Which factor limits population growth as density increases?",
+    "options": ["Density-independent factors", "Abiotic tolerance", "Density-dependent factors", "Genetic drift"],
+    "correctAnswer": "Density-dependent factors"
+  },
+  {
+    "id": "ES-117",
+    "question": "Which process removes pollutants from the atmosphere naturally?",
+    "options": ["Thermal inversion", "Dry and wet deposition", "Smog formation", "Radiative forcing"],
+    "correctAnswer": "Dry and wet deposition"
+  },
+  {
+    "id": "ES-118",
+    "question": "Which environmental issue results from excessive extraction of sand from rivers?",
+    "options": ["Riverbank erosion", "Ozone depletion", "Noise pollution", "Climate cooling"],
+    "correctAnswer": "Riverbank erosion"
+  },
+  {
+    "id": "ES-119",
+    "question": "Which principle states that polluters should bear the cost of pollution control?",
+    "options": ["Precautionary principle", "Polluter pays principle", "Sustainable yield principle", "Equity principle"],
+    "correctAnswer": "Polluter pays principle"
+  },
+  {
+    "id": "ES-120",
+    "question": "Which approach evaluates environmental impacts throughout a product's life?",
+    "options": ["Environmental auditing", "Life cycle assessment", "Risk communication", "Impact screening"],
+    "correctAnswer": "Life cycle assessment"
+  },
+  {
+    "id": "ES-121",
+    "question": "Which factor primarily determines the rate of evaporation from water bodies?",
+    "options": ["Water depth", "Air temperature", "Salinity", "Water color"],
+    "correctAnswer": "Air temperature"
+  },
+  {
+    "id": "ES-122",
+    "question": "What is the main ecological consequence of overfishing?",
+    "options": ["Increased primary productivity", "Trophic imbalance", "Enhanced coral growth", "Higher genetic diversity"],
+    "correctAnswer": "Trophic imbalance"
+  },
+  {
+    "id": "ES-123",
+    "question": "Which soil horizon is richest in organic matter?",
+    "options": ["C horizon", "A horizon", "B horizon", "R horizon"],
+    "correctAnswer": "A horizon"
+  },
+  {
+    "id": "ES-124",
+    "question": "Which environmental process converts ammonia into nitrates?",
+    "options": ["Nitrogen fixation", "Denitrification", "Nitrification", "Assimilation"],
+    "correctAnswer": "Nitrification"
+  },
+  {
+    "id": "ES-125",
+    "question": "Which renewable energy source relies directly on gravitational potential?",
+    "options": ["Solar energy", "Wind energy", "Hydropower", "Geothermal energy"],
+    "correctAnswer": "Hydropower"
+  },
+  {
+    "id": "ES-126",
+    "question": "What is the primary environmental concern of plastic debris in oceans?",
+    "options": ["Salinity change", "Entanglement and ingestion by marine life", "Reduced sunlight penetration only", "Increased water temperature"],
+    "correctAnswer": "Entanglement and ingestion by marine life"
+  },
+  {
+    "id": "ES-127",
+    "question": "Which atmospheric layer is responsible for most weather phenomena?",
+    "options": ["Stratosphere", "Mesosphere", "Troposphere", "Thermosphere"],
+    "correctAnswer": "Troposphere"
+  },
+  {
+    "id": "ES-128",
+    "question": "What is the primary goal of conservation tillage?",
+    "options": ["Maximizing soil disturbance", "Reducing soil erosion", "Increasing pesticide use", "Removing crop residues"],
+    "correctAnswer": "Reducing soil erosion"
+  },
+  {
+    "id": "ES-129",
+    "question": "Which type of climate has the lowest annual rainfall?",
+    "options": ["Mediterranean", "Equatorial", "Arid", "Temperate maritime"],
+    "correctAnswer": "Arid"
+  },
+  {
+    "id": "ES-130",
+    "question": "Which environmental concept describes interconnected feeding relationships?",
+    "options": ["Food chain", "Ecological pyramid", "Food web", "Trophic cascade"],
+    "correctAnswer": "Food web"
+  },
+  {
+    "id": "ES-131",
+    "question": "Which pollutant is most associated with coal-fired power plants?",
+    "options": ["Ozone", "Sulfur dioxide", "Methane", "Chlorofluorocarbons"],
+    "correctAnswer": "Sulfur dioxide"
+  },
+  {
+    "id": "ES-132",
+    "question": "What is the main function of buffer zones around protected areas?",
+    "options": ["Tourism promotion", "Reducing human-wildlife conflict", "Industrial development", "Mining expansion"],
+    "correctAnswer": "Reducing human-wildlife conflict"
+  },
+  {
+    "id": "ES-133",
+    "question": "Which process releases oxygen into the atmosphere?",
+    "options": ["Respiration", "Photosynthesis", "Combustion", "Decomposition"],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "id": "ES-134",
+    "question": "Which environmental problem results from excessive groundwater pumping in coastal areas?",
+    "options": ["Freshwater flooding", "Saltwater intrusion", "River eutrophication", "Permafrost thaw"],
+    "correctAnswer": "Saltwater intrusion"
+  },
+  {
+    "id": "ES-135",
+    "question": "Which forest type is adapted to seasonal drought and fire?",
+    "options": ["Tropical evergreen forest", "Temperate rainforest", "Savanna woodland", "Boreal forest"],
+    "correctAnswer": "Savanna woodland"
+  },
+  {
+    "id": "ES-136",
+    "question": "What is the primary role of mycorrhizae in soil?",
+    "options": ["Nitrogen fixation", "Enhancing water and nutrient uptake", "Decomposing lignin", "Producing oxygen"],
+    "correctAnswer": "Enhancing water and nutrient uptake"
+  },
+  {
+    "id": "ES-137",
+    "question": "Which environmental metric estimates human demand on natural resources?",
+    "options": ["Biodiversity index", "Ecological footprint", "Carbon intensity", "Water hardness"],
+    "correctAnswer": "Ecological footprint"
+  },
+  {
+    "id": "ES-138",
+    "question": "Which phenomenon explains increased plant growth due to higher CO₂ levels?",
+    "options": ["Carbon saturation", "CO₂ fertilization effect", "Thermal acclimation", "Photorespiration"],
+    "correctAnswer": "CO₂ fertilization effect"
+  },
+  {
+    "id": "ES-139",
+    "question": "Which aquatic organism group forms the base of marine food webs?",
+    "options": ["Zooplankton", "Phytoplankton", "Nekton", "Benthos"],
+    "correctAnswer": "Phytoplankton"
+  },
+  {
+    "id": "ES-140",
+    "question": "What is the primary cause of hypoxia in coastal waters?",
+    "options": ["Oil spills", "Nutrient runoff", "Thermal pollution", "Salinity reduction"],
+    "correctAnswer": "Nutrient runoff"
+  },
+  {
+    "id": "ES-141",
+    "question": "Which waste treatment method stabilizes organic waste biologically?",
+    "options": ["Landfilling", "Incineration", "Composting", "Shredding"],
+    "correctAnswer": "Composting"
+  },
+  {
+    "id": "ES-142",
+    "question": "Which factor most strongly influences species distribution along mountains?",
+    "options": ["Longitude", "Altitude", "Soil color", "Magnetic field"],
+    "correctAnswer": "Altitude"
+  },
+  {
+    "id": "ES-143",
+    "question": "Which gas is a major contributor to acidification of rainwater?",
+    "options": ["Ammonia", "Sulfur dioxide", "Carbon monoxide", "Hydrogen"],
+    "correctAnswer": "Sulfur dioxide"
+  },
+  {
+    "id": "ES-144",
+    "question": "What is the primary ecological benefit of riparian vegetation?",
+    "options": ["Increasing evaporation", "Stabilizing riverbanks", "Enhancing salinity", "Blocking sunlight"],
+    "correctAnswer": "Stabilizing riverbanks"
+  },
+  {
+    "id": "ES-145",
+    "question": "Which environmental approach emphasizes reducing material use at the source?",
+    "options": ["End-of-pipe treatment", "Source reduction", "Landfilling strategy", "Waste dilution"],
+    "correctAnswer": "Source reduction"
+  },
+  {
+    "id": "ES-146",
+    "question": "Which climatic event is characterized by unusually warm ocean temperatures in the Pacific?",
+    "options": ["La Niña", "El Niño", "Monsoon onset", "Polar vortex"],
+    "correctAnswer": "El Niño"
+  },
+  {
+    "id": "ES-147",
+    "question": "What is the main environmental risk of open dumping of waste?",
+    "options": ["Improved soil fertility", "Groundwater contamination", "Reduced methane emissions", "Lower disease risk"],
+    "correctAnswer": "Groundwater contamination"
+  },
+  {
+    "id": "ES-148",
+    "question": "Which conservation strategy focuses on protecting entire ecosystems?",
+    "options": ["Species-specific breeding", "In-situ conservation", "Ecosystem-based management", "Ex-situ gene banking"],
+    "correctAnswer": "Ecosystem-based management"
+  },
+  {
+    "id": "ES-149",
+    "question": "Which process transfers heat from Earth back into space?",
+    "options": ["Convection", "Conduction", "Radiation", "Advection"],
+    "correctAnswer": "Radiation"
+  },
+  {
+    "id": "ES-150",
+    "question": "Which principle advocates avoiding actions with unknown but potentially serious environmental harm?",
+    "options": ["Polluter pays principle", "Precautionary principle", "Cost-benefit principle", "Maximum yield principle"],
+    "correctAnswer": "Precautionary principle"
+  },
+  {
+    "id": "ES-151",
+    "question": "Which factor most directly influences the rate of soil formation?",
+    "options": ["Parent material", "Climate", "Latitude", "Magnetic field"],
+    "correctAnswer": "Climate"
+  },
+  {
+    "id": "ES-152",
+    "question": "What is the main environmental benefit of afforestation?",
+    "options": ["Increased albedo", "Carbon sequestration", "Soil compaction", "Higher evaporation"],
+    "correctAnswer": "Carbon sequestration"
+  },
+  {
+    "id": "ES-153",
+    "question": "Which type of pollution is caused by excessive artificial lighting at night?",
+    "options": ["Thermal pollution", "Noise pollution", "Light pollution", "Chemical pollution"],
+    "correctAnswer": "Light pollution"
+  },
+  {
+    "id": "ES-154",
+    "question": "Which process converts organic nitrogen into ammonia in soil?",
+    "options": ["Nitrification", "Denitrification", "Ammonification", "Assimilation"],
+    "correctAnswer": "Ammonification"
+  },
+  {
+    "id": "ES-155",
+    "question": "Which ecosystem service includes flood control and water filtration?",
+    "options": ["Provisioning services", "Regulating services", "Cultural services", "Supporting services"],
+    "correctAnswer": "Regulating services"
+  },
+  {
+    "id": "ES-156",
+    "question": "Which atmospheric phenomenon causes warming near Earth's surface?",
+    "options": ["Albedo effect", "Greenhouse effect", "Coriolis effect", "Hadley circulation"],
+    "correctAnswer": "Greenhouse effect"
+  },
+  {
+    "id": "ES-157",
+    "question": "Which organism group is primarily responsible for nitrogen fixation in soil?",
+    "options": ["Protozoa", "Fungi", "Bacteria", "Algae"],
+    "correctAnswer": "Bacteria"
+  },
+  {
+    "id": "ES-158",
+    "question": "What is the main cause of algal blooms in freshwater systems?",
+    "options": ["Low temperature", "Excess nutrients", "High salinity", "Reduced sunlight"],
+    "correctAnswer": "Excess nutrients"
+  },
+  {
+    "id": "ES-159",
+    "question": "Which land management practice reduces wind erosion?",
+    "options": ["Strip cropping", "Overgrazing", "Clear cutting", "Deep plowing"],
+    "correctAnswer": "Strip cropping"
+  },
+  {
+    "id": "ES-160",
+    "question": "Which pollutant is most commonly associated with vehicle exhaust?",
+    "options": ["Sulfur dioxide", "Carbon monoxide", "Ammonia", "Chlorine"],
+    "correctAnswer": "Carbon monoxide"
+  },
+  {
+    "id": "ES-161",
+    "question": "What does the term 'resilience' describe in ecology?",
+    "options": ["Rate of reproduction", "Ability to recover after disturbance", "Population density", "Energy efficiency"],
+    "correctAnswer": "Ability to recover after disturbance"
+  },
+  {
+    "id": "ES-162",
+    "question": "Which environmental issue is intensified by black carbon deposition on ice?",
+    "options": ["Ozone depletion", "Accelerated ice melting", "Acid rain", "Ocean salinization"],
+    "correctAnswer": "Accelerated ice melting"
+  },
+  {
+    "id": "ES-163",
+    "question": "Which type of waste contains infectious materials?",
+    "options": ["E-waste", "Biomedical waste", "Construction debris", "Green waste"],
+    "correctAnswer": "Biomedical waste"
+  },
+  {
+    "id": "ES-164",
+    "question": "Which process moves sediments along the coast by wave action?",
+    "options": ["Upwelling", "Longshore drift", "Subduction", "Sedimentation"],
+    "correctAnswer": "Longshore drift"
+  },
+  {
+    "id": "ES-165",
+    "question": "Which energy conversion occurs in wind turbines?",
+    "options": ["Chemical to thermal", "Kinetic to electrical", "Nuclear to mechanical", "Solar to chemical"],
+    "correctAnswer": "Kinetic to electrical"
+  },
+  {
+    "id": "ES-166",
+    "question": "What is the primary cause of freshwater scarcity worldwide?",
+    "options": ["Uneven distribution and overuse", "Volcanic activity", "Ocean currents", "Magnetic storms"],
+    "correctAnswer": "Uneven distribution and overuse"
+  },
+  {
+    "id": "ES-167",
+    "question": "Which practice improves soil structure and fertility simultaneously?",
+    "options": ["Green manuring", "Continuous monoculture", "Excess tillage", "Chemical fallow"],
+    "correctAnswer": "Green manuring"
+  },
+  {
+    "id": "ES-168",
+    "question": "Which atmospheric circulation cell dominates tropical regions?",
+    "options": ["Ferrel cell", "Polar cell", "Hadley cell", "Walker cell"],
+    "correctAnswer": "Hadley cell"
+  },
+  {
+    "id": "ES-169",
+    "question": "Which indicator best reflects long-term water pollution trends?",
+    "options": ["Daily turbidity", "Biochemical Oxygen Demand", "Instant pH reading", "Water temperature"],
+    "correctAnswer": "Biochemical Oxygen Demand"
+  },
+  {
+    "id": "ES-170",
+    "question": "Which agricultural practice reduces nutrient runoff into rivers?",
+    "options": ["Buffer strips", "Flood irrigation", "Bare fallow", "Over-fertilization"],
+    "correctAnswer": "Buffer strips"
+  },
+  {
+    "id": "ES-171",
+    "question": "What is the primary ecological function of coral reefs?",
+    "options": ["Freshwater storage", "Habitat provision and coastal protection", "Mineral extraction", "Carbon combustion"],
+    "correctAnswer": "Habitat provision and coastal protection"
+  },
+  {
+    "id": "ES-172",
+    "question": "Which gas is produced during composting under aerobic conditions?",
+    "options": ["Methane", "Carbon dioxide", "Hydrogen sulfide", "Nitrous oxide"],
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "id": "ES-173",
+    "question": "Which environmental issue is caused by chlorinated hydrocarbons?",
+    "options": ["Thermal pollution", "Bioaccumulation", "Noise pollution", "Erosion"],
+    "correctAnswer": "Bioaccumulation"
+  },
+  {
+    "id": "ES-174",
+    "question": "Which method assesses cumulative environmental impacts of policies?",
+    "options": ["Environmental Impact Assessment", "Strategic Environmental Assessment", "Environmental auditing", "Risk screening"],
+    "correctAnswer": "Strategic Environmental Assessment"
+  },
+  {
+    "id": "ES-175",
+    "question": "Which factor most limits primary productivity in deserts?",
+    "options": ["Light", "Nutrients", "Water availability", "Temperature"],
+    "correctAnswer": "Water availability"
+  },
+  {
+    "id": "ES-176",
+    "question": "Which process describes the downward movement of water through soil?",
+    "options": ["Runoff", "Infiltration", "Evaporation", "Translocation"],
+    "correctAnswer": "Infiltration"
+  },
+  {
+    "id": "ES-177",
+    "question": "Which environmental hazard is associated with asbestos exposure?",
+    "options": ["Skin irritation", "Respiratory diseases", "Waterborne infections", "Hearing loss"],
+    "correctAnswer": "Respiratory diseases"
+  },
+  {
+    "id": "ES-178",
+    "question": "Which conservation approach protects species outside their natural habitat?",
+    "options": ["In-situ conservation", "Ex-situ conservation", "Landscape conservation", "Community forestry"],
+    "correctAnswer": "Ex-situ conservation"
+  },
+  {
+    "id": "ES-179",
+    "question": "Which factor increases the vulnerability of small island ecosystems?",
+    "options": ["High altitude", "Sea-level rise", "Low solar radiation", "Volcanic soils"],
+    "correctAnswer": "Sea-level rise"
+  },
+  {
+    "id": "ES-180",
+    "question": "Which principle promotes minimizing environmental harm at the earliest stage?",
+    "options": ["Reactive management", "Preventive principle", "Compensatory principle", "Exploitation principle"],
+    "correctAnswer": "Preventive principle"
   }
 ]

@@ -1,30 +1,542 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "MR-001",
+    "question": "Which religion is primarily based on the teachings of Siddhartha Gautama?",
+    "options": ["Hinduism", "Buddhism", "Jainism", "Confucianism"],
+    "correctAnswer": "Buddhism"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "MR-002",
+    "question": "The holy book of Islam is known as which of the following?",
+    "options": ["Torah", "Bible", "Quran", "Vedas"],
+    "correctAnswer": "Quran"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "MR-003",
+    "question": "Which religion follows the concept of the Trinity?",
+    "options": ["Judaism", "Islam", "Christianity", "Buddhism"],
+    "correctAnswer": "Christianity"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "MR-004",
+    "question": "Which religion considers the Vedas as its earliest sacred texts?",
+    "options": ["Jainism", "Sikhism", "Hinduism", "Buddhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-005",
+    "question": "Who is regarded as the final prophet in Islam?",
+    "options": ["Jesus", "Moses", "Muhammad", "Abraham"],
+    "correctAnswer": "Muhammad"
+  },
+  {
+    "id": "MR-006",
+    "question": "Which religion emphasizes the Eightfold Path?",
+    "options": ["Hinduism", "Buddhism", "Taoism", "Zoroastrianism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-007",
+    "question": "The concept of 'Ahimsa' (non-violence) is central to which religion?",
+    "options": ["Islam", "Christianity", "Jainism", "Shinto"],
+    "correctAnswer": "Jainism"
+  },
+  {
+    "id": "MR-008",
+    "question": "Which religion originated in the Arabian Peninsula?",
+    "options": ["Islam", "Judaism", "Christianity", "Zoroastrianism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-009",
+    "question": "What is the primary sacred language of Hindu scriptures?",
+    "options": ["Pali", "Arabic", "Hebrew", "Sanskrit"],
+    "correctAnswer": "Sanskrit"
+  },
+  {
+    "id": "MR-010",
+    "question": "Which religion is monotheistic and follows the Torah?",
+    "options": ["Islam", "Judaism", "Christianity", "Sikhism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "MR-011",
+    "question": "Which religion believes in rebirth without a permanent soul (Anatta)?",
+    "options": ["Hinduism", "Buddhism", "Christianity", "Islam"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-012",
+    "question": "The Golden Temple in Amritsar is associated with which religion?",
+    "options": ["Hinduism", "Sikhism", "Buddhism", "Jainism"],
+    "correctAnswer": "Sikhism"
+  },
+  {
+    "id": "MR-013",
+    "question": "Which religion teaches salvation through faith in Jesus Christ?",
+    "options": ["Islam", "Judaism", "Christianity", "Hinduism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "MR-014",
+    "question": "Which religious text contains the teachings of Guru Nanak?",
+    "options": ["Vedas", "Tripitaka", "Guru Granth Sahib", "Bible"],
+    "correctAnswer": "Guru Granth Sahib"
+  },
+  {
+    "id": "MR-015",
+    "question": "Which religion traditionally worships in a synagogue?",
+    "options": ["Christianity", "Islam", "Judaism", "Hinduism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "MR-016",
+    "question": "The concept of 'Karma' is shared by which set of religions?",
+    "options": ["Islam & Christianity", "Hinduism & Buddhism", "Judaism & Islam", "Christianity & Sikhism"],
+    "correctAnswer": "Hinduism & Buddhism"
+  },
+  {
+    "id": "MR-017",
+    "question": "Which religion does NOT believe in idol worship as a core principle?",
+    "options": ["Hinduism", "Islam", "Buddhism", "Shinto"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-018",
+    "question": "Which religion traces its origin to Abraham?",
+    "options": ["Hinduism", "Buddhism", "Judaism", "Confucianism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "MR-019",
+    "question": "What is the ultimate goal of life according to Buddhism?",
+    "options": ["Heaven", "Moksha", "Nirvana", "Salvation"],
+    "correctAnswer": "Nirvana"
+  },
+  {
+    "id": "MR-020",
+    "question": "Which religion emerged as a reform movement within Hinduism?",
+    "options": ["Jainism", "Buddhism", "Sikhism", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "id": "MR-021",
+    "question": "Which religion is strongly associated with the Five Pillars?",
+    "options": ["Judaism", "Islam", "Christianity", "Sikhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-022",
+    "question": "The concept of 'Original Sin' belongs primarily to which religion?",
+    "options": ["Judaism", "Islam", "Christianity", "Hinduism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "MR-023",
+    "question": "Which religion emphasizes the Middle Way between indulgence and austerity?",
+    "options": ["Jainism", "Buddhism", "Hinduism", "Taoism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-024",
+    "question": "Which religious tradition uses the Tripitaka as a sacred text?",
+    "options": ["Hinduism", "Buddhism", "Sikhism", "Judaism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-025",
+    "question": "Which religion believes Jesus was a prophet but not divine?",
+    "options": ["Judaism", "Christianity", "Islam", "Sikhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-026",
+    "question": "Which religion rejects the caste system most explicitly?",
+    "options": ["Hinduism", "Sikhism", "Judaism", "Islam"],
+    "correctAnswer": "Sikhism"
+  },
+  {
+    "id": "MR-027",
+    "question": "Which religion historically developed the concept of Sabbath observance?",
+    "options": ["Islam", "Christianity", "Judaism", "Hinduism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "MR-028",
+    "question": "The belief in many gods under one supreme reality is known as which concept?",
+    "options": ["Monotheism", "Polytheism", "Henotheism", "Atheism"],
+    "correctAnswer": "Henotheism"
+  },
+  {
+    "id": "MR-029",
+    "question": "Which religion does not center around a single founding prophet?",
+    "options": ["Islam", "Christianity", "Buddhism", "Hinduism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-030",
+    "question": "Which religion views liberation as freedom from the cycle of samsara?",
+    "options": ["Christianity", "Islam", "Hinduism", "Judaism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-031",
+    "question": "Which religion traditionally regards Mecca as its holiest city?",
+    "options": ["Jerusalem", "Mecca", "Medina", "Rome"],
+    "correctAnswer": "Mecca"
+  },
+  {
+    "id": "MR-032",
+    "question": "The Upanishads primarily explore which philosophical concept?",
+    "options": ["Ritual sacrifice", "Law and punishment", "Nature of ultimate reality", "Historical events"],
+    "correctAnswer": "Nature of ultimate reality"
+  },
+  {
+    "id": "MR-033",
+    "question": "Which religion emphasizes salvation through adherence to divine law rather than belief in a messiah?",
+    "options": ["Christianity", "Islam", "Judaism", "Buddhism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "MR-034",
+    "question": "What is the primary purpose of the Hajj pilgrimage?",
+    "options": ["Meditation", "Charity", "Mandatory religious duty", "Study of scripture"],
+    "correctAnswer": "Mandatory religious duty"
+  },
+  {
+    "id": "MR-035",
+    "question": "Which religion teaches the concept of dependent origination (Pratityasamutpada)?",
+    "options": ["Hinduism", "Jainism", "Buddhism", "Sikhism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-036",
+    "question": "Which religion’s sacred text is arranged primarily as dialogues and hymns?",
+    "options": ["Islam", "Christianity", "Hinduism", "Judaism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-037",
+    "question": "The concept of 'Chosen People' is most closely associated with which religion?",
+    "options": ["Christianity", "Judaism", "Islam", "Sikhism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "MR-038",
+    "question": "Which religion strictly prohibits alcohol consumption as a religious rule?",
+    "options": ["Christianity", "Judaism", "Islam", "Hinduism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-039",
+    "question": "Which religion historically rejected the authority of the Vedas?",
+    "options": ["Hinduism", "Buddhism", "Sikhism", "Judaism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-040",
+    "question": "What is the central ethical teaching of Jainism?",
+    "options": ["Obedience to God", "Non-violence toward all beings", "Faith alone", "Ritual purity"],
+    "correctAnswer": "Non-violence toward all beings"
+  },
+  {
+    "id": "MR-041",
+    "question": "Which religion identifies the Ten Commandments as a foundational moral code?",
+    "options": ["Islam", "Judaism", "Hinduism", "Buddhism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "MR-042",
+    "question": "Which religious tradition views worldly life as inherently filled with suffering?",
+    "options": ["Christianity", "Islam", "Buddhism", "Sikhism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-043",
+    "question": "Which religion considers the Guru Granth Sahib as a living spiritual authority?",
+    "options": ["Hinduism", "Buddhism", "Sikhism", "Jainism"],
+    "correctAnswer": "Sikhism"
+  },
+  {
+    "id": "MR-044",
+    "question": "Which religion emphasizes submission to the will of a single omnipotent God?",
+    "options": ["Christianity", "Hinduism", "Islam", "Buddhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-045",
+    "question": "The belief that actions in this life affect future lives is central to which religions?",
+    "options": ["Islam & Christianity", "Hinduism & Buddhism", "Judaism & Christianity", "Islam & Sikhism"],
+    "correctAnswer": "Hinduism & Buddhism"
+  },
+  {
+    "id": "MR-046",
+    "question": "Which religion historically developed monastic communities as a core institution?",
+    "options": ["Islam", "Buddhism", "Judaism", "Sikhism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-047",
+    "question": "Which religion teaches that God incarnated in human form as Jesus?",
+    "options": ["Islam", "Judaism", "Christianity", "Sikhism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "MR-048",
+    "question": "Which religion rejects both extreme asceticism and extreme indulgence?",
+    "options": ["Jainism", "Buddhism", "Hinduism", "Islam"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-049",
+    "question": "Which religious text is primarily composed of Psalms, Proverbs, and historical narratives?",
+    "options": ["Quran", "Bible", "Tripitaka", "Vedas"],
+    "correctAnswer": "Bible"
+  },
+  {
+    "id": "MR-050",
+    "question": "Which religion emphasizes equality of all humans regardless of caste or class?",
+    "options": ["Hinduism", "Sikhism", "Judaism", "Christianity"],
+    "correctAnswer": "Sikhism"
+  },
+  {
+    "id": "MR-051",
+    "question": "Which religion traditionally regards Jerusalem as a central holy city?",
+    "options": ["Islam only", "Christianity only", "Judaism only", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "id": "MR-052",
+    "question": "Which religion considers fasting during Ramadan obligatory?",
+    "options": ["Judaism", "Christianity", "Islam", "Hinduism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-053",
+    "question": "Which religion does not accept the concept of an eternal creator god?",
+    "options": ["Hinduism", "Buddhism", "Christianity", "Islam"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-054",
+    "question": "Which religion views moksha as liberation from rebirth through self-realization?",
+    "options": ["Christianity", "Islam", "Hinduism", "Judaism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-055",
+    "question": "Which religion historically spread primarily through missionary activity?",
+    "options": ["Judaism", "Christianity", "Hinduism", "Jainism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "MR-056",
+    "question": "Which religion emphasizes strict dietary laws known as kosher?",
+    "options": ["Islam", "Christianity", "Judaism", "Hinduism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "MR-057",
+    "question": "Which religion regards the Quran as the literal word of God?",
+    "options": ["Christianity", "Judaism", "Islam", "Sikhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-058",
+    "question": "Which religion emphasizes devotion (bhakti) as a path to spiritual liberation?",
+    "options": ["Buddhism", "Hinduism", "Islam", "Judaism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-059",
+    "question": "Which religion considers suffering to be eliminated by eliminating desire?",
+    "options": ["Jainism", "Christianity", "Buddhism", "Islam"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-060",
+    "question": "Which religion historically emerged in the Indus-Ganges cultural region?",
+    "options": ["Christianity", "Islam", "Hinduism", "Judaism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-061",
+    "question": "Which religion emphasizes the concept of Tawhid, meaning absolute oneness of God?",
+    "options": ["Christianity", "Islam", "Judaism", "Sikhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-062",
+    "question": "The Bhagavad Gita is a dialogue between Arjuna and which divine figure?",
+    "options": ["Brahma", "Vishnu", "Krishna", "Shiva"],
+    "correctAnswer": "Krishna"
+  },
+  {
+    "id": "MR-063",
+    "question": "Which religion traditionally practices meditation aimed at mindfulness and insight?",
+    "options": ["Islam", "Christianity", "Buddhism", "Judaism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-064",
+    "question": "Which religion considers Abraham, Moses, and Muhammad all as prophets?",
+    "options": ["Christianity", "Judaism", "Islam", "Sikhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-065",
+    "question": "Which religious tradition includes the philosophical schools of Vedanta, Yoga, and Samkhya?",
+    "options": ["Buddhism", "Hinduism", "Jainism", "Sikhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-066",
+    "question": "Which religion views the universe as governed by moral causation rather than divine judgment?",
+    "options": ["Christianity", "Islam", "Buddhism", "Judaism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-067",
+    "question": "Which religion teaches that liberation can be achieved through knowledge, devotion, or action?",
+    "options": ["Islam", "Hinduism", "Christianity", "Judaism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-068",
+    "question": "Which religion traditionally discourages conversion and emphasizes birth into the faith?",
+    "options": ["Christianity", "Islam", "Judaism", "Buddhism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "MR-069",
+    "question": "Which religion regards Jesus as the Son of God?",
+    "options": ["Islam", "Judaism", "Christianity", "Sikhism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "MR-070",
+    "question": "Which religion includes the concept of Sangha as part of its core structure?",
+    "options": ["Hinduism", "Buddhism", "Christianity", "Islam"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-071",
+    "question": "Which religion traditionally uses the crescent moon as a widely recognized symbol?",
+    "options": ["Islam", "Judaism", "Christianity", "Hinduism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-072",
+    "question": "Which religion teaches that ethical living is more important than ritual sacrifice?",
+    "options": ["Judaism", "Buddhism", "Christianity", "Islam"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-073",
+    "question": "Which religion identifies baptism as a significant religious practice?",
+    "options": ["Judaism", "Islam", "Christianity", "Hinduism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "MR-074",
+    "question": "Which religion’s followers traditionally face Mecca during prayer?",
+    "options": ["Christianity", "Judaism", "Islam", "Sikhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-075",
+    "question": "Which religion views history as a linear progression toward divine judgment?",
+    "options": ["Hinduism", "Buddhism", "Christianity", "Jainism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "MR-076",
+    "question": "Which religion emphasizes compassion (karuna) as a core virtue?",
+    "options": ["Islam", "Christianity", "Buddhism", "Judaism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-077",
+    "question": "Which religion traditionally forbids interest (usury) in financial dealings?",
+    "options": ["Christianity", "Islam", "Hinduism", "Buddhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-078",
+    "question": "Which religion regards the Ganges River as sacred?",
+    "options": ["Buddhism", "Hinduism", "Jainism", "Sikhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-079",
+    "question": "Which religion emphasizes confession and forgiveness of sins?",
+    "options": ["Judaism", "Islam", "Christianity", "Buddhism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "MR-080",
+    "question": "Which religion historically developed the idea of Dharma as moral duty?",
+    "options": ["Christianity", "Islam", "Hinduism", "Judaism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-081",
+    "question": "Which religion teaches that suffering arises from attachment and ignorance?",
+    "options": ["Islam", "Christianity", "Buddhism", "Judaism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-082",
+    "question": "Which religion regards the Kaaba as a central sacred structure?",
+    "options": ["Judaism", "Christianity", "Islam", "Hinduism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-083",
+    "question": "Which religion teaches that salvation is attained through grace rather than works alone?",
+    "options": ["Judaism", "Christianity", "Hinduism", "Buddhism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "MR-084",
+    "question": "Which religion traditionally avoids depicting God in physical form?",
+    "options": ["Christianity", "Hinduism", "Islam", "Buddhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-085",
+    "question": "Which religion sees liberation as realizing the unity of Atman and Brahman?",
+    "options": ["Buddhism", "Christianity", "Hinduism", "Islam"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "MR-086",
+    "question": "Which religion emphasizes the moral law known as Sharia?",
+    "options": ["Judaism", "Christianity", "Islam", "Sikhism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-087",
+    "question": "Which religion views monastic renunciation as an ideal spiritual path?",
+    "options": ["Islam", "Judaism", "Buddhism", "Sikhism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "MR-088",
+    "question": "Which religion believes prophets were sent to different nations throughout history?",
+    "options": ["Christianity", "Islam", "Judaism", "Hinduism"],
+    "correctAnswer": "Islam"
+  },
+  {
+    "id": "MR-089",
+    "question": "Which religion emphasizes loving one's neighbor as oneself?",
+    "options": ["Islam", "Judaism", "Christianity", "Buddhism"],
+    "correctAnswer": "Christianity"
+  },
+  {
+    "id": "MR-090",
+    "question": "Which religion interprets time as cyclical rather than linear?",
+    "options": ["Christianity", "Islam", "Hinduism", "Judaism"],
+    "correctAnswer": "Hinduism"
   }
 ]

@@ -1,30 +1,542 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "HRS-001",
+    "question": "Which historical religious site is considered the holiest shrine in Islam?",
+    "options": ["Al-Masjid an-Nabawi", "Al-Aqsa Mosque", "Kaaba", "Dome of the Rock"],
+    "correctAnswer": "Kaaba"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "HRS-002",
+    "question": "The Vatican City is the spiritual center of which religion?",
+    "options": ["Orthodox Christianity", "Judaism", "Catholic Christianity", "Islam"],
+    "correctAnswer": "Catholic Christianity"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "HRS-003",
+    "question": "Which ancient temple complex in Cambodia is the largest religious monument in the world?",
+    "options": ["Borobudur", "Angkor Wat", "Bagan Temples", "Wat Pho"],
+    "correctAnswer": "Angkor Wat"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "HRS-004",
+    "question": "The Western Wall in Jerusalem is sacred to which religion?",
+    "options": ["Islam", "Christianity", "Judaism", "Zoroastrianism"],
+    "correctAnswer": "Judaism"
+  },
+  {
+    "id": "HRS-005",
+    "question": "Which city is known as the birthplace of Gautama Buddha?",
+    "options": ["Bodh Gaya", "Kushinagar", "Sarnath", "Lumbini"],
+    "correctAnswer": "Lumbini"
+  },
+  {
+    "id": "HRS-006",
+    "question": "Notre-Dame Cathedral is a famous religious site located in which city?",
+    "options": ["Rome", "Paris", "Vienna", "Madrid"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "id": "HRS-007",
+    "question": "Which rock-cut churches are a UNESCO World Heritage Site in Ethiopia?",
+    "options": ["Axum Churches", "Lalibela Churches", "Gondar Castles", "Debre Damo"],
+    "correctAnswer": "Lalibela Churches"
+  },
+  {
+    "id": "HRS-008",
+    "question": "The Golden Temple is the holiest site of which religion?",
+    "options": ["Hinduism", "Buddhism", "Jainism", "Sikhism"],
+    "correctAnswer": "Sikhism"
+  },
+  {
+    "id": "HRS-009",
+    "question": "Which ancient city is home to the Temple of Artemis, one of the Seven Wonders of the Ancient World?",
+    "options": ["Athens", "Ephesus", "Rome", "Delphi"],
+    "correctAnswer": "Ephesus"
+  },
+  {
+    "id": "HRS-010",
+    "question": "Mount Sinai is traditionally associated with which religious event?",
+    "options": ["Birth of Jesus", "Revelation of the Ten Commandments", "Enlightenment of Buddha", "Hijra of Muhammad"],
+    "correctAnswer": "Revelation of the Ten Commandments"
+  },
+  {
+    "id": "HRS-011",
+    "question": "Which Japanese shrine is dedicated to the sun goddess Amaterasu?",
+    "options": ["Itsukushima Shrine", "Fushimi Inari Shrine", "Ise Grand Shrine", "Meiji Shrine"],
+    "correctAnswer": "Ise Grand Shrine"
+  },
+  {
+    "id": "HRS-012",
+    "question": "The city of Varanasi is especially sacred in which religion?",
+    "options": ["Buddhism", "Hinduism", "Jainism", "Sikhism"],
+    "correctAnswer": "Hinduism"
+  },
+  {
+    "id": "HRS-013",
+    "question": "Which historical mosque is famous for its blue tiles and located in Istanbul?",
+    "options": ["Suleymaniye Mosque", "Blue Mosque", "Al-Haram Mosque", "Umayyad Mosque"],
+    "correctAnswer": "Blue Mosque"
+  },
+  {
+    "id": "HRS-014",
+    "question": "Borobudur, the largest Buddhist temple in the world, is located in which country?",
+    "options": ["Thailand", "Sri Lanka", "Indonesia", "Myanmar"],
+    "correctAnswer": "Indonesia"
+  },
+  {
+    "id": "HRS-015",
+    "question": "Which city contains the Church of the Holy Sepulchre?",
+    "options": ["Bethlehem", "Nazareth", "Jerusalem", "Antioch"],
+    "correctAnswer": "Jerusalem"
+  },
+  {
+    "id": "HRS-016",
+    "question": "The ancient fire temples are associated with which religion?",
+    "options": ["Hinduism", "Zoroastrianism", "Judaism", "Taoism"],
+    "correctAnswer": "Zoroastrianism"
+  },
+  {
+    "id": "HRS-017",
+    "question": "Which pilgrimage site marks the place where Buddha attained enlightenment?",
+    "options": ["Sarnath", "Lumbini", "Rajgir", "Bodh Gaya"],
+    "correctAnswer": "Bodh Gaya"
+  },
+  {
+    "id": "HRS-018",
+    "question": "The Hagia Sophia was originally built as a structure of which type?",
+    "options": ["Mosque", "Synagogue", "Church", "Monastery"],
+    "correctAnswer": "Church"
+  },
+  {
+    "id": "HRS-019",
+    "question": "Which ancient religious site is carved directly into rose-red cliffs in Jordan?",
+    "options": ["Petra", "Persepolis", "Palmyra", "Machu Picchu"],
+    "correctAnswer": "Petra"
+  },
+  {
+    "id": "HRS-020",
+    "question": "Which sacred river flows past many important Hindu religious sites?",
+    "options": ["Yamuna", "Indus", "Godavari", "Ganges"],
+    "correctAnswer": "Ganges"
+  },
+  {
+    "id": "HRS-021",
+    "question": "The Mahabodhi Temple is primarily associated with which religion?",
+    "options": ["Hinduism", "Buddhism", "Jainism", "Confucianism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "HRS-022",
+    "question": "Which ancient city is considered holy in Judaism, Christianity, and Islam?",
+    "options": ["Mecca", "Rome", "Jerusalem", "Alexandria"],
+    "correctAnswer": "Jerusalem"
+  },
+  {
+    "id": "HRS-023",
+    "question": "The Kailasa Temple at Ellora is remarkable because it was constructed using which method?",
+    "options": ["Brick masonry", "Rock-cut excavation", "Wooden framework", "Mud construction"],
+    "correctAnswer": "Rock-cut excavation"
+  },
+  {
+    "id": "HRS-024",
+    "question": "Which religious site is believed to house the relics of the Buddha's tooth?",
+    "options": ["Wat Phra Kaew", "Shwedagon Pagoda", "Temple of the Tooth", "Mahabodhi Temple"],
+    "correctAnswer": "Temple of the Tooth"
+  },
+  {
+    "id": "HRS-025",
+    "question": "Which ancient Iranian city was an important ceremonial center of Zoroastrianism?",
+    "options": ["Isfahan", "Persepolis", "Tehran", "Shiraz"],
+    "correctAnswer": "Persepolis"
+  },
+  {
+    "id": "HRS-026",
+    "question": "The city of Mecca is closed to followers of religions other than Islam due to which reason?",
+    "options": ["Political law", "Historical conflict", "Religious sanctity", "Architectural preservation"],
+    "correctAnswer": "Religious sanctity"
+  },
+  {
+    "id": "HRS-027",
+    "question": "Which medieval cathedral is famous for being a major pilgrimage site on the Camino de Santiago?",
+    "options": ["Cologne Cathedral", "Canterbury Cathedral", "Santiago de Compostela Cathedral", "Chartres Cathedral"],
+    "correctAnswer": "Santiago de Compostela Cathedral"
+  },
+  {
+    "id": "HRS-028",
+    "question": "Which ancient Chinese site is closely associated with Confucian worship?",
+    "options": ["Temple of Heaven", "Confucius Temple of Qufu", "Shaolin Temple", "White Horse Temple"],
+    "correctAnswer": "Confucius Temple of Qufu"
+  },
+  {
+    "id": "HRS-029",
+    "question": "The Shwedagon Pagoda is a major religious landmark in which country?",
+    "options": ["Laos", "Thailand", "Myanmar", "Cambodia"],
+    "correctAnswer": "Myanmar"
+  },
+  {
+    "id": "HRS-030",
+    "question": "Which factor most distinguishes historical religious sites from modern places of worship?",
+    "options": ["Daily rituals", "Architectural age and heritage value", "Religious symbols", "Community usage"],
+    "correctAnswer": "Architectural age and heritage value"
+  },
+  {
+    "id": "HRS-031",
+    "question": "Which ancient religious site in Egypt was primarily dedicated to the god Amun?",
+    "options": ["Temple of Karnak", "Abu Simbel", "Luxor Temple", "Valley of the Kings"],
+    "correctAnswer": "Temple of Karnak"
+  },
+  {
+    "id": "HRS-032",
+    "question": "Which religious structure in Rome is famous for its large dome and oculus?",
+    "options": ["Colosseum", "Pantheon", "St. Peter's Basilica", "Roman Forum"],
+    "correctAnswer": "Pantheon"
+  },
+  {
+    "id": "HRS-033",
+    "question": "The ancient city of Bagan, known for thousands of temples, is located in which country?",
+    "options": ["Thailand", "Cambodia", "Myanmar", "Vietnam"],
+    "correctAnswer": "Myanmar"
+  },
+  {
+    "id": "HRS-034",
+    "question": "Which religious site is believed to be the location of Jesus Christ’s birth?",
+    "options": ["Nazareth", "Jerusalem", "Bethlehem", "Capernaum"],
+    "correctAnswer": "Bethlehem"
+  },
+  {
+    "id": "HRS-035",
+    "question": "Which prehistoric monument is often associated with ancient religious or ritual practices?",
+    "options": ["Stonehenge", "Colosseum", "Acropolis", "Pompeii"],
+    "correctAnswer": "Stonehenge"
+  },
+  {
+    "id": "HRS-036",
+    "question": "Which Jain religious site is carved into the Udayagiri Hills in India?",
+    "options": ["Shravanabelagola", "Mount Abu", "Udayagiri and Khandagiri Caves", "Palitana Temples"],
+    "correctAnswer": "Udayagiri and Khandagiri Caves"
+  },
+  {
+    "id": "HRS-037",
+    "question": "Which ancient city is considered sacred due to the Oracle of Apollo?",
+    "options": ["Olympia", "Sparta", "Delphi", "Corinth"],
+    "correctAnswer": "Delphi"
+  },
+  {
+    "id": "HRS-038",
+    "question": "Which religious site marks the place where Prophet Muhammad is believed to have ascended to heaven?",
+    "options": ["Kaaba", "Al-Aqsa Mosque", "Cave of Hira", "Quba Mosque"],
+    "correctAnswer": "Al-Aqsa Mosque"
+  },
+  {
+    "id": "HRS-039",
+    "question": "Which ancient synagogue site is famous for its mosaic floors in Israel?",
+    "options": ["Masada", "Beit Alpha", "Qumran", "Megiddo"],
+    "correctAnswer": "Beit Alpha"
+  },
+  {
+    "id": "HRS-040",
+    "question": "Which ancient religious complex is located high in the Andes Mountains of Peru?",
+    "options": ["Teotihuacan", "Chichen Itza", "Machu Picchu", "Tikal"],
+    "correctAnswer": "Machu Picchu"
+  },
+  {
+    "id": "HRS-041",
+    "question": "Which Hindu temple is dedicated to Lord Vishnu and located in Tamil Nadu?",
+    "options": ["Meenakshi Temple", "Ramanathaswamy Temple", "Brihadeeswarar Temple", "Ranganathaswamy Temple"],
+    "correctAnswer": "Ranganathaswamy Temple"
+  },
+  {
+    "id": "HRS-042",
+    "question": "Which ancient Mesopotamian structure served both religious and administrative purposes?",
+    "options": ["Ziggurat", "Obelisk", "Pyramid", "Citadel"],
+    "correctAnswer": "Ziggurat"
+  },
+  {
+    "id": "HRS-043",
+    "question": "Which medieval abbey is traditionally associated with the burial of King Arthur?",
+    "options": ["Westminster Abbey", "Glastonbury Abbey", "Cluny Abbey", "Fountains Abbey"],
+    "correctAnswer": "Glastonbury Abbey"
+  },
+  {
+    "id": "HRS-044",
+    "question": "Which ancient city housed the Temple of Solomon?",
+    "options": ["Jericho", "Jerusalem", "Hebron", "Damascus"],
+    "correctAnswer": "Jerusalem"
+  },
+  {
+    "id": "HRS-045",
+    "question": "Which religious site in Nepal is sacred to both Hindus and Buddhists?",
+    "options": ["Pashupatinath Temple", "Swayambhunath", "Muktinath Temple", "Boudhanath Stupa"],
+    "correctAnswer": "Muktinath Temple"
+  },
+  {
+    "id": "HRS-046",
+    "question": "Which ancient Roman temple was dedicated to all gods?",
+    "options": ["Temple of Mars", "Temple of Jupiter", "Pantheon", "Temple of Venus"],
+    "correctAnswer": "Pantheon"
+  },
+  {
+    "id": "HRS-047",
+    "question": "Which historical religious site is famous for its massive reclining Buddha statue?",
+    "options": ["Wat Arun", "Wat Pho", "Borobudur", "Angkor Thom"],
+    "correctAnswer": "Wat Pho"
+  },
+  {
+    "id": "HRS-048",
+    "question": "Which Ethiopian city is regarded as sacred for housing the Ark of the Covenant according to tradition?",
+    "options": ["Addis Ababa", "Axum", "Gondar", "Harar"],
+    "correctAnswer": "Axum"
+  },
+  {
+    "id": "HRS-049",
+    "question": "Which ancient temple complex was primarily used for sun worship by the Incas?",
+    "options": ["Coricancha", "Sacsayhuaman", "Ollantaytambo", "Pisac"],
+    "correctAnswer": "Coricancha"
+  },
+  {
+    "id": "HRS-050",
+    "question": "Which Christian pilgrimage site is traditionally associated with the Last Supper?",
+    "options": ["Mount of Olives", "Upper Room", "Garden of Gethsemane", "Via Dolorosa"],
+    "correctAnswer": "Upper Room"
+  },
+  {
+    "id": "HRS-051",
+    "question": "Which ancient religious site in Sri Lanka is believed to house a tooth relic of the Buddha?",
+    "options": ["Anuradhapura", "Temple of the Sacred Tooth Relic", "Polonnaruwa", "Sigiriya"],
+    "correctAnswer": "Temple of the Sacred Tooth Relic"
+  },
+  {
+    "id": "HRS-052",
+    "question": "Which ancient Mayan site includes temples aligned with astronomical events?",
+    "options": ["Uxmal", "Chichen Itza", "Copan", "Calakmul"],
+    "correctAnswer": "Chichen Itza"
+  },
+  {
+    "id": "HRS-053",
+    "question": "Which religious monument was originally built as a mausoleum in India?",
+    "options": ["Qutub Minar", "Humayun’s Tomb", "Taj Mahal", "Red Fort"],
+    "correctAnswer": "Taj Mahal"
+  },
+  {
+    "id": "HRS-054",
+    "question": "Which ancient site served as the center of Shinto rituals before being relocated periodically?",
+    "options": ["Meiji Shrine", "Ise Grand Shrine", "Itsukushima Shrine", "Kasuga Taisha"],
+    "correctAnswer": "Ise Grand Shrine"
+  },
+  {
+    "id": "HRS-055",
+    "question": "Which historical religious site in Turkey features underground cities used by early Christians?",
+    "options": ["Cappadocia", "Troy", "Ephesus", "Pergamon"],
+    "correctAnswer": "Cappadocia"
+  },
+  {
+    "id": "HRS-056",
+    "question": "Which ancient religious city was a major center of learning in Buddhism?",
+    "options": ["Nalanda", "Taxila", "Pataliputra", "Ujjain"],
+    "correctAnswer": "Nalanda"
+  },
+  {
+    "id": "HRS-057",
+    "question": "Which religious site marks the starting point of the Islamic Hijra?",
+    "options": ["Mecca", "Medina", "Taif", "Jerusalem"],
+    "correctAnswer": "Mecca"
+  },
+  {
+    "id": "HRS-058",
+    "question": "Which ancient Norse religious site was used for pagan rituals and assemblies?",
+    "options": ["Thingvellir", "Uppsala", "Birka", "Lindisfarne"],
+    "correctAnswer": "Uppsala"
+  },
+  {
+    "id": "HRS-059",
+    "question": "Which religious site in Iran is famous for its Towers of Silence?",
+    "options": ["Yazd", "Isfahan", "Qom", "Tabriz"],
+    "correctAnswer": "Yazd"
+  },
+  {
+    "id": "HRS-060",
+    "question": "Which factor most strongly contributes to the global protection of historical religious sites today?",
+    "options": ["Modern tourism", "International heritage recognition", "Local traditions", "Religious population size"],
+    "correctAnswer": "International heritage recognition"
+  },
+  {
+    "id": "HRS-061",
+    "question": "Which ancient religious site in India is known for the Sun Temple shaped like a chariot?",
+    "options": ["Konark Sun Temple", "Modhera Sun Temple", "Martand Sun Temple", "Jagannath Temple"],
+    "correctAnswer": "Konark Sun Temple"
+  },
+  {
+    "id": "HRS-062",
+    "question": "Which ancient city was home to the Temple of Apollo at Didyma?",
+    "options": ["Miletus", "Ephesus", "Pergamon", "Sardis"],
+    "correctAnswer": "Miletus"
+  },
+  {
+    "id": "HRS-063",
+    "question": "Which sacred mountain is considered holy in both Taoism and Buddhism in China?",
+    "options": ["Mount Hua", "Mount Tai", "Mount Emei", "Mount Wutai"],
+    "correctAnswer": "Mount Emei"
+  },
+  {
+    "id": "HRS-064",
+    "question": "Which religious site in Spain marks the end point of the Camino de Santiago pilgrimage?",
+    "options": ["Toledo Cathedral", "Seville Cathedral", "Burgos Cathedral", "Santiago de Compostela Cathedral"],
+    "correctAnswer": "Santiago de Compostela Cathedral"
+  },
+  {
+    "id": "HRS-065",
+    "question": "Which ancient Persian religious structures were used for sky burial rituals?",
+    "options": ["Fire Temples", "Ziggurats", "Towers of Silence", "Rock Tombs"],
+    "correctAnswer": "Towers of Silence"
+  },
+  {
+    "id": "HRS-066",
+    "question": "Which historic Buddhist cave complex is located along the Silk Road in China?",
+    "options": ["Longmen Grottoes", "Yungang Grottoes", "Mogao Caves", "Ajanta Caves"],
+    "correctAnswer": "Mogao Caves"
+  },
+  {
+    "id": "HRS-067",
+    "question": "Which ancient religious site was the center of Aztec ceremonial life?",
+    "options": ["Teotihuacan", "Tenochtitlan Templo Mayor", "Cholula Pyramid", "Monte Alban"],
+    "correctAnswer": "Tenochtitlan Templo Mayor"
+  },
+  {
+    "id": "HRS-068",
+    "question": "Which Ethiopian church is said to be carved entirely from a single block of stone?",
+    "options": ["Bete Giyorgis", "Debre Damo", "Church of Mary of Zion", "Medhane Alem"],
+    "correctAnswer": "Bete Giyorgis"
+  },
+  {
+    "id": "HRS-069",
+    "question": "Which ancient city is sacred in Jainism due to the death of Mahavira?",
+    "options": ["Vaishali", "Rajgir", "Pawapuri", "Shravasti"],
+    "correctAnswer": "Pawapuri"
+  },
+  {
+    "id": "HRS-070",
+    "question": "Which historic religious structure in England was the coronation church of British monarchs?",
+    "options": ["Canterbury Cathedral", "York Minster", "St. Paul's Cathedral", "Westminster Abbey"],
+    "correctAnswer": "Westminster Abbey"
+  },
+  {
+    "id": "HRS-071",
+    "question": "Which ancient temple complex in Laos is dedicated to the Hindu god Shiva?",
+    "options": ["Wat Phu", "That Luang", "Wat Xieng Thong", "Wat Si Saket"],
+    "correctAnswer": "Wat Phu"
+  },
+  {
+    "id": "HRS-072",
+    "question": "Which religious site in Iraq is associated with the burial of Imam Ali?",
+    "options": ["Karbala", "Najaf", "Samarra", "Baghdad"],
+    "correctAnswer": "Najaf"
+  },
+  {
+    "id": "HRS-073",
+    "question": "Which ancient Greek sanctuary hosted the original Olympic Games?",
+    "options": ["Delphi", "Olympia", "Athens", "Corinth"],
+    "correctAnswer": "Olympia"
+  },
+  {
+    "id": "HRS-074",
+    "question": "Which sacred city in Saudi Arabia is the destination of the annual Hajj pilgrimage?",
+    "options": ["Medina", "Mecca", "Taif", "Jeddah"],
+    "correctAnswer": "Mecca"
+  },
+  {
+    "id": "HRS-075",
+    "question": "Which historical religious site in Armenia is considered the world's oldest cathedral?",
+    "options": ["Zvartnots Cathedral", "Tatev Monastery", "Etchmiadzin Cathedral", "Geghard Monastery"],
+    "correctAnswer": "Etchmiadzin Cathedral"
+  },
+  {
+    "id": "HRS-076",
+    "question": "Which ancient Hindu pilgrimage site is one of the four Char Dham locations?",
+    "options": ["Rameswaram", "Haridwar", "Dwarka", "Ujjain"],
+    "correctAnswer": "Dwarka"
+  },
+  {
+    "id": "HRS-077",
+    "question": "Which religious site in Turkey marks the House of the Virgin Mary?",
+    "options": ["Cappadocia", "Ephesus", "Antioch", "Iznik"],
+    "correctAnswer": "Ephesus"
+  },
+  {
+    "id": "HRS-078",
+    "question": "Which ancient city was a major religious and political center of the Khmer Empire?",
+    "options": ["Ayutthaya", "Angkor", "Sukhothai", "Pagan"],
+    "correctAnswer": "Angkor"
+  },
+  {
+    "id": "HRS-079",
+    "question": "Which sacred lake is central to pilgrimage rituals at the Golden Temple?",
+    "options": ["Sarovar", "Pushkar Lake", "Dal Lake", "Manasarovar"],
+    "correctAnswer": "Sarovar"
+  },
+  {
+    "id": "HRS-080",
+    "question": "Which ancient Roman religious practice involved priestesses known as Vestal Virgins?",
+    "options": ["Cult of Isis", "Cult of Mars", "Cult of Vesta", "Cult of Apollo"],
+    "correctAnswer": "Cult of Vesta"
+  },
+  {
+    "id": "HRS-081",
+    "question": "Which historic Buddhist capital city is located in present-day Afghanistan?",
+    "options": ["Kabul", "Balkh", "Bamiyan", "Herat"],
+    "correctAnswer": "Bamiyan"
+  },
+  {
+    "id": "HRS-082",
+    "question": "Which ancient temple in Japan is rebuilt every 20 years as part of a Shinto ritual?",
+    "options": ["Kasuga Taisha", "Ise Grand Shrine", "Meiji Shrine", "Toshogu Shrine"],
+    "correctAnswer": "Ise Grand Shrine"
+  },
+  {
+    "id": "HRS-083",
+    "question": "Which religious site in Israel is believed to be the location of the biblical city of Jericho?",
+    "options": ["Qumran", "Mount Nebo", "Tel es-Sultan", "Megiddo"],
+    "correctAnswer": "Tel es-Sultan"
+  },
+  {
+    "id": "HRS-084",
+    "question": "Which ancient Andean religious center predates the Inca civilization?",
+    "options": ["Caral", "Chavin de Huantar", "Nazca", "Tiwanaku"],
+    "correctAnswer": "Chavin de Huantar"
+  },
+  {
+    "id": "HRS-085",
+    "question": "Which historic monastery complex in Greece is built atop towering rock pillars?",
+    "options": ["Mount Athos", "Meteora", "Delphi Monastery", "Patmos Monastery"],
+    "correctAnswer": "Meteora"
+  },
+  {
+    "id": "HRS-086",
+    "question": "Which ancient temple city in India is famous for its erotic sculptures?",
+    "options": ["Khajuraho", "Ellora", "Badami", "Mahabalipuram"],
+    "correctAnswer": "Khajuraho"
+  },
+  {
+    "id": "HRS-087",
+    "question": "Which religious site in Jordan is believed to be the baptism site of Jesus Christ?",
+    "options": ["Mount Nebo", "Bethany Beyond the Jordan", "Petra", "Madaba"],
+    "correctAnswer": "Bethany Beyond the Jordan"
+  },
+  {
+    "id": "HRS-088",
+    "question": "Which ancient African city was an important center of Islamic scholarship?",
+    "options": ["Cairo", "Timbuktu", "Zanzibar", "Fez"],
+    "correctAnswer": "Timbuktu"
+  },
+  {
+    "id": "HRS-089",
+    "question": "Which sacred Hindu mountain is traditionally believed to be the abode of Lord Shiva?",
+    "options": ["Mount Kailash", "Mount Meru", "Nanda Devi", "Annapurna"],
+    "correctAnswer": "Mount Kailash"
+  },
+  {
+    "id": "HRS-090",
+    "question": "Which international organization most commonly designates historical religious sites as World Heritage Sites?",
+    "options": ["World Bank", "UNESCO", "WHO", "UNDP"],
+    "correctAnswer": "UNESCO"
   }
 ]

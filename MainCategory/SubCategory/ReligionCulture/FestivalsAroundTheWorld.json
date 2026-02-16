@@ -1,30 +1,722 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "FAW-001",
+    "question": "Which festival marks the beginning of the Lunar New Year in many Asian countries?",
+    "options": ["Mid-Autumn Festival", "Dragon Boat Festival", "Lunar New Year", "Qingming Festival"],
+    "correctAnswer": "Lunar New Year"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "FAW-002",
+    "question": "In which country is the festival of La Tomatina celebrated?",
+    "options": ["Italy", "Spain", "Mexico", "Portugal"],
+    "correctAnswer": "Spain"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "FAW-003",
+    "question": "Which Indian festival is known as the Festival of Colors?",
+    "options": ["Diwali", "Holi", "Navratri", "Onam"],
+    "correctAnswer": "Holi"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "FAW-004",
+    "question": "Oktoberfest is traditionally associated with which beverage?",
+    "options": ["Wine", "Whiskey", "Beer", "Vodka"],
+    "correctAnswer": "Beer"
+  },
+  {
+    "id": "FAW-005",
+    "question": "Which country celebrates the Day of the Dead (Día de los Muertos)?",
+    "options": ["Peru", "Chile", "Mexico", "Colombia"],
+    "correctAnswer": "Mexico"
+  },
+  {
+    "id": "FAW-006",
+    "question": "Which festival involves lighting candles on a menorah for eight nights?",
+    "options": ["Passover", "Purim", "Hanukkah", "Rosh Hashanah"],
+    "correctAnswer": "Hanukkah"
+  },
+  {
+    "id": "FAW-007",
+    "question": "The Songkran festival in Thailand is famous for what activity?",
+    "options": ["Fireworks", "Water fights", "Mask dancing", "Lantern lighting"],
+    "correctAnswer": "Water fights"
+  },
+  {
+    "id": "FAW-008",
+    "question": "Which festival celebrates the end of Ramadan?",
+    "options": ["Eid al-Adha", "Eid al-Fitr", "Mawlid", "Ashura"],
+    "correctAnswer": "Eid al-Fitr"
+  },
+  {
+    "id": "FAW-009",
+    "question": "Carnival in Brazil is most famous for which feature?",
+    "options": ["Bull runs", "Street parades", "Ice sculptures", "Silent rituals"],
+    "correctAnswer": "Street parades"
+  },
+  {
+    "id": "FAW-010",
+    "question": "Which country is the origin of the festival Nowruz?",
+    "options": ["Turkey", "Iran", "Iraq", "Afghanistan"],
+    "correctAnswer": "Iran"
+  },
+  {
+    "id": "FAW-011",
+    "question": "Which festival commemorates the birth of Jesus Christ?",
+    "options": ["Easter", "Christmas", "Epiphany", "Pentecost"],
+    "correctAnswer": "Christmas"
+  },
+  {
+    "id": "FAW-012",
+    "question": "The Gion Matsuri festival is held in which Japanese city?",
+    "options": ["Osaka", "Tokyo", "Kyoto", "Hiroshima"],
+    "correctAnswer": "Kyoto"
+  },
+  {
+    "id": "FAW-013",
+    "question": "Which African festival celebrates the annual yam harvest?",
+    "options": ["Durbar Festival", "New Yam Festival", "Timkat", "Homowo"],
+    "correctAnswer": "New Yam Festival"
+  },
+  {
+    "id": "FAW-014",
+    "question": "Which festival involves throwing colored powder and water at participants in Nepal?",
+    "options": ["Tihar", "Holi", "Losar", "Chhath"],
+    "correctAnswer": "Holi"
+  },
+  {
+    "id": "FAW-015",
+    "question": "Which European festival is known for running with bulls?",
+    "options": ["San Fermín", "Carnival of Venice", "Fête de la Musique", "Running of Sheep"],
+    "correctAnswer": "San Fermín"
+  },
+  {
+    "id": "FAW-016",
+    "question": "Vesak is a major festival in which religion?",
+    "options": ["Hinduism", "Buddhism", "Jainism", "Sikhism"],
+    "correctAnswer": "Buddhism"
+  },
+  {
+    "id": "FAW-017",
+    "question": "Which festival marks the victory of light over darkness in Hindu culture?",
+    "options": ["Raksha Bandhan", "Diwali", "Makar Sankranti", "Janmashtami"],
+    "correctAnswer": "Diwali"
+  },
+  {
+    "id": "FAW-018",
+    "question": "The Up-Helly-Aa festival in Scotland involves what tradition?",
+    "options": ["Fireworks", "Boat burning", "Mask parades", "Stone throwing"],
+    "correctAnswer": "Boat burning"
+  },
+  {
+    "id": "FAW-019",
+    "question": "Which festival is celebrated with lanterns during a full moon in China?",
+    "options": ["Ghost Festival", "Lantern Festival", "Spring Festival", "Double Ninth Festival"],
+    "correctAnswer": "Lantern Festival"
+  },
+  {
+    "id": "FAW-020",
+    "question": "Which festival celebrates the end of winter in Iran and Central Asia?",
+    "options": ["Nowruz", "Yalda Night", "Mehregan", "Sadeh"],
+    "correctAnswer": "Nowruz"
+  },
+  {
+    "id": "FAW-021",
+    "question": "Which South American festival is deeply connected to indigenous Inti worship?",
+    "options": ["Carnival", "Inti Raymi", "Pachamama Festival", "Semana Santa"],
+    "correctAnswer": "Inti Raymi"
+  },
+  {
+    "id": "FAW-022",
+    "question": "Which festival involves fasting during daylight hours for an entire month?",
+    "options": ["Lent", "Ramadan", "Yom Kippur", "Navratri"],
+    "correctAnswer": "Ramadan"
+  },
+  {
+    "id": "FAW-023",
+    "question": "Which festival is known as the Festival of Lights in Thailand?",
+    "options": ["Songkran", "Yi Peng", "Loy Krathong", "Phi Ta Khon"],
+    "correctAnswer": "Loy Krathong"
+  },
+  {
+    "id": "FAW-024",
+    "question": "Which Jewish festival commemorates the Exodus from Egypt?",
+    "options": ["Hanukkah", "Passover", "Sukkot", "Purim"],
+    "correctAnswer": "Passover"
+  },
+  {
+    "id": "FAW-025",
+    "question": "Which festival in Japan honors the spirits of ancestors?",
+    "options": ["Tanabata", "Obon", "Setsubun", "Shichi-Go-San"],
+    "correctAnswer": "Obon"
+  },
+  {
+    "id": "FAW-026",
+    "question": "Which festival in Spain involves human towers called 'castells'?",
+    "options": ["Las Fallas", "La Mercè", "San Isidro", "Semana Santa"],
+    "correctAnswer": "La Mercè"
+  },
+  {
+    "id": "FAW-027",
+    "question": "Which religious festival commemorates the sacrifice of Prophet Ibrahim?",
+    "options": ["Eid al-Fitr", "Eid al-Adha", "Mawlid", "Laylat al-Qadr"],
+    "correctAnswer": "Eid al-Adha"
+  },
+  {
+    "id": "FAW-028",
+    "question": "Which festival marks the Sikh New Year and the creation of the Khalsa?",
+    "options": ["Vaisakhi", "Gurpurab", "Hola Mohalla", "Maghi"],
+    "correctAnswer": "Vaisakhi"
+  },
+  {
+    "id": "FAW-029",
+    "question": "Which festival in Venice is famous for elaborate masks?",
+    "options": ["Venice Carnival", "San Marco Day", "Regata Storica", "Redentore"],
+    "correctAnswer": "Venice Carnival"
+  },
+  {
+    "id": "FAW-030",
+    "question": "Which ancient festival celebrates the summer solstice in parts of Scandinavia?",
+    "options": ["Yule", "Midsummer", "Walpurgis Night", "St. Lucia Day"],
+    "correctAnswer": "Midsummer"
+  },
+  {
+    "id": "FAW-031",
+    "question": "Which festival in South Korea involves honoring ancestors through memorial rites called 'Charye'?",
+    "options": ["Buddha's Birthday", "Seollal", "Chuseok", "Dano"],
+    "correctAnswer": "Chuseok"
+  },
+  {
+    "id": "FAW-032",
+    "question": "Which country celebrates the White Nights Festival during extended summer daylight?",
+    "options": ["Norway", "Finland", "Russia", "Iceland"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "id": "FAW-033",
+    "question": "Which festival is associated with bonfires and fireworks on Guy Fawkes Night?",
+    "options": ["United Kingdom", "Ireland", "Australia", "Canada"],
+    "correctAnswer": "United Kingdom"
+  },
+  {
+    "id": "FAW-034",
+    "question": "Which Hindu festival is dedicated to the birth of Lord Krishna?",
+    "options": ["Ram Navami", "Diwali", "Janmashtami", "Dussehra"],
+    "correctAnswer": "Janmashtami"
+  },
+  {
+    "id": "FAW-035",
+    "question": "The Timkat festival celebrates which religious event?",
+    "options": ["Birth of Christ", "Epiphany of Jesus", "Resurrection of Jesus", "Ascension of Jesus"],
+    "correctAnswer": "Epiphany of Jesus"
+  },
+  {
+    "id": "FAW-036",
+    "question": "Which festival in China focuses on honoring elders and ancestors on the ninth day of the ninth lunar month?",
+    "options": ["Qingming Festival", "Chongyang Festival", "Hungry Ghost Festival", "Spring Festival"],
+    "correctAnswer": "Chongyang Festival"
+  },
+  {
+    "id": "FAW-037",
+    "question": "Which festival in India involves fasting by married women for their husbands’ longevity?",
+    "options": ["Karva Chauth", "Teej", "Vat Savitri", "Hartalika"],
+    "correctAnswer": "Karva Chauth"
+  },
+  {
+    "id": "FAW-038",
+    "question": "Which festival in Peru reenacts ancient Incan rituals at Sacsayhuamán?",
+    "options": ["Virgen de la Candelaria", "Carnaval Andino", "Inti Raymi", "Qoyllur Rit'i"],
+    "correctAnswer": "Inti Raymi"
+  },
+  {
+    "id": "FAW-039",
+    "question": "Which Scandinavian festival traditionally celebrates the return of the sun after winter?",
+    "options": ["Walpurgis Night", "Yule", "Midsummer", "Lucia Festival"],
+    "correctAnswer": "Lucia Festival"
+  },
+  {
+    "id": "FAW-040",
+    "question": "Which festival in Mongolia features wrestling, archery, and horse racing?",
+    "options": ["Tsagaan Sar", "Naadam", "Golden Eagle Festival", "Nadaam Tuul"],
+    "correctAnswer": "Naadam"
+  },
+  {
+    "id": "FAW-041",
+    "question": "Which Christian festival commemorates the resurrection of Jesus Christ?",
+    "options": ["Good Friday", "Christmas", "Easter", "Ascension Day"],
+    "correctAnswer": "Easter"
+  },
+  {
+    "id": "FAW-042",
+    "question": "Which festival in India symbolizes the victory of good over evil through the burning of effigies?",
+    "options": ["Diwali", "Dussehra", "Holi", "Raksha Bandhan"],
+    "correctAnswer": "Dussehra"
+  },
+  {
+    "id": "FAW-043",
+    "question": "Which festival in the Philippines features giant lantern competitions?",
+    "options": ["Ati-Atihan", "Sinulog", "Giant Lantern Festival", "Panagbenga"],
+    "correctAnswer": "Giant Lantern Festival"
+  },
+  {
+    "id": "FAW-044",
+    "question": "Which Middle Eastern festival marks the Islamic New Year?",
+    "options": ["Mawlid", "Ashura", "Hijri New Year", "Laylat al-Qadr"],
+    "correctAnswer": "Hijri New Year"
+  },
+  {
+    "id": "FAW-045",
+    "question": "Which festival in Spain is famous for large papier-mâché sculptures burned at the end?",
+    "options": ["La Tomatina", "Las Fallas", "San Fermín", "El Colacho"],
+    "correctAnswer": "Las Fallas"
+  },
+  {
+    "id": "FAW-046",
+    "question": "Which Japanese festival celebrates the meeting of two star-crossed lovers?",
+    "options": ["Obon", "Tanabata", "Setsubun", "Aoi Matsuri"],
+    "correctAnswer": "Tanabata"
+  },
+  {
+    "id": "FAW-047",
+    "question": "Which festival in Ghana commemorates survival after famine?",
+    "options": ["Homowo", "Aboakyer", "Adae", "Odwira"],
+    "correctAnswer": "Homowo"
+  },
+  {
+    "id": "FAW-048",
+    "question": "Which Buddhist festival marks the end of the monks’ rainy-season retreat?",
+    "options": ["Magha Puja", "Asalha Puja", "Kathina", "Uposatha"],
+    "correctAnswer": "Kathina"
+  },
+  {
+    "id": "FAW-049",
+    "question": "Which festival in Brazil is directly linked to pre-Lenten celebrations?",
+    "options": ["Festa Junina", "Carnival", "Bumba Meu Boi", "Círio de Nazaré"],
+    "correctAnswer": "Carnival"
+  },
+  {
+    "id": "FAW-050",
+    "question": "Which festival in Nepal worships animals such as crows, dogs, and cows?",
+    "options": ["Losar", "Chhath", "Tihar", "Indra Jatra"],
+    "correctAnswer": "Tihar"
+  },
+  {
+    "id": "FAW-051",
+    "question": "Which festival in Germany celebrates the arrival of spring with bonfires?",
+    "options": ["Karneval", "Walpurgis Night", "Harvest Festival", "Reformation Day"],
+    "correctAnswer": "Walpurgis Night"
+  },
+  {
+    "id": "FAW-052",
+    "question": "Which Jewish festival involves living in temporary huts called sukkahs?",
+    "options": ["Passover", "Purim", "Sukkot", "Shavuot"],
+    "correctAnswer": "Sukkot"
+  },
+  {
+    "id": "FAW-053",
+    "question": "Which festival in Thailand marks the traditional solar New Year?",
+    "options": ["Loy Krathong", "Yi Peng", "Songkran", "Makha Bucha"],
+    "correctAnswer": "Songkran"
+  },
+  {
+    "id": "FAW-054",
+    "question": "Which festival in India celebrates the bond between brothers and sisters?",
+    "options": ["Raksha Bandhan", "Bhai Dooj", "Karva Chauth", "Teej"],
+    "correctAnswer": "Raksha Bandhan"
+  },
+  {
+    "id": "FAW-055",
+    "question": "Which festival in the United States is associated with a historical harvest feast?",
+    "options": ["Independence Day", "Thanksgiving", "Labor Day", "Columbus Day"],
+    "correctAnswer": "Thanksgiving"
+  },
+  {
+    "id": "FAW-056",
+    "question": "Which festival in Japan involves throwing beans to drive away evil spirits?",
+    "options": ["Obon", "Tanabata", "Setsubun", "Shōgatsu"],
+    "correctAnswer": "Setsubun"
+  },
+  {
+    "id": "FAW-057",
+    "question": "Which festival in Bali is observed with a day of silence?",
+    "options": ["Galungan", "Kuningan", "Nyepi", "Saraswati"],
+    "correctAnswer": "Nyepi"
+  },
+  {
+    "id": "FAW-058",
+    "question": "Which African festival features colorful horse parades and traditional music?",
+    "options": ["Durbar Festival", "Osun-Osogbo", "Timkat", "Aboakyer"],
+    "correctAnswer": "Durbar Festival"
+  },
+  {
+    "id": "FAW-059",
+    "question": "Which festival in China honors romantic love on the seventh day of the seventh lunar month?",
+    "options": ["Lantern Festival", "Qixi Festival", "Mid-Autumn Festival", "Double Ninth Festival"],
+    "correctAnswer": "Qixi Festival"
+  },
+  {
+    "id": "FAW-060",
+    "question": "Which ancient Roman festival influenced modern Valentine's Day traditions?",
+    "options": ["Saturnalia", "Lupercalia", "Floralia", "Vinalia"],
+    "correctAnswer": "Lupercalia"
+  },
+  {
+    "id": "FAW-061",
+    "question": "Which festival in Japan celebrates the New Year with shrine visits known as 'Hatsumode'?",
+    "options": ["Shōgatsu", "Obon", "Tanabata", "Setsubun"],
+    "correctAnswer": "Shōgatsu"
+  },
+  {
+    "id": "FAW-062",
+    "question": "Which festival in India is dedicated to the Sun God and involves ritual bathing in rivers?",
+    "options": ["Chhath Puja", "Makar Sankranti", "Pongal", "Surya Shashti"],
+    "correctAnswer": "Chhath Puja"
+  },
+  {
+    "id": "FAW-063",
+    "question": "Which festival in Sweden features a girl crowned as Lucia wearing candles?",
+    "options": ["Walpurgis Night", "Midsummer", "Lucia Festival", "Yule"],
+    "correctAnswer": "Lucia Festival"
+  },
+  {
+    "id": "FAW-064",
+    "question": "Which festival in China involves mooncakes and family reunions?",
+    "options": ["Spring Festival", "Lantern Festival", "Mid-Autumn Festival", "Qingming Festival"],
+    "correctAnswer": "Mid-Autumn Festival"
+  },
+  {
+    "id": "FAW-065",
+    "question": "Which festival in Nigeria marks the end of the farming season among the Igbo people?",
+    "options": ["Durbar Festival", "New Yam Festival", "Osun-Osogbo", "Eyo Festival"],
+    "correctAnswer": "New Yam Festival"
+  },
+  {
+    "id": "FAW-066",
+    "question": "Which festival in Scotland celebrates Gaelic culture with music and dance?",
+    "options": ["Hogmanay", "Up-Helly-Aa", "Celtic Connections", "Burns Night"],
+    "correctAnswer": "Celtic Connections"
+  },
+  {
+    "id": "FAW-067",
+    "question": "Which Hindu festival celebrates the harvest season in Tamil Nadu?",
+    "options": ["Baisakhi", "Onam", "Pongal", "Lohri"],
+    "correctAnswer": "Pongal"
+  },
+  {
+    "id": "FAW-068",
+    "question": "Which festival in Ethiopia involves colorful processions carrying replicas of the Ark of the Covenant?",
+    "options": ["Meskel", "Timkat", "Enkutatash", "Fasika"],
+    "correctAnswer": "Timkat"
+  },
+  {
+    "id": "FAW-069",
+    "question": "Which festival in Bolivia honors Pachamama, the Earth Mother?",
+    "options": ["Alasitas", "Carnaval de Oruro", "Pachamama Festival", "Virgen de Urkupiña"],
+    "correctAnswer": "Pachamama Festival"
+  },
+  {
+    "id": "FAW-070",
+    "question": "Which festival in the Netherlands is celebrated on the King's birthday?",
+    "options": ["Liberation Day", "King's Day", "Sinterklaas", "Queen's Night"],
+    "correctAnswer": "King's Day"
+  },
+  {
+    "id": "FAW-071",
+    "question": "Which festival in China focuses on tomb sweeping and ancestor remembrance?",
+    "options": ["Qingming Festival", "Hungry Ghost Festival", "Double Ninth Festival", "Lantern Festival"],
+    "correctAnswer": "Qingming Festival"
+  },
+  {
+    "id": "FAW-072",
+    "question": "Which festival in Spain involves babies being jumped over to cleanse them of evil spirits?",
+    "options": ["San Fermín", "El Colacho", "Las Fallas", "La Tomatina"],
+    "correctAnswer": "El Colacho"
+  },
+  {
+    "id": "FAW-073",
+    "question": "Which festival in Indonesia celebrates knowledge, music, and arts dedicated to the goddess Saraswati?",
+    "options": ["Nyepi", "Galungan", "Kuningan", "Saraswati Day"],
+    "correctAnswer": "Saraswati Day"
+  },
+  {
+    "id": "FAW-074",
+    "question": "Which festival in the Czech Republic celebrates wine harvest with folk traditions?",
+    "options": ["Masopust", "Slavnosti vína", "St. Wenceslas Day", "Bohemian Carnival"],
+    "correctAnswer": "Slavnosti vína"
+  },
+  {
+    "id": "FAW-075",
+    "question": "Which festival in the Philippines honors the Santo Niño with street dancing?",
+    "options": ["Ati-Atihan", "Sinulog", "Pahiyas", "Kadayawan"],
+    "correctAnswer": "Sinulog"
+  },
+  {
+    "id": "FAW-076",
+    "question": "Which festival in France is dedicated to music and free public concerts?",
+    "options": ["Bastille Day", "Fête de la Musique", "Cannes Festival", "La Toussaint"],
+    "correctAnswer": "Fête de la Musique"
+  },
+  {
+    "id": "FAW-077",
+    "question": "Which ancient Celtic festival marks the beginning of winter?",
+    "options": ["Beltane", "Samhain", "Imbolc", "Lughnasadh"],
+    "correctAnswer": "Samhain"
+  },
+  {
+    "id": "FAW-078",
+    "question": "Which festival in Myanmar features hot-air balloons released into the night sky?",
+    "options": ["Thingyan", "Tazaungdaing", "Thadingyut", "Waso"],
+    "correctAnswer": "Tazaungdaing"
+  },
+  {
+    "id": "FAW-079",
+    "question": "Which festival in Brazil honors Saint John with bonfires and folk dances?",
+    "options": ["Carnival", "Festa Junina", "Círio de Nazaré", "Bumba Meu Boi"],
+    "correctAnswer": "Festa Junina"
+  },
+  {
+    "id": "FAW-080",
+    "question": "Which festival in Iran celebrates the longest night of the year?",
+    "options": ["Nowruz", "Mehregan", "Yalda Night", "Sadeh"],
+    "correctAnswer": "Yalda Night"
+  },
+  {
+    "id": "FAW-081",
+    "question": "Which festival in India is celebrated by flying kites to mark seasonal change?",
+    "options": ["Makar Sankranti", "Vasant Panchami", "Basant Utsav", "Lohri"],
+    "correctAnswer": "Makar Sankranti"
+  },
+  {
+    "id": "FAW-082",
+    "question": "Which festival in China features dragon and lion dances for good luck?",
+    "options": ["Spring Festival", "Lantern Festival", "Double Seventh Festival", "Ghost Festival"],
+    "correctAnswer": "Spring Festival"
+  },
+  {
+    "id": "FAW-083",
+    "question": "Which festival in Portugal involves students wearing traditional black capes?",
+    "options": ["Santos Populares", "Queima das Fitas", "Festa de São João", "Fado Festival"],
+    "correctAnswer": "Queima das Fitas"
+  },
+  {
+    "id": "FAW-084",
+    "question": "Which festival in Vietnam honors the Hung Kings, the nation's legendary founders?",
+    "options": ["Tet Nguyen Dan", "Mid-Autumn Festival", "Hung Kings Temple Festival", "Vu Lan"],
+    "correctAnswer": "Hung Kings Temple Festival"
+  },
+  {
+    "id": "FAW-085",
+    "question": "Which festival in South Africa celebrates Zulu culture and heritage?",
+    "options": ["Reed Dance", "Umhlanga", "Zulu Cultural Festival", "Marula Festival"],
+    "correctAnswer": "Reed Dance"
+  },
+  {
+    "id": "FAW-086",
+    "question": "Which festival in Japan celebrates the blooming of cherry blossoms?",
+    "options": ["Hanami", "Obon", "Shichi-Go-San", "Aoi Matsuri"],
+    "correctAnswer": "Hanami"
+  },
+  {
+    "id": "FAW-087",
+    "question": "Which festival in Iceland marks the first day of summer?",
+    "options": ["National Day", "Sumardagurinn Fyrsti", "Winter Lights Festival", "Þorrablót"],
+    "correctAnswer": "Sumardagurinn Fyrsti"
+  },
+  {
+    "id": "FAW-088",
+    "question": "Which festival in Japan celebrates children aged three, five, and seven?",
+    "options": ["Kodomo no Hi", "Shichi-Go-San", "Tanabata", "Hinamatsuri"],
+    "correctAnswer": "Shichi-Go-San"
+  },
+  {
+    "id": "FAW-089",
+    "question": "Which festival in India worships the feminine divine energy over nine nights?",
+    "options": ["Durga Puja", "Navratri", "Kali Puja", "Chaitra Puja"],
+    "correctAnswer": "Navratri"
+  },
+  {
+    "id": "FAW-090",
+    "question": "Which festival in Austria is famous for classical music performances in Salzburg?",
+    "options": ["Vienna Ball Season", "Salzburg Festival", "Mozart Week", "Tyrolean Folk Festival"],
+    "correctAnswer": "Salzburg Festival"
+  },
+  {
+    "id": "FAW-091",
+    "question": "Which festival in Japan honors the spirits of the dead by floating lanterns on water?",
+    "options": ["Setsubun", "Obon", "Tanabata", "Hanami"],
+    "correctAnswer": "Obon"
+  },
+  {
+    "id": "FAW-092",
+    "question": "Which festival in India celebrates the birth of Lord Rama?",
+    "options": ["Ram Navami", "Janmashtami", "Diwali", "Dussehra"],
+    "correctAnswer": "Ram Navami"
+  },
+  {
+    "id": "FAW-093",
+    "question": "Which festival in Canada is associated with fireworks on July 1st?",
+    "options": ["Victoria Day", "Labour Day", "Canada Day", "Thanksgiving"],
+    "correctAnswer": "Canada Day"
+  },
+  {
+    "id": "FAW-094",
+    "question": "Which festival in China is also known as the Hungry Ghost Festival?",
+    "options": ["Qingming Festival", "Zhongyuan Festival", "Lantern Festival", "Double Ninth Festival"],
+    "correctAnswer": "Zhongyuan Festival"
+  },
+  {
+    "id": "FAW-095",
+    "question": "Which festival in Scotland is traditionally celebrated with street parties and fireworks on New Year's Eve?",
+    "options": ["Burns Night", "Up-Helly-Aa", "Hogmanay", "St. Andrew’s Day"],
+    "correctAnswer": "Hogmanay"
+  },
+  {
+    "id": "FAW-096",
+    "question": "Which Hindu festival is dedicated to Goddess Lakshmi and wealth?",
+    "options": ["Diwali", "Navratri", "Durga Puja", "Vasant Panchami"],
+    "correctAnswer": "Diwali"
+  },
+  {
+    "id": "FAW-097",
+    "question": "Which festival in Mexico commemorates the Battle of Puebla?",
+    "options": ["Independence Day", "Day of the Dead", "Cinco de Mayo", "Las Posadas"],
+    "correctAnswer": "Cinco de Mayo"
+  },
+  {
+    "id": "FAW-098",
+    "question": "Which festival in Sri Lanka features a grand procession with decorated elephants?",
+    "options": ["Vesak", "Kandy Esala Perahera", "Thai Pongal", "Duruthu Perahera"],
+    "correctAnswer": "Kandy Esala Perahera"
+  },
+  {
+    "id": "FAW-099",
+    "question": "Which festival in Nepal includes masked dances honoring deities?",
+    "options": ["Tihar", "Indra Jatra", "Losar", "Chhath"],
+    "correctAnswer": "Indra Jatra"
+  },
+  {
+    "id": "FAW-100",
+    "question": "Which festival in the United States marks the end of slavery in 1865?",
+    "options": ["Martin Luther King Jr. Day", "Emancipation Day", "Juneteenth", "Memorial Day"],
+    "correctAnswer": "Juneteenth"
+  },
+  {
+    "id": "FAW-101",
+    "question": "Which festival in China celebrates the birthday of the sea goddess Mazu?",
+    "options": ["Lantern Festival", "Mazu Festival", "Spring Festival", "Qixi Festival"],
+    "correctAnswer": "Mazu Festival"
+  },
+  {
+    "id": "FAW-102",
+    "question": "Which festival in India celebrates the worship of snakes?",
+    "options": ["Nag Panchami", "Vat Savitri", "Chhath Puja", "Teej"],
+    "correctAnswer": "Nag Panchami"
+  },
+  {
+    "id": "FAW-103",
+    "question": "Which festival in Germany is celebrated with elaborate Christmas markets?",
+    "options": ["Oktoberfest", "Karneval", "Weihnachten", "Christkindlesmarkt"],
+    "correctAnswer": "Christkindlesmarkt"
+  },
+  {
+    "id": "FAW-104",
+    "question": "Which festival in Japan celebrates young girls and is also called Doll Festival?",
+    "options": ["Hinamatsuri", "Shichi-Go-San", "Kodomo no Hi", "Tanabata"],
+    "correctAnswer": "Hinamatsuri"
+  },
+  {
+    "id": "FAW-105",
+    "question": "Which festival in Brazil combines Catholic traditions with African heritage?",
+    "options": ["Carnival", "Círio de Nazaré", "Festa Junina", "Lavagem do Bonfim"],
+    "correctAnswer": "Lavagem do Bonfim"
+  },
+  {
+    "id": "FAW-106",
+    "question": "Which festival in Iran involves jumping over fire for purification?",
+    "options": ["Sadeh", "Nowruz", "Chaharshanbe Suri", "Yalda Night"],
+    "correctAnswer": "Chaharshanbe Suri"
+  },
+  {
+    "id": "FAW-107",
+    "question": "Which festival in India celebrates the birthday of Guru Nanak?",
+    "options": ["Vaisakhi", "Hola Mohalla", "Gurpurab", "Maghi"],
+    "correctAnswer": "Gurpurab"
+  },
+  {
+    "id": "FAW-108",
+    "question": "Which festival in Thailand celebrates monks and temples with candle processions?",
+    "options": ["Makha Bucha", "Songkran", "Loy Krathong", "Yi Peng"],
+    "correctAnswer": "Makha Bucha"
+  },
+  {
+    "id": "FAW-109",
+    "question": "Which festival in Egypt celebrates the arrival of spring?",
+    "options": ["Sham el-Nessim", "Ramadan", "Coptic Christmas", "Moulid"],
+    "correctAnswer": "Sham el-Nessim"
+  },
+  {
+    "id": "FAW-110",
+    "question": "Which festival in Spain celebrates the arrival of spring with floral displays?",
+    "options": ["Las Fallas", "Patios Festival", "La Tomatina", "Semana Santa"],
+    "correctAnswer": "Patios Festival"
+  },
+  {
+    "id": "FAW-111",
+    "question": "Which festival in Japan celebrates boys and features carp streamers?",
+    "options": ["Hinamatsuri", "Shōgatsu", "Kodomo no Hi", "Tanabata"],
+    "correctAnswer": "Kodomo no Hi"
+  },
+  {
+    "id": "FAW-112",
+    "question": "Which festival in India celebrates the arrival of spring through classical dance and music?",
+    "options": ["Basant Utsav", "Onam", "Pongal", "Lohri"],
+    "correctAnswer": "Basant Utsav"
+  },
+  {
+    "id": "FAW-113",
+    "question": "Which festival in South Korea celebrates Buddha’s birthday with lantern parades?",
+    "options": ["Chuseok", "Seollal", "Buddha’s Birthday", "Dano"],
+    "correctAnswer": "Buddha’s Birthday"
+  },
+  {
+    "id": "FAW-114",
+    "question": "Which festival in Peru blends Catholic and indigenous traditions in Cusco?",
+    "options": ["Virgen de la Candelaria", "Corpus Christi", "Inti Raymi", "Carnaval Andino"],
+    "correctAnswer": "Corpus Christi"
+  },
+  {
+    "id": "FAW-115",
+    "question": "Which festival in India involves decorating cows and worshipping Govardhan Hill?",
+    "options": ["Gopashtami", "Govardhan Puja", "Annakut", "Bhai Dooj"],
+    "correctAnswer": "Govardhan Puja"
+  },
+  {
+    "id": "FAW-116",
+    "question": "Which festival in France commemorates the French Revolution?",
+    "options": ["La Toussaint", "Bastille Day", "Armistice Day", "Victory Day"],
+    "correctAnswer": "Bastille Day"
+  },
+  {
+    "id": "FAW-117",
+    "question": "Which festival in Indonesia marks the Balinese New Year with silence?",
+    "options": ["Galungan", "Kuningan", "Nyepi", "Saraswati Day"],
+    "correctAnswer": "Nyepi"
+  },
+  {
+    "id": "FAW-118",
+    "question": "Which festival in India celebrates the end of the harvest season in Assam?",
+    "options": ["Bihu", "Pongal", "Onam", "Baisakhi"],
+    "correctAnswer": "Bihu"
+  },
+  {
+    "id": "FAW-119",
+    "question": "Which festival in Italy is famous for historical horse races in Siena?",
+    "options": ["Venice Carnival", "Calcio Storico", "Il Palio", "Ferragosto"],
+    "correctAnswer": "Il Palio"
+  },
+  {
+    "id": "FAW-120",
+    "question": "Which festival in China celebrates children and the arrival of summer?",
+    "options": ["Lantern Festival", "Dragon Boat Festival", "Qixi Festival", "Spring Festival"],
+    "correctAnswer": "Dragon Boat Festival"
   }
 ]

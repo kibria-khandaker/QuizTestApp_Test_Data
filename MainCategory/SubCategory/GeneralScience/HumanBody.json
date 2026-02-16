@@ -1,30 +1,902 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "HB-001",
+    "question": "Which organ is primarily responsible for pumping blood throughout the body?",
+    "options": ["Lungs", "Heart", "Liver", "Kidneys"],
+    "correctAnswer": "Heart"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "HB-002",
+    "question": "What is the basic functional unit of the nervous system?",
+    "options": ["Neuron", "Axon", "Dendrite", "Synapse"],
+    "correctAnswer": "Neuron"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "HB-003",
+    "question": "Which part of the human eye controls the amount of light entering?",
+    "options": ["Retina", "Lens", "Pupil", "Cornea"],
+    "correctAnswer": "Pupil"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
+    "id": "HB-004",
+    "question": "Which blood cells are responsible for fighting infections?",
+    "options": ["Platelets", "Red blood cells", "White blood cells", "Plasma"],
+    "correctAnswer": "White blood cells"
+  },
+  {
+    "id": "HB-005",
+    "question": "Which bone protects the brain?",
+    "options": ["Rib", "Skull", "Spine", "Pelvis"],
+    "correctAnswer": "Skull"
+  },
+  {
+    "id": "HB-006",
+    "question": "What is the normal pH range of human blood?",
+    "options": ["6.8–7.0", "7.35–7.45", "7.8–8.0", "6.0–6.5"],
+    "correctAnswer": "7.35–7.45"
+  },
+  {
+    "id": "HB-007",
+    "question": "Which organ produces bile?",
+    "options": ["Pancreas", "Gallbladder", "Liver", "Stomach"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "HB-008",
+    "question": "How many chambers are present in the human heart?",
+    "options": ["2", "3", "4", "5"],
     "correctAnswer": "4"
+  },
+  {
+    "id": "HB-009",
+    "question": "Which vitamin is synthesized in the skin when exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin D", "Vitamin C"],
+    "correctAnswer": "Vitamin D"
+  },
+  {
+    "id": "HB-010",
+    "question": "What type of muscle is the heart made of?",
+    "options": ["Skeletal muscle", "Smooth muscle", "Cardiac muscle", "Voluntary muscle"],
+    "correctAnswer": "Cardiac muscle"
+  },
+  {
+    "id": "HB-011",
+    "question": "Which part of the brain regulates balance and coordination?",
+    "options": ["Cerebrum", "Medulla", "Cerebellum", "Hypothalamus"],
+    "correctAnswer": "Cerebellum"
+  },
+  {
+    "id": "HB-012",
+    "question": "Which organ is mainly responsible for detoxification?",
+    "options": ["Kidney", "Liver", "Spleen", "Lung"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "HB-013",
+    "question": "What is the smallest bone in the human body?",
+    "options": ["Stapes", "Malleus", "Incus", "Coccyx"],
+    "correctAnswer": "Stapes"
+  },
+  {
+    "id": "HB-014",
+    "question": "Which hormone regulates blood sugar levels?",
+    "options": ["Thyroxine", "Adrenaline", "Insulin", "Melatonin"],
+    "correctAnswer": "Insulin"
+  },
+  {
+    "id": "HB-015",
+    "question": "Which system of the body controls hormones?",
+    "options": ["Nervous system", "Digestive system", "Endocrine system", "Respiratory system"],
+    "correctAnswer": "Endocrine system"
+  },
+  {
+    "id": "HB-016",
+    "question": "Where does fertilization normally occur in the human female body?",
+    "options": ["Uterus", "Ovary", "Fallopian tube", "Cervix"],
+    "correctAnswer": "Fallopian tube"
+  },
+  {
+    "id": "HB-017",
+    "question": "Which component of blood helps in clotting?",
+    "options": ["Plasma", "Platelets", "Red blood cells", "White blood cells"],
+    "correctAnswer": "Platelets"
+  },
+  {
+    "id": "HB-018",
+    "question": "What is the main function of alveoli in the lungs?",
+    "options": ["Filtering air", "Gas exchange", "Producing mucus", "Pumping oxygen"],
+    "correctAnswer": "Gas exchange"
+  },
+  {
+    "id": "HB-019",
+    "question": "Which part of the kidney filters blood?",
+    "options": ["Ureter", "Nephron", "Pelvis", "Cortex"],
+    "correctAnswer": "Nephron"
+  },
+  {
+    "id": "HB-020",
+    "question": "Which mineral is essential for hemoglobin formation?",
+    "options": ["Calcium", "Iron", "Potassium", "Iodine"],
+    "correctAnswer": "Iron"
+  },
+  {
+    "id": "HB-021",
+    "question": "What is the scientific name for the voice box?",
+    "options": ["Pharynx", "Larynx", "Trachea", "Epiglottis"],
+    "correctAnswer": "Larynx"
+  },
+  {
+    "id": "HB-022",
+    "question": "Which part of the brain controls breathing and heartbeat?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Thalamus"],
+    "correctAnswer": "Medulla oblongata"
+  },
+  {
+    "id": "HB-023",
+    "question": "What type of joint is the shoulder joint?",
+    "options": ["Hinge joint", "Pivot joint", "Ball and socket joint", "Gliding joint"],
+    "correctAnswer": "Ball and socket joint"
+  },
+  {
+    "id": "HB-024",
+    "question": "Which enzyme begins protein digestion in the stomach?",
+    "options": ["Amylase", "Pepsin", "Trypsin", "Lipase"],
+    "correctAnswer": "Pepsin"
+  },
+  {
+    "id": "HB-025",
+    "question": "Which structure connects muscles to bones?",
+    "options": ["Ligament", "Cartilage", "Tendon", "Joint"],
+    "correctAnswer": "Tendon"
+  },
+  {
+    "id": "HB-026",
+    "question": "What is the average normal body temperature in Celsius?",
+    "options": ["35°C", "36.5–37°C", "38°C", "39°C"],
+    "correctAnswer": "36.5–37°C"
+  },
+  {
+    "id": "HB-027",
+    "question": "Which gland is known as the master gland of the endocrine system?",
+    "options": ["Thyroid", "Adrenal", "Pituitary", "Pancreas"],
+    "correctAnswer": "Pituitary"
+  },
+  {
+    "id": "HB-028",
+    "question": "Which part of the digestive system absorbs most nutrients?",
+    "options": ["Stomach", "Large intestine", "Small intestine", "Esophagus"],
+    "correctAnswer": "Small intestine"
+  },
+  {
+    "id": "HB-029",
+    "question": "Which blood group is known as the universal donor?",
+    "options": ["A", "B", "AB", "O"],
+    "correctAnswer": "O"
+  },
+  {
+    "id": "HB-030",
+    "question": "Which structure prevents food from entering the windpipe?",
+    "options": ["Glottis", "Epiglottis", "Larynx", "Pharynx"],
+    "correctAnswer": "Epiglottis"
+  },
+  {
+    "id": "HB-031",
+    "question": "Which part of the ear is responsible for balance?",
+    "options": ["Cochlea", "Eustachian tube", "Semicircular canals", "Auditory nerve"],
+    "correctAnswer": "Semicircular canals"
+  },
+  {
+    "id": "HB-032",
+    "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+    "options": ["Pulmonary artery", "Aorta", "Pulmonary vein", "Vena cava"],
+    "correctAnswer": "Pulmonary vein"
+  },
+  {
+    "id": "HB-033",
+    "question": "What is the main function of red blood cells?",
+    "options": ["Clot formation", "Transport oxygen", "Fight infection", "Regulate temperature"],
+    "correctAnswer": "Transport oxygen"
+  },
+  {
+    "id": "HB-034",
+    "question": "Which hormone is known as the stress hormone?",
+    "options": ["Insulin", "Adrenaline", "Growth hormone", "Progesterone"],
+    "correctAnswer": "Adrenaline"
+  },
+  {
+    "id": "HB-035",
+    "question": "How many vertebrae are present in the human spinal column (approximately)?",
+    "options": ["24", "26", "33", "40"],
+    "correctAnswer": "33"
+  },
+  {
+    "id": "HB-036",
+    "question": "Which organ stores urine before excretion?",
+    "options": ["Kidney", "Ureter", "Urinary bladder", "Urethra"],
+    "correctAnswer": "Urinary bladder"
+  },
+  {
+    "id": "HB-037",
+    "question": "Which part of the brain is involved in regulating hunger and thirst?",
+    "options": ["Cerebellum", "Hypothalamus", "Pons", "Medulla"],
+    "correctAnswer": "Hypothalamus"
+  },
+  {
+    "id": "HB-038",
+    "question": "What is the primary function of hemoglobin?",
+    "options": ["Blood clotting", "Oxygen transport", "Immune defense", "Hormone transport"],
+    "correctAnswer": "Oxygen transport"
+  },
+  {
+    "id": "HB-039",
+    "question": "Which organ is affected in hepatitis?",
+    "options": ["Kidney", "Heart", "Liver", "Pancreas"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "HB-040",
+    "question": "Which type of teeth are used for cutting food?",
+    "options": ["Canines", "Premolars", "Incisors", "Molars"],
+    "correctAnswer": "Incisors"
+  },
+  {
+    "id": "HB-041",
+    "question": "Which system is responsible for transporting nutrients and oxygen?",
+    "options": ["Respiratory system", "Digestive system", "Circulatory system", "Excretory system"],
+    "correctAnswer": "Circulatory system"
+  },
+  {
+    "id": "HB-042",
+    "question": "Which gland secretes melatonin?",
+    "options": ["Pituitary", "Pineal", "Thyroid", "Adrenal"],
+    "correctAnswer": "Pineal"
+  },
+  {
+    "id": "HB-043",
+    "question": "What is the outermost layer of human skin called?",
+    "options": ["Dermis", "Hypodermis", "Epidermis", "Subcutaneous layer"],
+    "correctAnswer": "Epidermis"
+  },
+  {
+    "id": "HB-044",
+    "question": "Which structure connects bone to bone?",
+    "options": ["Tendon", "Cartilage", "Ligament", "Muscle fiber"],
+    "correctAnswer": "Ligament"
+  },
+  {
+    "id": "HB-045",
+    "question": "Which organ produces insulin?",
+    "options": ["Liver", "Pancreas", "Kidney", "Spleen"],
+    "correctAnswer": "Pancreas"
+  },
+  {
+    "id": "HB-046",
+    "question": "Which part of the respiratory system is also known as the windpipe?",
+    "options": ["Bronchus", "Trachea", "Larynx", "Pharynx"],
+    "correctAnswer": "Trachea"
+  },
+  {
+    "id": "HB-047",
+    "question": "Which vitamin deficiency causes scurvy?",
+    "options": ["Vitamin A", "Vitamin B1", "Vitamin C", "Vitamin D"],
+    "correctAnswer": "Vitamin C"
+  },
+  {
+    "id": "HB-048",
+    "question": "What is the function of platelets in blood?",
+    "options": ["Carry oxygen", "Fight pathogens", "Blood clotting", "Produce antibodies"],
+    "correctAnswer": "Blood clotting"
+  },
+  {
+    "id": "HB-049",
+    "question": "Which part of the brain is responsible for higher thinking and intelligence?",
+    "options": ["Cerebellum", "Medulla", "Cerebrum", "Pons"],
+    "correctAnswer": "Cerebrum"
+  },
+  {
+    "id": "HB-050",
+    "question": "Which organ filters waste products from the blood?",
+    "options": ["Liver", "Lungs", "Kidneys", "Intestine"],
+    "correctAnswer": "Kidneys"
+  },
+  {
+    "id": "HB-051",
+    "question": "Which joint allows movement in only one direction?",
+    "options": ["Ball and socket joint", "Pivot joint", "Hinge joint", "Gliding joint"],
+    "correctAnswer": "Hinge joint"
+  },
+  {
+    "id": "HB-052",
+    "question": "What is the functional unit of the kidney?",
+    "options": ["Neuron", "Nephron", "Alveolus", "Corpuscle"],
+    "correctAnswer": "Nephron"
+  },
+  {
+    "id": "HB-053",
+    "question": "Which gas is primarily expelled during exhalation?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "id": "HB-054",
+    "question": "Which part of the eye forms the image?",
+    "options": ["Cornea", "Lens", "Retina", "Iris"],
+    "correctAnswer": "Retina"
+  },
+  {
+    "id": "HB-055",
+    "question": "Which organ is known as the graveyard of red blood cells?",
+    "options": ["Liver", "Kidney", "Spleen", "Bone marrow"],
+    "correctAnswer": "Spleen"
+  },
+  {
+    "id": "HB-056",
+    "question": "Which type of immunity is provided by vaccination?",
+    "options": ["Natural immunity", "Passive immunity", "Artificial active immunity", "Innate immunity"],
+    "correctAnswer": "Artificial active immunity"
+  },
+  {
+    "id": "HB-057",
+    "question": "Which part of the digestive system has finger-like projections called villi?",
+    "options": ["Stomach", "Large intestine", "Small intestine", "Esophagus"],
+    "correctAnswer": "Small intestine"
+  },
+  {
+    "id": "HB-058",
+    "question": "Which hormone controls the metabolic rate of the body?",
+    "options": ["Insulin", "Thyroxine", "Cortisol", "Estrogen"],
+    "correctAnswer": "Thyroxine"
+  },
+  {
+    "id": "HB-059",
+    "question": "Which structure carries urine from kidney to bladder?",
+    "options": ["Urethra", "Nephron", "Ureter", "Renal artery"],
+    "correctAnswer": "Ureter"
+  },
+  {
+    "id": "HB-060",
+    "question": "Which organ system is directly involved in defense against pathogens?",
+    "options": ["Digestive system", "Immune system", "Skeletal system", "Respiratory system"],
+    "correctAnswer": "Immune system"
+  },
+  {
+    "id": "HB-061",
+    "question": "Which layer of the skin contains blood vessels and nerves?",
+    "options": ["Epidermis", "Dermis", "Stratum corneum", "Keratin layer"],
+    "correctAnswer": "Dermis"
+  },
+  {
+    "id": "HB-062",
+    "question": "Which organ is responsible for producing cerebrospinal fluid?",
+    "options": ["Spinal cord", "Choroid plexus", "Cerebellum", "Hypothalamus"],
+    "correctAnswer": "Choroid plexus"
+  },
+  {
+    "id": "HB-063",
+    "question": "What is the primary role of bile in digestion?",
+    "options": ["Digest proteins", "Digest carbohydrates", "Emulsify fats", "Neutralize acids"],
+    "correctAnswer": "Emulsify fats"
+  },
+  {
+    "id": "HB-064",
+    "question": "Which blood component transports hormones?",
+    "options": ["Platelets", "Red blood cells", "Plasma", "White blood cells"],
+    "correctAnswer": "Plasma"
+  },
+  {
+    "id": "HB-065",
+    "question": "Which part of the brain connects the cerebrum to the spinal cord?",
+    "options": ["Cerebellum", "Brainstem", "Thalamus", "Hypothalamus"],
+    "correctAnswer": "Brainstem"
+  },
+  {
+    "id": "HB-066",
+    "question": "Which vitamin is essential for blood clotting?",
+    "options": ["Vitamin A", "Vitamin D", "Vitamin K", "Vitamin E"],
+    "correctAnswer": "Vitamin K"
+  },
+  {
+    "id": "HB-067",
+    "question": "Which organ helps regulate body temperature through sweat production?",
+    "options": ["Skin", "Liver", "Kidney", "Lung"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "id": "HB-068",
+    "question": "What type of muscle is found in the walls of internal organs?",
+    "options": ["Cardiac muscle", "Skeletal muscle", "Smooth muscle", "Voluntary muscle"],
+    "correctAnswer": "Smooth muscle"
+  },
+  {
+    "id": "HB-069",
+    "question": "Which structure prevents backflow of blood in veins?",
+    "options": ["Capillaries", "Valves", "Arteries", "Atria"],
+    "correctAnswer": "Valves"
+  },
+  {
+    "id": "HB-070",
+    "question": "Which organ is primarily affected by diabetes mellitus?",
+    "options": ["Liver", "Pancreas", "Kidney", "Adrenal gland"],
+    "correctAnswer": "Pancreas"
+  },
+  {
+    "id": "HB-071",
+    "question": "Which part of the digestive tract has the highest bacterial population?",
+    "options": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
+    "correctAnswer": "Large intestine"
+  },
+  {
+    "id": "HB-072",
+    "question": "Which structure is responsible for filtering lymph?",
+    "options": ["Spleen", "Lymph node", "Bone marrow", "Thymus"],
+    "correctAnswer": "Lymph node"
+  },
+  {
+    "id": "HB-073",
+    "question": "Which hormone promotes growth during childhood?",
+    "options": ["Thyroxine", "Growth hormone", "Insulin", "Cortisol"],
+    "correctAnswer": "Growth hormone"
+  },
+  {
+    "id": "HB-074",
+    "question": "Which blood vessel has the thickest muscular wall?",
+    "options": ["Vein", "Capillary", "Artery", "Venule"],
+    "correctAnswer": "Artery"
+  },
+  {
+    "id": "HB-075",
+    "question": "What is the primary function of ribosomes?",
+    "options": ["Energy production", "Protein synthesis", "Lipid storage", "DNA replication"],
+    "correctAnswer": "Protein synthesis"
+  },
+  {
+    "id": "HB-076",
+    "question": "Which part of the eye is responsible for color vision?",
+    "options": ["Rods", "Cones", "Optic nerve", "Cornea"],
+    "correctAnswer": "Cones"
+  },
+  {
+    "id": "HB-077",
+    "question": "Which organ produces antibodies?",
+    "options": ["Liver", "Spleen", "White blood cells", "Platelets"],
+    "correctAnswer": "White blood cells"
+  },
+  {
+    "id": "HB-078",
+    "question": "Which type of respiration occurs in human cells?",
+    "options": ["Anaerobic only", "Aerobic only", "Both aerobic and anaerobic", "Photosynthetic"],
+    "correctAnswer": "Both aerobic and anaerobic"
+  },
+  {
+    "id": "HB-079",
+    "question": "Which structure anchors teeth into the jawbone?",
+    "options": ["Enamel", "Dentin", "Cementum", "Pulp"],
+    "correctAnswer": "Cementum"
+  },
+  {
+    "id": "HB-080",
+    "question": "Which hormone is responsible for uterine contractions during childbirth?",
+    "options": ["Prolactin", "Oxytocin", "Estrogen", "Progesterone"],
+    "correctAnswer": "Oxytocin"
+  },
+  {
+    "id": "HB-081",
+    "question": "Which organ is the primary site of erythropoiesis in adults?",
+    "options": ["Liver", "Spleen", "Bone marrow", "Kidney"],
+    "correctAnswer": "Bone marrow"
+  },
+  {
+    "id": "HB-082",
+    "question": "Which structure separates the thoracic cavity from the abdominal cavity?",
+    "options": ["Rib cage", "Diaphragm", "Pleura", "Peritoneum"],
+    "correctAnswer": "Diaphragm"
+  },
+  {
+    "id": "HB-083",
+    "question": "Which electrolyte is most important for nerve impulse transmission?",
+    "options": ["Calcium", "Sodium", "Iron", "Chloride"],
+    "correctAnswer": "Sodium"
+  },
+  {
+    "id": "HB-084",
+    "question": "Which part of the nephron is responsible for ultrafiltration?",
+    "options": ["Loop of Henle", "Collecting duct", "Glomerulus", "Distal tubule"],
+    "correctAnswer": "Glomerulus"
+  },
+  {
+    "id": "HB-085",
+    "question": "Which hormone regulates circadian rhythm?",
+    "options": ["Cortisol", "Melatonin", "Thyroxine", "Aldosterone"],
+    "correctAnswer": "Melatonin"
+  },
+  {
+    "id": "HB-086",
+    "question": "Which part of the brain acts as a relay center for sensory impulses?",
+    "options": ["Cerebellum", "Thalamus", "Medulla", "Pons"],
+    "correctAnswer": "Thalamus"
+  },
+  {
+    "id": "HB-087",
+    "question": "Which structure allows the fetus to receive nutrients from the mother?",
+    "options": ["Amnion", "Placenta", "Umbilical vein", "Chorion"],
+    "correctAnswer": "Placenta"
+  },
+  {
+    "id": "HB-088",
+    "question": "Which muscle is responsible for breathing?",
+    "options": ["Intercostal muscle", "Diaphragm", "Pectoral muscle", "Abdominal muscle"],
+    "correctAnswer": "Diaphragm"
+  },
+  {
+    "id": "HB-089",
+    "question": "Which type of joint is found between the first two cervical vertebrae?",
+    "options": ["Hinge joint", "Ball and socket joint", "Pivot joint", "Gliding joint"],
+    "correctAnswer": "Pivot joint"
+  },
+  {
+    "id": "HB-090",
+    "question": "Which organ plays a key role in immune system maturation during childhood?",
+    "options": ["Spleen", "Thymus", "Bone marrow", "Lymph node"],
+    "correctAnswer": "Thymus"
+  },
+  {
+    "id": "HB-091",
+    "question": "Which structure of the heart prevents backflow of blood into the left atrium?",
+    "options": ["Tricuspid valve", "Pulmonary valve", "Mitral valve", "Aortic valve"],
+    "correctAnswer": "Mitral valve"
+  },
+  {
+    "id": "HB-092",
+    "question": "Which part of the brain is primarily responsible for regulating body temperature?",
+    "options": ["Thalamus", "Hypothalamus", "Cerebellum", "Medulla oblongata"],
+    "correctAnswer": "Hypothalamus"
+  },
+  {
+    "id": "HB-093",
+    "question": "Which mineral is a key component of teeth enamel?",
+    "options": ["Iron", "Phosphorus", "Calcium", "Magnesium"],
+    "correctAnswer": "Calcium"
+  },
+  {
+    "id": "HB-094",
+    "question": "What is the main function of the large intestine?",
+    "options": ["Protein digestion", "Water absorption", "Fat emulsification", "Enzyme secretion"],
+    "correctAnswer": "Water absorption"
+  },
+  {
+    "id": "HB-095",
+    "question": "Which hormone stimulates the release of milk from mammary glands?",
+    "options": ["Prolactin", "Estrogen", "Oxytocin", "Progesterone"],
+    "correctAnswer": "Oxytocin"
+  },
+  {
+    "id": "HB-096",
+    "question": "Which structure carries impulses away from the neuron's cell body?",
+    "options": ["Dendrite", "Axon", "Synapse", "Myelin sheath"],
+    "correctAnswer": "Axon"
+  },
+  {
+    "id": "HB-097",
+    "question": "Which organ is primarily responsible for maintaining acid-base balance?",
+    "options": ["Liver", "Lungs", "Kidneys", "Pancreas"],
+    "correctAnswer": "Kidneys"
+  },
+  {
+    "id": "HB-098",
+    "question": "Which type of joint allows rotational movement of the head?",
+    "options": ["Hinge joint", "Ball and socket joint", "Pivot joint", "Saddle joint"],
+    "correctAnswer": "Pivot joint"
+  },
+  {
+    "id": "HB-099",
+    "question": "Which component of the eye converts light into nerve impulses?",
+    "options": ["Lens", "Iris", "Retina", "Cornea"],
+    "correctAnswer": "Retina"
+  },
+  {
+    "id": "HB-100",
+    "question": "Which blood protein is responsible for osmotic pressure maintenance?",
+    "options": ["Globulin", "Hemoglobin", "Albumin", "Fibrin"],
+    "correctAnswer": "Albumin"
+  },
+  {
+    "id": "HB-101",
+    "question": "Which organ is the primary site of detoxification of drugs?",
+    "options": ["Kidney", "Liver", "Lung", "Spleen"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "HB-102",
+    "question": "Which vitamin deficiency leads to night blindness?",
+    "options": ["Vitamin B12", "Vitamin C", "Vitamin A", "Vitamin E"],
+    "correctAnswer": "Vitamin A"
+  },
+  {
+    "id": "HB-103",
+    "question": "Which structure connects the fetus to the placenta?",
+    "options": ["Chorion", "Amnion", "Umbilical cord", "Allantois"],
+    "correctAnswer": "Umbilical cord"
+  },
+  {
+    "id": "HB-104",
+    "question": "Which muscle group is primarily responsible for voluntary movement?",
+    "options": ["Smooth muscles", "Cardiac muscles", "Skeletal muscles", "Visceral muscles"],
+    "correctAnswer": "Skeletal muscles"
+  },
+  {
+    "id": "HB-105",
+    "question": "Which hormone increases heart rate and blood pressure during emergencies?",
+    "options": ["Insulin", "Thyroxine", "Adrenaline", "Melatonin"],
+    "correctAnswer": "Adrenaline"
+  },
+  {
+    "id": "HB-106",
+    "question": "Which part of the nephron reabsorbs most of the filtered glucose?",
+    "options": ["Loop of Henle", "Proximal convoluted tubule", "Distal convoluted tubule", "Collecting duct"],
+    "correctAnswer": "Proximal convoluted tubule"
+  },
+  {
+    "id": "HB-107",
+    "question": "Which organ produces erythropoietin hormone?",
+    "options": ["Liver", "Spleen", "Kidney", "Bone marrow"],
+    "correctAnswer": "Kidney"
+  },
+  {
+    "id": "HB-108",
+    "question": "Which layer of the heart wall is made of cardiac muscle?",
+    "options": ["Pericardium", "Endocardium", "Myocardium", "Epicardium"],
+    "correctAnswer": "Myocardium"
+  },
+  {
+    "id": "HB-109",
+    "question": "Which structure increases the surface area for absorption in the small intestine?",
+    "options": ["Rugae", "Cilia", "Villi", "Microtubules"],
+    "correctAnswer": "Villi"
+  },
+  {
+    "id": "HB-110",
+    "question": "Which part of the brain is essential for posture and muscle tone?",
+    "options": ["Cerebrum", "Cerebellum", "Pons", "Thalamus"],
+    "correctAnswer": "Cerebellum"
+  },
+  {
+    "id": "HB-111",
+    "question": "Which gas binds with hemoglobin to form carboxyhemoglobin?",
+    "options": ["Carbon dioxide", "Oxygen", "Carbon monoxide", "Nitrogen"],
+    "correctAnswer": "Carbon monoxide"
+  },
+  {
+    "id": "HB-112",
+    "question": "Which organ stores glycogen for energy needs?",
+    "options": ["Muscle", "Liver", "Pancreas", "Kidney"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "HB-113",
+    "question": "Which structure in the ear transmits sound vibrations to the inner ear?",
+    "options": ["Cochlea", "Ossicles", "Auditory nerve", "Semicircular canals"],
+    "correctAnswer": "Ossicles"
+  },
+  {
+    "id": "HB-114",
+    "question": "Which hormone is primarily responsible for lowering blood calcium levels?",
+    "options": ["Parathyroid hormone", "Calcitonin", "Aldosterone", "Cortisol"],
+    "correctAnswer": "Calcitonin"
+  },
+  {
+    "id": "HB-115",
+    "question": "Which type of epithelium lines the alveoli of lungs?",
+    "options": ["Cuboidal epithelium", "Stratified squamous epithelium", "Simple squamous epithelium", "Columnar epithelium"],
+    "correctAnswer": "Simple squamous epithelium"
+  },
+  {
+    "id": "HB-116",
+    "question": "Which structure initiates the heartbeat?",
+    "options": ["AV node", "Purkinje fibers", "SA node", "Bundle of His"],
+    "correctAnswer": "SA node"
+  },
+  {
+    "id": "HB-117",
+    "question": "Which organ is most affected by cirrhosis?",
+    "options": ["Kidney", "Heart", "Liver", "Pancreas"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "HB-118",
+    "question": "Which blood vessel carries deoxygenated blood from the heart to the lungs?",
+    "options": ["Pulmonary vein", "Aorta", "Pulmonary artery", "Vena cava"],
+    "correctAnswer": "Pulmonary artery"
+  },
+  {
+    "id": "HB-119",
+    "question": "Which part of the digestive system secretes hydrochloric acid?",
+    "options": ["Esophagus", "Stomach", "Duodenum", "Pancreas"],
+    "correctAnswer": "Stomach"
+  },
+  {
+    "id": "HB-120",
+    "question": "Which immune cells are primarily responsible for antibody production?",
+    "options": ["T-lymphocytes", "B-lymphocytes", "Neutrophils", "Macrophages"],
+    "correctAnswer": "B-lymphocytes"
+  },
+  {
+    "id": "HB-121",
+    "question": "Which part of the brain is responsible for speech production?",
+    "options": ["Wernicke’s area", "Broca’s area", "Thalamus", "Hypothalamus"],
+    "correctAnswer": "Broca’s area"
+  },
+  {
+    "id": "HB-122",
+    "question": "Which organ releases glucagon to increase blood glucose levels?",
+    "options": ["Adrenal gland", "Pancreas", "Liver", "Thyroid"],
+    "correctAnswer": "Pancreas"
+  },
+  {
+    "id": "HB-123",
+    "question": "Which bone is classified as a sesamoid bone?",
+    "options": ["Femur", "Patella", "Humerus", "Tibia"],
+    "correctAnswer": "Patella"
+  },
+  {
+    "id": "HB-124",
+    "question": "Which blood cells are the first responders during inflammation?",
+    "options": ["Lymphocytes", "Eosinophils", "Neutrophils", "Basophils"],
+    "correctAnswer": "Neutrophils"
+  },
+  {
+    "id": "HB-125",
+    "question": "Which structure of the eye prevents internal reflection of light?",
+    "options": ["Lens", "Iris", "Choroid", "Sclera"],
+    "correctAnswer": "Choroid"
+  },
+  {
+    "id": "HB-126",
+    "question": "Which hormone regulates sodium and potassium balance?",
+    "options": ["Aldosterone", "Insulin", "Thyroxine", "ADH"],
+    "correctAnswer": "Aldosterone"
+  },
+  {
+    "id": "HB-127",
+    "question": "Which part of the spinal cord controls reflex actions?",
+    "options": ["Cerebellum", "Brainstem", "Spinal cord", "Cerebrum"],
+    "correctAnswer": "Spinal cord"
+  },
+  {
+    "id": "HB-128",
+    "question": "Which enzyme is responsible for fat digestion in the small intestine?",
+    "options": ["Amylase", "Pepsin", "Lipase", "Maltase"],
+    "correctAnswer": "Lipase"
+  },
+  {
+    "id": "HB-129",
+    "question": "Which structure maintains the shape of red blood cells?",
+    "options": ["Nucleus", "Cell membrane", "Cytoskeleton", "Hemoglobin"],
+    "correctAnswer": "Cell membrane"
+  },
+  {
+    "id": "HB-130",
+    "question": "Which part of the brain controls voluntary muscle movement?",
+    "options": ["Cerebellum", "Motor cortex", "Medulla", "Pons"],
+    "correctAnswer": "Motor cortex"
+  },
+  {
+    "id": "HB-131",
+    "question": "Which gland is removed in thyroidectomy?",
+    "options": ["Parathyroid", "Adrenal", "Thyroid", "Pituitary"],
+    "correctAnswer": "Thyroid"
+  },
+  {
+    "id": "HB-132",
+    "question": "Which protein forms the structural framework of bones?",
+    "options": ["Keratin", "Collagen", "Elastin", "Actin"],
+    "correctAnswer": "Collagen"
+  },
+  {
+    "id": "HB-133",
+    "question": "Which part of the heart receives oxygenated blood from the lungs?",
+    "options": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"],
+    "correctAnswer": "Left atrium"
+  },
+  {
+    "id": "HB-134",
+    "question": "Which organ plays a major role in lipid metabolism?",
+    "options": ["Kidney", "Liver", "Pancreas", "Spleen"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "HB-135",
+    "question": "Which vitamin is essential for normal vision in dim light?",
+    "options": ["Vitamin D", "Vitamin K", "Vitamin A", "Vitamin E"],
+    "correctAnswer": "Vitamin A"
+  },
+  {
+    "id": "HB-136",
+    "question": "Which structure produces female gametes?",
+    "options": ["Uterus", "Fallopian tube", "Ovary", "Cervix"],
+    "correctAnswer": "Ovary"
+  },
+  {
+    "id": "HB-137",
+    "question": "Which type of joint is found between carpals?",
+    "options": ["Hinge joint", "Pivot joint", "Gliding joint", "Ball and socket joint"],
+    "correctAnswer": "Gliding joint"
+  },
+  {
+    "id": "HB-138",
+    "question": "Which part of the nephron concentrates urine?",
+    "options": ["Glomerulus", "Proximal tubule", "Loop of Henle", "Bowman’s capsule"],
+    "correctAnswer": "Loop of Henle"
+  },
+  {
+    "id": "HB-139",
+    "question": "Which blood group lacks both A and B antigens?",
+    "options": ["A", "B", "AB", "O"],
+    "correctAnswer": "O"
+  },
+  {
+    "id": "HB-140",
+    "question": "Which hormone promotes sleep?",
+    "options": ["Cortisol", "Adrenaline", "Melatonin", "Thyroxine"],
+    "correctAnswer": "Melatonin"
+  },
+  {
+    "id": "HB-141",
+    "question": "Which part of the ear converts vibrations into nerve impulses?",
+    "options": ["Eardrum", "Cochlea", "Ossicles", "Auditory canal"],
+    "correctAnswer": "Cochlea"
+  },
+  {
+    "id": "HB-142",
+    "question": "Which structure covers and protects the lungs?",
+    "options": ["Peritoneum", "Pericardium", "Pleura", "Diaphragm"],
+    "correctAnswer": "Pleura"
+  },
+  {
+    "id": "HB-143",
+    "question": "Which organ regulates blood pressure by secreting renin?",
+    "options": ["Liver", "Adrenal gland", "Kidney", "Heart"],
+    "correctAnswer": "Kidney"
+  },
+  {
+    "id": "HB-144",
+    "question": "Which blood cells are responsible for allergic reactions?",
+    "options": ["Basophils", "Neutrophils", "Monocytes", "Lymphocytes"],
+    "correctAnswer": "Basophils"
+  },
+  {
+    "id": "HB-145",
+    "question": "Which structure separates the right and left sides of the heart?",
+    "options": ["Valve", "Septum", "Chordae tendineae", "Pericardium"],
+    "correctAnswer": "Septum"
+  },
+  {
+    "id": "HB-146",
+    "question": "Which nutrient is primarily absorbed in the ileum?",
+    "options": ["Iron", "Vitamin B12", "Glucose", "Calcium"],
+    "correctAnswer": "Vitamin B12"
+  },
+  {
+    "id": "HB-147",
+    "question": "Which hormone is secreted by the posterior pituitary gland?",
+    "options": ["Growth hormone", "TSH", "Oxytocin", "ACTH"],
+    "correctAnswer": "Oxytocin"
+  },
+  {
+    "id": "HB-148",
+    "question": "Which structure provides immunity to the fetus during pregnancy?",
+    "options": ["Placenta", "Amnion", "Umbilical artery", "Chorion"],
+    "correctAnswer": "Placenta"
+  },
+  {
+    "id": "HB-149",
+    "question": "Which part of the brain controls autonomic functions?",
+    "options": ["Cerebrum", "Medulla oblongata", "Cerebellum", "Occipital lobe"],
+    "correctAnswer": "Medulla oblongata"
+  },
+  {
+    "id": "HB-150",
+    "question": "Which enzyme converts fibrinogen to fibrin during blood clotting?",
+    "options": ["Prothrombin", "Thrombin", "Plasmin", "Heparin"],
+    "correctAnswer": "Thrombin"
   }
 ]

@@ -1,143 +1,902 @@
 [
   {
-    "id": "PH-001",
-    "question": "What is the speed of light in vacuum?",
-    "options": [
-      "3 x 10^8 m/s",
-      "1.5 x 10^8 m/s",
-      "3 x 10^6 m/s",
-      "1 x 10^7 m/s"
-    ],
-    "correctAnswer": "3 x 10^8 m/s"
-  },
-  {
-    "id": "PH-002",
-    "question": "Who formulated the law of universal gravitation?",
-    "options": [
-      "Albert Einstein",
-      "Isaac Newton",
-      "Galileo Galilei",
-      "Nikola Tesla"
-    ],
-    "correctAnswer": "Isaac Newton"
-  },
-  {
-    "id": "PH-003",
-    "question": "What is the unit of electric current?",
-    "options": ["Volt", "Ampere", "Ohm", "Watt"],
-    "correctAnswer": "Ampere"
-  },
-  {
-    "id": "PH-004",
-    "question": "Which particle has a negative charge?",
-    "options": ["Proton", "Neutron", "Electron", "Photon"],
-    "correctAnswer": "Electron"
-  },
-  {
-    "id": "PH-005",
-    "question": "What is the acceleration due to gravity on Earth?",
-    "options": ["9.8 m/s²", "10 m/s²", "8.9 m/s²", "9.2 m/s²"],
-    "correctAnswer": "9.8 m/s²"
-  },
-  {
-    "id": "PH-006",
-    "question": "Who developed the theory of relativity?",
-    "options": ["Newton", "Einstein", "Faraday", "Planck"],
-    "correctAnswer": "Einstein"
-  },
-  {
-    "id": "PH-007",
+    "id": "PHY-001",
     "question": "What is the SI unit of force?",
-    "options": ["Newton", "Joule", "Watt", "Pascal"],
+    "options": ["Joule", "Newton", "Pascal", "Watt"],
     "correctAnswer": "Newton"
   },
   {
-    "id": "PH-008",
-    "question": "Which phenomenon explains bending of light?",
-    "options": ["Reflection", "Refraction", "Diffraction", "Interference"],
-    "correctAnswer": "Refraction"
+    "id": "PHY-002",
+    "question": "Which physical quantity is measured in Hertz (Hz)?",
+    "options": ["Speed", "Frequency", "Energy", "Pressure"],
+    "correctAnswer": "Frequency"
   },
   {
-    "id": "PH-009",
-    "question": "Who is known as the father of modern physics?",
-    "options": ["Newton", "Galileo", "Einstein", "Max Planck"],
-    "correctAnswer": "Galileo"
+    "id": "PHY-003",
+    "question": "Which law explains the relationship between current, voltage, and resistance?",
+    "options": ["Faraday's Law", "Ohm's Law", "Newton's First Law", "Coulomb's Law"],
+    "correctAnswer": "Ohm's Law"
   },
   {
-    "id": "PH-010",
-    "question": "What is the unit of resistance?",
-    "options": ["Volt", "Ampere", "Ohm", "Coulomb"],
-    "correctAnswer": "Ohm"
-  },
-  {
-    "id": "PH-011",
-    "question": "Which law states that energy cannot be created or destroyed?",
-    "options": [
-      "Newton's First Law",
-      "Law of Conservation of Energy",
-      "Ohm's Law",
-      "Faraday's Law"
-    ],
-    "correctAnswer": "Law of Conservation of Energy"
-  },
-  {
-    "id": "PH-012",
-    "question": "What is the symbol for gravitational constant?",
-    "options": ["G", "g", "R", "F"],
-    "correctAnswer": "G"
-  },
-  {
-    "id": "PH-013",
-    "question": "Which type of lens is thicker at the center?",
-    "options": ["Concave", "Convex", "Plane", "Cylindrical"],
-    "correctAnswer": "Convex"
-  },
-  {
-    "id": "PH-014",
-    "question": "Who discovered X-rays?",
-    "options": ["Marie Curie", "Wilhelm Röntgen", "Einstein", "Faraday"],
-    "correctAnswer": "Wilhelm Röntgen"
-  },
-  {
-    "id": "PH-015",
-    "question": "Which gas has the highest thermal conductivity?",
-    "options": ["Helium", "Hydrogen", "Oxygen", "Nitrogen"],
-    "correctAnswer": "Hydrogen"
-  },
-  {
-    "id": "PH-016",
-    "question": "Which phenomenon causes the sky to appear blue?",
-    "options": ["Reflection", "Diffraction", "Scattering", "Refraction"],
-    "correctAnswer": "Scattering"
-  },
-  {
-    "id": "PH-017",
-    "question": "What is the SI unit of power?",
-    "options": ["Joule", "Watt", "Newton", "Volt"],
-    "correctAnswer": "Watt"
-  },
-  {
-    "id": "PH-018",
-    "question": "Which scientist proposed the photoelectric effect?",
-    "options": ["Newton", "Einstein", "Planck", "Faraday"],
-    "correctAnswer": "Einstein"
-  },
-  {
-    "id": "PH-019",
-    "question": "What type of wave is sound?",
-    "options": ["Electromagnetic", "Longitudinal", "Transverse", "Surface"],
+    "id": "PHY-004",
+    "question": "What type of wave is sound in air?",
+    "options": ["Transverse", "Electromagnetic", "Longitudinal", "Standing"],
     "correctAnswer": "Longitudinal"
   },
   {
-    "id": "PH-020",
-    "question": "What is the mass of an electron?",
-    "options": [
-      "9.11 x 10^-31 kg",
-      "1.67 x 10^-27 kg",
-      "1.99 x 10^-26 kg",
-      "9.11 x 10^-29 kg"
-    ],
-    "correctAnswer": "9.11 x 10^-31 kg"
+    "id": "PHY-005",
+    "question": "Which particle has no electric charge?",
+    "options": ["Electron", "Proton", "Neutron", "Positron"],
+    "correctAnswer": "Neutron"
+  },
+  {
+    "id": "PHY-006",
+    "question": "What happens to the wavelength of light when it enters a denser medium?",
+    "options": ["Increases", "Remains same", "Decreases", "Becomes zero"],
+    "correctAnswer": "Decreases"
+  },
+  {
+    "id": "PHY-007",
+    "question": "Which quantity is conserved in an isolated system?",
+    "options": ["Force", "Acceleration", "Momentum", "Velocity"],
+    "correctAnswer": "Momentum"
+  },
+  {
+    "id": "PHY-008",
+    "question": "What is the acceleration due to gravity on Earth (approximate)?",
+    "options": ["8.9 m/s²", "9.8 m/s²", "10.8 m/s²", "7.8 m/s²"],
+    "correctAnswer": "9.8 m/s²"
+  },
+  {
+    "id": "PHY-009",
+    "question": "Which device converts electrical energy into mechanical energy?",
+    "options": ["Generator", "Transformer", "Electric motor", "Battery"],
+    "correctAnswer": "Electric motor"
+  },
+  {
+    "id": "PHY-010",
+    "question": "Which mirror is used as a rear-view mirror in vehicles?",
+    "options": ["Concave mirror", "Plane mirror", "Convex mirror", "Cylindrical mirror"],
+    "correctAnswer": "Convex mirror"
+  },
+  {
+    "id": "PHY-011",
+    "question": "What is the dimensional formula of force?",
+    "options": ["MLT⁻¹", "ML²T⁻²", "MLT⁻²", "M²LT⁻²"],
+    "correctAnswer": "MLT⁻²"
+  },
+  {
+    "id": "PHY-012",
+    "question": "Which phenomenon explains the bending of light around obstacles?",
+    "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+    "correctAnswer": "Diffraction"
+  },
+  {
+    "id": "PHY-013",
+    "question": "What does the slope of a velocity-time graph represent?",
+    "options": ["Speed", "Distance", "Acceleration", "Momentum"],
+    "correctAnswer": "Acceleration"
+  },
+  {
+    "id": "PHY-014",
+    "question": "Which gas is mainly responsible for the greenhouse effect?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "id": "PHY-015",
+    "question": "Which law states that entropy of an isolated system always increases?",
+    "options": ["First Law of Thermodynamics", "Second Law of Thermodynamics", "Zeroth Law", "Third Law of Thermodynamics"],
+    "correctAnswer": "Second Law of Thermodynamics"
+  },
+  {
+    "id": "PHY-016",
+    "question": "What type of lens is used to correct myopia?",
+    "options": ["Convex lens", "Concave lens", "Cylindrical lens", "Bifocal lens"],
+    "correctAnswer": "Concave lens"
+  },
+  {
+    "id": "PHY-017",
+    "question": "Which fundamental force is responsible for radioactive decay?",
+    "options": ["Gravitational force", "Electromagnetic force", "Strong nuclear force", "Weak nuclear force"],
+    "correctAnswer": "Weak nuclear force"
+  },
+  {
+    "id": "PHY-018",
+    "question": "What is the unit of electric resistance?",
+    "options": ["Ampere", "Volt", "Ohm", "Coulomb"],
+    "correctAnswer": "Ohm"
+  },
+  {
+    "id": "PHY-019",
+    "question": "Which scientist proposed the uncertainty principle?",
+    "options": ["Albert Einstein", "Niels Bohr", "Werner Heisenberg", "Max Planck"],
+    "correctAnswer": "Werner Heisenberg"
+  },
+  {
+    "id": "PHY-020",
+    "question": "What happens to time according to special relativity when speed increases?",
+    "options": ["Time speeds up", "Time stops", "Time dilates", "Time reverses"],
+    "correctAnswer": "Time dilates"
+  },
+  {
+    "id": "PHY-021",
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": ["Manometer", "Barometer", "Thermometer", "Hygrometer"],
+    "correctAnswer": "Barometer"
+  },
+  {
+    "id": "PHY-022",
+    "question": "What is the escape velocity from Earth approximately?",
+    "options": ["7.9 km/s", "9.8 km/s", "11.2 km/s", "15.6 km/s"],
+    "correctAnswer": "11.2 km/s"
+  },
+  {
+    "id": "PHY-023",
+    "question": "Which particle mediates the electromagnetic force?",
+    "options": ["Gluon", "Photon", "Graviton", "Neutrino"],
+    "correctAnswer": "Photon"
+  },
+  {
+    "id": "PHY-024",
+    "question": "Which law explains why satellites remain in orbit?",
+    "options": ["Kepler's First Law", "Newton's Law of Gravitation", "Ohm's Law", "Hooke's Law"],
+    "correctAnswer": "Newton's Law of Gravitation"
+  },
+  {
+    "id": "PHY-025",
+    "question": "What is the unit of magnetic flux?",
+    "options": ["Tesla", "Weber", "Henry", "Gauss"],
+    "correctAnswer": "Weber"
+  },
+  {
+    "id": "PHY-026",
+    "question": "Which experiment confirmed the wave nature of electrons?",
+    "options": ["Photoelectric effect", "Millikan oil drop experiment", "Davisson–Germer experiment", "Rutherford scattering"],
+    "correctAnswer": "Davisson–Germer experiment"
+  },
+  {
+    "id": "PHY-027",
+    "question": "What is the maximum efficiency of a Carnot engine dependent on?",
+    "options": ["Working substance", "Engine design", "Temperature of reservoirs", "Pressure of gas"],
+    "correctAnswer": "Temperature of reservoirs"
+  },
+  {
+    "id": "PHY-028",
+    "question": "Which quantity has the same unit as work?",
+    "options": ["Power", "Energy", "Force", "Pressure"],
+    "correctAnswer": "Energy"
+  },
+  {
+    "id": "PHY-029",
+    "question": "What causes the blue color of the sky?",
+    "options": ["Reflection", "Refraction", "Scattering of light", "Dispersion"],
+    "correctAnswer": "Scattering of light"
+  },
+  {
+    "id": "PHY-030",
+    "question": "Which concept limits the simultaneous measurement of position and momentum?",
+    "options": ["Pauli exclusion principle", "Wave-particle duality", "Uncertainty principle", "Equivalence principle"],
+    "correctAnswer": "Uncertainty principle"
+  },
+  {
+    "id": "PHY-031",
+    "question": "Which physical quantity is a scalar?",
+    "options": ["Velocity", "Acceleration", "Force", "Temperature"],
+    "correctAnswer": "Temperature"
+  },
+  {
+    "id": "PHY-032",
+    "question": "What is the SI unit of electric charge?",
+    "options": ["Ampere", "Volt", "Coulomb", "Ohm"],
+    "correctAnswer": "Coulomb"
+  },
+  {
+    "id": "PHY-033",
+    "question": "Which law explains action and reaction forces?",
+    "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Gravitation"],
+    "correctAnswer": "Newton's Third Law"
+  },
+  {
+    "id": "PHY-034",
+    "question": "What type of energy is stored in a stretched spring?",
+    "options": ["Kinetic energy", "Thermal energy", "Electrical energy", "Elastic potential energy"],
+    "correctAnswer": "Elastic potential energy"
+  },
+  {
+    "id": "PHY-035",
+    "question": "Which electromagnetic wave has the shortest wavelength?",
+    "options": ["Ultraviolet", "X-rays", "Gamma rays", "Infrared"],
+    "correctAnswer": "Gamma rays"
+  },
+  {
+    "id": "PHY-036",
+    "question": "What is the unit of power?",
+    "options": ["Joule", "Newton", "Watt", "Pascal"],
+    "correctAnswer": "Watt"
+  },
+  {
+    "id": "PHY-037",
+    "question": "Which device is used to step up or step down voltage?",
+    "options": ["Generator", "Transformer", "Rectifier", "Capacitor"],
+    "correctAnswer": "Transformer"
+  },
+  {
+    "id": "PHY-038",
+    "question": "What happens to resistance of a conductor when temperature increases?",
+    "options": ["Decreases", "Becomes zero", "Remains constant", "Increases"],
+    "correctAnswer": "Increases"
+  },
+  {
+    "id": "PHY-039",
+    "question": "Which quantity is represented by the area under a force-time graph?",
+    "options": ["Momentum", "Impulse", "Work", "Energy"],
+    "correctAnswer": "Impulse"
+  },
+  {
+    "id": "PHY-040",
+    "question": "Which mirror always forms a virtual, erect, and diminished image?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correctAnswer": "Convex mirror"
+  },
+  {
+    "id": "PHY-041",
+    "question": "What does the first law of thermodynamics express?",
+    "options": ["Conservation of energy", "Increase of entropy", "Absolute zero concept", "Heat flow direction"],
+    "correctAnswer": "Conservation of energy"
+  },
+  {
+    "id": "PHY-042",
+    "question": "Which subatomic particle is responsible for electric current in metals?",
+    "options": ["Proton", "Neutron", "Electron", "Positron"],
+    "correctAnswer": "Electron"
+  },
+  {
+    "id": "PHY-043",
+    "question": "Which phenomenon proves the particle nature of light?",
+    "options": ["Interference", "Diffraction", "Polarization", "Photoelectric effect"],
+    "correctAnswer": "Photoelectric effect"
+  },
+  {
+    "id": "PHY-044",
+    "question": "What is the time period of a simple pendulum dependent on?",
+    "options": ["Mass of bob", "Amplitude", "Length of pendulum", "Material of string"],
+    "correctAnswer": "Length of pendulum"
+  },
+  {
+    "id": "PHY-045",
+    "question": "Which circuit component stores electric charge?",
+    "options": ["Resistor", "Inductor", "Capacitor", "Diode"],
+    "correctAnswer": "Capacitor"
+  },
+  {
+    "id": "PHY-046",
+    "question": "Which law states that induced emf opposes the change producing it?",
+    "options": ["Faraday's Law", "Lenz's Law", "Ampere's Law", "Ohm's Law"],
+    "correctAnswer": "Lenz's Law"
+  },
+  {
+    "id": "PHY-047",
+    "question": "What is the unit of frequency?",
+    "options": ["Second", "Hertz", "Meter", "Radian"],
+    "correctAnswer": "Hertz"
+  },
+  {
+    "id": "PHY-048",
+    "question": "Which quantity remains constant during uniform circular motion?",
+    "options": ["Velocity", "Acceleration", "Speed", "Centripetal force"],
+    "correctAnswer": "Speed"
+  },
+  {
+    "id": "PHY-049",
+    "question": "Which branch of physics deals with heat and temperature?",
+    "options": ["Optics", "Thermodynamics", "Electromagnetism", "Mechanics"],
+    "correctAnswer": "Thermodynamics"
+  },
+  {
+    "id": "PHY-050",
+    "question": "What is the angle between electric field and equipotential surface?",
+    "options": ["0°", "45°", "60°", "90°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "id": "PHY-051",
+    "question": "Which quantity has the unit Tesla?",
+    "options": ["Electric field", "Magnetic field", "Magnetic flux", "Current density"],
+    "correctAnswer": "Magnetic field"
+  },
+  {
+    "id": "PHY-052",
+    "question": "What happens to the focal length of a convex lens when immersed in water?",
+    "options": ["Decreases", "Increases", "Becomes zero", "Remains unchanged"],
+    "correctAnswer": "Increases"
+  },
+  {
+    "id": "PHY-053",
+    "question": "Which nuclear reaction powers the Sun?",
+    "options": ["Nuclear fission", "Radioactive decay", "Nuclear fusion", "Chain reaction"],
+    "correctAnswer": "Nuclear fusion"
+  },
+  {
+    "id": "PHY-054",
+    "question": "What is the nature of cathode rays?",
+    "options": ["Neutral particles", "Positive ions", "Electromagnetic waves", "Stream of electrons"],
+    "correctAnswer": "Stream of electrons"
+  },
+  {
+    "id": "PHY-055",
+    "question": "Which quantity is measured using a calorimeter?",
+    "options": ["Heat", "Pressure", "Power", "Temperature"],
+    "correctAnswer": "Heat"
+  },
+  {
+    "id": "PHY-056",
+    "question": "Which principle explains buoyancy?",
+    "options": ["Pascal's principle", "Bernoulli's principle", "Archimedes' principle", "Hooke's law"],
+    "correctAnswer": "Archimedes' principle"
+  },
+  {
+    "id": "PHY-057",
+    "question": "What is the speed of light in vacuum approximately?",
+    "options": ["3 × 10⁶ m/s", "3 × 10⁷ m/s", "3 × 10⁸ m/s", "3 × 10⁹ m/s"],
+    "correctAnswer": "3 × 10⁸ m/s"
+  },
+  {
+    "id": "PHY-058",
+    "question": "Which quantum number determines the shape of an orbital?",
+    "options": ["Principal quantum number", "Magnetic quantum number", "Spin quantum number", "Azimuthal quantum number"],
+    "correctAnswer": "Azimuthal quantum number"
+  },
+  {
+    "id": "PHY-059",
+    "question": "What causes Doppler effect?",
+    "options": ["Change in amplitude", "Relative motion between source and observer", "Change in medium", "Reflection of waves"],
+    "correctAnswer": "Relative motion between source and observer"
+  },
+  {
+    "id": "PHY-060",
+    "question": "Which theory unifies space and time into spacetime?",
+    "options": ["Quantum mechanics", "Classical mechanics", "General relativity", "Special relativity"],
+    "correctAnswer": "Special relativity"
+  },
+  {
+    "id": "PHY-061",
+    "question": "Which instrument is used to measure electric current?",
+    "options": ["Voltmeter", "Ammeter", "Galvanometer", "Ohmmeter"],
+    "correctAnswer": "Ammeter"
+  },
+  {
+    "id": "PHY-062",
+    "question": "What type of motion does a freely falling object experience (ignoring air resistance)?",
+    "options": ["Uniform motion", "Uniform circular motion", "Uniformly accelerated motion", "Simple harmonic motion"],
+    "correctAnswer": "Uniformly accelerated motion"
+  },
+  {
+    "id": "PHY-063",
+    "question": "Which quantity is equal to mass multiplied by velocity?",
+    "options": ["Force", "Momentum", "Impulse", "Kinetic energy"],
+    "correctAnswer": "Momentum"
+  },
+  {
+    "id": "PHY-064",
+    "question": "Which color of visible light has the highest frequency?",
+    "options": ["Red", "Green", "Yellow", "Violet"],
+    "correctAnswer": "Violet"
+  },
+  {
+    "id": "PHY-065",
+    "question": "What is the SI unit of pressure?",
+    "options": ["Bar", "Newton", "Pascal", "Atmosphere"],
+    "correctAnswer": "Pascal"
+  },
+  {
+    "id": "PHY-066",
+    "question": "Which phenomenon occurs due to the superposition of waves?",
+    "options": ["Refraction", "Reflection", "Interference", "Absorption"],
+    "correctAnswer": "Interference"
+  },
+  {
+    "id": "PHY-067",
+    "question": "Which device converts alternating current (AC) into direct current (DC)?",
+    "options": ["Transformer", "Rectifier", "Inverter", "Generator"],
+    "correctAnswer": "Rectifier"
+  },
+  {
+    "id": "PHY-068",
+    "question": "What is the work done when a force acts perpendicular to displacement?",
+    "options": ["Maximum", "Negative", "Zero", "Positive"],
+    "correctAnswer": "Zero"
+  },
+  {
+    "id": "PHY-069",
+    "question": "Which law gives the relationship between pressure and volume of a gas at constant temperature?",
+    "options": ["Charles's law", "Boyle's law", "Gay-Lussac's law", "Avogadro's law"],
+    "correctAnswer": "Boyle's law"
+  },
+  {
+    "id": "PHY-070",
+    "question": "Which physical quantity is measured in lumen?",
+    "options": ["Intensity", "Illuminance", "Luminous flux", "Brightness"],
+    "correctAnswer": "Luminous flux"
+  },
+  {
+    "id": "PHY-071",
+    "question": "What is the nature of image formed by a plane mirror?",
+    "options": ["Real and inverted", "Virtual and erect", "Real and diminished", "Virtual and inverted"],
+    "correctAnswer": "Virtual and erect"
+  },
+  {
+    "id": "PHY-072",
+    "question": "Which particle has the least mass?",
+    "options": ["Proton", "Neutron", "Electron", "Alpha particle"],
+    "correctAnswer": "Electron"
+  },
+  {
+    "id": "PHY-073",
+    "question": "Which factor does NOT affect the resistance of a conductor?",
+    "options": ["Length", "Area of cross-section", "Material", "Voltage applied"],
+    "correctAnswer": "Voltage applied"
+  },
+  {
+    "id": "PHY-074",
+    "question": "What is the phase difference between displacement and velocity in SHM?",
+    "options": ["0°", "45°", "90°", "180°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "id": "PHY-075",
+    "question": "Which radiation is used in night vision devices?",
+    "options": ["Ultraviolet rays", "X-rays", "Gamma rays", "Infrared rays"],
+    "correctAnswer": "Infrared rays"
+  },
+  {
+    "id": "PHY-076",
+    "question": "Which quantity determines the pitch of a sound?",
+    "options": ["Amplitude", "Frequency", "Speed", "Wavelength"],
+    "correctAnswer": "Frequency"
+  },
+  {
+    "id": "PHY-077",
+    "question": "What is the unit of electric potential difference?",
+    "options": ["Ampere", "Ohm", "Volt", "Watt"],
+    "correctAnswer": "Volt"
+  },
+  {
+    "id": "PHY-078",
+    "question": "Which scientist discovered electromagnetic induction?",
+    "options": ["James Clerk Maxwell", "Michael Faraday", "Heinrich Hertz", "Nikola Tesla"],
+    "correctAnswer": "Michael Faraday"
+  },
+  {
+    "id": "PHY-079",
+    "question": "Which physical quantity is given by force per unit area?",
+    "options": ["Stress", "Strain", "Pressure", "Elasticity"],
+    "correctAnswer": "Pressure"
+  },
+  {
+    "id": "PHY-080",
+    "question": "Which phenomenon explains the splitting of white light into colors?",
+    "options": ["Interference", "Diffraction", "Dispersion", "Scattering"],
+    "correctAnswer": "Dispersion"
+  },
+  {
+    "id": "PHY-081",
+    "question": "Which type of current is supplied to homes?",
+    "options": ["Direct current", "Pulsating current", "Alternating current", "Static current"],
+    "correctAnswer": "Alternating current"
+  },
+  {
+    "id": "PHY-082",
+    "question": "What is the dimensional formula of energy?",
+    "options": ["MLT⁻¹", "ML²T⁻²", "M²LT⁻²", "MLT⁻²"],
+    "correctAnswer": "ML²T⁻²"
+  },
+  {
+    "id": "PHY-083",
+    "question": "Which type of lens can form a real image?",
+    "options": ["Concave lens only", "Convex lens only", "Both concave and convex", "Neither"],
+    "correctAnswer": "Convex lens only"
+  },
+  {
+    "id": "PHY-084",
+    "question": "What is the SI unit of magnetic field strength?",
+    "options": ["Weber", "Henry", "Tesla", "Ampere"],
+    "correctAnswer": "Tesla"
+  },
+  {
+    "id": "PHY-085",
+    "question": "Which effect explains the emission of electrons from a heated metal?",
+    "options": ["Photoelectric effect", "Thermionic emission", "Hall effect", "Compton effect"],
+    "correctAnswer": "Thermionic emission"
+  },
+  {
+    "id": "PHY-086",
+    "question": "Which property of a wave remains unchanged during refraction?",
+    "options": ["Wavelength", "Speed", "Frequency", "Amplitude"],
+    "correctAnswer": "Frequency"
+  },
+  {
+    "id": "PHY-087",
+    "question": "Which law explains the magnetic field around a current-carrying conductor?",
+    "options": ["Coulomb's law", "Ampere's circuital law", "Faraday's law", "Lenz's law"],
+    "correctAnswer": "Ampere's circuital law"
+  },
+  {
+    "id": "PHY-088",
+    "question": "Which quantity is represented by the slope of a displacement-time graph?",
+    "options": ["Acceleration", "Speed", "Velocity", "Distance"],
+    "correctAnswer": "Velocity"
+  },
+  {
+    "id": "PHY-089",
+    "question": "Which force is responsible for keeping planets in their orbits?",
+    "options": ["Magnetic force", "Electrostatic force", "Gravitational force", "Nuclear force"],
+    "correctAnswer": "Gravitational force"
+  },
+  {
+    "id": "PHY-090",
+    "question": "Which concept states that energy exists in discrete packets?",
+    "options": ["Wave theory", "Relativity principle", "Quantum theory", "Field theory"],
+    "correctAnswer": "Quantum theory"
+  },
+  {
+    "id": "PHY-091",
+    "question": "Which physical quantity is defined as rate of change of momentum?",
+    "options": ["Work", "Force", "Power", "Energy"],
+    "correctAnswer": "Force"
+  },
+  {
+    "id": "PHY-092",
+    "question": "What is the SI unit of capacitance?",
+    "options": ["Ohm", "Farad", "Henry", "Tesla"],
+    "correctAnswer": "Farad"
+  },
+  {
+    "id": "PHY-093",
+    "question": "Which type of friction acts when an object just starts moving?",
+    "options": ["Rolling friction", "Fluid friction", "Static friction", "Kinetic friction"],
+    "correctAnswer": "Static friction"
+  },
+  {
+    "id": "PHY-094",
+    "question": "What happens to kinetic energy if velocity is doubled?",
+    "options": ["Becomes double", "Becomes half", "Becomes four times", "Remains same"],
+    "correctAnswer": "Becomes four times"
+  },
+  {
+    "id": "PHY-095",
+    "question": "Which electromagnetic wave is used for satellite communication?",
+    "options": ["Infrared waves", "Microwaves", "Ultraviolet rays", "X-rays"],
+    "correctAnswer": "Microwaves"
+  },
+  {
+    "id": "PHY-096",
+    "question": "Which quantity determines the loudness of a sound?",
+    "options": ["Frequency", "Speed", "Amplitude", "Wavelength"],
+    "correctAnswer": "Amplitude"
+  },
+  {
+    "id": "PHY-097",
+    "question": "Which law states that pressure applied to a confined fluid is transmitted equally in all directions?",
+    "options": ["Archimedes' principle", "Bernoulli's principle", "Pascal's law", "Boyle's law"],
+    "correctAnswer": "Pascal's law"
+  },
+  {
+    "id": "PHY-098",
+    "question": "What is the SI unit of electric field?",
+    "options": ["Volt per meter", "Newton per coulomb", "Ampere per meter", "Ohm per meter"],
+    "correctAnswer": "Newton per coulomb"
+  },
+  {
+    "id": "PHY-099",
+    "question": "Which mirror is used in solar cookers?",
+    "options": ["Plane mirror", "Convex mirror", "Concave mirror", "Cylindrical mirror"],
+    "correctAnswer": "Concave mirror"
+  },
+  {
+    "id": "PHY-100",
+    "question": "Which quantity is independent of the path taken?",
+    "options": ["Work", "Distance", "Displacement", "Speed"],
+    "correctAnswer": "Displacement"
+  },
+  {
+    "id": "PHY-101",
+    "question": "Which phenomenon causes rainbow formation?",
+    "options": ["Reflection only", "Refraction only", "Dispersion and total internal reflection", "Scattering"],
+    "correctAnswer": "Dispersion and total internal reflection"
+  },
+  {
+    "id": "PHY-102",
+    "question": "What is the unit of impulse?",
+    "options": ["Newton", "Newton-second", "Joule", "Kilogram-meter"],
+    "correctAnswer": "Newton-second"
+  },
+  {
+    "id": "PHY-103",
+    "question": "Which particle is emitted during beta decay?",
+    "options": ["Alpha particle", "Proton", "Electron", "Neutron"],
+    "correctAnswer": "Electron"
+  },
+  {
+    "id": "PHY-104",
+    "question": "Which physical quantity is measured in candela?",
+    "options": ["Luminous intensity", "Luminous flux", "Illuminance", "Brightness"],
+    "correctAnswer": "Luminous intensity"
+  },
+  {
+    "id": "PHY-105",
+    "question": "What type of lens is used in a magnifying glass?",
+    "options": ["Concave lens", "Convex lens", "Cylindrical lens", "Plano-concave lens"],
+    "correctAnswer": "Convex lens"
+  },
+  {
+    "id": "PHY-106",
+    "question": "Which condition is necessary for total internal reflection?",
+    "options": ["Light travels from denser to rarer medium", "Angle of incidence is less than critical angle", "Light travels from rarer to denser medium", "Medium must be opaque"],
+    "correctAnswer": "Light travels from denser to rarer medium"
+  },
+  {
+    "id": "PHY-107",
+    "question": "Which quantity remains conserved in elastic collisions?",
+    "options": ["Momentum only", "Kinetic energy only", "Both momentum and kinetic energy", "Potential energy"],
+    "correctAnswer": "Both momentum and kinetic energy"
+  },
+  {
+    "id": "PHY-108",
+    "question": "What is the SI unit of angular velocity?",
+    "options": ["Degree per second", "Radian", "Radian per second", "Revolution per minute"],
+    "correctAnswer": "Radian per second"
+  },
+  {
+    "id": "PHY-109",
+    "question": "Which effect explains voltage generation in a conductor moving in a magnetic field?",
+    "options": ["Hall effect", "Photoelectric effect", "Electromagnetic induction", "Thermoelectric effect"],
+    "correctAnswer": "Electromagnetic induction"
+  },
+  {
+    "id": "PHY-110",
+    "question": "Which quantity is equal to torque divided by angular acceleration?",
+    "options": ["Angular momentum", "Moment of inertia", "Rotational kinetic energy", "Centripetal force"],
+    "correctAnswer": "Moment of inertia"
+  },
+  {
+    "id": "PHY-111",
+    "question": "Which type of spectrum is produced by a glowing solid?",
+    "options": ["Line spectrum", "Band spectrum", "Continuous spectrum", "Absorption spectrum"],
+    "correctAnswer": "Continuous spectrum"
+  },
+  {
+    "id": "PHY-112",
+    "question": "Which law states that resistance is directly proportional to length?",
+    "options": ["Ohm's law", "Joule's law", "Law of resistivity", "Kirchhoff's law"],
+    "correctAnswer": "Law of resistivity"
+  },
+  {
+    "id": "PHY-113",
+    "question": "What is the nature of magnetic field lines?",
+    "options": ["They intersect each other", "They are open curves", "They form closed loops", "They are parallel lines"],
+    "correctAnswer": "They form closed loops"
+  },
+  {
+    "id": "PHY-114",
+    "question": "Which quantity is maximum at the mean position in SHM?",
+    "options": ["Acceleration", "Displacement", "Velocity", "Restoring force"],
+    "correctAnswer": "Velocity"
+  },
+  {
+    "id": "PHY-115",
+    "question": "Which device is used to detect electric charge?",
+    "options": ["Voltmeter", "Electroscope", "Ammeter", "Potentiometer"],
+    "correctAnswer": "Electroscope"
+  },
+  {
+    "id": "PHY-116",
+    "question": "What is the dimensional formula of power?",
+    "options": ["ML²T⁻²", "MLT⁻²", "ML²T⁻³", "M²LT⁻³"],
+    "correctAnswer": "ML²T⁻³"
+  },
+  {
+    "id": "PHY-117",
+    "question": "Which phenomenon explains mirage formation?",
+    "options": ["Reflection", "Refraction", "Total internal reflection", "Dispersion"],
+    "correctAnswer": "Total internal reflection"
+  },
+  {
+    "id": "PHY-118",
+    "question": "Which particle carries the strong nuclear force?",
+    "options": ["Photon", "Gluon", "W boson", "Graviton"],
+    "correctAnswer": "Gluon"
+  },
+  {
+    "id": "PHY-119",
+    "question": "Which quantity is measured by a seismograph?",
+    "options": ["Wind speed", "Earthquake intensity", "Ground vibrations", "Sound waves"],
+    "correctAnswer": "Ground vibrations"
+  },
+  {
+    "id": "PHY-120",
+    "question": "Which principle states that it is impossible to reach absolute zero temperature?",
+    "options": ["Zeroth law of thermodynamics", "First law of thermodynamics", "Second law of thermodynamics", "Third law of thermodynamics"],
+    "correctAnswer": "Third law of thermodynamics"
+  },
+  {
+    "id": "PHY-121",
+    "question": "Which physical quantity is the product of force and displacement in the direction of force?",
+    "options": ["Energy", "Power", "Work", "Momentum"],
+    "correctAnswer": "Work"
+  },
+  {
+    "id": "PHY-122",
+    "question": "What is the SI unit of inductance?",
+    "options": ["Tesla", "Henry", "Farad", "Ohm"],
+    "correctAnswer": "Henry"
+  },
+  {
+    "id": "PHY-123",
+    "question": "Which type of wave does not require a medium to travel?",
+    "options": ["Sound wave", "Water wave", "Electromagnetic wave", "Seismic wave"],
+    "correctAnswer": "Electromagnetic wave"
+  },
+  {
+    "id": "PHY-124",
+    "question": "Which quantity remains constant for a body moving with constant speed in a straight line?",
+    "options": ["Velocity", "Acceleration", "Momentum", "Speed"],
+    "correctAnswer": "Speed"
+  },
+  {
+    "id": "PHY-125",
+    "question": "What is the SI unit of electric power?",
+    "options": ["Volt", "Ampere", "Watt", "Joule"],
+    "correctAnswer": "Watt"
+  },
+  {
+    "id": "PHY-126",
+    "question": "Which phenomenon explains why a stick appears bent in water?",
+    "options": ["Reflection", "Diffraction", "Refraction", "Dispersion"],
+    "correctAnswer": "Refraction"
+  },
+  {
+    "id": "PHY-127",
+    "question": "Which quantity is defined as charge per unit time?",
+    "options": ["Voltage", "Electric current", "Resistance", "Electric field"],
+    "correctAnswer": "Electric current"
+  },
+  {
+    "id": "PHY-128",
+    "question": "Which instrument is used to measure very small electric currents?",
+    "options": ["Ammeter", "Voltmeter", "Galvanometer", "Potentiometer"],
+    "correctAnswer": "Galvanometer"
+  },
+  {
+    "id": "PHY-129",
+    "question": "Which law explains why fast-moving air has lower pressure?",
+    "options": ["Pascal's law", "Boyle's law", "Bernoulli's principle", "Archimedes' principle"],
+    "correctAnswer": "Bernoulli's principle"
+  },
+  {
+    "id": "PHY-130",
+    "question": "What is the unit of angular momentum?",
+    "options": ["kg·m²/s", "kg·m/s²", "N·m", "Joule-second"],
+    "correctAnswer": "kg·m²/s"
+  },
+  {
+    "id": "PHY-131",
+    "question": "Which quantity is represented by the area under a velocity-time graph?",
+    "options": ["Acceleration", "Momentum", "Displacement", "Force"],
+    "correctAnswer": "Displacement"
+  },
+  {
+    "id": "PHY-132",
+    "question": "Which optical instrument is used to observe distant objects?",
+    "options": ["Microscope", "Periscope", "Telescope", "Spectrometer"],
+    "correctAnswer": "Telescope"
+  },
+  {
+    "id": "PHY-133",
+    "question": "What type of image is formed by a concave lens?",
+    "options": ["Real and inverted", "Virtual and erect", "Real and erect", "Virtual and inverted"],
+    "correctAnswer": "Virtual and erect"
+  },
+  {
+    "id": "PHY-134",
+    "question": "Which physical quantity is measured in joule?",
+    "options": ["Force", "Power", "Energy", "Pressure"],
+    "correctAnswer": "Energy"
+  },
+  {
+    "id": "PHY-135",
+    "question": "Which property of sound determines its quality or timbre?",
+    "options": ["Loudness", "Pitch", "Amplitude", "Waveform"],
+    "correctAnswer": "Waveform"
+  },
+  {
+    "id": "PHY-136",
+    "question": "What is the escape velocity proportional to?",
+    "options": ["Radius only", "Mass only", "Square root of mass over radius", "Density of planet"],
+    "correctAnswer": "Square root of mass over radius"
+  },
+  {
+    "id": "PHY-137",
+    "question": "Which law states that the total current entering a junction equals the total current leaving it?",
+    "options": ["Ohm's law", "Faraday's law", "Kirchhoff's current law", "Kirchhoff's voltage law"],
+    "correctAnswer": "Kirchhoff's current law"
+  },
+  {
+    "id": "PHY-138",
+    "question": "Which phenomenon causes a whistle of a passing train to change pitch?",
+    "options": ["Echo", "Resonance", "Doppler effect", "Interference"],
+    "correctAnswer": "Doppler effect"
+  },
+  {
+    "id": "PHY-139",
+    "question": "What is the SI unit of surface tension?",
+    "options": ["N/m", "N/m²", "J/m²", "Pa·s"],
+    "correctAnswer": "N/m"
+  },
+  {
+    "id": "PHY-140",
+    "question": "Which quantity is maximum at extreme positions in simple harmonic motion?",
+    "options": ["Velocity", "Displacement", "Acceleration", "Kinetic energy"],
+    "correctAnswer": "Acceleration"
+  },
+  {
+    "id": "PHY-141",
+    "question": "Which device converts mechanical energy into electrical energy?",
+    "options": ["Motor", "Transformer", "Generator", "Rectifier"],
+    "correctAnswer": "Generator"
+  },
+  {
+    "id": "PHY-142",
+    "question": "Which gas law relates pressure, volume, and temperature together?",
+    "options": ["Boyle's law", "Charles's law", "Gay-Lussac's law", "Combined gas law"],
+    "correctAnswer": "Combined gas law"
+  },
+  {
+    "id": "PHY-143",
+    "question": "What is the SI unit of luminous flux?",
+    "options": ["Candela", "Lux", "Lumen", "Nit"],
+    "correctAnswer": "Lumen"
+  },
+  {
+    "id": "PHY-144",
+    "question": "Which physical quantity is a measure of inertia?",
+    "options": ["Weight", "Mass", "Force", "Momentum"],
+    "correctAnswer": "Mass"
+  },
+  {
+    "id": "PHY-145",
+    "question": "Which phenomenon explains the working of optical fibers?",
+    "options": ["Refraction", "Diffraction", "Total internal reflection", "Dispersion"],
+    "correctAnswer": "Total internal reflection"
+  },
+  {
+    "id": "PHY-146",
+    "question": "What is the unit of torque?",
+    "options": ["Joule", "Newton", "Newton-meter", "Watt"],
+    "correctAnswer": "Newton-meter"
+  },
+  {
+    "id": "PHY-147",
+    "question": "Which type of nucleus undergoes alpha decay?",
+    "options": ["Light nucleus", "Stable nucleus", "Heavy unstable nucleus", "Artificial nucleus"],
+    "correctAnswer": "Heavy unstable nucleus"
+  },
+  {
+    "id": "PHY-148",
+    "question": "Which quantity is equal to energy per unit time?",
+    "options": ["Force", "Momentum", "Power", "Work"],
+    "correctAnswer": "Power"
+  },
+  {
+    "id": "PHY-149",
+    "question": "Which phenomenon proves that light has momentum?",
+    "options": ["Reflection", "Radiation pressure", "Photoelectric effect", "Diffraction"],
+    "correctAnswer": "Radiation pressure"
+  },
+  {
+    "id": "PHY-150",
+    "question": "Which principle explains the working of a hydraulic lift?",
+    "options": ["Bernoulli's principle", "Pascal's law", "Archimedes' principle", "Hooke's law"],
+    "correctAnswer": "Pascal's law"
   }
 ]
-
