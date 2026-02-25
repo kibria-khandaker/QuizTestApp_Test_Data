@@ -3,48 +3,48 @@
     "id": 1,
     "key": "generalScience",
     "title": "General Science",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_generalScience.json"
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_generalScience.json"
   },
   {
     "id": 2,
     "key": "sports",
     "title": "Sports",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_sports.json"
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_sports.json"
   },
   {
     "id": 3,
     "key": "countriesInformation",
     "title": "Countries Information",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_countriesInformation.json"
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_countriesInformation.json"
   },
   {
     "id": 4,
     "key": "computerFundamentals",
     "title": "Computer Fundamentals",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_computerFundamentals.json"
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_computerFundamentals.json"
   },
   {
     "id": 5,
     "key": "geography",
     "title": "Geography",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_geography.json"
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_geography.json"
   },
   {
     "id": 6,
     "key": "programmingCoding",
     "title": "Programming & Coding",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_programmingCoding.json"
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_programmingCoding.json"
   },
   {
     "id": 7,
     "key": "religionCulture",
     "title": "Religion & Culture",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_religionCulture.json"
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_religionCulture.json"
   },
   {
     "id": 8,
     "key": "spaceAstronomy",
     "title": "Space & Astronomy",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/Main_spaceAstronomy.json"
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_spaceAstronomy.json"
   }
 ]

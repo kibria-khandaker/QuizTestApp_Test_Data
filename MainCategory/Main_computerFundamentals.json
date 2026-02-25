@@ -2,45 +2,43 @@
   {
     "key": "cricket",
     "title": "Cricket",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/ComputerAbbreviations.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/ComputerAbbreviations.json",
     "perExam": 10,
     "finalExamQuestions": 25
   },
   {
     "key": "football",
     "title": "Football",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/CyberSecurityBasics.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/CyberSecurityBasics.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
     "key": "worldCups",
     "title": "WorldCups",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/HardwareSoftware.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/HardwareSoftware.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
     "key": "cricket",
     "title": "Cricket",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/InternetNetworking.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/InternetNetworking.json",
     "perExam": 10,
     "finalExamQuestions": 25
   },
   {
     "key": "football",
     "title": "Football",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/MS_Office.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/MS_Office.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
     "key": "worldCups",
     "title": "WorldCups",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/OperatingSystems.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/OperatingSystems.json",
     "perExam": 15,
     "finalExamQuestions": 30
   }
 ]
-
-

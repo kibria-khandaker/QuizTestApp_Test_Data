@@ -2,42 +2,42 @@
   {
     "key": "biology",
     "title": "Biology",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/GeneralScience/Biology.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/GeneralScience/Biology.json",
     "perExam": 5,
     "finalExamQuestions": 7
   },
   {
     "key": "Chemistry",
     "title": "Chemistry",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/GeneralScience/Chemistry.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/GeneralScience/Chemistry.json",
     "perExam": 5,
     "finalExamQuestions": 8
   },
   {
     "key": "EnvironmentalScience",
     "title": "Environmental Science",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/GeneralScience/EnvironmentalScience.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/GeneralScience/EnvironmentalScience.json",
     "perExam": 5,
     "finalExamQuestions": 8
   },
   {
     "key": "HumanBody",
     "title": "Human Body",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/GeneralScience/HumanBody.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/GeneralScience/HumanBody.json",
     "perExam": 5,
     "finalExamQuestions": 7
   },
-    {
+  {
     "key": "physics",
     "title": "Physics",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/GeneralScience/Physics.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/GeneralScience/Physics.json",
     "perExam": 5,
     "finalExamQuestions": 8
   },
   {
     "key": "ScientificDiscoveries",
     "title": "Scientific Discoveries",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/GeneralScience/ScientificDiscoveries.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/GeneralScience/ScientificDiscoveries.json",
     "perExam": 5,
     "finalExamQuestions": 7
   }

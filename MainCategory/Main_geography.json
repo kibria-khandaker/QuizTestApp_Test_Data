@@ -2,21 +2,21 @@
   {
     "key": "awardsAndHonours",
     "title": "awards And Honours",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Geography/ClimateEnvironment.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/Geography/ClimateEnvironment.json",
     "perExam": 10,
     "finalExamQuestions": 25
   },
-    {
+  {
     "key": "MountainsDeserts",
     "title": "Mountains Deserts",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Geography/MountainsDeserts.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/Geography/MountainsDeserts.json",
     "perExam": 10,
     "finalExamQuestions": 25
   },
-    {
+  {
     "key": "RiversOceans",
     "title": "Rivers Oceans",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Geography/RiversOceans.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/Geography/RiversOceans.json",
     "perExam": 10,
     "finalExamQuestions": 25
   }

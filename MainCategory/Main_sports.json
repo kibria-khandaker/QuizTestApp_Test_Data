@@ -2,38 +2,36 @@
   {
     "key": "cricket",
     "title": "Cricket",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Sports/Cricket.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/Sports/Cricket.json",
     "perExam": 10,
     "finalExamQuestions": 25
   },
   {
     "key": "football",
     "title": "Football",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Sports/Football.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/Sports/Football.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
     "key": "OlympicGames",
     "title": "OlympicGames",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Sports/OlympicGames.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/Sports/OlympicGames.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
     "key": "SportsRecords",
     "title": "SportsRecords",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Sports/SportsRecords.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/Sports/SportsRecords.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
     "key": "worldCups",
     "title": "WorldCups",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestApp_Test_Data/refs/heads/main/MainCategory/SubCategory/Sports/WorldCups.json",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/Sports/WorldCups.json",
     "perExam": 15,
     "finalExamQuestions": 30
   }
 ]
-
-
