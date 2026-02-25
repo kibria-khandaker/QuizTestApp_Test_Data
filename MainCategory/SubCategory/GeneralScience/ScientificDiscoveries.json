@@ -1,11 +1,5 @@
 [
-
-  {
-    "id": "SD-117",
-    "question": "Which breakthrough enabled miniaturization of electronic devices?",
-    "options": ["Integrated circuits", "Vacuum tubes", "Resistor networks", "Copper etching"],
-    "correctAnswer": "Integrated circuits"
-  },
+  
   {
     "id": "SD-118",
     "question": "What scientific discovery explained how pressure changes with depth in liquids?",
@@ -28,6 +22,12 @@
     "id": "SD-121",
     "question": "What major discovery enabled autonomous space probes to navigate accurately?",
     "options": ["Star tracking systemsStar tracking systemsStar tracking systemsStar tracking systems", "Radio triangulation", "Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems", "Solar sail controlStar tracking systemsStar tracking systemsStar tracking systems"],
+    "correctAnswer": "Star tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems 123 Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems"
+  },
+  {
+    "id": "SD-122",
+    "question": "What major discovery enabled autonomous space probes to navigate accurately?",
+    "options": ["Star tracking systemsStar tracking systemsStar tracking systemsStar tracking systems", "Radio triangulation Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems", "Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems", "Solar sail controlStar tracking systemsStar tracking systemsStar tracking systems"],
     "correctAnswer": "Star tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems"
   }
 ]
