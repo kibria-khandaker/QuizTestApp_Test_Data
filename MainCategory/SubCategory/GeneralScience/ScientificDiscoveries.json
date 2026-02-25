@@ -1,5 +1,706 @@
 [
-  
+  {
+    "id": "SD-001",
+    "question": "Who discovered penicillin?",
+    "options": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Joseph Lister"],
+    "correctAnswer": "Alexander Fleming"
+  },
+  {
+    "id": "SD-002",
+    "question": "What is the name of the first artificial satellite launched into space?",
+    "options": ["Apollo 11", "Sputnik 1", "Voyager 1", "Explorer 1"],
+    "correctAnswer": "Sputnik 1"
+  },
+  {
+    "id": "SD-003",
+    "question": "Which scientific discovery explained the structure of DNA?",
+    "options": ["Double helix model", "Cell theory", "Quantum theory", "Plate tectonics"],
+    "correctAnswer": "Double helix model"
+  },
+  {
+    "id": "SD-004",
+    "question": "Who proposed the theory of relativity?",
+    "options": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Galileo Galilei"],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "id": "SD-005",
+    "question": "What discovery led to the development of X-ray imaging?",
+    "options": ["Radioactivity", "Infrared radiation", "X-rays", "Ultraviolet rays"],
+    "correctAnswer": "X-rays"
+  },
+  {
+    "id": "SD-006",
+    "question": "Which element was discovered by Marie Curie?",
+    "options": ["Uranium", "Radium", "Thorium", "Plutonium"],
+    "correctAnswer": "Radium"
+  },
+  {
+    "id": "SD-007",
+    "question": "What scientific discovery explains why continents move?",
+    "options": ["Seafloor spreading", "Plate tectonics", "Erosion theory", "Gravity waves"],
+    "correctAnswer": "Plate tectonics"
+  },
+  {
+    "id": "SD-008",
+    "question": "Who discovered the law of gravity?",
+    "options": ["Galileo Galilei", "Johannes Kepler", "Isaac Newton", "Michael Faraday"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "id": "SD-009",
+    "question": "What was the major scientific contribution of Gregor Mendel?",
+    "options": ["Evolution theory", "Genetics laws", "Cell discovery", "DNA sequencing"],
+    "correctAnswer": "Genetics laws"
+  },
+  {
+    "id": "SD-010",
+    "question": "Which discovery led to the understanding of germs causing diseases?",
+    "options": ["Vaccination", "Antibiotics", "Germ theory", "Immunology"],
+    "correctAnswer": "Germ theory"
+  },
+  {
+    "id": "SD-011",
+    "question": "What particle discovery confirmed the Standard Model in 2012?",
+    "options": ["Electron", "Neutrino", "Higgs boson", "Quark"],
+    "correctAnswer": "Higgs boson"
+  },
+  {
+    "id": "SD-012",
+    "question": "Which scientist discovered radioactivity?",
+    "options": ["Marie Curie", "Henri Becquerel", "Ernest Rutherford", "Max Planck"],
+    "correctAnswer": "Henri Becquerel"
+  },
+  {
+    "id": "SD-013",
+    "question": "What invention resulted directly from the discovery of electromagnetic induction?",
+    "options": ["Battery", "Electric motor", "Telegraph", "Light bulb"],
+    "correctAnswer": "Electric motor"
+  },
+  {
+    "id": "SD-014",
+    "question": "Which discovery proved that the Earth revolves around the Sun?",
+    "options": ["Heliocentric theory", "Geocentric model", "Big Bang theory", "Orbital resonance"],
+    "correctAnswer": "Heliocentric theory"
+  },
+  {
+    "id": "SD-015",
+    "question": "What scientific breakthrough made modern computers possible?",
+    "options": ["Vacuum tubes", "Semiconductors", "Television", "Radio waves"],
+    "correctAnswer": "Semiconductors"
+  },
+  {
+    "id": "SD-016",
+    "question": "Who discovered the electron?",
+    "options": ["James Chadwick", "J. J. Thomson", "Erwin Schrödinger", "Paul Dirac"],
+    "correctAnswer": "J. J. Thomson"
+  },
+  {
+    "id": "SD-017",
+    "question": "Which discovery revealed that the universe is expanding?",
+    "options": ["Cosmic background radiation", "Redshift observation", "Dark matter detection", "Gravitational waves"],
+    "correctAnswer": "Redshift observation"
+  },
+  {
+    "id": "SD-018",
+    "question": "What was the key scientific result of the Human Genome Project?",
+    "options": ["Cloning humans", "Mapping all human genes", "Curing cancer", "Creating artificial DNA"],
+    "correctAnswer": "Mapping all human genes"
+  },
+  {
+    "id": "SD-019",
+    "question": "Which discovery led to the concept of vaccines?",
+    "options": ["Antiseptics", "Immunity", "Smallpox inoculation", "Blood transfusion"],
+    "correctAnswer": "Smallpox inoculation"
+  },
+  {
+    "id": "SD-020",
+    "question": "What scientific discovery explains how energy is conserved?",
+    "options": ["Thermodynamics", "Relativity", "Quantum mechanics", "Nuclear fusion"],
+    "correctAnswer": "Thermodynamics"
+  },
+  {
+    "id": "SD-021",
+    "question": "Which scientist discovered the neutron?",
+    "options": ["Enrico Fermi", "James Chadwick", "Niels Bohr", "Max Born"],
+    "correctAnswer": "James Chadwick"
+  },
+  {
+    "id": "SD-022",
+    "question": "What discovery allowed scientists to determine the age of ancient fossils?",
+    "options": ["Carbon dating", "Stratigraphy", "DNA analysis", "Thermoluminescence"],
+    "correctAnswer": "Carbon dating"
+  },
+  {
+    "id": "SD-023",
+    "question": "Which scientific breakthrough led to wireless communication?",
+    "options": ["Sound waves", "Microwaves", "Radio waves", "X-rays"],
+    "correctAnswer": "Radio waves"
+  },
+  {
+    "id": "SD-024",
+    "question": "What discovery explained the cause of tides on Earth?",
+    "options": ["Earth's rotation", "Solar radiation", "Gravitational attraction", "Atmospheric pressure"],
+    "correctAnswer": "Gravitational attraction"
+  },
+  {
+    "id": "SD-025",
+    "question": "Which discovery led to the understanding of nuclear energy?",
+    "options": ["Nuclear fusion", "Atomic fission", "Electrolysis", "Chemical bonding"],
+    "correctAnswer": "Atomic fission"
+  },
+  {
+    "id": "SD-026",
+    "question": "What was the main scientific discovery of Louis Pasteur?",
+    "options": ["Vaccination and pasteurization", "Blood circulation", "Anesthesia", "Antibiotics"],
+    "correctAnswer": "Vaccination and pasteurization"
+  },
+  {
+    "id": "SD-027",
+    "question": "Which discovery confirmed the existence of gravitational waves?",
+    "options": ["Hubble Telescope", "LIGO experiment", "Particle accelerator", "Radio telescope"],
+    "correctAnswer": "LIGO experiment"
+  },
+  {
+    "id": "SD-028",
+    "question": "What scientific theory explains the origin of the universe?",
+    "options": ["Steady State theory", "String theory", "Big Bang theory", "Inflation theory"],
+    "correctAnswer": "Big Bang theory"
+  },
+  {
+    "id": "SD-029",
+    "question": "Which discovery revealed that light behaves as both a particle and a wave?",
+    "options": ["Photoelectric effect", "Refraction", "Reflection", "Diffraction"],
+    "correctAnswer": "Photoelectric effect"
+  },
+  {
+    "id": "SD-030",
+    "question": "What major discovery laid the foundation of modern chemistry?",
+    "options": ["Periodic table", "Alchemy", "Atomic theory", "Chemical equilibrium"],
+    "correctAnswer": "Atomic theory"
+  },
+  {
+    "id": "SD-031",
+    "question": "Which discovery first demonstrated that microorganisms exist beyond human vision?",
+    "options": ["Cell theory", "Microscope observation", "Germ theory", "Spontaneous generation"],
+    "correctAnswer": "Microscope observation"
+  },
+  {
+    "id": "SD-032",
+    "question": "Who is credited with discovering blood circulation in the human body?",
+    "options": ["Andreas Vesalius", "William Harvey", "Hippocrates", "Edward Jenner"],
+    "correctAnswer": "William Harvey"
+  },
+  {
+    "id": "SD-033",
+    "question": "Which scientific discovery enabled the invention of the laser?",
+    "options": ["Quantum mechanics", "Electromagnetic waves", "Thermodynamics", "Relativity"],
+    "correctAnswer": "Quantum mechanics"
+  },
+  {
+    "id": "SD-034",
+    "question": "What discovery revealed that some diseases are caused by vitamin deficiencies?",
+    "options": ["Hormone theory", "Nutritional science", "Enzyme action", "Metabolism theory"],
+    "correctAnswer": "Nutritional science"
+  },
+  {
+    "id": "SD-035",
+    "question": "Which discovery allowed accurate weather forecasting?",
+    "options": ["Satellite imaging", "Barometer", "Thermometer", "Radar technology"],
+    "correctAnswer": "Satellite imaging"
+  },
+  {
+    "id": "SD-036",
+    "question": "What scientific breakthrough explained how enzymes speed up chemical reactions?",
+    "options": ["Activation energy concept", "pH balance theory", "Protein folding", "Osmosis"],
+    "correctAnswer": "Activation energy concept"
+  },
+  {
+    "id": "SD-037",
+    "question": "Which discovery proved that matter is composed of atoms?",
+    "options": ["Molecular biology", "Atomic theory", "Quantum field theory", "Electrochemistry"],
+    "correctAnswer": "Atomic theory"
+  },
+  {
+    "id": "SD-038",
+    "question": "What discovery led to the development of MRI medical imaging?",
+    "options": ["X-ray diffraction", "Nuclear magnetic resonance", "Ultrasound waves", "Gamma radiation"],
+    "correctAnswer": "Nuclear magnetic resonance"
+  },
+  {
+    "id": "SD-039",
+    "question": "Which scientific finding showed that stars produce energy through fusion?",
+    "options": ["Chemical combustion", "Nuclear fusion", "Radioactive decay", "Gravitational collapse"],
+    "correctAnswer": "Nuclear fusion"
+  },
+  {
+    "id": "SD-040",
+    "question": "What discovery established that plants produce oxygen?",
+    "options": ["Respiration theory", "Photosynthesis", "Carbon fixation", "Transpiration"],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "id": "SD-041",
+    "question": "Which breakthrough revealed the existence of dark energy?",
+    "options": ["Galaxy rotation curves", "Accelerating universe observation", "Cosmic dust analysis", "Neutrino oscillation"],
+    "correctAnswer": "Accelerating universe observation"
+  },
+  {
+    "id": "SD-042",
+    "question": "What discovery allowed scientists to visualize individual atoms?",
+    "options": ["Electron microscope", "Scanning tunneling microscope", "Optical telescope", "Spectroscope"],
+    "correctAnswer": "Scanning tunneling microscope"
+  },
+  {
+    "id": "SD-043",
+    "question": "Which scientific discovery explained why metals conduct electricity?",
+    "options": ["Valence bond theory", "Free electron theory", "Crystal field theory", "Covalent bonding"],
+    "correctAnswer": "Free electron theory"
+  },
+  {
+    "id": "SD-044",
+    "question": "What discovery made space navigation using GPS possible?",
+    "options": ["Newtonian mechanics", "General relativity time correction", "Quantum clocks", "Orbital resonance"],
+    "correctAnswer": "General relativity time correction"
+  },
+  {
+    "id": "SD-045",
+    "question": "Which breakthrough revealed the genetic code is universal?",
+    "options": ["Protein synthesis", "Codon mapping", "Chromosome theory", "RNA splicing"],
+    "correctAnswer": "Codon mapping"
+  },
+  {
+    "id": "SD-046",
+    "question": "What scientific discovery allowed clean drinking water in modern cities?",
+    "options": ["Water chlorination", "Desalination", "Filtration membranes", "Reverse osmosis"],
+    "correctAnswer": "Water chlorination"
+  },
+  {
+    "id": "SD-047",
+    "question": "Which discovery explained how memory is stored in the brain?",
+    "options": ["Neuron doctrine", "Synaptic plasticity", "Reflex theory", "Brain localization"],
+    "correctAnswer": "Synaptic plasticity"
+  },
+  {
+    "id": "SD-048",
+    "question": "What discovery showed that viruses are not living cells?",
+    "options": ["Cell culture", "Electron microscopy", "Crystallization of viruses", "DNA sequencing"],
+    "correctAnswer": "Crystallization of viruses"
+  },
+  {
+    "id": "SD-049",
+    "question": "Which scientific advance led to modern climate change studies?",
+    "options": ["Ice core analysis", "Tree ring dating", "Ocean currents mapping", "Atmospheric modeling"],
+    "correctAnswer": "Ice core analysis"
+  },
+  {
+    "id": "SD-050",
+    "question": "What discovery enabled artificial satellites to remain in orbit?",
+    "options": ["Escape velocity", "Centripetal force", "Orbital mechanics", "Solar radiation pressure"],
+    "correctAnswer": "Orbital mechanics"
+  },
+  {
+    "id": "SD-051",
+    "question": "Which breakthrough proved that the brain uses electrical signals?",
+    "options": ["Action potential discovery", "Hormonal signaling", "Chemical synapse theory", "Reflex arc"],
+    "correctAnswer": "Action potential discovery"
+  },
+  {
+    "id": "SD-052",
+    "question": "What scientific discovery made antibiotics other than penicillin possible?",
+    "options": ["Bacterial resistance", "Microbial metabolism", "Selective toxicity", "Synthetic chemistry"],
+    "correctAnswer": "Selective toxicity"
+  },
+  {
+    "id": "SD-053",
+    "question": "Which discovery allowed humans to measure time accurately at atomic scale?",
+    "options": ["Quartz oscillation", "Atomic clock", "Pendulum motion", "Solar time"],
+    "correctAnswer": "Atomic clock"
+  },
+  {
+    "id": "SD-054",
+    "question": "What breakthrough demonstrated that black holes exist?",
+    "options": ["X-ray emissions from binaries", "Optical telescope imaging", "Cosmic background radiation", "Dark matter lensing"],
+    "correctAnswer": "X-ray emissions from binaries"
+  },
+  {
+    "id": "SD-055",
+    "question": "Which discovery explained how vaccines stimulate immunity?",
+    "options": ["Antibody production", "Blood typing", "Cell division", "Hormonal response"],
+    "correctAnswer": "Antibody production"
+  },
+  {
+    "id": "SD-056",
+    "question": "What scientific finding led to the concept of plate boundaries?",
+    "options": ["Earthquake distribution", "Mountain formation", "Volcanic ash layers", "Rock dating"],
+    "correctAnswer": "Earthquake distribution"
+  },
+  {
+    "id": "SD-057",
+    "question": "Which discovery allowed detection of exoplanets?",
+    "options": ["Transit method", "Optical parallax", "Radio astronomy", "Cosmic ray detection"],
+    "correctAnswer": "Transit method"
+  },
+  {
+    "id": "SD-058",
+    "question": "What discovery proved that RNA can act as a catalyst?",
+    "options": ["Ribozymes", "mRNA translation", "Reverse transcription", "RNA splicing"],
+    "correctAnswer": "Ribozymes"
+  },
+  {
+    "id": "SD-059",
+    "question": "Which breakthrough revealed the role of mitochondria in cells?",
+    "options": ["Cell respiration theory", "Endosymbiotic theory", "Organelle staining", "ATP isolation"],
+    "correctAnswer": "Endosymbiotic theory"
+  },
+  {
+    "id": "SD-060",
+    "question": "What major discovery enabled real-time global communication?",
+    "options": ["Fiber optics", "Telegraphy", "Satellite communication", "Copper wiring"],
+    "correctAnswer": "Satellite communication"
+  },
+  {
+    "id": "SD-061",
+    "question": "Which discovery demonstrated that energy and mass are interchangeable?",
+    "options": ["Quantum tunneling", "E = mc²", "Nuclear fusion", "Photoelectric effect"],
+    "correctAnswer": "E = mc²"
+  },
+  {
+    "id": "SD-062",
+    "question": "What scientific discovery made modern air conditioning possible?",
+    "options": ["Gas compression cycle", "Evaporation cooling", "Refrigeration principle", "Thermal insulation"],
+    "correctAnswer": "Refrigeration principle"
+  },
+  {
+    "id": "SD-063",
+    "question": "Which breakthrough showed that Earth has a solid inner core?",
+    "options": ["Magnetic field analysis", "Gravity measurements", "Seismic wave studies", "Volcanic activity mapping"],
+    "correctAnswer": "Seismic wave studies"
+  },
+  {
+    "id": "SD-064",
+    "question": "What discovery revealed that bacteria can exchange genetic material?",
+    "options": ["Binary fission", "Horizontal gene transfer", "Mutation theory", "DNA replication"],
+    "correctAnswer": "Horizontal gene transfer"
+  },
+  {
+    "id": "SD-065",
+    "question": "Which scientific finding explained how soap cleans oily dirt?",
+    "options": ["Surface tension", "Emulsification", "Oxidation", "Corrosion"],
+    "correctAnswer": "Emulsification"
+  },
+  {
+    "id": "SD-066",
+    "question": "What discovery allowed the detection of neutrinos?",
+    "options": ["Cherenkov radiation", "Cloud chambers", "Bubble chambers", "Gamma spectroscopy"],
+    "correctAnswer": "Cherenkov radiation"
+  },
+  {
+    "id": "SD-067",
+    "question": "Which breakthrough proved that the ozone layer absorbs harmful UV radiation?",
+    "options": ["Atmospheric spectroscopy", "Satellite imaging", "Balloon experiments", "Climate modeling"],
+    "correctAnswer": "Atmospheric spectroscopy"
+  },
+  {
+    "id": "SD-068",
+    "question": "What scientific discovery led to the understanding of acid rain?",
+    "options": ["Industrial emissions analysis", "Atmospheric chemistry", "Hydrological cycle", "Soil erosion studies"],
+    "correctAnswer": "Atmospheric chemistry"
+  },
+  {
+    "id": "SD-069",
+    "question": "Which discovery showed that the brain is divided into specialized regions?",
+    "options": ["Phrenology", "Functional localization", "Neuron doctrine", "Reflex theory"],
+    "correctAnswer": "Functional localization"
+  },
+  {
+    "id": "SD-070",
+    "question": "What breakthrough made rechargeable batteries possible?",
+    "options": ["Electrolysis", "Redox reactions", "Ion migration", "Semiconductor theory"],
+    "correctAnswer": "Redox reactions"
+  },
+  {
+    "id": "SD-071",
+    "question": "Which scientific discovery revealed the existence of cosmic microwave background radiation?",
+    "options": ["Radio antenna noise detection", "Infrared sky mapping", "Gamma ray bursts", "X-ray astronomy"],
+    "correctAnswer": "Radio antenna noise detection"
+  },
+  {
+    "id": "SD-072",
+    "question": "What discovery explained why airplanes can fly?",
+    "options": ["Thrust mechanics", "Bernoulli’s principle", "Newton’s third law", "Air compression theory"],
+    "correctAnswer": "Bernoulli’s principle"
+  },
+  {
+    "id": "SD-073",
+    "question": "Which breakthrough confirmed that some particles travel close to light speed?",
+    "options": ["Particle accelerators", "Cloud chamber tracks", "Cosmic ray showers", "Spectral line shifts"],
+    "correctAnswer": "Particle accelerators"
+  },
+  {
+    "id": "SD-074",
+    "question": "What scientific discovery allowed humans to clone animals?",
+    "options": ["Genetic recombination", "Somatic cell nuclear transfer", "Stem cell differentiation", "DNA fingerprinting"],
+    "correctAnswer": "Somatic cell nuclear transfer"
+  },
+  {
+    "id": "SD-075",
+    "question": "Which finding explained how the immune system distinguishes self from non-self?",
+    "options": ["Antigen recognition", "Blood compatibility", "Inflammatory response", "Clotting cascade"],
+    "correctAnswer": "Antigen recognition"
+  },
+  {
+    "id": "SD-076",
+    "question": "What discovery showed that time passes differently at high speeds?",
+    "options": ["Special relativity", "General relativity", "Quantum time dilation", "Atomic decay"],
+    "correctAnswer": "Special relativity"
+  },
+  {
+    "id": "SD-077",
+    "question": "Which scientific advance led to touch screen technology?",
+    "options": ["Capacitive sensing", "Liquid crystals", "Piezoelectric effect", "Optical fibers"],
+    "correctAnswer": "Capacitive sensing"
+  },
+  {
+    "id": "SD-078",
+    "question": "What discovery explained why the sky appears blue?",
+    "options": ["Light refraction", "Rayleigh scattering", "Reflection from oceans", "Atmospheric absorption"],
+    "correctAnswer": "Rayleigh scattering"
+  },
+  {
+    "id": "SD-079",
+    "question": "Which breakthrough proved that continents were once connected?",
+    "options": ["Fossil correlation", "Magnetic reversal patterns", "Radiometric dating", "Ocean trench mapping"],
+    "correctAnswer": "Fossil correlation"
+  },
+  {
+    "id": "SD-080",
+    "question": "What scientific discovery made contact lenses possible?",
+    "options": ["Optical refraction laws", "Polymer chemistry", "Laser shaping", "Corneal mapping"],
+    "correctAnswer": "Polymer chemistry"
+  },
+  {
+    "id": "SD-081",
+    "question": "Which finding revealed that bacteria can survive extreme environments?",
+    "options": ["Extremophile discovery", "Spore formation", "Antibiotic resistance", "Biofilm formation"],
+    "correctAnswer": "Extremophile discovery"
+  },
+  {
+    "id": "SD-082",
+    "question": "What discovery enabled voice transmission over long distances?",
+    "options": ["Electromagnetic induction", "Signal amplification", "Sound wave modulation", "Electrical conductivity"],
+    "correctAnswer": "Sound wave modulation"
+  },
+  {
+    "id": "SD-083",
+    "question": "Which scientific breakthrough revealed that DNA can repair itself?",
+    "options": ["DNA proofreading", "Mismatch repair mechanisms", "Gene duplication", "RNA interference"],
+    "correctAnswer": "Mismatch repair mechanisms"
+  },
+  {
+    "id": "SD-084",
+    "question": "What discovery allowed accurate prediction of eclipses?",
+    "options": ["Orbital resonance", "Celestial mechanics", "Astrology charts", "Solar observation"],
+    "correctAnswer": "Celestial mechanics"
+  },
+  {
+    "id": "SD-085",
+    "question": "Which finding showed that plants respond to light direction?",
+    "options": ["Phototropism", "Photosynthesis", "Photoperiodism", "Transpiration pull"],
+    "correctAnswer": "Phototropism"
+  },
+  {
+    "id": "SD-086",
+    "question": "What scientific discovery enabled non-stick cookware?",
+    "options": ["Fluoropolymer chemistry", "Metal alloying", "Surface polishing", "Heat resistance coating"],
+    "correctAnswer": "Fluoropolymer chemistry"
+  },
+  {
+    "id": "SD-087",
+    "question": "Which breakthrough explained how earthquakes originate?",
+    "options": ["Elastic rebound theory", "Mantle convection", "Rock erosion", "Crustal cooling"],
+    "correctAnswer": "Elastic rebound theory"
+  },
+  {
+    "id": "SD-088",
+    "question": "What discovery revealed that cells can undergo programmed death?",
+    "options": ["Necrosis", "Apoptosis", "Autophagy", "Cell lysis"],
+    "correctAnswer": "Apoptosis"
+  },
+  {
+    "id": "SD-089",
+    "question": "Which scientific advance allowed mapping of the human brain in detail?",
+    "options": ["CT scanning", "Functional MRI", "Electroencephalography", "X-ray imaging"],
+    "correctAnswer": "Functional MRI"
+  },
+  {
+    "id": "SD-090",
+    "question": "What major discovery enabled secure digital communication?",
+    "options": ["Binary coding", "Cryptography algorithms", "Optical signaling", "Satellite relay"],
+    "correctAnswer": "Cryptography algorithms"
+  },
+  {
+    "id": "SD-091",
+    "question": "Which discovery explained why metals expand when heated?",
+    "options": ["Thermal expansion", "Phase transition", "Elastic deformation", "Heat conduction"],
+    "correctAnswer": "Thermal expansion"
+  },
+  {
+    "id": "SD-092",
+    "question": "What scientific breakthrough made blood transfusions safer?",
+    "options": ["Plasma separation", "Blood typing", "Antibiotic use", "Sterilization"],
+    "correctAnswer": "Blood typing"
+  },
+  {
+    "id": "SD-093",
+    "question": "Which discovery revealed that Earth’s magnetic field can reverse polarity?",
+    "options": ["Magnetic declination", "Paleomagnetism", "Electromagnetic induction", "Solar wind analysis"],
+    "correctAnswer": "Paleomagnetism"
+  },
+  {
+    "id": "SD-094",
+    "question": "What scientific finding enabled the development of holograms?",
+    "options": ["Laser coherence", "Wave interference", "Photoelectric effect", "Fiber optics"],
+    "correctAnswer": "Wave interference"
+  },
+  {
+    "id": "SD-095",
+    "question": "Which discovery demonstrated that some materials have zero electrical resistance?",
+    "options": ["Superconductivity", "Semiconductivity", "Magnetoresistance", "Piezoelectricity"],
+    "correctAnswer": "Superconductivity"
+  },
+  {
+    "id": "SD-096",
+    "question": "What breakthrough revealed that enzymes are highly specific to substrates?",
+    "options": ["Lock-and-key model", "Induced fit theory", "Competitive inhibition", "Allosteric regulation"],
+    "correctAnswer": "Lock-and-key model"
+  },
+  {
+    "id": "SD-097",
+    "question": "Which scientific discovery allowed precise navigation at sea?",
+    "options": ["Magnetic compass", "Chronometer", "Star charts", "Astrolabe"],
+    "correctAnswer": "Chronometer"
+  },
+  {
+    "id": "SD-098",
+    "question": "What discovery showed that sound requires a medium to travel?",
+    "options": ["Vacuum experiments", "Wave theory", "Resonance", "Echo analysis"],
+    "correctAnswer": "Vacuum experiments"
+  },
+  {
+    "id": "SD-099",
+    "question": "Which finding explained why ice floats on water?",
+    "options": ["Lower density of solid water", "Surface tension", "Hydrogen bonding", "Thermal conductivity"],
+    "correctAnswer": "Lower density of solid water"
+  },
+  {
+    "id": "SD-100",
+    "question": "What scientific discovery enabled night-vision technology?",
+    "options": ["Infrared radiation", "Ultraviolet fluorescence", "X-ray imaging", "Laser amplification"],
+    "correctAnswer": "Infrared radiation"
+  },
+  {
+    "id": "SD-101",
+    "question": "Which breakthrough revealed that the universe contains invisible mass?",
+    "options": ["Dark matter inference", "Cosmic dust mapping", "Stellar parallax", "Galaxy classification"],
+    "correctAnswer": "Dark matter inference"
+  },
+  {
+    "id": "SD-102",
+    "question": "What discovery allowed scientists to trace evolutionary relationships using DNA?",
+    "options": ["Genetic sequencing", "Protein synthesis", "Mutation rate analysis", "Chromosome mapping"],
+    "correctAnswer": "Genetic sequencing"
+  },
+  {
+    "id": "SD-103",
+    "question": "Which scientific finding explained how sound pitch is determined?",
+    "options": ["Wave frequency", "Wave amplitude", "Echo delay", "Medium density"],
+    "correctAnswer": "Wave frequency"
+  },
+  {
+    "id": "SD-104",
+    "question": "What discovery made modern prosthetic limbs more functional?",
+    "options": ["Biomechanics", "Neural interfaces", "Polymer molding", "Robotic automation"],
+    "correctAnswer": "Neural interfaces"
+  },
+  {
+    "id": "SD-105",
+    "question": "Which breakthrough demonstrated that Earth’s atmosphere has distinct layers?",
+    "options": ["Weather balloon measurements", "Satellite orbits", "Cloud observations", "Radar reflection"],
+    "correctAnswer": "Weather balloon measurements"
+  },
+  {
+    "id": "SD-106",
+    "question": "What scientific discovery explained why metals rust?",
+    "options": ["Oxidation", "Electroplating", "Corrosion inhibition", "Ion exchange"],
+    "correctAnswer": "Oxidation"
+  },
+  {
+    "id": "SD-107",
+    "question": "Which finding revealed that plants communicate using chemical signals?",
+    "options": ["Phytohormones", "Root pressure", "Mineral absorption", "Stomatal movement"],
+    "correctAnswer": "Phytohormones"
+  },
+  {
+    "id": "SD-108",
+    "question": "What discovery enabled the development of smart materials?",
+    "options": ["Shape memory effect", "Elastic modulus", "Thermal insulation", "Composite layering"],
+    "correctAnswer": "Shape memory effect"
+  },
+  {
+    "id": "SD-109",
+    "question": "Which scientific breakthrough explained how fossils are preserved?",
+    "options": ["Mineral replacement", "Sediment compaction", "Radiometric decay", "Carbon compression"],
+    "correctAnswer": "Mineral replacement"
+  },
+  {
+    "id": "SD-110",
+    "question": "What discovery showed that electricity and magnetism are linked?",
+    "options": ["Electromagnetism", "Static charge", "Ohm’s law", "Capacitance"],
+    "correctAnswer": "Electromagnetism"
+  },
+  {
+    "id": "SD-111",
+    "question": "Which finding revealed that the brain consumes a large amount of energy?",
+    "options": ["Glucose metabolism studies", "Blood flow imaging", "Neuron counting", "Oxygen diffusion models"],
+    "correctAnswer": "Glucose metabolism studies"
+  },
+  {
+    "id": "SD-112",
+    "question": "What scientific discovery enabled desalination of seawater?",
+    "options": ["Reverse osmosis", "Electrolysis", "Distillation curves", "Ion exchange resins"],
+    "correctAnswer": "Reverse osmosis"
+  },
+  {
+    "id": "SD-113",
+    "question": "Which breakthrough showed that lightning is electrical in nature?",
+    "options": ["Kite experiment", "Static discharge tests", "Magnetic field mapping", "Atmospheric pressure studies"],
+    "correctAnswer": "Kite experiment"
+  },
+  {
+    "id": "SD-114",
+    "question": "What discovery allowed accurate measurement of very small distances?",
+    "options": ["Interferometry", "Micrometry", "Laser ranging", "Electron diffraction"],
+    "correctAnswer": "Interferometry"
+  },
+  {
+    "id": "SD-115",
+    "question": "Which scientific finding explained how smell works?",
+    "options": ["Olfactory receptors", "Nerve impulse speed", "Airflow dynamics", "Chemical diffusion"],
+    "correctAnswer": "Olfactory receptors"
+  },
+  {
+    "id": "SD-116",
+    "question": "What discovery revealed that some stars explode at the end of their life cycle?",
+    "options": ["Supernova observation", "Red giant theory", "Stellar parallax", "Nebula imaging"],
+    "correctAnswer": "Supernova observation"
+  },
+  {
+    "id": "SD-117",
+    "question": "Which breakthrough enabled miniaturization of electronic devices?",
+    "options": ["Integrated circuits", "Vacuum tubes", "Resistor networks", "Copper etching"],
+    "correctAnswer": "Integrated circuits"
+  },
   {
     "id": "SD-118",
     "question": "What scientific discovery explained how pressure changes with depth in liquids?",
@@ -17,17 +718,5 @@
     "question": "What major discovery enabled autonomous space probes to navigate accurately?",
     "options": ["Star tracking systems", "Radio triangulation", "Gyroscopic stabilization", "Solar sail control"],
     "correctAnswer": "Star tracking systems"
-  },
-  {
-    "id": "SD-121",
-    "question": "What major discovery enabled autonomous space probes to navigate accurately?",
-    "options": ["1Star tracking systemsStar tracking systemsStar tracking systemsStar tracking systems-1", "2Radio triangulation", "3Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems", "4Solar sail controlStar tracking systemsStar tracking systemsStar tracking systems"],
-    "correctAnswer": "Star tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems 123 Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems"
-  },
-  {
-    "id": "SD-122",
-    "question": "What major discovery enabled autonomous space probes to navigate accurately?",
-    "options": ["6-Star tracking systemsStar tracking systemsStar tracking systemsStar tracking systems--6", "7--Radio triangulation Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems--7", "8--Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsGyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems--8", "9-00-Solar sail controlStar tracking systemsStar tracking systemsStar tracking systems Solar sail controlStar tracking systemsStar tracking systemsStar tracking systemsSolar sail controlStar tracking systemsStar tracking systemsStar tracking systemsSolar sail controlStar tracking systemsStar tracking systemsStar tracking systems-000--9"],
-    "correctAnswer": "9-00-Solar sail controlStar tracking systemsStar tracking systemsStar tracking systems Solar sail controlStar tracking systemsStar tracking systemsStar tracking systemsSolar sail controlStar tracking systemsStar tracking systemsStar tracking systemsSolar sail controlStar tracking systemsStar tracking systemsStar tracking systems-000--9"
   }
 ]
