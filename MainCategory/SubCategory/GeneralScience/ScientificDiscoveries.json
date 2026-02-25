@@ -718,5 +718,11 @@
     "question": "What major discovery enabled autonomous space probes to navigate accurately?",
     "options": ["Star tracking systems", "Radio triangulation", "Gyroscopic stabilization", "Solar sail control"],
     "correctAnswer": "Star tracking systems"
+  },
+  {
+    "id": "SD-121",
+    "question": "What major discovery enabled autonomous space probes to navigate accurately?",
+    "options": ["Star tracking systemsStar tracking systemsStar tracking systemsStar tracking systems", "Radio triangulation", "Gyroscopic stabilizationStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems", "Solar sail controlStar tracking systemsStar tracking systemsStar tracking systems"],
+    "correctAnswer": "Star tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systemsStar tracking systems"
   }
 ]
