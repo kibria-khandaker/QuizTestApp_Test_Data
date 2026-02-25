@@ -3,42 +3,42 @@
     "key": "BasicMathematics",
     "title": "BasicMathematics",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/MathLogicalReasoning/BasicMathematics.json",
-    "perExam": 10,
-    "finalExamQuestions": 25
+    "perExam": 15,
+    "finalExamQuestions": 30
   },
   {
     "key": "IQ_Questions",
     "title": "IQ_Questions",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/MathLogicalReasoning/IQ_Questions.json",
-    "perExam": 10,
-    "finalExamQuestions": 25
+    "perExam": 15,
+    "finalExamQuestions": 30
   },
   {
     "key": "LogicalReasoning",
     "title": "LogicalReasoning",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/MathLogicalReasoning/LogicalReasoning.json",
-    "perExam": 10,
-    "finalExamQuestions": 25
+    "perExam": 15,
+    "finalExamQuestions": 30
   },
   {
     "key": "NumberSeries",
     "title": "NumberSeries",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/MathLogicalReasoning/NumberSeries.json",
-    "perExam": 10,
-    "finalExamQuestions": 25
+    "perExam": 15,
+    "finalExamQuestions": 30
   },
   {
     "key": "PercentageRatio",
     "title": "PercentageRatio",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/MathLogicalReasoning/PercentageRatio.json",
-    "perExam": 10,
-    "finalExamQuestions": 25
+    "perExam": 15,
+    "finalExamQuestions": 30
   },
   {
     "key": "TimeWork",
     "title": "TimeWork",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/MathLogicalReasoning/TimeWork.json",
-    "perExam": 10,
-    "finalExamQuestions": 25
+    "perExam": 15,
+    "finalExamQuestions": 30
   }
 ]
