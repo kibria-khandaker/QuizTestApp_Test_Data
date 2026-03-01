@@ -1,35 +1,35 @@
 [
   {
     "key": "awardsAndHonours",
-    "title": "awards And Honours",
+    "title": "Awards & Honours",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/GeneralKnowledge/awardsAndHonours.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
     "key": "famousPersonalities",
-    "title": "famous Personalities",
+    "title": "Famous Personalities",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/GeneralKnowledge/famousPersonalities.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
     "key": "importantFacts",
-    "title": "important Facts",
+    "title": "Important Facts",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/GeneralKnowledge/importantFacts.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
     "key": "internationalOrganizations",
-    "title": "international Organizations",
+    "title": "International Organizations",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/GeneralKnowledge/internationalOrganizations.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
     "key": "worldRecords",
-    "title": "world Records",
+    "title": "World Records",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/GeneralKnowledge/worldRecords.json",
     "perExam": 15,
     "finalExamQuestions": 30
